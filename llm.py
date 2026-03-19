@@ -1,0 +1,142 @@
+"""
+LLM abstraction layer — supports both OpenAI and Anthropic.
+
+Provides a unified interface for chat completions with
+streaming support and conversation history management.
+"""
+
+import logging
+from typing import Any
+
+from config import config
+
+logger = logging.getLogger(__name__)
+
+# System prompt for the Eye on AI chatbot
+SYSTEM_PROMPT = """You are an expert assistant for the "Eye on AI" podcast, \
+hosted by Craig S. Smith. This podcast features in-depth conversations with \
+leading AI researchers, engineers, and thought leaders about the latest \
+developments in artificial intelligence, machine learning, and their real-world \
+applications.
+
+You answer questions by drawing on the podcast transcript excerpts provided as \
+context. When answering:
+
+1. Be accurate and specific — cite the episode or guest when the context allows.
+2. Synthesize information across multiple episodes when relevant.
+3. If the provided context doesn't contain enough information to answer the \
+question fully, say so honestly rather than making things up.
+4. Explain technical concepts clearly — the audience ranges from AI professionals \
+to curious enthusiasts.
+5. When quoting or closely paraphrasing, indicate which episode the information \
+comes from.
+6. Keep answers conversational but informative, matching the podcast's style.
+
+You have access to transcript excerpts from 300+ episodes covering topics like \
+transformers, LLMs, computer vision, robotics, AI safety, reinforcement learning, \
+and much more."""
+
+
+def _build_messages(
+    question: str,
+    context_chunks: list[str],
+    chunk_metadatas: list[dict[str, Any]],
+    conversation_history: list[dict[str, str]] | None = None,
+) -> list[dict[str, str]]:
+    """Build the message list for the LLM, including context and history."""
+    # Format context chunks with source info
+    context_parts = []
+    for i, (chunk, meta) in enumerate(zip(context_chunks, chunk_metadatas), 1):
+        episode = meta.get("episode_title", meta.get("doc_name", "Unknown episode"))
+        date = meta.get("episode_date", "")
+        header = f"[Source {i}: {episode}"
+        if date:
+            header += f" ({date})"
+        header += "]"
+        context_parts.append(f"{header}\n{chunk}")
+
+    context_block = "\n\n---\n\n".join(context_parts)
+
+    messages: list[dict[str, str]] = []
+
+    # Add conversation history (if any)
+    if conversation_history:
+        for msg in conversation_history[-10:]:  # Keep last 10 turns
+            messages.append(msg)
+
+    # Add the current question with context
+    user_message = (
+        f"Here are relevant transcript excerpts from the Eye on AI podcast:\n\n"
+        f"{context_block}\n\n"
+        f"---\n\n"
+        f"Based on the above context, please answer this question:\n{question}"
+    )
+    messages.append({"role": "user", "content": user_message})
+
+    return messages
+
+
+def chat_openai(
+    question: str,
+    context_chunks: list[str],
+    chunk_metadatas: list[dict[str, Any]],
+    conversation_history: list[dict[str, str]] | None = None,
+) -> str:
+    """Generate a response using OpenAI."""
+    from openai import OpenAI
+
+    client = OpenAI(api_key=config.OPENAI_API_KEY)
+    messages = _build_messages(question, context_chunks, chunk_metadatas, conversation_history)
+
+    response = client.chat.completions.create(
+        model=config.LLM_MODEL,
+        messages=[{"role": "system", "content": SYSTEM_PROMPT}] + messages,
+        temperature=0.3,
+        max_tokens=2048,
+    )
+
+    return response.choices[0].message.content or ""
+
+
+def chat_anthropic(
+    question: str,
+    context_chunks: list[str],
+    chunk_metadatas: list[dict[str, Any]],
+    conversation_history: list[dict[str, str]] | None = None,
+) -> str:
+    """Generate a response using Anthropic."""
+    from anthropic import Anthropic
+
+    client = Anthropic(api_key=config.ANTHROPIC_API_KEY)
+    messages = _build_messages(question, context_chunks, chunk_metadatas, conversation_history)
+
+    response = client.messages.create(
+        model=config.LLM_MODEL,
+        system=SYSTEM_PROMPT,
+        messages=messages,
+        temperature=0.3,
+        max_tokens=2048,
+    )
+
+    return response.content[0].text
+
+
+def generate_response(
+    question: str,
+    context_chunks: list[str],
+    chunk_metadatas: list[dict[str, Any]],
+    conversation_history: list[dict[str, str]] | None = None,
+) -> str:
+    """
+    Generate a chat response using the configured LLM provider.
+
+    Dispatches to OpenAI or Anthropic based on config.LLM_PROVIDER.
+    """
+    provider = config.LLM_PROVIDER.lower()
+
+    if provider == "openai":
+        return chat_openai(question, context_chunks, chunk_metadatas, conversation_history)
+    elif provider == "anthropic":
+        return chat_anthropic(question, context_chunks, chunk_metadatas, conversation_history)
+    else:
+        raise ValueError(f"Unsupported LLM provider: {provider}. Use 'openai' or 'anthropic'.")
