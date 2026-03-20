@@ -166,7 +166,7 @@ def hybrid_search(
     query_embedding: list[float],
     query_text: str,
     top_k: int | None = None,
-    distance_threshold: float = 1.2,
+    distance_threshold: float = 0.55,
 ) -> dict[str, Any]:
     """
     Hybrid search: semantic first, keyword fallback.
@@ -220,7 +220,9 @@ def hybrid_search(
     keywords_to_try: list[str] = []
     if quoted:
         keywords_to_try.extend(quoted)
-    if needs_keyword and specific_terms:
+    # Always keyword-search for specific terms — semantic search often
+    # misses proper nouns, project names, and jargon
+    if specific_terms:
         # Try the full specific phrase first, then individual terms
         keywords_to_try.append(" ".join(specific_terms))
         if len(specific_terms) > 1:
