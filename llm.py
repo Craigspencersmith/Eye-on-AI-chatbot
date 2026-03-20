@@ -31,6 +31,10 @@ to curious enthusiasts.
 5. When quoting or closely paraphrasing, indicate which episode the information \
 comes from.
 6. Keep answers conversational but informative, matching the podcast's style.
+7. When an EPISODE INDEX is provided, use it to answer factual questions about \
+how many times a guest has appeared, which episodes cover a topic, or to list \
+episodes. The episode index is authoritative for episode metadata (guest names, \
+episode numbers, dates). Transcript excerpts are authoritative for content.
 
 You have access to transcript excerpts from 300+ episodes covering topics like \
 transformers, LLMs, computer vision, robotics, AI safety, reinforcement learning, \
@@ -42,6 +46,7 @@ def _build_messages(
     context_chunks: list[str],
     chunk_metadatas: list[dict[str, Any]],
     conversation_history: list[dict[str, str]] | None = None,
+    episode_index_context: str | None = None,
 ) -> list[dict[str, str]]:
     """Build the message list for the LLM, including context and history."""
     # Format context chunks with source info
@@ -49,7 +54,10 @@ def _build_messages(
     for i, (chunk, meta) in enumerate(zip(context_chunks, chunk_metadatas), 1):
         episode = meta.get("episode_title", meta.get("doc_name", "Unknown episode"))
         date = meta.get("episode_date", "")
+        guest = meta.get("guest_name", "")
         header = f"[Source {i}: {episode}"
+        if guest:
+            header += f" — Guest: {guest}"
         if date:
             header += f" ({date})"
         header += "]"
@@ -64,13 +72,27 @@ def _build_messages(
         for msg in conversation_history[-10:]:  # Keep last 10 turns
             messages.append(msg)
 
-    # Add the current question with context
-    user_message = (
-        f"Here are relevant transcript excerpts from the Eye on AI podcast:\n\n"
-        f"{context_block}\n\n"
-        f"---\n\n"
-        f"Based on the above context, please answer this question:\n{question}"
+    # Build the user message with context
+    parts: list[str] = []
+
+    # Include episode index if available (for factual queries)
+    if episode_index_context:
+        parts.append(
+            "Here is the EPISODE INDEX for the Eye on AI podcast "
+            "(use this to answer factual questions about episodes, guests, "
+            "and appearances):\n\n"
+            f"{episode_index_context}"
+        )
+        parts.append("---")
+
+    parts.append(
+        "Here are relevant transcript excerpts from the Eye on AI podcast:\n\n"
+        f"{context_block}"
     )
+    parts.append("---")
+    parts.append(f"Based on the above context, please answer this question:\n{question}")
+
+    user_message = "\n\n".join(parts)
     messages.append({"role": "user", "content": user_message})
 
     return messages
@@ -81,12 +103,16 @@ def chat_openai(
     context_chunks: list[str],
     chunk_metadatas: list[dict[str, Any]],
     conversation_history: list[dict[str, str]] | None = None,
+    episode_index_context: str | None = None,
 ) -> str:
     """Generate a response using OpenAI."""
     from openai import OpenAI
 
     client = OpenAI(api_key=config.OPENAI_API_KEY)
-    messages = _build_messages(question, context_chunks, chunk_metadatas, conversation_history)
+    messages = _build_messages(
+        question, context_chunks, chunk_metadatas,
+        conversation_history, episode_index_context,
+    )
 
     response = client.chat.completions.create(
         model=config.LLM_MODEL,
@@ -103,12 +129,16 @@ def chat_anthropic(
     context_chunks: list[str],
     chunk_metadatas: list[dict[str, Any]],
     conversation_history: list[dict[str, str]] | None = None,
+    episode_index_context: str | None = None,
 ) -> str:
     """Generate a response using Anthropic."""
     from anthropic import Anthropic
 
     client = Anthropic(api_key=config.ANTHROPIC_API_KEY)
-    messages = _build_messages(question, context_chunks, chunk_metadatas, conversation_history)
+    messages = _build_messages(
+        question, context_chunks, chunk_metadatas,
+        conversation_history, episode_index_context,
+    )
 
     response = client.messages.create(
         model=config.LLM_MODEL,
@@ -126,6 +156,7 @@ def generate_response(
     context_chunks: list[str],
     chunk_metadatas: list[dict[str, Any]],
     conversation_history: list[dict[str, str]] | None = None,
+    episode_index_context: str | None = None,
 ) -> str:
     """
     Generate a chat response using the configured LLM provider.
@@ -135,8 +166,14 @@ def generate_response(
     provider = config.LLM_PROVIDER.lower()
 
     if provider == "openai":
-        return chat_openai(question, context_chunks, chunk_metadatas, conversation_history)
+        return chat_openai(
+            question, context_chunks, chunk_metadatas,
+            conversation_history, episode_index_context,
+        )
     elif provider == "anthropic":
-        return chat_anthropic(question, context_chunks, chunk_metadatas, conversation_history)
+        return chat_anthropic(
+            question, context_chunks, chunk_metadatas,
+            conversation_history, episode_index_context,
+        )
     else:
         raise ValueError(f"Unsupported LLM provider: {provider}. Use 'openai' or 'anthropic'.")

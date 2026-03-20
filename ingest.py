@@ -53,23 +53,83 @@ def _make_chunk_id(doc_id: str, chunk_index: int) -> str:
 
 def _extract_episode_metadata(doc_name: str) -> dict[str, str]:
     """
-    Try to extract episode title and date from the document name.
-    Common patterns: "Episode 123 - Topic Name (2024-01-15)"
-    Falls back to using the full name as the title.
+    Extract episode title, date, guest name(s), episode number, and topic
+    from the document name.
+
+    Common patterns seen in podcast transcripts:
+        "Episode 123 - Guest Name on Topic"
+        "Ep 123: Guest Name discusses Topic"
+        "Guest Name - Topic (2024-01-15)"
+        "Guest Name on Topic"
+        "#123 Guest Name"
     """
     import re
 
     metadata: dict[str, str] = {"episode_title": doc_name}
 
+    # Clean up the name for processing
+    clean = doc_name.strip()
+
     # Try to extract a date in various formats
-    date_match = re.search(r"(\d{4}[-/]\d{1,2}[-/]\d{1,2})", doc_name)
+    date_match = re.search(r"(\d{4}[-/]\d{1,2}[-/]\d{1,2})", clean)
     if date_match:
         metadata["episode_date"] = date_match.group(1)
+        # Remove date from clean string for further parsing
+        clean = clean[:date_match.start()] + clean[date_match.end():]
+        clean = re.sub(r"[()]", "", clean).strip()
 
     # Try to extract episode number
-    ep_match = re.search(r"(?:ep(?:isode)?|#)\s*(\d+)", doc_name, re.IGNORECASE)
+    ep_match = re.search(r"(?:ep(?:isode)?|#)\s*(\d+)", clean, re.IGNORECASE)
     if ep_match:
         metadata["episode_number"] = ep_match.group(1)
+        # Remove episode prefix from clean string
+        clean = clean[:ep_match.start()] + clean[ep_match.end():]
+        clean = re.sub(r"^[\s\-:]+", "", clean).strip()
+
+    # Try to extract guest name and topic
+    # Pattern: "Guest Name on Topic" or "Guest Name - Topic"
+    # or "Guest Name discusses Topic" or "Guest Name: Topic"
+    separators = [
+        (r"\s+on\s+", "on"),
+        (r"\s+discusses?\s+", "discusses"),
+        (r"\s+talks?\s+about\s+", "talks about"),
+        (r"\s*[-–—]\s*", "-"),
+        (r"\s*:\s*", ":"),
+    ]
+
+    guest_name = ""
+    topic = ""
+
+    for sep_pattern, _ in separators:
+        parts = re.split(sep_pattern, clean, maxsplit=1)
+        if len(parts) == 2:
+            candidate_guest = parts[0].strip()
+            candidate_topic = parts[1].strip()
+            # A guest name should be 2-60 chars and look like a name
+            # (not all numbers, not too short)
+            if (2 < len(candidate_guest) < 60
+                    and not candidate_guest.isdigit()
+                    and len(candidate_guest.split()) <= 6):
+                guest_name = candidate_guest
+                topic = candidate_topic
+                break
+
+    # If no separator worked, the whole clean string might be a guest name
+    if not guest_name and clean and not clean.isdigit():
+        # Check if it looks like a person's name (2-5 words, reasonable length)
+        words = clean.split()
+        if 2 <= len(words) <= 5 and len(clean) < 60:
+            guest_name = clean
+
+    if guest_name:
+        # Clean up common prefixes/suffixes
+        guest_name = re.sub(r"^(with|featuring|feat\.?|ft\.?)\s+", "", guest_name, flags=re.IGNORECASE).strip()
+        metadata["guest_name"] = guest_name
+
+    if topic:
+        # Remove trailing punctuation
+        topic = topic.strip(" .,;:")
+        metadata["episode_topic"] = topic
 
     return metadata
 
@@ -184,12 +244,17 @@ def run_ingestion(full: bool = False) -> dict[str, Any]:
             stats["docs_ingested"] += 1
             stats["total_chunks"] += num_chunks
 
-            # Update state
+            # Update state (include extracted metadata for episode index)
+            ep_meta = _extract_episode_metadata(doc["name"])
             state["docs"][doc_id] = {
                 "name": doc["name"],
                 "modifiedTime": modified_time,
                 "chunks": num_chunks,
                 "ingested_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+                "guest_name": ep_meta.get("guest_name", ""),
+                "episode_number": ep_meta.get("episode_number", ""),
+                "episode_date": ep_meta.get("episode_date", ""),
+                "episode_topic": ep_meta.get("episode_topic", ""),
             }
             save_state(state)
 
@@ -204,6 +269,15 @@ def run_ingestion(full: bool = False) -> dict[str, Any]:
         stats["errors"],
         stats["total_chunks"],
     )
+
+    # Regenerate the episode index after ingestion
+    try:
+        from episode_index import build_episode_index
+        build_episode_index()
+        logger.info("Episode index regenerated successfully")
+    except Exception as e:
+        logger.error("Failed to regenerate episode index: %s", e, exc_info=True)
+
     return stats
 
 

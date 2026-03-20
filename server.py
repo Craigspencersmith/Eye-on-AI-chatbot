@@ -5,15 +5,18 @@ Endpoints:
     GET  /health        — Health check
     POST /chat          — Chat with the podcast knowledge base
     GET  /stats         — Collection statistics
+    GET  /search        — Search episodes by guest, number, or keyword
+    GET  /episodes      — List all episodes
     GET  /              — Serves the frontend
 """
 
 import logging
+import re
 import uuid
 from pathlib import Path
 from typing import Any
 
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
@@ -24,6 +27,11 @@ from config import config
 from embeddings import get_query_embedding
 from vector_store import get_chroma_client, get_collection, query_chunks
 from llm import generate_response
+from episode_index import (
+    load_episode_index,
+    search_episodes,
+    format_episode_index_for_context,
+)
 
 # ---------------------------------------------------------------------------
 # Logging
@@ -40,7 +48,7 @@ logger = logging.getLogger(__name__)
 app = FastAPI(
     title="Eye on AI Chatbot",
     description="RAG chatbot for the Eye on AI podcast transcripts",
-    version="1.0.0",
+    version="2.0.0",
 )
 
 # CORS — allow embedding from any origin (configurable)
@@ -58,19 +66,24 @@ app.add_middleware(
 _conversations: dict[str, list[dict[str, str]]] = {}
 
 # ---------------------------------------------------------------------------
-# ChromaDB — initialize once at startup
+# ChromaDB + Episode Index — initialize once at startup
 # ---------------------------------------------------------------------------
 _chroma_client = None
 _collection = None
+_episode_index: list[dict[str, Any]] = []
 
 
 @app.on_event("startup")
 def startup_event() -> None:
-    global _chroma_client, _collection
+    global _chroma_client, _collection, _episode_index
     _chroma_client = get_chroma_client()
     _collection = get_collection(_chroma_client)
     count = _collection.count()
     logger.info("ChromaDB collection loaded with %d chunks", count)
+
+    # Load episode index
+    _episode_index = load_episode_index()
+    logger.info("Episode index loaded with %d episodes", len(_episode_index))
 
 
 # ---------------------------------------------------------------------------
@@ -96,14 +109,71 @@ class ChatResponse(BaseModel):
 class HealthResponse(BaseModel):
     status: str
     collection_count: int
+    episode_count: int
     llm_provider: str
     llm_model: str
 
 
 class StatsResponse(BaseModel):
     collection_count: int
+    episode_count: int
     llm_provider: str
     llm_model: str
+
+
+class EpisodeItem(BaseModel):
+    doc_id: str
+    title: str
+    guest_name: str
+    episode_number: str
+    episode_date: str
+    episode_topic: str
+
+
+class SearchResponse(BaseModel):
+    results: list[EpisodeItem]
+    total: int
+
+
+# ---------------------------------------------------------------------------
+# Factual query detection
+# ---------------------------------------------------------------------------
+
+_FACTUAL_PATTERNS = [
+    r"\bhow many\b.*\b(episode|time|guest|appear|been on)\b",
+    r"\blist\b.*\b(episode|guest|all)\b",
+    r"\bwhich episode\b",
+    r"\bwhat episode\b",
+    r"\bhas .+ been (a |on |the )?guest\b",
+    r"\bhow often\b",
+    r"\bcount\b.*\bepisode\b",
+    r"\ball episodes?\b",
+    r"\bevery episode\b",
+]
+
+
+def _is_factual_query(message: str) -> bool:
+    """Detect if a query is asking factual/listing questions about episodes."""
+    msg_lower = message.lower()
+    return any(re.search(p, msg_lower) for p in _FACTUAL_PATTERNS)
+
+
+def _extract_guest_from_query(message: str) -> str | None:
+    """Try to extract a person's name from the query for index lookup."""
+    # Common patterns: "how many times has Geoff Hinton been..."
+    # "list all episodes with Yann LeCun"
+    patterns = [
+        r"(?:has|with|featuring|by|about|of)\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+){0,3})",
+        r"([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,3})(?:\s+(?:been|episode|appear|guest))",
+    ]
+    for p in patterns:
+        match = re.search(p, message)
+        if match:
+            name = match.group(1).strip()
+            # Filter out common false positives
+            if name.lower() not in {"the", "a", "an", "all", "every", "which", "what", "how"}:
+                return name
+    return None
 
 
 # ---------------------------------------------------------------------------
@@ -117,6 +187,7 @@ def health() -> HealthResponse:
     return HealthResponse(
         status="ok",
         collection_count=count,
+        episode_count=len(_episode_index),
         llm_provider=config.LLM_PROVIDER,
         llm_model=config.LLM_MODEL,
     )
@@ -128,9 +199,58 @@ def stats() -> StatsResponse:
     count = _collection.count() if _collection else 0
     return StatsResponse(
         collection_count=count,
+        episode_count=len(_episode_index),
         llm_provider=config.LLM_PROVIDER,
         llm_model=config.LLM_MODEL,
     )
+
+
+@app.get("/episodes")
+def list_episodes() -> list[EpisodeItem]:
+    """Return the full episode index."""
+    return [
+        EpisodeItem(
+            doc_id=ep.get("doc_id", ""),
+            title=ep.get("title", ""),
+            guest_name=ep.get("guest_name", ""),
+            episode_number=ep.get("episode_number", ""),
+            episode_date=ep.get("episode_date", ""),
+            episode_topic=ep.get("episode_topic", ""),
+        )
+        for ep in _episode_index
+    ]
+
+
+@app.get("/search", response_model=SearchResponse)
+def search(
+    guest: str | None = Query(None, description="Guest name (partial, case-insensitive)"),
+    episode: int | None = Query(None, description="Episode number"),
+    q: str | None = Query(None, description="Keyword search across title, guest, topic"),
+) -> SearchResponse:
+    """Search episodes by guest name, episode number, or keyword."""
+    if not guest and episode is None and not q:
+        raise HTTPException(
+            status_code=400,
+            detail="Provide at least one search parameter: guest, episode, or q",
+        )
+
+    results = search_episodes(
+        _episode_index, guest=guest, episode_number=episode, keyword=q
+    )
+
+    items = [
+        EpisodeItem(
+            doc_id=ep.get("doc_id", ""),
+            title=ep.get("title", ""),
+            guest_name=ep.get("guest_name", ""),
+            episode_number=ep.get("episode_number", ""),
+            episode_date=ep.get("episode_date", ""),
+            episode_topic=ep.get("episode_topic", ""),
+        )
+        for ep in results
+    ]
+
+    return SearchResponse(results=items, total=len(items))
 
 
 @app.post("/chat", response_model=ChatResponse)
@@ -138,6 +258,9 @@ def chat(req: ChatRequest) -> ChatResponse:
     """
     Chat endpoint — accepts a message, retrieves relevant transcript chunks,
     and generates a response using the configured LLM.
+
+    For factual queries (counting episodes, listing guests), the episode
+    index is included as additional context.
     """
     if _collection is None or _collection.count() == 0:
         raise HTTPException(
@@ -176,15 +299,32 @@ def chat(req: ChatRequest) -> ChatResponse:
             max(distances) if distances else 0,
         )
 
-        # 3. Generate LLM response
+        # 3. Check if this is a factual query — if so, include episode index
+        episode_context: str | None = None
+        if _is_factual_query(req.message):
+            logger.info("Detected factual query — including episode index")
+            # Try to find relevant episodes by guest name
+            guest_name = _extract_guest_from_query(req.message)
+            if guest_name:
+                matching = search_episodes(_episode_index, guest=guest_name)
+                if matching:
+                    episode_context = format_episode_index_for_context(matching)
+                else:
+                    # Include full index if no specific match
+                    episode_context = format_episode_index_for_context(_episode_index)
+            else:
+                episode_context = format_episode_index_for_context(_episode_index)
+
+        # 4. Generate LLM response
         response_text = generate_response(
             question=req.message,
             context_chunks=documents,
             chunk_metadatas=metadatas,
             conversation_history=history if history else None,
+            episode_index_context=episode_context,
         )
 
-        # 4. Build sources list (deduplicate by episode)
+        # 5. Build sources list (deduplicate by episode)
         seen_episodes: set[str] = set()
         sources: list[SourceItem] = []
         for doc, meta in zip(documents, metadatas):
@@ -197,7 +337,7 @@ def chat(req: ChatRequest) -> ChatResponse:
                     snippet += "..."
                 sources.append(SourceItem(episode=episode_name, snippet=snippet))
 
-        # 5. Update conversation history
+        # 6. Update conversation history
         history.append({"role": "user", "content": req.message})
         history.append({"role": "assistant", "content": response_text})
         # Keep history manageable

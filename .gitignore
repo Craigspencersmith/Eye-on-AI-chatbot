@@ -5,6 +5,7 @@ credentials.json
 # Data
 chroma_data/
 ingestion_state.json
+episodes.json
 
 # Python
 __pycache__/
