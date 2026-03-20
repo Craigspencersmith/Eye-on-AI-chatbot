@@ -97,15 +97,55 @@ def keyword_search_chunks(
     Useful as a fallback when semantic search misses exact terms,
     proper nouns, or project names that don't embed well.
 
+    Tries multiple case variants (original, lowercase, title case,
+    uppercase) to work around ChromaDB's case-sensitive matching.
+
     Returns ChromaDB get results re-shaped to match query_chunks format.
     """
     top_k = top_k or config.TOP_K
 
-    results = collection.get(
-        where_document={"$contains": keyword},
-        include=["documents", "metadatas"],
-        limit=top_k,
-    )
+    # ChromaDB $contains is case-sensitive, so try common variants
+    variants = list(dict.fromkeys([
+        keyword,
+        keyword.lower(),
+        keyword.capitalize(),
+        keyword.title(),
+        keyword.upper(),
+    ]))
+
+    all_ids: list[str] = []
+    all_docs: list[str] = []
+    all_metas: list[dict[str, Any]] = []
+    seen: set[str] = set()
+
+    for variant in variants:
+        if len(all_ids) >= top_k:
+            break
+        try:
+            results = collection.get(
+                where_document={"$contains": variant},
+                include=["documents", "metadatas"],
+                limit=top_k,
+            )
+            for i, cid in enumerate(results.get("ids", [])):
+                if cid not in seen:
+                    seen.add(cid)
+                    all_ids.append(cid)
+                    all_docs.append(results["documents"][i])
+                    all_metas.append(results["metadatas"][i])
+        except Exception:
+            continue
+
+    # Trim to top_k
+    all_ids = all_ids[:top_k]
+    all_docs = all_docs[:top_k]
+    all_metas = all_metas[:top_k]
+
+    results = {
+        "ids": all_ids,
+        "documents": all_docs,
+        "metadatas": all_metas,
+    }
 
     # Reshape to match query() output format so callers can use either
     ids = results.get("ids", [])
