@@ -18,6 +18,10 @@ from drive_client import get_drive_service, list_google_docs, export_doc_as_text
 from chunker import chunk_text, count_tokens
 from embeddings import get_embeddings
 from vector_store import get_chroma_client, get_collection, add_chunks, delete_doc_chunks
+from metadata_extractor import (
+    extract_metadata_from_transcript,
+    extract_metadata_from_filename,
+)
 
 logger = logging.getLogger(__name__)
 
@@ -51,86 +55,49 @@ def _make_chunk_id(doc_id: str, chunk_index: int) -> str:
     return hashlib.sha256(raw.encode()).hexdigest()[:16]
 
 
-def _extract_episode_metadata(doc_name: str) -> dict[str, str]:
+def _extract_episode_metadata(
+    doc_name: str,
+    text: str | None = None,
+) -> dict[str, str]:
     """
-    Extract episode title, date, guest name(s), episode number, and topic
-    from the document name.
+    Extract episode metadata, preferring LLM-based transcript analysis
+    and falling back to filename-based regex heuristics.
 
-    Common patterns seen in podcast transcripts:
-        "Episode 123 - Guest Name on Topic"
-        "Ep 123: Guest Name discusses Topic"
-        "Guest Name - Topic (2024-01-15)"
-        "Guest Name on Topic"
-        "#123 Guest Name"
+    Args:
+        doc_name: The Google Doc name.
+        text: Full transcript text (optional). When provided the first
+              ~3000 chars are sent to gpt-4o-mini for extraction.
+
+    Returns:
+        Dict with keys: episode_title, guest_name, episode_number,
+        episode_date, episode_topic.
     """
-    import re
-
     metadata: dict[str, str] = {"episode_title": doc_name}
 
-    # Clean up the name for processing
-    clean = doc_name.strip()
+    # Try LLM-based extraction first (if transcript text is available)
+    if text and text.strip():
+        try:
+            llm_meta = extract_metadata_from_transcript(text, doc_name)
+            has_useful = bool(
+                llm_meta.get("guest_name") or llm_meta.get("episode_topic")
+            )
+            if has_useful:
+                metadata.update(llm_meta)
+                return metadata
+            logger.info(
+                "LLM extraction returned sparse results for '%s', "
+                "falling back to filename",
+                doc_name,
+            )
+        except Exception as exc:
+            logger.warning(
+                "LLM extraction failed for '%s': %s — falling back to filename",
+                doc_name, exc,
+            )
 
-    # Try to extract a date in various formats
-    date_match = re.search(r"(\d{4}[-/]\d{1,2}[-/]\d{1,2})", clean)
-    if date_match:
-        metadata["episode_date"] = date_match.group(1)
-        # Remove date from clean string for further parsing
-        clean = clean[:date_match.start()] + clean[date_match.end():]
-        clean = re.sub(r"[()]", "", clean).strip()
-
-    # Try to extract episode number
-    ep_match = re.search(r"(?:ep(?:isode)?|#)\s*(\d+)", clean, re.IGNORECASE)
-    if ep_match:
-        metadata["episode_number"] = ep_match.group(1)
-        # Remove episode prefix from clean string
-        clean = clean[:ep_match.start()] + clean[ep_match.end():]
-        clean = re.sub(r"^[\s\-:]+", "", clean).strip()
-
-    # Try to extract guest name and topic
-    # Pattern: "Guest Name on Topic" or "Guest Name - Topic"
-    # or "Guest Name discusses Topic" or "Guest Name: Topic"
-    separators = [
-        (r"\s+on\s+", "on"),
-        (r"\s+discusses?\s+", "discusses"),
-        (r"\s+talks?\s+about\s+", "talks about"),
-        (r"\s*[-–—]\s*", "-"),
-        (r"\s*:\s*", ":"),
-    ]
-
-    guest_name = ""
-    topic = ""
-
-    for sep_pattern, _ in separators:
-        parts = re.split(sep_pattern, clean, maxsplit=1)
-        if len(parts) == 2:
-            candidate_guest = parts[0].strip()
-            candidate_topic = parts[1].strip()
-            # A guest name should be 2-60 chars and look like a name
-            # (not all numbers, not too short)
-            if (2 < len(candidate_guest) < 60
-                    and not candidate_guest.isdigit()
-                    and len(candidate_guest.split()) <= 6):
-                guest_name = candidate_guest
-                topic = candidate_topic
-                break
-
-    # If no separator worked, the whole clean string might be a guest name
-    if not guest_name and clean and not clean.isdigit():
-        # Check if it looks like a person's name (2-5 words, reasonable length)
-        words = clean.split()
-        if 2 <= len(words) <= 5 and len(clean) < 60:
-            guest_name = clean
-
-    if guest_name:
-        # Clean up common prefixes/suffixes
-        guest_name = re.sub(r"^(with|featuring|feat\.?|ft\.?)\s+", "", guest_name, flags=re.IGNORECASE).strip()
-        metadata["guest_name"] = guest_name
-
-    if topic:
-        # Remove trailing punctuation
-        topic = topic.strip(" .,;:")
-        metadata["episode_topic"] = topic
-
+    # Fallback: regex-based filename extraction
+    fallback = extract_metadata_from_filename(doc_name)
+    metadata.update(fallback)
     return metadata
 
 
@@ -138,11 +105,11 @@ def ingest_document(
     doc: dict[str, Any],
     service: Any,
     collection: Any,
-) -> int:
+) -> tuple[int, dict[str, str]]:
     """
     Ingest a single Google Doc: export → chunk → embed → store.
 
-    Returns the number of chunks created.
+    Returns a tuple of (number of chunks created, extracted episode metadata).
     """
     doc_id = doc["id"]
     doc_name = doc["name"]
@@ -153,7 +120,7 @@ def ingest_document(
     text = export_doc_as_text(doc_id, service)
     if not text.strip():
         logger.warning("Document '%s' is empty, skipping", doc_name)
-        return 0
+        return 0, {}
 
     total_tokens = count_tokens(text)
     logger.info("  Document has %d tokens", total_tokens)
@@ -162,15 +129,15 @@ def ingest_document(
     chunks = chunk_text(text)
     if not chunks:
         logger.warning("No chunks produced for '%s', skipping", doc_name)
-        return 0
+        return 0, {}
 
     logger.info("  Produced %d chunks", len(chunks))
 
     # 3. Delete any existing chunks for this doc (for re-ingestion)
     delete_doc_chunks(collection, doc_id)
 
-    # 4. Prepare metadata
-    ep_meta = _extract_episode_metadata(doc_name)
+    # 4. Prepare metadata (LLM-based, with filename fallback)
+    ep_meta = _extract_episode_metadata(doc_name, text=text)
 
     ids: list[str] = []
     documents: list[str] = []
@@ -198,7 +165,7 @@ def ingest_document(
     add_chunks(collection, ids, documents, embeddings, metadatas)
     logger.info("  Stored %d chunks in ChromaDB", len(chunks))
 
-    return len(chunks)
+    return len(chunks), ep_meta
 
 
 def run_ingestion(full: bool = False) -> dict[str, Any]:
@@ -240,12 +207,11 @@ def run_ingestion(full: bool = False) -> dict[str, Any]:
                 continue
 
         try:
-            num_chunks = ingest_document(doc, service, collection)
+            num_chunks, ep_meta = ingest_document(doc, service, collection)
             stats["docs_ingested"] += 1
             stats["total_chunks"] += num_chunks
 
-            # Update state (include extracted metadata for episode index)
-            ep_meta = _extract_episode_metadata(doc["name"])
+            # Update state with transcript-derived metadata
             state["docs"][doc_id] = {
                 "name": doc["name"],
                 "modifiedTime": modified_time,

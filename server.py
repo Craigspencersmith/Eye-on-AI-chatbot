@@ -25,7 +25,7 @@ import uvicorn
 
 from config import config
 from embeddings import get_query_embedding
-from vector_store import get_chroma_client, get_collection, query_chunks
+from vector_store import get_chroma_client, get_collection, query_chunks, hybrid_search
 from llm import generate_response
 from episode_index import (
     load_episode_index,
@@ -277,8 +277,10 @@ def chat(req: ChatRequest) -> ChatResponse:
         logger.info("Processing query: %s", req.message[:100])
         query_embedding = get_query_embedding(req.message)
 
-        # 2. Retrieve relevant chunks
-        results = query_chunks(_collection, query_embedding)
+        # 2. Retrieve relevant chunks (hybrid: semantic + keyword fallback)
+        results = hybrid_search(
+            _collection, query_embedding, req.message, top_k=config.TOP_K
+        )
 
         documents: list[str] = results["documents"][0] if results["documents"] else []
         metadatas: list[dict[str, Any]] = results["metadatas"][0] if results["metadatas"] else []
@@ -286,8 +288,9 @@ def chat(req: ChatRequest) -> ChatResponse:
 
         if not documents:
             return ChatResponse(
-                response="I couldn't find any relevant information in the podcast transcripts for your question. "
-                         "Could you try rephrasing or asking about a different topic?",
+                response="I searched the podcast transcript database but couldn't find any "
+                         "relevant information for your question. Could you try rephrasing, "
+                         "or ask about a different topic covered on the show?",
                 sources=[],
                 conversation_id=conv_id,
             )
