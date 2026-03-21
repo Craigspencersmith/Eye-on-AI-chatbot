@@ -5,14 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Eye on AI — Podcast Chat</title>
     <link rel="icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/5b75ac0285ede1b470f58ae2/1537897163533-UHZSYHJ2PB2ERFP27XOA/favicon.ico?format=100w"/>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
+        :root {
+            --navy: #1a2456;
+            --cyan: #43c6db;
+            --cyan-light: #e8f8fb;
+            --white: #ffffff;
+            --gray-50: #f8f9fa;
+            --gray-100: #f0f1f3;
+            --gray-200: #e2e4e8;
+            --gray-400: #9ba3b0;
+            --gray-600: #5a6275;
+        }
+
         body {
             font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: #000;
-            color: #fff;
+            background: var(--gray-50);
+            color: var(--navy);
             height: 100vh;
             display: flex;
             flex-direction: column;
@@ -20,43 +32,43 @@
 
         /* Header */
         .header {
-            padding: 16px 24px;
-            background: #000;
-            border-bottom: 1px solid #1a1a1a;
+            padding: 14px 24px;
+            background: var(--white);
+            border-bottom: 1px solid var(--gray-200);
             display: flex;
             align-items: center;
-            gap: 16px;
+            gap: 14px;
+            box-shadow: 0 1px 3px rgba(26, 36, 86, 0.04);
         }
 
         .header-logo {
-            height: 40px;
+            height: 44px;
             width: auto;
         }
 
         .header-text {
             display: flex;
             flex-direction: column;
-            gap: 2px;
+            gap: 1px;
         }
 
         .header h1 {
-            font-size: 16px;
-            font-weight: 600;
-            color: #fff;
-            letter-spacing: 0.02em;
+            font-size: 17px;
+            font-weight: 700;
+            color: var(--navy);
+            letter-spacing: -0.01em;
         }
 
         .header .subtitle {
             font-size: 12px;
-            color: #999;
-            letter-spacing: 0.03em;
-            text-transform: uppercase;
+            color: var(--gray-400);
+            font-weight: 500;
         }
 
         .header .status {
             margin-left: auto;
             font-size: 11px;
-            color: #3e3e3e;
+            color: var(--gray-400);
             display: flex;
             align-items: center;
             gap: 6px;
@@ -65,14 +77,14 @@
         .header .status::before {
             content: '';
             display: inline-block;
-            width: 6px;
-            height: 6px;
+            width: 7px;
+            height: 7px;
             border-radius: 50%;
-            background: #3e3e3e;
+            background: var(--gray-200);
         }
 
-        .header .status.ready { color: #999; }
-        .header .status.ready::before { background: #f0523d; }
+        .header .status.ready { color: var(--gray-600); }
+        .header .status.ready::before { background: var(--cyan); }
 
         /* Chat area */
         .chat-container {
@@ -82,11 +94,12 @@
             display: flex;
             flex-direction: column;
             gap: 16px;
+            background: var(--gray-50);
         }
 
-        .chat-container::-webkit-scrollbar { width: 4px; }
+        .chat-container::-webkit-scrollbar { width: 5px; }
         .chat-container::-webkit-scrollbar-track { background: transparent; }
-        .chat-container::-webkit-scrollbar-thumb { background: #3e3e3e; border-radius: 2px; }
+        .chat-container::-webkit-scrollbar-thumb { background: var(--gray-200); border-radius: 3px; }
 
         /* Messages */
         .message {
@@ -99,42 +112,44 @@
 
         .message.user {
             align-self: flex-end;
-            background: #f0523d;
-            color: #fff;
+            background: var(--navy);
+            color: var(--white);
             border-bottom-right-radius: 4px;
         }
 
         .message.assistant {
             align-self: flex-start;
-            background: #111;
-            border: 1px solid #1a1a1a;
-            color: #e0e0e0;
+            background: var(--white);
+            border: 1px solid var(--gray-200);
+            color: var(--navy);
             border-bottom-left-radius: 4px;
+            box-shadow: 0 1px 2px rgba(26, 36, 86, 0.04);
         }
 
         .message.assistant .sources {
             margin-top: 10px;
             padding-top: 10px;
-            border-top: 1px solid #222;
+            border-top: 1px solid var(--gray-100);
             font-size: 11px;
-            color: #666;
+            color: var(--gray-400);
         }
 
         .message.assistant .sources span {
             display: inline-block;
-            background: #1a1a1a;
-            border: 1px solid #222;
+            background: var(--cyan-light);
+            border: 1px solid #cef0f5;
             padding: 3px 8px;
             border-radius: 4px;
             margin: 2px 4px 2px 0;
             font-size: 11px;
-            color: #999;
+            color: var(--navy);
+            font-weight: 500;
         }
 
         .message.system {
             align-self: center;
             background: transparent;
-            color: #3e3e3e;
+            color: var(--gray-400);
             font-size: 13px;
             text-align: center;
         }
@@ -142,19 +157,17 @@
         /* Typing indicator */
         .typing {
             align-self: flex-start;
-            color: #666;
-            font-size: 14px;
             padding: 14px 18px;
             display: flex;
             align-items: center;
-            gap: 4px;
+            gap: 5px;
         }
 
         .typing-dot {
-            width: 6px;
-            height: 6px;
+            width: 7px;
+            height: 7px;
             border-radius: 50%;
-            background: #f0523d;
+            background: var(--cyan);
             animation: pulse 1.4s ease-in-out infinite;
         }
 
@@ -169,48 +182,50 @@
         /* Input area */
         .input-area {
             padding: 16px 24px;
-            background: #000;
-            border-top: 1px solid #1a1a1a;
+            background: var(--white);
+            border-top: 1px solid var(--gray-200);
             display: flex;
             gap: 12px;
+            box-shadow: 0 -1px 3px rgba(26, 36, 86, 0.04);
         }
 
         .input-area input {
             flex: 1;
             padding: 14px 18px;
-            background: #111;
-            border: 1px solid #1a1a1a;
+            background: var(--gray-50);
+            border: 1px solid var(--gray-200);
             border-radius: 12px;
-            color: #fff;
+            color: var(--navy);
             font-family: inherit;
             font-size: 14px;
             outline: none;
-            transition: border-color 0.2s;
+            transition: border-color 0.2s, box-shadow 0.2s;
         }
 
         .input-area input:focus {
-            border-color: #f0523d;
+            border-color: var(--cyan);
+            box-shadow: 0 0 0 3px rgba(67, 198, 219, 0.15);
         }
 
         .input-area input::placeholder {
-            color: #3e3e3e;
+            color: var(--gray-400);
         }
 
         .input-area button {
             padding: 14px 28px;
-            background: #f0523d;
-            color: #fff;
+            background: var(--navy);
+            color: var(--white);
             border: none;
             border-radius: 12px;
             font-family: inherit;
             font-size: 14px;
-            font-weight: 500;
+            font-weight: 600;
             cursor: pointer;
             transition: background 0.2s, transform 0.1s;
         }
 
         .input-area button:hover {
-            background: #e0412c;
+            background: #152048;
         }
 
         .input-area button:active {
@@ -218,56 +233,56 @@
         }
 
         .input-area button:disabled {
-            background: #1a1a1a;
-            color: #3e3e3e;
+            background: var(--gray-200);
+            color: var(--gray-400);
             cursor: not-allowed;
         }
 
         /* Welcome screen */
         .welcome {
             text-align: center;
-            padding: 60px 24px;
+            padding: 48px 24px;
             display: flex;
             flex-direction: column;
             align-items: center;
-            gap: 16px;
+            gap: 12px;
         }
 
         .welcome-logo {
-            width: 120px;
+            width: 100px;
             height: auto;
-            margin-bottom: 8px;
+            margin-bottom: 4px;
         }
 
         .welcome h2 {
             font-size: 22px;
-            font-weight: 600;
-            color: #fff;
+            font-weight: 700;
+            color: var(--navy);
             letter-spacing: -0.01em;
         }
 
         .welcome p {
             font-size: 14px;
-            color: #999;
+            color: var(--gray-600);
             max-width: 460px;
             line-height: 1.6;
         }
 
         .welcome .examples {
-            margin-top: 16px;
+            margin-top: 20px;
             display: flex;
             flex-direction: column;
             gap: 8px;
             align-items: center;
             width: 100%;
-            max-width: 460px;
+            max-width: 480px;
         }
 
         .welcome .examples button {
-            background: #111;
-            border: 1px solid #1a1a1a;
-            color: #999;
-            padding: 12px 20px;
+            background: var(--white);
+            border: 1px solid var(--gray-200);
+            color: var(--gray-600);
+            padding: 13px 20px;
             border-radius: 12px;
             cursor: pointer;
             font-family: inherit;
@@ -275,40 +290,45 @@
             transition: all 0.2s;
             width: 100%;
             text-align: left;
+            box-shadow: 0 1px 2px rgba(26, 36, 86, 0.04);
         }
 
         .welcome .examples button:hover {
-            border-color: #f0523d;
-            color: #fff;
-            background: #0a0a0a;
+            border-color: var(--cyan);
+            color: var(--navy);
+            background: var(--cyan-light);
         }
 
         .welcome .examples button::before {
             content: '→ ';
-            color: #f0523d;
+            color: var(--cyan);
+            font-weight: 600;
         }
 
-        /* Powered by footer */
+        /* Footer */
         .powered-by {
             text-align: center;
             padding: 8px;
             font-size: 11px;
-            color: #3e3e3e;
+            color: var(--gray-400);
+            background: var(--white);
         }
 
         .powered-by a {
-            color: #3e3e3e;
+            color: var(--cyan);
             text-decoration: none;
+            font-weight: 500;
         }
 
         .powered-by a:hover {
-            color: #f0523d;
+            color: var(--navy);
         }
 
         /* Responsive */
         @media (max-width: 600px) {
             .message { max-width: 88%; }
             .welcome h2 { font-size: 18px; }
+            .welcome-logo { width: 80px; }
             .input-area button { padding: 14px 20px; }
         }
     </style>
