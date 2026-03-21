@@ -42,7 +42,7 @@
         }
 
         .header-logo {
-            height: 44px;
+            height: 40px;
             width: auto;
         }
 
@@ -249,9 +249,9 @@
         }
 
         .welcome-logo {
-            width: 100px;
+            width: 160px;
             height: auto;
-            margin-bottom: 4px;
+            margin-bottom: 0px;
         }
 
         .welcome h2 {
@@ -259,6 +259,7 @@
             font-weight: 700;
             color: var(--navy);
             letter-spacing: -0.01em;
+            margin-top: -4px;
         }
 
         .welcome p {
@@ -335,9 +336,9 @@
 </head>
 <body>
     <div class="header">
-        <img src="/static/logo.gif" alt="Eye on AI" class="header-logo">
+        <img src="/static/logo.png" alt="Eye on AI" class="header-logo">
         <div class="header-text">
-            <h1>Podcast Chat</h1>
+            <h1>Chatbot</h1>
             <span class="subtitle">Search 300+ episodes</span>
         </div>
         <span class="status" id="status">Connecting</span>
@@ -345,8 +346,8 @@
 
     <div class="chat-container" id="chat">
         <div class="welcome" id="welcome">
-            <img src="/static/logo.gif" alt="Eye on AI" class="welcome-logo">
-            <h2>Ask anything about Eye on AI</h2>
+            <img src="/static/logo.png" alt="Eye on AI" class="welcome-logo">
+            <h2>Chatbot</h2>
             <p>Chat with 300+ episodes of the Eye on AI podcast. Ask about guests, topics, AI research, and more — answers grounded in actual transcripts.</p>
             <div class="examples">
                 <button onclick="askExample(this)">What has the podcast covered about large language models?</button>
