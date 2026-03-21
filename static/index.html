@@ -3,66 +3,384 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Eye on AI Chatbot</title>
-    <link rel="stylesheet" href="/static/chat.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <title>Eye on AI — Chat</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0a0a0a;
+            color: #e0e0e0;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .header {
+            padding: 16px 24px;
+            background: #111;
+            border-bottom: 1px solid #222;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .header h1 {
+            font-size: 18px;
+            font-weight: 600;
+            color: #fff;
+        }
+
+        .header .subtitle {
+            font-size: 13px;
+            color: #888;
+        }
+
+        .header .status {
+            margin-left: auto;
+            font-size: 12px;
+            color: #666;
+        }
+
+        .header .status.ready { color: #4ade80; }
+
+        .chat-container {
+            flex: 1;
+            overflow-y: auto;
+            padding: 24px;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .message {
+            max-width: 80%;
+            padding: 12px 16px;
+            border-radius: 12px;
+            line-height: 1.5;
+            font-size: 14px;
+        }
+
+        .message.user {
+            align-self: flex-end;
+            background: #1e40af;
+            color: #fff;
+            border-bottom-right-radius: 4px;
+        }
+
+        .message.assistant {
+            align-self: flex-start;
+            background: #1a1a1a;
+            border: 1px solid #333;
+            border-bottom-left-radius: 4px;
+        }
+
+        .message.assistant .sources {
+            margin-top: 8px;
+            padding-top: 8px;
+            border-top: 1px solid #333;
+            font-size: 12px;
+            color: #888;
+        }
+
+        .message.assistant .sources span {
+            display: inline-block;
+            background: #222;
+            padding: 2px 8px;
+            border-radius: 4px;
+            margin: 2px 4px 2px 0;
+            font-size: 11px;
+        }
+
+        .message.system {
+            align-self: center;
+            background: transparent;
+            color: #666;
+            font-size: 13px;
+            text-align: center;
+        }
+
+        .typing {
+            align-self: flex-start;
+            color: #888;
+            font-size: 14px;
+            padding: 12px 16px;
+        }
+
+        .typing::after {
+            content: '...';
+            animation: dots 1.5s steps(4, end) infinite;
+        }
+
+        @keyframes dots {
+            0%, 20% { content: ''; }
+            40% { content: '.'; }
+            60% { content: '..'; }
+            80%, 100% { content: '...'; }
+        }
+
+        .input-area {
+            padding: 16px 24px;
+            background: #111;
+            border-top: 1px solid #222;
+            display: flex;
+            gap: 12px;
+        }
+
+        .input-area input {
+            flex: 1;
+            padding: 12px 16px;
+            background: #1a1a1a;
+            border: 1px solid #333;
+            border-radius: 8px;
+            color: #fff;
+            font-size: 14px;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        .input-area input:focus {
+            border-color: #1e40af;
+        }
+
+        .input-area input::placeholder {
+            color: #666;
+        }
+
+        .input-area button {
+            padding: 12px 24px;
+            background: #1e40af;
+            color: #fff;
+            border: none;
+            border-radius: 8px;
+            font-size: 14px;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .input-area button:hover {
+            background: #1d4ed8;
+        }
+
+        .input-area button:disabled {
+            background: #333;
+            cursor: not-allowed;
+        }
+
+        .welcome {
+            text-align: center;
+            padding: 60px 24px;
+            color: #888;
+        }
+
+        .welcome h2 {
+            font-size: 24px;
+            color: #fff;
+            margin-bottom: 8px;
+        }
+
+        .welcome p {
+            font-size: 14px;
+            max-width: 500px;
+            margin: 0 auto;
+            line-height: 1.6;
+        }
+
+        .welcome .examples {
+            margin-top: 24px;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            align-items: center;
+        }
+
+        .welcome .examples button {
+            background: #1a1a1a;
+            border: 1px solid #333;
+            color: #ccc;
+            padding: 10px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 13px;
+            transition: all 0.2s;
+            max-width: 400px;
+            width: 100%;
+        }
+
+        .welcome .examples button:hover {
+            border-color: #1e40af;
+            color: #fff;
+        }
+    </style>
 </head>
 <body>
-    <div id="chat-app">
-        <!-- Header -->
-        <header class="chat-header">
-            <div class="header-content">
-                <div class="header-icon">🎙️</div>
-                <div class="header-text">
-                    <h1>Eye on AI</h1>
-                    <p>Ask questions about 300+ podcast episodes on AI research &amp; applications</p>
-                </div>
-            </div>
-        </header>
-
-        <!-- Chat messages area -->
-        <main class="chat-messages" id="chat-messages">
-            <div class="welcome-message">
-                <div class="welcome-icon">🤖</div>
-                <h2>Welcome to the Eye on AI Chatbot</h2>
-                <p>I can answer questions about AI research, machine learning, and technology based on the Eye on AI podcast transcripts. Try asking about:</p>
-                <div class="suggestion-chips">
-                    <button class="chip" onclick="askSuggestion(this)">What are the latest trends in LLMs?</button>
-                    <button class="chip" onclick="askSuggestion(this)">What do guests say about AI safety?</button>
-                    <button class="chip" onclick="askSuggestion(this)">List all episodes with Geoff Hinton</button>
-                    <button class="chip" onclick="askSuggestion(this)">Who has discussed transformer architectures?</button>
-                    <button class="chip" onclick="askSuggestion(this)">How many times has Yann LeCun been a guest?</button>
-                </div>
-            </div>
-        </main>
-
-        <!-- Input area -->
-        <footer class="chat-input-area">
-            <form id="chat-form" onsubmit="handleSubmit(event)">
-                <div class="input-wrapper">
-                    <textarea
-                        id="chat-input"
-                        placeholder="Ask about AI research, podcast episodes, or guests..."
-                        rows="1"
-                        maxlength="2000"
-                        autofocus
-                    ></textarea>
-                    <button type="submit" id="send-btn" aria-label="Send message">
-                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                            <line x1="22" y1="2" x2="11" y2="13"></line>
-                            <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
-                        </svg>
-                    </button>
-                </div>
-            </form>
-            <div class="input-footer">
-                <span>Powered by Eye on AI podcast transcripts</span>
-            </div>
-        </footer>
+    <div class="header">
+        <h1>👁️ Eye on AI</h1>
+        <span class="subtitle">Podcast Chat</span>
+        <span class="status" id="status">Connecting...</span>
     </div>
 
-    <script src="/static/chat.js"></script>
+    <div class="chat-container" id="chat">
+        <div class="welcome" id="welcome">
+            <h2>Ask anything about Eye on AI</h2>
+            <p>Chat with 300+ episodes of the Eye on AI podcast. Ask about guests, topics, AI research, and more.</p>
+            <div class="examples">
+                <button onclick="askExample(this)">What has the podcast covered about large language models?</button>
+                <button onclick="askExample(this)">Who are some notable guests on the show?</button>
+                <button onclick="askExample(this)">What episodes discuss AI safety and alignment?</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="input-area">
+        <input type="text" id="input" placeholder="Ask about the podcast..." autocomplete="off" />
+        <button id="send" onclick="sendMessage()">Send</button>
+    </div>
+
+    <script>
+        const chatEl = document.getElementById('chat');
+        const inputEl = document.getElementById('input');
+        const sendBtn = document.getElementById('send');
+        const statusEl = document.getElementById('status');
+        const welcomeEl = document.getElementById('welcome');
+
+        let conversationHistory = [];
+        let isLoading = false;
+
+        // Detect API base URL (same origin)
+        const API_BASE = window.location.origin;
+
+        // Check status on load
+        async function checkStatus() {
+            try {
+                const res = await fetch(`${API_BASE}/api/status`);
+                const data = await res.json();
+                if (data.indexed_chunks > 0) {
+                    statusEl.textContent = `${data.indexed_chunks} chunks indexed`;
+                    statusEl.className = 'status ready';
+                } else {
+                    statusEl.textContent = 'Indexing...';
+                    // Re-check in 30s
+                    setTimeout(checkStatus, 30000);
+                }
+            } catch (e) {
+                statusEl.textContent = 'Offline';
+            }
+        }
+        checkStatus();
+
+        function askExample(btn) {
+            inputEl.value = btn.textContent;
+            sendMessage();
+        }
+
+        function addMessage(role, content, sources) {
+            if (welcomeEl) welcomeEl.style.display = 'none';
+
+            const div = document.createElement('div');
+            div.className = `message ${role}`;
+
+            if (role === 'assistant' && sources && sources.length > 0) {
+                div.innerHTML = `
+                    <div>${formatContent(content)}</div>
+                    <div class="sources">
+                        Sources: ${sources.map(s => `<span>${s}</span>`).join('')}
+                    </div>
+                `;
+            } else {
+                div.innerHTML = formatContent(content);
+            }
+
+            chatEl.appendChild(div);
+            chatEl.scrollTop = chatEl.scrollHeight;
+            return div;
+        }
+
+        function formatContent(text) {
+            // Basic markdown-ish formatting
+            return text
+                .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+                .replace(/\*(.*?)\*/g, '<em>$1</em>')
+                .replace(/\n/g, '<br>');
+        }
+
+        function showTyping() {
+            const div = document.createElement('div');
+            div.className = 'typing';
+            div.id = 'typing';
+            div.textContent = 'Thinking';
+            chatEl.appendChild(div);
+            chatEl.scrollTop = chatEl.scrollHeight;
+        }
+
+        function hideTyping() {
+            const el = document.getElementById('typing');
+            if (el) el.remove();
+        }
+
+        async function sendMessage() {
+            const question = inputEl.value.trim();
+            if (!question || isLoading) return;
+
+            isLoading = true;
+            sendBtn.disabled = true;
+            inputEl.value = '';
+
+            addMessage('user', question);
+            showTyping();
+
+            try {
+                const res = await fetch(`${API_BASE}/api/chat`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        question,
+                        conversation_history: conversationHistory,
+                    }),
+                });
+
+                hideTyping();
+
+                if (!res.ok) {
+                    const err = await res.json();
+                    addMessage('system', `Error: ${err.detail || 'Something went wrong'}`);
+                    return;
+                }
+
+                const data = await res.json();
+                addMessage('assistant', data.answer, data.sources);
+
+                // Update conversation history
+                conversationHistory.push(
+                    { role: 'user', content: question },
+                    { role: 'assistant', content: data.answer }
+                );
+
+                // Keep history manageable
+                if (conversationHistory.length > 20) {
+                    conversationHistory = conversationHistory.slice(-20);
+                }
+
+                checkStatus();
+            } catch (e) {
+                hideTyping();
+                addMessage('system', 'Failed to connect to the server.');
+            } finally {
+                isLoading = false;
+                sendBtn.disabled = false;
+                inputEl.focus();
+            }
+        }
+
+        // Enter to send
+        inputEl.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter' && !e.shiftKey) {
+                e.preventDefault();
+                sendMessage();
+            }
+        });
+
+        inputEl.focus();
+    </script>
 </body>
 </html>
