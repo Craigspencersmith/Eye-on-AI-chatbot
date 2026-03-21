@@ -1,8 +1,8 @@
-fastapi==0.115.12
-uvicorn[standard]==0.34.2
-chromadb==1.0.7
-openai==1.82.0
-google-api-python-client==2.193.0
-google-auth==2.49.1
-python-dotenv==1.1.0
-httpx==0.28.1
+fastapi>=0.115.9
+uvicorn[standard]>=0.34.0
+chromadb>=1.0.7
+openai>=1.80.0
+google-api-python-client>=2.190.0
+google-auth>=2.49.0
+python-dotenv>=1.1.0
+httpx>=0.28.0

@@ -3,47 +3,78 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Eye on AI — Chat</title>
+    <title>Eye on AI — Podcast Chat</title>
+    <link rel="icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/5b75ac0285ede1b470f58ae2/1537897163533-UHZSYHJ2PB2ERFP27XOA/favicon.ico?format=100w"/>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: #0a0a0a;
-            color: #e0e0e0;
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #000;
+            color: #fff;
             height: 100vh;
             display: flex;
             flex-direction: column;
         }
 
+        /* Header */
         .header {
             padding: 16px 24px;
-            background: #111;
-            border-bottom: 1px solid #222;
+            background: #000;
+            border-bottom: 1px solid #1a1a1a;
             display: flex;
             align-items: center;
-            gap: 12px;
+            gap: 16px;
+        }
+
+        .header-logo {
+            height: 40px;
+            width: auto;
+        }
+
+        .header-text {
+            display: flex;
+            flex-direction: column;
+            gap: 2px;
         }
 
         .header h1 {
-            font-size: 18px;
+            font-size: 16px;
             font-weight: 600;
             color: #fff;
+            letter-spacing: 0.02em;
         }
 
         .header .subtitle {
-            font-size: 13px;
-            color: #888;
+            font-size: 12px;
+            color: #999;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
         }
 
         .header .status {
             margin-left: auto;
-            font-size: 12px;
-            color: #666;
+            font-size: 11px;
+            color: #3e3e3e;
+            display: flex;
+            align-items: center;
+            gap: 6px;
         }
 
-        .header .status.ready { color: #4ade80; }
+        .header .status::before {
+            content: '';
+            display: inline-block;
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background: #3e3e3e;
+        }
 
+        .header .status.ready { color: #999; }
+        .header .status.ready::before { background: #f0523d; }
+
+        /* Chat area */
         .chat-container {
             flex: 1;
             overflow-y: auto;
@@ -53,181 +84,254 @@
             gap: 16px;
         }
 
+        .chat-container::-webkit-scrollbar { width: 4px; }
+        .chat-container::-webkit-scrollbar-track { background: transparent; }
+        .chat-container::-webkit-scrollbar-thumb { background: #3e3e3e; border-radius: 2px; }
+
+        /* Messages */
         .message {
-            max-width: 80%;
-            padding: 12px 16px;
-            border-radius: 12px;
-            line-height: 1.5;
+            max-width: 75%;
+            padding: 14px 18px;
+            border-radius: 16px;
+            line-height: 1.6;
             font-size: 14px;
         }
 
         .message.user {
             align-self: flex-end;
-            background: #1e40af;
+            background: #f0523d;
             color: #fff;
             border-bottom-right-radius: 4px;
         }
 
         .message.assistant {
             align-self: flex-start;
-            background: #1a1a1a;
-            border: 1px solid #333;
+            background: #111;
+            border: 1px solid #1a1a1a;
+            color: #e0e0e0;
             border-bottom-left-radius: 4px;
         }
 
         .message.assistant .sources {
-            margin-top: 8px;
-            padding-top: 8px;
-            border-top: 1px solid #333;
-            font-size: 12px;
-            color: #888;
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px solid #222;
+            font-size: 11px;
+            color: #666;
         }
 
         .message.assistant .sources span {
             display: inline-block;
-            background: #222;
-            padding: 2px 8px;
+            background: #1a1a1a;
+            border: 1px solid #222;
+            padding: 3px 8px;
             border-radius: 4px;
             margin: 2px 4px 2px 0;
             font-size: 11px;
+            color: #999;
         }
 
         .message.system {
             align-self: center;
             background: transparent;
-            color: #666;
+            color: #3e3e3e;
             font-size: 13px;
             text-align: center;
         }
 
+        /* Typing indicator */
         .typing {
             align-self: flex-start;
-            color: #888;
+            color: #666;
             font-size: 14px;
-            padding: 12px 16px;
+            padding: 14px 18px;
+            display: flex;
+            align-items: center;
+            gap: 4px;
         }
 
-        .typing::after {
-            content: '...';
-            animation: dots 1.5s steps(4, end) infinite;
+        .typing-dot {
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background: #f0523d;
+            animation: pulse 1.4s ease-in-out infinite;
         }
 
-        @keyframes dots {
-            0%, 20% { content: ''; }
-            40% { content: '.'; }
-            60% { content: '..'; }
-            80%, 100% { content: '...'; }
+        .typing-dot:nth-child(2) { animation-delay: 0.2s; }
+        .typing-dot:nth-child(3) { animation-delay: 0.4s; }
+
+        @keyframes pulse {
+            0%, 60%, 100% { opacity: 0.2; transform: scale(0.8); }
+            30% { opacity: 1; transform: scale(1); }
         }
 
+        /* Input area */
         .input-area {
             padding: 16px 24px;
-            background: #111;
-            border-top: 1px solid #222;
+            background: #000;
+            border-top: 1px solid #1a1a1a;
             display: flex;
             gap: 12px;
         }
 
         .input-area input {
             flex: 1;
-            padding: 12px 16px;
-            background: #1a1a1a;
-            border: 1px solid #333;
-            border-radius: 8px;
+            padding: 14px 18px;
+            background: #111;
+            border: 1px solid #1a1a1a;
+            border-radius: 12px;
             color: #fff;
+            font-family: inherit;
             font-size: 14px;
             outline: none;
             transition: border-color 0.2s;
         }
 
         .input-area input:focus {
-            border-color: #1e40af;
+            border-color: #f0523d;
         }
 
         .input-area input::placeholder {
-            color: #666;
+            color: #3e3e3e;
         }
 
         .input-area button {
-            padding: 12px 24px;
-            background: #1e40af;
+            padding: 14px 28px;
+            background: #f0523d;
             color: #fff;
             border: none;
-            border-radius: 8px;
+            border-radius: 12px;
+            font-family: inherit;
             font-size: 14px;
+            font-weight: 500;
             cursor: pointer;
-            transition: background 0.2s;
+            transition: background 0.2s, transform 0.1s;
         }
 
         .input-area button:hover {
-            background: #1d4ed8;
+            background: #e0412c;
+        }
+
+        .input-area button:active {
+            transform: scale(0.97);
         }
 
         .input-area button:disabled {
-            background: #333;
+            background: #1a1a1a;
+            color: #3e3e3e;
             cursor: not-allowed;
         }
 
+        /* Welcome screen */
         .welcome {
             text-align: center;
             padding: 60px 24px;
-            color: #888;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 16px;
+        }
+
+        .welcome-logo {
+            width: 120px;
+            height: auto;
+            margin-bottom: 8px;
         }
 
         .welcome h2 {
-            font-size: 24px;
+            font-size: 22px;
+            font-weight: 600;
             color: #fff;
-            margin-bottom: 8px;
+            letter-spacing: -0.01em;
         }
 
         .welcome p {
             font-size: 14px;
-            max-width: 500px;
-            margin: 0 auto;
+            color: #999;
+            max-width: 460px;
             line-height: 1.6;
         }
 
         .welcome .examples {
-            margin-top: 24px;
+            margin-top: 16px;
             display: flex;
             flex-direction: column;
             gap: 8px;
             align-items: center;
+            width: 100%;
+            max-width: 460px;
         }
 
         .welcome .examples button {
-            background: #1a1a1a;
-            border: 1px solid #333;
-            color: #ccc;
-            padding: 10px 20px;
-            border-radius: 8px;
+            background: #111;
+            border: 1px solid #1a1a1a;
+            color: #999;
+            padding: 12px 20px;
+            border-radius: 12px;
             cursor: pointer;
+            font-family: inherit;
             font-size: 13px;
             transition: all 0.2s;
-            max-width: 400px;
             width: 100%;
+            text-align: left;
         }
 
         .welcome .examples button:hover {
-            border-color: #1e40af;
+            border-color: #f0523d;
             color: #fff;
+            background: #0a0a0a;
+        }
+
+        .welcome .examples button::before {
+            content: '→ ';
+            color: #f0523d;
+        }
+
+        /* Powered by footer */
+        .powered-by {
+            text-align: center;
+            padding: 8px;
+            font-size: 11px;
+            color: #3e3e3e;
+        }
+
+        .powered-by a {
+            color: #3e3e3e;
+            text-decoration: none;
+        }
+
+        .powered-by a:hover {
+            color: #f0523d;
+        }
+
+        /* Responsive */
+        @media (max-width: 600px) {
+            .message { max-width: 88%; }
+            .welcome h2 { font-size: 18px; }
+            .input-area button { padding: 14px 20px; }
         }
     </style>
 </head>
 <body>
     <div class="header">
-        <h1>👁️ Eye on AI</h1>
-        <span class="subtitle">Podcast Chat</span>
-        <span class="status" id="status">Connecting...</span>
+        <img src="/static/logo.gif" alt="Eye on AI" class="header-logo">
+        <div class="header-text">
+            <h1>Podcast Chat</h1>
+            <span class="subtitle">Search 300+ episodes</span>
+        </div>
+        <span class="status" id="status">Connecting</span>
     </div>
 
     <div class="chat-container" id="chat">
         <div class="welcome" id="welcome">
+            <img src="/static/logo.gif" alt="Eye on AI" class="welcome-logo">
             <h2>Ask anything about Eye on AI</h2>
-            <p>Chat with 300+ episodes of the Eye on AI podcast. Ask about guests, topics, AI research, and more.</p>
+            <p>Chat with 300+ episodes of the Eye on AI podcast. Ask about guests, topics, AI research, and more — answers grounded in actual transcripts.</p>
             <div class="examples">
                 <button onclick="askExample(this)">What has the podcast covered about large language models?</button>
-                <button onclick="askExample(this)">Who are some notable guests on the show?</button>
-                <button onclick="askExample(this)">What episodes discuss AI safety and alignment?</button>
+                <button onclick="askExample(this)">Which episodes feature interviews about AI safety?</button>
+                <button onclick="askExample(this)">What did Geoff Hinton discuss on the show?</button>
             </div>
         </div>
     </div>
@@ -235,6 +339,10 @@
     <div class="input-area">
         <input type="text" id="input" placeholder="Ask about the podcast..." autocomplete="off" />
         <button id="send" onclick="sendMessage()">Send</button>
+    </div>
+
+    <div class="powered-by">
+        <a href="https://www.eye-on.ai" target="_blank">eye-on.ai</a>
     </div>
 
     <script>
@@ -247,20 +355,17 @@
         let conversationHistory = [];
         let isLoading = false;
 
-        // Detect API base URL (same origin)
         const API_BASE = window.location.origin;
 
-        // Check status on load
         async function checkStatus() {
             try {
                 const res = await fetch(`${API_BASE}/api/status`);
                 const data = await res.json();
                 if (data.indexed_chunks > 0) {
-                    statusEl.textContent = `${data.indexed_chunks} chunks indexed`;
+                    statusEl.textContent = `${data.indexed_chunks.toLocaleString()} chunks indexed`;
                     statusEl.className = 'status ready';
                 } else {
                     statusEl.textContent = 'Indexing...';
-                    // Re-check in 30s
                     setTimeout(checkStatus, 30000);
                 }
             } catch (e) {
@@ -270,7 +375,7 @@
         checkStatus();
 
         function askExample(btn) {
-            inputEl.value = btn.textContent;
+            inputEl.value = btn.textContent.replace(/^→\s*/, '');
             sendMessage();
         }
 
@@ -297,7 +402,6 @@
         }
 
         function formatContent(text) {
-            // Basic markdown-ish formatting
             return text
                 .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
                 .replace(/\*(.*?)\*/g, '<em>$1</em>')
@@ -308,7 +412,7 @@
             const div = document.createElement('div');
             div.className = 'typing';
             div.id = 'typing';
-            div.textContent = 'Thinking';
+            div.innerHTML = '<div class="typing-dot"></div><div class="typing-dot"></div><div class="typing-dot"></div>';
             chatEl.appendChild(div);
             chatEl.scrollTop = chatEl.scrollHeight;
         }
@@ -350,13 +454,11 @@
                 const data = await res.json();
                 addMessage('assistant', data.answer, data.sources);
 
-                // Update conversation history
                 conversationHistory.push(
                     { role: 'user', content: question },
                     { role: 'assistant', content: data.answer }
                 );
 
-                // Keep history manageable
                 if (conversationHistory.length > 20) {
                     conversationHistory = conversationHistory.slice(-20);
                 }
@@ -372,7 +474,6 @@
             }
         }
 
-        // Enter to send
         inputEl.addEventListener('keydown', (e) => {
             if (e.key === 'Enter' && !e.shiftKey) {
                 e.preventDefault();

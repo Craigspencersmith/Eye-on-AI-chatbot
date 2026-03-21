@@ -150,6 +150,10 @@ async def api_status():
         raise HTTPException(status_code=500, detail=str(e))
 
 
+# Serve static files (logo, etc.)
+app.mount("/static", StaticFiles(directory="static"), name="static")
+
+
 @app.get("/", response_class=HTMLResponse)
 async def serve_widget():
     """Serve the chat widget."""
