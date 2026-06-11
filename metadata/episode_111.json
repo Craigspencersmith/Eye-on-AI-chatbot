@@ -1,0 +1,93 @@
+{
+  "episode_profile": {
+    "title": "No-Code Revolution with Akkio",
+    "guest_name": "Akkio Team",
+    "guest_title": "No-Code AI Platform Developers",
+    "guest_organization": "Akkio",
+    "topic_summary": "This episode explores the rise of no-code platforms, particularly focusing on Akkio's approach to democratizing AI. The discussion highlights how no-code solutions empower users without technical expertise to leverage AI for data analysis and decision-making."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "data analytics"
+    ],
+    "industries": [
+      "technology",
+      "business"
+    ],
+    "policy_areas": [
+      "accessibility",
+      "innovation"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "No-code platforms like Akkio are transforming how businesses interact with AI by making it accessible to non-technical users.",
+      "speaker": "Akkio Team",
+      "context": "The team discusses the importance of accessibility in AI and how their platform enables users to create models without coding."
+    },
+    {
+      "claim": "The future of AI development will heavily rely on no-code solutions as they allow for rapid prototyping and deployment.",
+      "speaker": "Akkio Team",
+      "context": "The discussion emphasizes the speed and efficiency that no-code platforms bring to AI development."
+    },
+    {
+      "claim": "Akkio's platform is designed to integrate seamlessly with existing business workflows, enhancing productivity.",
+      "speaker": "Akkio Team",
+      "context": "The team explains how their platform fits into the daily operations of businesses, making AI tools more practical."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Akkio"
+    ],
+    "technologies": [
+      "no-code platforms",
+      "AI models"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to No-Code",
+      "summary": "The episode begins with an overview of what no-code platforms are and their significance in the AI landscape.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Akkio's Approach",
+      "summary": "The Akkio team discusses their unique approach to building a no-code AI platform and its features.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Impact on Businesses",
+      "summary": "The conversation shifts to how no-code solutions are impacting businesses and enabling data-driven decision-making.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Akkio"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "product demonstration",
+    "tone": "educational",
+    "notable_moments": [
+      "The team highlights a success story of a business that transformed its operations using Akkio."
+    ]
+  },
+  "_meta": {
+    "episode_number": 111,
+    "episode_date": "2022-10-20",
+    "rss_title": "NO-CODE WITH AKKIO",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:30:04Z",
+    "input_tokens": 61849,
+    "output_tokens": 652
+  }
+}

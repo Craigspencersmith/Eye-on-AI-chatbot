@@ -1,0 +1,123 @@
+{
+  "episode_profile": {
+    "title": "Mignon Clyburn on AI Workforce Challenges in Government",
+    "guest_name": "Mignon Clyburn",
+    "guest_title": "Former Commissioner",
+    "guest_organization": "Federal Communications Commission",
+    "topic_summary": "Mignon Clyburn discusses the critical shortage of AI knowledge and talent in the U.S. government, emphasizing the need for a digital workforce to address national security and modernization challenges. She outlines recommendations for creating a National Reserve Digital Corps and a Digital Service Academy to bridge the skills gap."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "AI workforce development",
+      "government AI applications"
+    ],
+    "industries": [
+      "government",
+      "education"
+    ],
+    "policy_areas": [
+      "workforce development",
+      "national security",
+      "education funding"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "There is a severe shortage of AI knowledge in the U.S. government, particularly in the Department of Defense.",
+      "speaker": "Mignon Clyburn",
+      "context": "Clyburn highlights the lack of a formal system to measure AI knowledge and the urgent need for skilled personnel."
+    },
+    {
+      "claim": "Government efforts to build a digital workforce have been inadequate and inefficient.",
+      "speaker": "Mignon Clyburn",
+      "context": "She discusses the challenges of agency-specific initiatives competing against each other and lacking scale."
+    },
+    {
+      "claim": "The proposed National Reserve Digital Corps aims to create a part-time workforce of digital experts for government service.",
+      "speaker": "Mignon Clyburn",
+      "context": "Clyburn explains the structure and rationale behind the NRDC, modeled after military reserves."
+    },
+    {
+      "claim": "A Digital Service Academy could provide a steady pipeline of digital talent into the federal government.",
+      "speaker": "Mignon Clyburn",
+      "context": "She argues that this academy would address the critical gaps in technical expertise needed for government modernization."
+    },
+    {
+      "claim": "Funding for educational programs and scholarships is crucial but must be competitive with existing programs.",
+      "speaker": "Mignon Clyburn",
+      "context": "Clyburn emphasizes the need for financial support to attract diverse talent into government roles."
+    },
+    {
+      "claim": "The government must face the reality of its talent shortages and invest in solutions to avoid higher costs in the future.",
+      "speaker": "Mignon Clyburn",
+      "context": "She stresses the importance of proactive investment in digital skills to meet national needs."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Federal Communications Commission",
+      "National Reserve Digital Corps",
+      "United States Digital Service Academy"
+    ],
+    "technologies": [
+      "AI"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Mignon Clyburn",
+      "summary": "Clyburn shares her background and experience in regulation and technology.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "AI Knowledge Shortage in Government",
+      "summary": "Discussion on the challenges of quantifying AI knowledge gaps in the government.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "National Reserve Digital Corps",
+      "summary": "Clyburn explains the concept and structure of the NRDC to address workforce shortages.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Digital Service Academy Proposal",
+      "summary": "Overview of the proposed academy aimed at training civil servants in technical fields.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Funding and Implementation Challenges",
+      "summary": "Clyburn discusses the financial considerations and potential obstacles for the proposed initiatives.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Federal Communications Commission"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Clyburn emphasizes the importance of scale in addressing AI workforce needs.",
+      "She highlights the need for government to be proactive in investing in digital talent."
+    ]
+  },
+  "_meta": {
+    "episode_number": 48,
+    "episode_date": "2020-08-12",
+    "rss_title": "Episode 48 - Mignon Clyburn",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:09:36Z",
+    "input_tokens": 6689,
+    "output_tokens": 955
+  }
+}

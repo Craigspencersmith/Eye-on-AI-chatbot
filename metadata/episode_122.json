@@ -1,0 +1,143 @@
+{
+  "episode_profile": {
+    "title": "Connor Leahy: Unveiling the Darker Side of AI",
+    "guest_name": "Connor Leahy",
+    "guest_title": "CEO",
+    "guest_organization": "Conjecture",
+    "topic_summary": "Connor Leahy discusses the existential risks posed by advanced AI systems, the importance of AI alignment, and the challenges of ensuring that AI behaves in ways that are beneficial to humanity. He shares insights from his work with EleutherAI and Conjecture, emphasizing the need for responsible development and regulation of AI technologies."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "AI alignment",
+      "large language models",
+      "machine learning"
+    ],
+    "industries": [
+      "technology",
+      "software development"
+    ],
+    "policy_areas": [
+      "regulation",
+      "ethics",
+      "safety"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The current trajectory of AI development is leading towards existential catastrophe.",
+      "speaker": "Connor Leahy",
+      "context": "Leahy argues that the race for more powerful AI systems is driven by personal gain and glory, neglecting safety and ethical considerations."
+    },
+    {
+      "claim": "AI systems can achieve agency and become intelligent, posing significant risks.",
+      "speaker": "Connor Leahy",
+      "context": "He highlights the capabilities of systems like AutoGPT and the potential for them to operate autonomously in harmful ways."
+    },
+    {
+      "claim": "The alignment problem is crucial and must be addressed to ensure AI systems act in humanity's best interest.",
+      "speaker": "Connor Leahy",
+      "context": "Leahy emphasizes that without proper alignment, powerful AI systems could act unpredictably and dangerously."
+    },
+    {
+      "claim": "Conjecture aims to develop AI systems that are bounded and can be understood by humans.",
+      "speaker": "Connor Leahy",
+      "context": "He describes the concept of cognitive emulation (CoEm) as a way to create AI that reasons and fails like humans, making it more controllable."
+    },
+    {
+      "claim": "The current funding and focus in AI research are heavily skewed towards capability advancement rather than safety.",
+      "speaker": "Connor Leahy",
+      "context": "Leahy points out that most resources are directed at developing more powerful AI without adequate safety measures."
+    },
+    {
+      "claim": "Regulatory oversight is necessary to slow down the development of potentially dangerous AI technologies.",
+      "speaker": "Connor Leahy",
+      "context": "He advocates for public awareness and government intervention to ensure responsible AI development."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Stella Biderman",
+      "Curtis Huebner",
+      "Shivanshu Purohit",
+      "Jack Clark"
+    ],
+    "organizations": [
+      "EleutherAI",
+      "Conjecture",
+      "OpenAI",
+      "Anthropic",
+      "Aleph Alpha"
+    ],
+    "technologies": [
+      "GPT-4",
+      "AutoGPT",
+      "NeoX",
+      "Pythia"
+    ],
+    "publications": [
+      "GPT-4 technical report"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Connor Leahy",
+      "summary": "Connor Leahy introduces himself and discusses his background with EleutherAI and his current work at Conjecture.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Risks of Advanced AI",
+      "summary": "Leahy outlines the existential risks associated with advanced AI systems and the importance of addressing these challenges.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI Alignment and Conjecture's Mission",
+      "summary": "The conversation shifts to the alignment problem and how Conjecture aims to tackle it through cognitive emulation.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Regulatory Oversight and Public Awareness",
+      "summary": "Leahy discusses the need for regulatory measures and public involvement in AI development to ensure safety.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI Development",
+      "summary": "The episode concludes with thoughts on the future of AI and the balance between capability and safety.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "GPT-4 technical report",
+      "authors": "OpenAI",
+      "context": "Leahy references the report to discuss the capabilities and safety evaluations of GPT-4."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Conjecture",
+      "EleutherAI"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Leahy's assertion that the race for AI development is leading to an existential catastrophe.",
+      "The discussion on how AI systems can achieve agency and the implications of that capability."
+    ]
+  },
+  "_meta": {
+    "episode_number": 122,
+    "episode_date": "2023-05-10",
+    "rss_title": "#122 Connor Leahy: Unveiling the Darker Side of AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:32:59Z",
+    "input_tokens": 13668,
+    "output_tokens": 1097
+  }
+}

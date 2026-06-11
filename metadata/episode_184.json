@@ -1,0 +1,124 @@
+{
+  "episode_profile": {
+    "title": "Building An Artificial Brain With 100 Billion Neurons",
+    "guest_name": "Andr\u00e9 van Schaik",
+    "guest_title": "Director",
+    "guest_organization": "International Center for Neuromorphic Computing, Western Sydney University",
+    "topic_summary": "In this episode, Andr\u00e9 van Schaik discusses the development of Deep South, a neuromorphic computing system designed to simulate 100 billion neurons in real time. He explains how this system mimics brain processes using spiking neurons and aims to enhance our understanding of brain computation and AI architectures."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "neuromorphic computing",
+      "spiking neural networks"
+    ],
+    "industries": [
+      "technology",
+      "research"
+    ],
+    "policy_areas": [],
+    "geographic_focus": [
+      "Australia"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Deep South aims to simulate the same number of neurons and inputs as a human brain, processing information at similar speeds.",
+      "speaker": "Andr\u00e9 van Schaik",
+      "context": "This claim highlights the ambitious goal of the Deep South system to replicate human brain functionality."
+    },
+    {
+      "claim": "Neuromorphic computing can significantly reduce energy consumption compared to traditional AI models.",
+      "speaker": "Andr\u00e9 van Schaik",
+      "context": "Andr\u00e9 explains that traditional AI models consume more energy due to constant data shuffling and lack of sparsity in signal processing."
+    },
+    {
+      "claim": "Deep South is built using commercial hardware, making it accessible for replication and use by researchers worldwide.",
+      "speaker": "Andr\u00e9 van Schaik",
+      "context": "This accessibility is crucial for fostering innovation and collaboration in neuromorphic computing research."
+    },
+    {
+      "claim": "The system is expected to achieve 220 trillion synaptic operations per second.",
+      "speaker": "Andr\u00e9 van Schaik",
+      "context": "This performance metric underscores the computational power of Deep South in simulating brain-like processes."
+    },
+    {
+      "claim": "Spiking neural networks can potentially unlock new AI architectures that are yet to be discovered.",
+      "speaker": "Andr\u00e9 van Schaik",
+      "context": "Andr\u00e9 believes that exploring spiking neural networks at scale could lead to breakthroughs in AI, similar to the evolution of transformer architectures."
+    },
+    {
+      "claim": "The initial focus of Deep South is to understand brain computation rather than to immediately apply it to AI tasks.",
+      "speaker": "Andr\u00e9 van Schaik",
+      "context": "This approach emphasizes the importance of foundational research in neuromorphic computing."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Geoff Hinton",
+      "Emerson Neftci"
+    ],
+    "organizations": [
+      "IBM",
+      "Intel",
+      "Oracle"
+    ],
+    "technologies": [
+      "TrueNorth",
+      "Loihi",
+      "FPGA"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Neuromorphic Computing",
+      "summary": "Andr\u00e9 van Schaik introduces the concept of neuromorphic computing and its differences from traditional computing architectures.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Deep South Overview",
+      "summary": "Discussion on the Deep South system, its capabilities, and its design principles.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Energy Efficiency and Performance",
+      "summary": "Exploration of how neuromorphic computing can reduce energy consumption compared to traditional AI models.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Research and Collaboration Opportunities",
+      "summary": "Andr\u00e9 discusses the potential for researchers to use Deep South and the importance of open-source hardware.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of Neuromorphic Computing",
+      "summary": "The conversation concludes with thoughts on the future applications of Deep South and the exploration of new AI architectures.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Western Sydney University"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Andr\u00e9 emphasizes the significance of understanding brain computation to advance AI.",
+      "The discussion on the energy efficiency of neuromorphic computing compared to traditional models."
+    ]
+  },
+  "_meta": {
+    "episode_number": 184,
+    "episode_date": "2024-05-01",
+    "rss_title": "#184 Andr\u00e9 van Schaik: Building An Artificial Brain With 100 Billion Neurons",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:52:39Z",
+    "input_tokens": 9379,
+    "output_tokens": 992
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "episode_profile": {
+    "title": "Stefano Ermon: Why Diffusion Language Models Will Define the Next Generation of LLMs",
+    "guest_name": "Stefano Ermon",
+    "guest_title": "CEO",
+    "guest_organization": "Inception",
+    "topic_summary": "Stefano Ermon discusses the advantages of diffusion language models over traditional autoregressive models, highlighting their efficiency in generating text and code. He explains the training process, the architecture's flexibility, and the potential for future advancements in generative AI."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "language models",
+      "machine learning"
+    ],
+    "industries": [
+      "technology",
+      "software development"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Diffusion language models can generate answers all at once, making them significantly faster than autoregressive models.",
+      "speaker": "Stefano Ermon",
+      "context": "Stefano explains the structural bottleneck of autoregressive models and how diffusion models overcome this limitation."
+    },
+    {
+      "claim": "Diffusion language models are more controllable than autoregressive models because they allow for real-time adjustments during the generation process.",
+      "speaker": "Stefano Ermon",
+      "context": "Stefano contrasts the generative processes of diffusion models with autoregressive models, emphasizing the ability to check constraints throughout generation."
+    },
+    {
+      "claim": "Diffusion language models are more data-efficient, requiring less training data to achieve high performance.",
+      "speaker": "Stefano Ermon",
+      "context": "Stefano discusses the training objectives of diffusion models and their ability to solve multiple tasks simultaneously."
+    },
+    {
+      "claim": "The future of generative AI may see a shift towards diffusion models as they scale better and offer lower latency.",
+      "speaker": "Stefano Ermon",
+      "context": "Stefano expresses optimism about the potential of diffusion models to surpass autoregressive models in various applications."
+    },
+    {
+      "claim": "Inception's Mercury model is currently leading in speed and quality for code completion tasks.",
+      "speaker": "Stefano Ermon",
+      "context": "Stefano highlights the performance of their model in external benchmarks compared to other LLMs."
+    },
+    {
+      "claim": "There is ongoing research to develop reasoning capabilities within diffusion language models.",
+      "speaker": "Stefano Ermon",
+      "context": "Stefano mentions the potential for reasoning diffusion models to enhance their performance in generative tasks."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Fei Fei Lee"
+    ],
+    "organizations": [
+      "Inception",
+      "Stanford University",
+      "Google",
+      "DeepMind"
+    ],
+    "technologies": [
+      "Mercury",
+      "flash attention"
+    ],
+    "publications": [
+      "flash attention paper"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Diffusion Models",
+      "summary": "Stefano introduces diffusion language models and their advantages over autoregressive models.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Training and Efficiency",
+      "summary": "Discussion on the training process of diffusion models and their data efficiency.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Applications in Code Generation",
+      "summary": "Exploration of how diffusion models are applied in coding tasks and their performance metrics.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future Directions",
+      "summary": "Stefano shares insights on the future of diffusion models, including reasoning capabilities and multimodality.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Challenges and Improvements",
+      "summary": "Discussion on the challenges of hallucinations in models and strategies for improvement.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "flash attention paper",
+      "authors": "Stefano Ermon et al.",
+      "context": "Stefano references this paper to explain the acceleration of computations in transformers."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Inception",
+      "Stanford University"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Stefano emphasizes the importance of speed and efficiency in the future of AI.",
+      "The discussion on the potential for reasoning capabilities in diffusion models is particularly striking."
+    ]
+  },
+  "_meta": {
+    "episode_number": 310,
+    "episode_date": "2026-01-04",
+    "rss_title": "#310 Stefano Ermon: Why Diffusion Language Models Will Define the Next Generation of LLMs",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:34:35Z",
+    "input_tokens": 10902,
+    "output_tokens": 1040
+  }
+}

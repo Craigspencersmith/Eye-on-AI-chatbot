@@ -1,0 +1,144 @@
+{
+  "episode_profile": {
+    "title": "Sharon Zhou: Inside AMD's Plan to Build Self-Improving AI",
+    "guest_name": "Sharon Zhou",
+    "guest_title": "VP of AI",
+    "guest_organization": "AMD",
+    "topic_summary": "Sharon Zhou discusses AMD's initiatives in self-improving AI, focusing on kernel optimization for GPUs and the challenges of catastrophic forgetting in AI models. She elaborates on the role of AI in enhancing hardware performance and the importance of making AI accessible to a broader audience."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "reinforcement learning",
+      "generative AI"
+    ],
+    "industries": [
+      "technology",
+      "semiconductors",
+      "AI research"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Self-improving AI involves models that can edit their own code and optimize their performance on hardware.",
+      "speaker": "Sharon Zhou",
+      "context": "Sharon explains the concept of self-improving AI and its implications for model efficiency."
+    },
+    {
+      "claim": "Catastrophic forgetting is a significant challenge in AI, especially during post-training without access to original data.",
+      "speaker": "Sharon Zhou",
+      "context": "She discusses the importance of retaining some pre-training data to mitigate forgetting."
+    },
+    {
+      "claim": "The optimization of kernels can lead to substantial performance improvements, potentially saving companies significant costs.",
+      "speaker": "Sharon Zhou",
+      "context": "Sharon highlights the economic impact of efficient kernel generation on AI workloads."
+    },
+    {
+      "claim": "AMD's open-source Rocm stack allows models to learn from data and improve kernel generation.",
+      "speaker": "Sharon Zhou",
+      "context": "She emphasizes the benefits of open-source frameworks in AI development."
+    },
+    {
+      "claim": "Reinforcement learning techniques can enhance the post-training phase of AI models, making them safer and more effective.",
+      "speaker": "Sharon Zhou",
+      "context": "Sharon discusses the application of RL in improving model behavior through human feedback."
+    },
+    {
+      "claim": "The future of AI may involve models autonomously optimizing their own kernels, leading to greater efficiency.",
+      "speaker": "Sharon Zhou",
+      "context": "She speculates on the potential for models to evolve and improve independently."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Andrew Ng",
+      "Jan Lakoon"
+    ],
+    "organizations": [
+      "AMD",
+      "Stanford",
+      "Meta",
+      "Google DeepMind",
+      "Nvidia",
+      "ML Commons",
+      "Deep Learning AI",
+      "Harvard University"
+    ],
+    "technologies": [
+      "kernel evolve",
+      "Rocm stack",
+      "RLHF",
+      "GRPO"
+    ],
+    "publications": [
+      "Alpha Evolve paper"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Self-Improving AI",
+      "summary": "Sharon defines self-improving AI and discusses its relevance to AMD's work.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Kernel Optimization Techniques",
+      "summary": "The conversation delves into how AI can assist in writing and optimizing kernel code for GPUs.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in AI Training",
+      "summary": "Sharon addresses the issue of catastrophic forgetting and the importance of data access.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Reinforcement Learning Applications",
+      "summary": "The discussion covers the role of reinforcement learning in enhancing AI models post-training.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future Directions in AI",
+      "summary": "Sharon speculates on the future of AI, including autonomous model improvements.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Alpha Evolve paper",
+      "authors": "",
+      "context": "Referenced as a foundational work for the techniques being discussed in kernel optimization."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "AMD",
+      "Stanford"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Sharon emphasizes the rarity of expertise in kernel engineering and its impact on AI development.",
+      "The discussion on catastrophic forgetting highlights the complexities of AI training."
+    ]
+  },
+  "_meta": {
+    "episode_number": 324,
+    "episode_date": "2026-02-27",
+    "rss_title": "#324 Sharon Zhou: Inside AMD's Plan to Build Self-Improving AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:40:51Z",
+    "input_tokens": 11331,
+    "output_tokens": 1027
+  }
+}

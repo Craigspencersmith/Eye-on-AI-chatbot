@@ -1,0 +1,140 @@
+{
+  "episode_profile": {
+    "title": "Benjamin Encz: How Ashby is Building the Future of Hiring with AI",
+    "guest_name": "Benjamin Encz",
+    "guest_title": "Co-founder and CEO",
+    "guest_organization": "Ashby",
+    "topic_summary": "Benjamin Encz discusses how Ashby is revolutionizing the hiring process through an AI-driven recruiting platform. He highlights the challenges faced in traditional hiring methods and how Ashby's technology addresses these issues by providing data analytics and automation to streamline recruitment."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "natural language processing",
+      "automation"
+    ],
+    "industries": [
+      "technology",
+      "human resources",
+      "professional services",
+      "financial services"
+    ],
+    "policy_areas": [
+      "ethics",
+      "data privacy"
+    ],
+    "geographic_focus": [
+      "United States",
+      "EMEA"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The hiring process is becoming increasingly competitive, requiring more sophisticated tools and data analytics.",
+      "speaker": "Benjamin Encz",
+      "context": "Encz explains the evolution of hiring practices and the need for companies to adapt to a data-driven approach."
+    },
+    {
+      "claim": "AI can significantly improve the efficiency of resume screening by identifying relevant skills and experiences.",
+      "speaker": "Benjamin Encz",
+      "context": "He discusses how Ashby's AI features assist in the initial resume review process, allowing hiring managers to focus on the most suitable candidates."
+    },
+    {
+      "claim": "Speed is crucial in the hiring process, as top candidates are often not on the market for long.",
+      "speaker": "Benjamin Encz",
+      "context": "Encz emphasizes the importance of reducing the time taken to move candidates through the interview process to secure top talent."
+    },
+    {
+      "claim": "The market for senior talent remains competitive, while there is an oversupply of entry-level candidates.",
+      "speaker": "Benjamin Encz",
+      "context": "He reflects on the current job market dynamics and the challenges faced by companies in hiring effectively."
+    },
+    {
+      "claim": "Ashby aims to automate tedious aspects of the hiring process, allowing recruiters to focus on candidate evaluation.",
+      "speaker": "Benjamin Encz",
+      "context": "Encz outlines Ashby's mission to streamline recruitment through automation and data analysis."
+    },
+    {
+      "claim": "The integration of AI in hiring processes is not just about efficiency but also about improving the candidate experience.",
+      "speaker": "Benjamin Encz",
+      "context": "He discusses how Ashby is working to humanize the hiring process by providing better feedback to candidates."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Mark Zuckerberg",
+      "Craig Smith"
+    ],
+    "organizations": [
+      "Ashby",
+      "Shopify",
+      "Snowflake",
+      "OpenAI"
+    ],
+    "technologies": [
+      "LLMs",
+      "AI",
+      "applicant tracking system"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Ashby",
+      "summary": "Benjamin Encz introduces himself and Ashby, explaining the company's focus on improving the hiring process through technology.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Challenges in Traditional Hiring",
+      "summary": "Encz discusses the limitations of existing recruiting tools and the need for data-driven decision-making in hiring.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI and Resume Screening",
+      "summary": "The conversation shifts to how Ashby's AI features assist in the resume review process, enhancing efficiency.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Market Dynamics and Talent Acquisition",
+      "summary": "Encz shares insights on the current job market, focusing on the competition for senior talent and the oversupply of entry-level candidates.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of Hiring with AI",
+      "summary": "The discussion concludes with Encz outlining Ashby's vision for the future of hiring and the role of AI in transforming recruitment.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Quality of Hire Surveys",
+      "authors": "",
+      "context": "Encz mentions the implementation of surveys to assess the quality of hires and improve the recruitment process."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Ashby"
+    ],
+    "funding_sources": [
+      "Venture capital"
+    ],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "collegial",
+    "notable_moments": [
+      "Encz emphasizes the importance of speed in the hiring process.",
+      "The discussion on how AI can enhance the candidate experience."
+    ]
+  },
+  "_meta": {
+    "episode_number": 273,
+    "episode_date": "2025-07-24",
+    "rss_title": "#273 Benjamin Encz: How Ashby is Building the Future of Hiring with AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:22:04Z",
+    "input_tokens": 11673,
+    "output_tokens": 1056
+  }
+}

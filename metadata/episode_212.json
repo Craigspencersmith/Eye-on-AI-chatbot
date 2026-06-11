@@ -1,0 +1,143 @@
+{
+  "episode_profile": {
+    "title": "The Future of Machine Learning, Deep Learning and Computer Vision",
+    "guest_name": "Thomas Dietterich",
+    "guest_title": "Professor of Computer Science",
+    "guest_organization": "Oregon State University",
+    "topic_summary": "Thomas Dietterich discusses the evolution of machine learning, focusing on its applications in computer vision and drug design. He emphasizes the importance of addressing the challenges of novelty in AI systems and explores the potential of generative AI and transformer models."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "deep learning",
+      "computer vision",
+      "reinforcement learning",
+      "generative AI"
+    ],
+    "industries": [
+      "pharmaceuticals",
+      "ecology",
+      "materials science"
+    ],
+    "policy_areas": [
+      "safety",
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The development of novel materials and drugs will have a transformative impact on the economy.",
+      "speaker": "Thomas Dietterich",
+      "context": "Dietterich believes that advancements in these areas will significantly enhance capabilities in various sectors."
+    },
+    {
+      "claim": "AI systems are fundamentally conservative and backward-looking, which makes them vulnerable to novelty.",
+      "speaker": "Thomas Dietterich",
+      "context": "He highlights the limitations of AI systems that rely on past data and struggle with new, unseen scenarios."
+    },
+    {
+      "claim": "Deep learning models tend to learn representations only for the data they have seen, which limits their ability to recognize novel categories.",
+      "speaker": "Thomas Dietterich",
+      "context": "Dietterich discusses the challenges faced by deep learning in recognizing new objects or categories."
+    },
+    {
+      "claim": "Self-supervised learning and foundation models could help AI systems better handle novelty.",
+      "speaker": "Thomas Dietterich",
+      "context": "He suggests that training models on a wide variety of objects can improve their adaptability to new situations."
+    },
+    {
+      "claim": "Uncertainty quantification is crucial for the reliability of AI systems, especially in safety-critical applications.",
+      "speaker": "Thomas Dietterich",
+      "context": "Dietterich emphasizes the need for AI systems to accurately assess their uncertainty to ensure safe operations."
+    },
+    {
+      "claim": "Neurosymbolic approaches could enhance AI by combining the strengths of symbolic reasoning and statistical learning.",
+      "speaker": "Thomas Dietterich",
+      "context": "He discusses the potential benefits of integrating symbolic reasoning with modern AI techniques."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Arthur Samuel",
+      "Carla Gomez",
+      "Rich Sutton",
+      "Yann LeCun",
+      "Tom Griffith",
+      "Tom McCoy"
+    ],
+    "organizations": [
+      "IBM",
+      "Cornell University",
+      "National Science Foundation",
+      "Oregon State University"
+    ],
+    "technologies": [
+      "ImageNet",
+      "vision transformer",
+      "convolutional neural networks",
+      "large language models",
+      "symbolic regression"
+    ],
+    "publications": [
+      "Embers of Autoregression"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Machine Learning",
+      "summary": "Dietterich shares his background in machine learning and the historical context of the field.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Challenges of Novelty in AI",
+      "summary": "The discussion focuses on the limitations of AI systems in dealing with new and unseen data.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Advancements in Drug Design and Materials Science",
+      "summary": "Dietterich highlights the potential impact of AI on drug design and the development of novel materials.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Uncertainty Quantification in AI",
+      "summary": "The importance of uncertainty quantification for safety-critical applications is discussed.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Neurosymbolic Approaches",
+      "summary": "Dietterich explores the integration of symbolic reasoning with AI and its potential benefits.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Oregon State University"
+    ],
+    "funding_sources": [
+      "National Science Foundation"
+    ],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Dietterich emphasizes the need for AI systems to handle novelty effectively.",
+      "He discusses the transformative potential of novel materials and drugs."
+    ]
+  },
+  "_meta": {
+    "episode_number": 212,
+    "episode_date": "2024-10-09",
+    "rss_title": "#212 Thomas Dietterich: The Future of Machine Learning, Deep Learning and Computer Vision",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:02:12Z",
+    "input_tokens": 11632,
+    "output_tokens": 1034
+  }
+}

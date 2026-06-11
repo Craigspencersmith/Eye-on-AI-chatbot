@@ -1,0 +1,131 @@
+{
+  "episode_profile": {
+    "title": "DeepMind for Science: Protein Annotation with AI",
+    "guest_name": "Max Bileschi",
+    "guest_title": "Staff Software Engineer",
+    "guest_organization": "Google Research",
+    "topic_summary": "Max Bileschi discusses his work at Google Research on using deep learning to annotate protein functions based on amino acid sequences. He explains how this approach complements existing methods like AlphaFold and its potential applications in healthcare and biological research."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "deep learning",
+      "bioinformatics"
+    ],
+    "industries": [
+      "healthcare",
+      "biotechnology"
+    ],
+    "policy_areas": [
+      "research funding",
+      "industry-academia collaboration"
+    ],
+    "geographic_focus": [
+      "United States",
+      "Europe"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Machine learning can significantly enhance the annotation of protein functions, which is crucial given the vast amount of genomic data available.",
+      "speaker": "Max Bileschi",
+      "context": "Bileschi emphasizes the limitations of traditional methods and the need for computational approaches to keep pace with the growing data."
+    },
+    {
+      "claim": "The collaboration between machine learning and bioinformatics can lead to breakthroughs in understanding protein functions and developing new therapeutics.",
+      "speaker": "Max Bileschi",
+      "context": "Bileschi discusses how their work with the Pfam database has led to partnerships that enhance the accuracy of protein annotations."
+    },
+    {
+      "claim": "The method they developed allows for rapid annotation of proteins, potentially processing thousands of sequences per second.",
+      "speaker": "Max Bileschi",
+      "context": "Bileschi explains the efficiency of their convolutional neural network approach compared to traditional methods."
+    },
+    {
+      "claim": "There is a significant portion of proteins whose functions remain unknown, and their method aims to predict these functions reliably.",
+      "speaker": "Max Bileschi",
+      "context": "Bileschi highlights the importance of their research in uncovering the roles of previously unannotated proteins."
+    },
+    {
+      "claim": "The integration of AlphaFold's structural predictions with their functional annotations can provide deeper insights into protein biology.",
+      "speaker": "Max Bileschi",
+      "context": "Bileschi describes how their work complements AlphaFold's focus on protein structure."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Pushmeet Kohli"
+    ],
+    "organizations": [
+      "Google",
+      "Twitter",
+      "Pfam",
+      "European Bioinformatics Institute",
+      "DeepMind"
+    ],
+    "technologies": [
+      "AlphaFold",
+      "dilated convolutional neural network"
+    ],
+    "publications": [
+      "pre-print on protein annotation"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Max Bileschi",
+      "summary": "Max shares his background and journey into machine learning and bioinformatics.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Current Research Project",
+      "summary": "Discussion on the project focused on using machine learning to annotate protein functions.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Methodology and Techniques",
+      "summary": "Bileschi explains the technical aspects of their approach, including the use of convolutional neural networks.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Collaboration with Pfam",
+      "summary": "The importance of partnerships in validating and enhancing their research outcomes.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future Directions and Applications",
+      "summary": "Exploration of potential applications of their research in healthcare and biotechnology.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "pre-print on protein annotation",
+      "authors": "Max Bileschi et al.",
+      "context": "Referenced as a significant contribution to the field of protein function annotation."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Google Research"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Bileschi's insights on the importance of machine learning in bioinformatics.",
+      "The discussion on the collaboration with the Pfam database and its impact on their research."
+    ]
+  },
+  "_meta": {
+    "episode_number": 94,
+    "episode_date": "2022-02-16",
+    "rss_title": "DeepMind for Science, sponsored by Clear.ML",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:24:14Z",
+    "input_tokens": 6557,
+    "output_tokens": 973
+  }
+}

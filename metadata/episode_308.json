@@ -1,0 +1,135 @@
+{
+  "episode_profile": {
+    "title": "Christopher Bergey: How Arm Enables AI to Run Directly on Devices",
+    "guest_name": "Christopher Bergey",
+    "guest_title": "Senior Vice President, General Manager of the Client Line of Business",
+    "guest_organization": "ARM",
+    "topic_summary": "Christopher Bergey discusses the evolution of ARM's architecture and its role in enabling AI directly on edge devices. He highlights the importance of heterogeneous computing, the advancements in ARM's V9 architecture, and the future of AI applications in various sectors."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "edge AI",
+      "heterogeneous computing"
+    ],
+    "industries": [
+      "semiconductors",
+      "consumer electronics",
+      "automotive"
+    ],
+    "policy_areas": [],
+    "geographic_focus": [
+      "United States",
+      "China",
+      "Europe",
+      "Taiwan",
+      "South Korea"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The ARM architecture has evolved significantly over the last 30 years, becoming essential for edge devices and AI applications.",
+      "speaker": "Christopher Bergey",
+      "context": "Bergey discusses the historical significance of ARM and its current role in the semiconductor industry."
+    },
+    {
+      "claim": "Heterogeneous computing is crucial for optimizing AI workloads across different processing units like CPUs, GPUs, and NPUs.",
+      "speaker": "Christopher Bergey",
+      "context": "Bergey explains how ARM's architecture supports efficient workload distribution among various processing units."
+    },
+    {
+      "claim": "AI applications are increasingly moving to the edge to improve performance, reduce latency, and enhance user experience.",
+      "speaker": "Christopher Bergey",
+      "context": "Bergey emphasizes the need for on-device AI processing to overcome connectivity issues and improve responsiveness."
+    },
+    {
+      "claim": "The future of AI will involve smaller, more efficient models that can run on edge devices without compromising performance.",
+      "speaker": "Christopher Bergey",
+      "context": "Bergey discusses the challenges and innovations in making AI models suitable for edge computing."
+    },
+    {
+      "claim": "ARM is focused on making its CPUs more AI-friendly and developer-friendly to foster innovation in AI applications.",
+      "speaker": "Christopher Bergey",
+      "context": "Bergey highlights ARM's commitment to supporting developers and enhancing the usability of its architecture."
+    },
+    {
+      "claim": "The integration of AI into everyday devices will fundamentally change how users interact with technology.",
+      "speaker": "Christopher Bergey",
+      "context": "Bergey uses analogies to illustrate how AI will become an essential part of user interfaces in the future."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Ian Buck",
+      "Jensen Huang"
+    ],
+    "organizations": [
+      "Apple",
+      "Nokia",
+      "Nintendo",
+      "Meta",
+      "Oracle",
+      "Cohair",
+      "Thompson Reuters"
+    ],
+    "technologies": [
+      "ARM architecture",
+      "V9 architecture",
+      "Lumix platform",
+      "CUDA",
+      "GB10",
+      "HBM"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to ARM and AI",
+      "summary": "Christopher Bergey introduces himself and discusses ARM's role in the semiconductor industry and AI.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Heterogeneous Computing Explained",
+      "summary": "Bergey explains the concept of heterogeneous computing and its importance for AI workloads.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "The Future of AI at the Edge",
+      "summary": "Discussion on the shift of AI applications to edge devices and the implications for user experience.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in AI Model Optimization",
+      "summary": "Bergey addresses the challenges of optimizing AI models for edge computing and the innovations being pursued.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "The Role of Developers in AI Innovation",
+      "summary": "Bergey emphasizes the importance of the developer community in leveraging ARM's architecture for AI applications.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "ARM"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Bergey compares the future of AI interaction to the introduction of touch screens, emphasizing the need for devices to be AI-enabled."
+    ]
+  },
+  "_meta": {
+    "episode_number": 308,
+    "episode_date": "2025-12-19",
+    "rss_title": "#308 Christopher Bergey: How Arm Enables AI to Run Directly on Devices",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:33:51Z",
+    "input_tokens": 11314,
+    "output_tokens": 1021
+  }
+}

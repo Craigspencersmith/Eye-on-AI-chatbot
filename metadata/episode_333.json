@@ -1,0 +1,137 @@
+{
+  "episode_profile": {
+    "title": "Shadow AI Meets Enterprise Controls",
+    "guest_name": "Adi Kuruganti",
+    "guest_title": "Chief AI and Development Officer",
+    "guest_organization": "Automation Anywhere",
+    "topic_summary": "The episode discusses the challenges and opportunities of integrating agentic AI into enterprise processes. Adi Kuruganti explains how Automation Anywhere is leveraging AI to enhance operational productivity, compliance, and governance while addressing the rapid evolution of AI technologies."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "agentic AI",
+      "automation",
+      "machine learning"
+    ],
+    "industries": [
+      "enterprise software",
+      "financial services",
+      "healthcare"
+    ],
+    "policy_areas": [
+      "governance",
+      "compliance",
+      "data protection"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "Enterprises are struggling with agentic AI due to a combination of promise and mistrust.",
+      "speaker": "Adi Kuruganti",
+      "context": "This claim highlights the dual nature of AI's potential and the hesitance of organizations to fully embrace it."
+    },
+    {
+      "claim": "Gartner predicts that by 2026, 80% of unauthorized AI transactions will stem from internal policy violations.",
+      "speaker": "Adi Kuruganti",
+      "context": "This statistic underscores the importance of governance in the face of rapid AI adoption."
+    },
+    {
+      "claim": "The combination of deterministic automation and agentic AI is essential for mission-critical processes.",
+      "speaker": "Adi Kuruganti",
+      "context": "Kuruganti emphasizes that both types of automation are necessary to achieve optimal outcomes in enterprise settings."
+    },
+    {
+      "claim": "The journey to an autonomous enterprise will take three to five years, requiring significant change management.",
+      "speaker": "Adi Kuruganti",
+      "context": "This timeframe reflects the complexity of integrating AI into existing workflows and the need for organizational adaptation."
+    },
+    {
+      "claim": "Customers must focus on outcomes rather than just technology when implementing agentic AI.",
+      "speaker": "Adi Kuruganti",
+      "context": "This claim stresses the importance of aligning AI initiatives with business goals to ensure success."
+    },
+    {
+      "claim": "The barriers to using AI are decreasing, making it more accessible for non-technical users.",
+      "speaker": "Adi Kuruganti",
+      "context": "This observation points to the evolving nature of AI tools and their usability for a broader audience."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Sam Altman"
+    ],
+    "organizations": [
+      "Salesforce",
+      "Gartner",
+      "OpenAI",
+      "Anthropic",
+      "SAP",
+      "ServiceNow"
+    ],
+    "technologies": [
+      "Generative AI",
+      "RPA",
+      "MCP",
+      "Mozart Orchestrator"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Agentic AI",
+      "summary": "Adi Kuruganti introduces the concept of agentic AI and its implications for enterprises.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Automation Anywhere's Role",
+      "summary": "Discussion on how Automation Anywhere is leveraging agentic AI to enhance enterprise automation.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in AI Adoption",
+      "summary": "Kuruganti outlines the challenges enterprises face when deploying agentic AI at scale.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of Autonomous Enterprises",
+      "summary": "Exploration of the vision for autonomous enterprises and the timeline for achieving it.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Governance and Compliance",
+      "summary": "The importance of governance and compliance in the context of AI integration is discussed.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Gartner's prediction on unauthorized AI transactions",
+      "authors": "",
+      "context": "This statistic was referenced to highlight the risks associated with AI adoption in enterprises."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Automation Anywhere"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Kuruganti emphasizes the need for a combination of deterministic and agentic AI.",
+      "The discussion on the evolving landscape of AI tools and their accessibility for non-technical users."
+    ]
+  },
+  "_meta": {
+    "episode_number": 333,
+    "episode_date": "2026-04-15",
+    "rss_title": "(interpolated between ep332 and ep334)",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:44:05Z",
+    "input_tokens": 12629,
+    "output_tokens": 1016
+  }
+}

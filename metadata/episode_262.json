@@ -1,0 +1,138 @@
+{
+  "episode_profile": {
+    "title": "Deepak Chopra: How to Use AI to Expand Human Consciousness",
+    "guest_name": "Deepak Chopra",
+    "guest_title": "Medical Doctor, Author, and Spiritual Teacher",
+    "guest_organization": "Self",
+    "topic_summary": "Deepak Chopra discusses the intersection of artificial intelligence and human consciousness, emphasizing how AI can serve as a tool for spiritual awakening and well-being. He explores the potential of AI to enhance personal health and spiritual practices while addressing the challenges and ethical considerations of integrating technology into human experience."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "natural language processing"
+    ],
+    "industries": [
+      "healthcare",
+      "wellness",
+      "technology"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI can create a map for individuals to navigate their spiritual journeys, but it cannot provide the experience itself.",
+      "speaker": "Deepak Chopra",
+      "context": "Chopra emphasizes the role of AI as a facilitator for personal exploration rather than a replacement for human experience."
+    },
+    {
+      "claim": "The future of well-being can be very personal, predictive, and preventive, addressing over 95% of medical and psychological issues.",
+      "speaker": "Deepak Chopra",
+      "context": "Chopra discusses the potential of AI and digital twins in personalized healthcare."
+    },
+    {
+      "claim": "Consciousness is fundamental and exists outside of space and time, while the physical world is a human construct.",
+      "speaker": "Deepak Chopra",
+      "context": "Chopra argues that our understanding of reality is shaped by consciousness, challenging traditional views of materialism."
+    },
+    {
+      "claim": "AI can simulate empathy and compassion, which are inherent qualities of consciousness, but it cannot truly possess them.",
+      "speaker": "Deepak Chopra",
+      "context": "Chopra reflects on the limitations of AI in replicating genuine human emotional experiences."
+    },
+    {
+      "claim": "AI has the potential to foster a spiritual awakening by allowing individuals to explore the commonalities of spiritual traditions.",
+      "speaker": "Deepak Chopra",
+      "context": "Chopra envisions a future where AI helps bridge gaps between different religious beliefs."
+    },
+    {
+      "claim": "The integration of AI in healthcare can lead to significant advancements in diagnosing and treating chronic diseases.",
+      "speaker": "Deepak Chopra",
+      "context": "Chopra highlights the importance of holistic approaches in medicine that consider lifestyle and emotional factors."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Sam Altman",
+      "Roger Penrose",
+      "Stuart Hameroff"
+    ],
+    "organizations": [
+      "OpenAI",
+      "Mount Sinai Hospital",
+      "University of California, San Diego",
+      "University of Central Florida"
+    ],
+    "technologies": [
+      "Deepak Chopraai"
+    ],
+    "publications": [
+      "Digital Dharma: How to Use AI for Wellbeing and Spiritual Intelligence"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to AI and Consciousness",
+      "summary": "Deepak Chopra introduces his views on AI's role in enhancing human consciousness and spiritual well-being.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Role of AI in Health and Well-being",
+      "summary": "Chopra discusses how AI can personalize healthcare and improve overall well-being through digital twins.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Consciousness and Reality",
+      "summary": "Chopra explores the nature of consciousness, arguing that it is fundamental and exists beyond physical constructs.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Empathy and AI Limitations",
+      "summary": "Chopra reflects on the ability of AI to simulate empathy but emphasizes its lack of genuine emotional understanding.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Spiritual Awakening through AI",
+      "summary": "Chopra envisions a future where AI facilitates spiritual exploration and understanding across different traditions.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Digital Dharma: How to Use AI for Wellbeing and Spiritual Intelligence",
+      "authors": "Deepak Chopra",
+      "context": "Chopra references his book to illustrate how AI can be utilized for personal growth and spiritual exploration."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Mount Sinai Hospital",
+      "University of California, San Diego",
+      "University of Central Florida"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "philosophical discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Chopra's assertion that consciousness is fundamental and exists outside of space and time.",
+      "The idea that AI can facilitate spiritual exploration but cannot replace human experience."
+    ]
+  },
+  "_meta": {
+    "episode_number": 262,
+    "episode_date": "2025-06-15",
+    "rss_title": "#262 Deepak Chopra: How to Use AI to Expand Human Consciousness",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:18:10Z",
+    "input_tokens": 9515,
+    "output_tokens": 1116
+  }
+}

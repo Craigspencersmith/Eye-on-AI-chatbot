@@ -1,0 +1,133 @@
+{
+  "episode_profile": {
+    "title": "Matthew Carroll: Immuta's Approach to Secure, Scalable Data Access in the Age of AI",
+    "guest_name": "Matthew Carroll",
+    "guest_title": "CEO",
+    "guest_organization": "Immuta",
+    "topic_summary": "Matthew Carroll discusses Immuta's innovative platform for managing data access and security in the context of generative AI. He emphasizes the importance of governance, legal compliance, and the challenges posed by the increasing number of data consumers in enterprises."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "data governance",
+      "generative AI",
+      "cloud computing"
+    ],
+    "industries": [
+      "healthcare",
+      "pharmaceuticals",
+      "finance"
+    ],
+    "policy_areas": [
+      "regulation",
+      "data privacy",
+      "data sovereignty"
+    ],
+    "geographic_focus": [
+      "United States",
+      "China",
+      "European Union",
+      "Brazil"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The rise of generative AI has significantly increased the number of data consumers, complicating data governance.",
+      "speaker": "Matthew Carroll",
+      "context": "Carroll explains how the accessibility of AI tools has expanded data access beyond technical experts to a much larger audience."
+    },
+    {
+      "claim": "Immuta's platform allows non-technical users to create data access policies through a user-friendly interface.",
+      "speaker": "Matthew Carroll",
+      "context": "He describes how the platform enables users to manage data governance without needing to write code."
+    },
+    {
+      "claim": "Data sovereignty laws vary significantly across countries, impacting how data can be shared internationally.",
+      "speaker": "Matthew Carroll",
+      "context": "Carroll discusses the implications of different legal frameworks on data management for global companies."
+    },
+    {
+      "claim": "AI will play a crucial role in automating data access decisions to handle the increasing volume of requests.",
+      "speaker": "Matthew Carroll",
+      "context": "He highlights the need for AI to assist data governors in managing the scale of data access requests."
+    },
+    {
+      "claim": "Future data governance will shift towards a risk-based approach rather than strict regulatory compliance.",
+      "speaker": "Matthew Carroll",
+      "context": "Carroll predicts that as AI becomes more integral to data management, the focus will shift to managing risks associated with data sharing."
+    },
+    {
+      "claim": "The technology for data storage is advancing rapidly, making it more cost-effective to retain large volumes of data.",
+      "speaker": "Matthew Carroll",
+      "context": "He notes that while storage costs are decreasing, the costs associated with compute resources remain significant."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Immuta",
+      "Oracle",
+      "Thompson Reuters",
+      "Cohair",
+      "Specialized Bikes",
+      "Snowflake",
+      "DataBricks"
+    ],
+    "technologies": [
+      "Oracle Cloud Infrastructure",
+      "Apache Iceberg"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Immuta",
+      "summary": "Matthew Carroll introduces Immuta and its role in data governance and security in the age of AI.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Data Governance Challenges",
+      "summary": "Discussion on the complexities of data governance as the number of data consumers increases.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Use Cases in Healthcare",
+      "summary": "Carroll provides examples of how Immuta's platform is used in clinical trials and pharmaceutical data management.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "International Data Sovereignty",
+      "summary": "Exploration of how different countries' data sovereignty laws affect global data sharing.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of Data Governance",
+      "summary": "Predictions on the evolution of data governance towards a risk-based approach and the role of AI.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Immuta"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Carroll emphasizes the importance of governance in the age of AI.",
+      "He discusses the challenges of managing data access in large organizations."
+    ]
+  },
+  "_meta": {
+    "episode_number": 279,
+    "episode_date": "2025-08-14",
+    "rss_title": "#279 Matthew Carroll: Immuta's Approach to Secure, Scalable Data Access in the Age of AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:23:53Z",
+    "input_tokens": 13130,
+    "output_tokens": 988
+  }
+}

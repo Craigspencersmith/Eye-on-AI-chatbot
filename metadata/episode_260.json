@@ -1,0 +1,138 @@
+{
+  "episode_profile": {
+    "title": "Ash Anwar: How Molecular You Uses AI for Early Disease Detection",
+    "guest_name": "Ash Anwar",
+    "guest_title": "Co-founder and Senior Director of Scientific Research and Development",
+    "guest_organization": "Molecular U",
+    "topic_summary": "In this episode, Ash Anwar discusses how Molecular U leverages AI to identify early biomarkers for diseases, enabling proactive health management. He explains the importance of tracking biomarkers over time to predict health outcomes and improve longevity."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "predictive analytics"
+    ],
+    "industries": [
+      "healthcare",
+      "biotechnology"
+    ],
+    "policy_areas": [
+      "health regulation",
+      "personalized medicine"
+    ],
+    "geographic_focus": [
+      "United States",
+      "Canada"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Molecular U focuses on identifying early indicators of disease rather than waiting for symptoms to appear.",
+      "speaker": "Ash Anwar",
+      "context": "This approach allows for proactive health management and potentially reversing early damage."
+    },
+    {
+      "claim": "The company tracks over 250 biomarkers, with plans to increase this to 800, using advanced mass spectrometry technology.",
+      "speaker": "Ash Anwar",
+      "context": "This extensive tracking enables a more comprehensive understanding of individual health trajectories."
+    },
+    {
+      "claim": "Longitudinal tracking of biomarkers can significantly enhance the accuracy of disease predictions.",
+      "speaker": "Ash Anwar",
+      "context": "By analyzing changes over time, the models can better identify risk factors for chronic diseases."
+    },
+    {
+      "claim": "Molecular U does not rely on genetic testing, focusing instead on dynamic biomarkers that reflect real-time health changes.",
+      "speaker": "Ash Anwar",
+      "context": "This approach aims to empower individuals to take control of their health through actionable insights."
+    },
+    {
+      "claim": "The case of a patient whose pancreatic cancer was detected at stage one illustrates the effectiveness of their biomarker tracking.",
+      "speaker": "Ash Anwar",
+      "context": "This success story highlights the potential of early detection in improving treatment outcomes."
+    },
+    {
+      "claim": "Molecular U provides personalized action plans based on biomarker results to help individuals optimize their health.",
+      "speaker": "Ash Anwar",
+      "context": "These plans include dietary, exercise, and supplement recommendations tailored to individual needs."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Eric Topol"
+    ],
+    "organizations": [
+      "Molecular U",
+      "Harvard Medical School",
+      "Simon Fraser University",
+      "University of British Columbia"
+    ],
+    "technologies": [
+      "mass spectrometry",
+      "support vector machines"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Molecular U",
+      "summary": "Ash Anwar introduces himself and explains the mission of Molecular U in disease detection.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Biomarkers and Disease Prediction",
+      "summary": "Discussion on how Molecular U uses biomarkers to predict diseases before symptoms arise.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Case Study: Pancreatic Cancer Detection",
+      "summary": "Anwar shares a success story of early pancreatic cancer detection through biomarker tracking.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Personalized Health Action Plans",
+      "summary": "Overview of how Molecular U provides actionable insights based on biomarker results.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future Directions and Competitors",
+      "summary": "Discussion on the future of Molecular U and its competitive landscape in the biomarker testing industry.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Super Agers",
+      "authors": "Eric Topol",
+      "context": "Referenced in relation to the potential of technology in predicting disease onset."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Molecular U",
+      "Harvard Medical School",
+      "Simon Fraser University",
+      "University of British Columbia"
+    ],
+    "funding_sources": [
+      "Series A funding"
+    ],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "The success story of a patient whose pancreatic cancer was detected at stage one.",
+      "The emphasis on actionable insights derived from biomarker data."
+    ]
+  },
+  "_meta": {
+    "episode_number": 260,
+    "episode_date": "2025-06-09",
+    "rss_title": "#260 Ash Anwar: How Molecular You Uses AI for Early Disease Detection",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:17:16Z",
+    "input_tokens": 9917,
+    "output_tokens": 1013
+  }
+}

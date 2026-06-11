@@ -1,0 +1,137 @@
+{
+  "episode_profile": {
+    "title": "Rejuvenating Cells: The Future of Stem Cell Therapy",
+    "guest_name": "Vittorio Sebastiano",
+    "guest_title": "Assistant Professor of Stem Cell Biology",
+    "guest_organization": "Stanford University",
+    "topic_summary": "Vittorio Sebastiano discusses groundbreaking techniques in stem cell biology that can rejuvenate old or damaged cells using gene expression. He explores the implications for treating diseases and the potential for machine learning collaborations to enhance research."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "bioinformatics"
+    ],
+    "industries": [
+      "biotechnology",
+      "healthcare"
+    ],
+    "policy_areas": [
+      "ethics",
+      "regulation"
+    ],
+    "geographic_focus": [
+      "United States",
+      "Italy"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The Yamanaka factors can reset the epigenetic information of cells, effectively rejuvenating them without altering their genetic code.",
+      "speaker": "Vittorio Sebastiano",
+      "context": "This claim was made while discussing the mechanisms of cellular reprogramming and its implications for regenerative medicine."
+    },
+    {
+      "claim": "By using induced pluripotent stem cells (iPSCs), we can create personalized therapies that do not require harvesting stem cells from embryos.",
+      "speaker": "Vittorio Sebastiano",
+      "context": "This was highlighted in the context of developing personalized medical treatments."
+    },
+    {
+      "claim": "The potential to reset cellular age could lead to breakthroughs in treating age-related diseases and improving overall healthspan.",
+      "speaker": "Vittorio Sebastiano",
+      "context": "This claim was made while discussing the broader implications of his research on aging and disease."
+    },
+    {
+      "claim": "The technology could potentially allow for the regeneration of tissues that currently cannot regenerate, even in young individuals.",
+      "speaker": "Vittorio Sebastiano",
+      "context": "This was mentioned in relation to spinal cord injuries and other non-regenerative tissues."
+    },
+    {
+      "claim": "The approach could be used to enhance the immune response in older individuals, potentially preventing severe outcomes from infections like COVID-19.",
+      "speaker": "Vittorio Sebastiano",
+      "context": "This claim was made while discussing the implications of his research in the context of the COVID-19 pandemic."
+    },
+    {
+      "claim": "AI could play a significant role in understanding aging at the molecular level and developing targeted therapies.",
+      "speaker": "Vittorio Sebastiano",
+      "context": "This was discussed in the context of future research directions and the need for collaboration with machine learning experts."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Shinya Yamanaka",
+      "Hans Sch\u00f6ler"
+    ],
+    "organizations": [
+      "Stanford University",
+      "Turn BioTechnologies",
+      "Methuselah Foundation"
+    ],
+    "technologies": [
+      "Yamanaka factors",
+      "induced pluripotent stem cells (iPSCs)",
+      "messenger RNAs (mRNAs)"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Stem Cell Research",
+      "summary": "Vittorio shares his background and journey into stem cell biology, highlighting key influences and experiences.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Understanding Yamanaka Factors",
+      "summary": "A detailed explanation of Yamanaka factors and their role in cellular reprogramming and rejuvenation.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Applications of Rejuvenation Techniques",
+      "summary": "Discussion on the potential applications of rejuvenated cells in treating diseases and enhancing health.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future Directions and AI Integration",
+      "summary": "Exploration of future research directions, including the integration of AI in understanding aging and developing therapies.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Company Development and Funding",
+      "summary": "Vittorio discusses the founding of Turn BioTechnologies and its mission to translate research into therapies.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "The Nobel Prize in Physiology or Medicine 2012",
+      "authors": "Shinya Yamanaka",
+      "context": "Referenced in the discussion about the significance of Yamanaka factors in stem cell research."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Stanford University",
+      "Turn BioTechnologies"
+    ],
+    "funding_sources": [
+      "Methuselah Foundation"
+    ],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "scientific discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Vittorio's excitement about the potential of rejuvenating cells to treat diseases.",
+      "The discussion on the implications of his research for aging and healthspan."
+    ]
+  },
+  "_meta": {
+    "episode_number": 36,
+    "episode_date": "2020-04-15",
+    "rss_title": "Episode 36 - Vittorio Sebastiano",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:06:18Z",
+    "input_tokens": 9859,
+    "output_tokens": 1104
+  }
+}

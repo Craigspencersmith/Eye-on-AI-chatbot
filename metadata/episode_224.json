@@ -1,0 +1,124 @@
+{
+  "episode_profile": {
+    "title": "Tariq Shaukat: How Safe Is AI-Assisted Coding?",
+    "guest_name": "Tariq Shaukat",
+    "guest_title": "CEO",
+    "guest_organization": "Sonar",
+    "topic_summary": "In this episode, Tariq Shaukat discusses the role of AI in coding, particularly focusing on the challenges and benefits of AI-assisted coding tools. He emphasizes the importance of maintaining code quality and security while integrating AI technologies into the software development process."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "software engineering"
+    ],
+    "industries": [
+      "technology",
+      "software development",
+      "finance"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "AI-generated code often contains bugs and security issues, which can introduce new vulnerabilities.",
+      "speaker": "Tariq Shaukat",
+      "context": "Tariq discusses the limitations of generative AI in coding and the need for robust quality assurance."
+    },
+    {
+      "claim": "There is an accountability crisis regarding who is responsible for AI-generated code.",
+      "speaker": "Tariq Shaukat",
+      "context": "He shares an anecdote about a developer who blamed AI for a bug, highlighting the need for clear accountability."
+    },
+    {
+      "claim": "A hybrid approach combining deterministic and non-deterministic models is necessary for effective code analysis.",
+      "speaker": "Tariq Shaukat",
+      "context": "Tariq explains the importance of using both traditional coding practices and AI to improve code quality."
+    },
+    {
+      "claim": "Continuous maintenance of codebases is essential to manage technical debt effectively.",
+      "speaker": "Tariq Shaukat",
+      "context": "He emphasizes the need for ongoing improvements to existing code as new features are developed."
+    },
+    {
+      "claim": "AI tools can help reduce the 'toil' in software development by automating repetitive tasks.",
+      "speaker": "Tariq Shaukat",
+      "context": "Tariq discusses the potential for AI to streamline workflows and improve developer productivity."
+    },
+    {
+      "claim": "The integration of AI tools into existing workflows can enhance code quality without replacing human oversight.",
+      "speaker": "Tariq Shaukat",
+      "context": "He describes how SonarQube works alongside AI coding assistants to ensure high-quality code."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Sonar",
+      "Oracle",
+      "Bumble",
+      "Google"
+    ],
+    "technologies": [
+      "SonarQube",
+      "Copilot",
+      "CodeWhisperer"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Sonar",
+      "summary": "Tariq Shaukat introduces himself and explains the mission of Sonar in improving code quality and security.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "AI in Coding",
+      "summary": "Discussion on the role of AI in software development, including its benefits and limitations.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Quality Assurance Challenges",
+      "summary": "Tariq addresses the accountability crisis in AI-generated code and the importance of rigorous code reviews.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Continuous Code Maintenance",
+      "summary": "The conversation shifts to the necessity of ongoing maintenance and improvement of codebases.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI in Software Development",
+      "summary": "Tariq shares insights on the future integration of AI tools and the evolving landscape of software development.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Sonar"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Tariq emphasizes the importance of accountability in AI-generated code.",
+      "He discusses the hybrid approach of combining deterministic and non-deterministic models."
+    ]
+  },
+  "_meta": {
+    "episode_number": 224,
+    "episode_date": "2024-12-11",
+    "rss_title": "#224 Tariq Shaukat: How Safe Is AI-Assisted Coding?",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:05:43Z",
+    "input_tokens": 11359,
+    "output_tokens": 966
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "episode_profile": {
+    "title": "DeepMind's AlphaFold and AI for Science",
+    "guest_name": "Pushmeet Kohli",
+    "guest_title": "Head of AI for Science",
+    "guest_organization": "DeepMind",
+    "topic_summary": "Pushmeet Kohli discusses the development and impact of AlphaFold, a machine learning system that predicts protein structures. He elaborates on the advancements from AlphaFold 1 to AlphaFold 2, its applications in biology, and the future directions for AI in scientific research."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "neural networks"
+    ],
+    "industries": [
+      "biotechnology",
+      "healthcare",
+      "environment"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AlphaFold has made significant strides in predicting protein structures, achieving near-experimental accuracy for certain proteins.",
+      "speaker": "Pushmeet Kohli",
+      "context": "This claim was made in the context of discussing AlphaFold's performance in the CASP assessments."
+    },
+    {
+      "claim": "The protein folding problem is not fully solved; AlphaFold still needs to improve on predicting structures for novel proteins.",
+      "speaker": "Pushmeet Kohli",
+      "context": "Kohli emphasized the limitations of AlphaFold in predicting structures for proteins that have not been previously studied."
+    },
+    {
+      "claim": "DeepMind's approach to AI for science is multi-disciplinary, integrating machine learning with domain-specific knowledge.",
+      "speaker": "Pushmeet Kohli",
+      "context": "Kohli explained the collaborative nature of their research, which combines expertise from various scientific fields."
+    },
+    {
+      "claim": "AI can accelerate drug development for neglected diseases by providing structural insights into proteins.",
+      "speaker": "Pushmeet Kohli",
+      "context": "This was discussed in relation to partnerships DeepMind has formed to leverage AlphaFold's capabilities."
+    },
+    {
+      "claim": "The future of AlphaFold includes addressing the dynamics and flexibility of proteins, moving beyond static structures.",
+      "speaker": "Pushmeet Kohli",
+      "context": "Kohli outlined the next steps for AlphaFold, focusing on understanding protein interactions and conformations."
+    },
+    {
+      "claim": "DeepMind prioritizes tackling hard scientific problems that require extensive collaboration and innovative approaches.",
+      "speaker": "Pushmeet Kohli",
+      "context": "Kohli described the criteria for selecting research projects at DeepMind."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Demis Hassabis",
+      "Koray Kavukcuoglu"
+    ],
+    "organizations": [
+      "DeepMind",
+      "Drugs for Neglected Diseases Initiative",
+      "Center for Enzyme Innovation"
+    ],
+    "technologies": [
+      "AlphaFold",
+      "graph neural networks"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Pushmeet Kohli",
+      "summary": "Pushmeet Kohli introduces himself and his role at DeepMind, discussing his background in computer science and machine learning.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "AlphaFold Development",
+      "summary": "Kohli explains the evolution of AlphaFold from version 1 to version 2, highlighting the advancements made in protein structure prediction.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Applications of AlphaFold",
+      "summary": "The discussion covers how AlphaFold is being used in biological research and its impact on drug development for neglected diseases.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future Directions for AlphaFold",
+      "summary": "Kohli outlines the future goals for AlphaFold, including improving predictions for novel proteins and understanding protein dynamics.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "DeepMind's Research Philosophy",
+      "summary": "Kohli discusses DeepMind's approach to selecting research problems and the importance of interdisciplinary collaboration.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "DeepMind"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Kohli's insights on the limitations of AlphaFold highlight the ongoing challenges in protein structure prediction.",
+      "The discussion on how AI can aid in drug development for neglected diseases showcases the potential societal impact of their work."
+    ]
+  },
+  "_meta": {
+    "episode_number": 92,
+    "episode_date": "2022-01-12",
+    "rss_title": "Large Language Models & GPT-J",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:23:38Z",
+    "input_tokens": 7806,
+    "output_tokens": 1025
+  }
+}

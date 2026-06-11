@@ -1,0 +1,142 @@
+{
+  "episode_profile": {
+    "title": "Ryan Wang: Building AI-Powered Customer Support",
+    "guest_name": "Ryan Wang",
+    "guest_title": "Co-founder",
+    "guest_organization": "Assembled",
+    "topic_summary": "Ryan Wang discusses the evolution of customer support through AI, emphasizing the importance of hybrid human-AI systems. He shares insights on how Assembled helps companies scale their support operations while navigating the complexities of workforce management."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "conversational AI",
+      "natural language processing"
+    ],
+    "industries": [
+      "customer support",
+      "technology",
+      "finance"
+    ],
+    "policy_areas": [
+      "automation",
+      "workforce management",
+      "economic viability"
+    ],
+    "geographic_focus": [
+      "United States",
+      "Europe",
+      "Philippines"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Companies will need to adopt a hybrid human plus AI support model to remain economically viable.",
+      "speaker": "Ryan Wang",
+      "context": "Ryan emphasizes that while automation is possible, it may not always be the most cost-effective solution for every aspect of customer support."
+    },
+    {
+      "claim": "The demand for customer support has surged during the pandemic, leading to unprecedented growth for companies like Robinhood.",
+      "speaker": "Ryan Wang",
+      "context": "Ryan reflects on how the COVID-19 pandemic accelerated the need for scalable customer support solutions."
+    },
+    {
+      "claim": "AI agents can handle up to 75% of support tickets, but human agents will still play a crucial role in complex issues.",
+      "speaker": "Ryan Wang",
+      "context": "Ryan discusses the balance between automation and human intervention in customer support."
+    },
+    {
+      "claim": "The workforce management aspect of customer support is complex and requires sophisticated optimization strategies.",
+      "speaker": "Ryan Wang",
+      "context": "Ryan explains the intricacies of managing large support teams and the importance of aligning supply and demand."
+    },
+    {
+      "claim": "AI voice technology is rapidly evolving and presents significant opportunities for enhancing customer support.",
+      "speaker": "Ryan Wang",
+      "context": "Ryan highlights the advancements in voice AI and its potential to improve customer interactions."
+    },
+    {
+      "claim": "The economics of customer support will dictate how companies integrate AI, as cheaper AI solutions may not always be the best choice.",
+      "speaker": "Ryan Wang",
+      "context": "Ryan notes that while AI can reduce costs, companies must consider the quality of service and the expertise of human agents."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Patrick Collison",
+      "John Collison",
+      "Stuart Butterfield",
+      "David Bly",
+      "John Lafferty"
+    ],
+    "organizations": [
+      "Assembled",
+      "Stripe",
+      "Robinhood",
+      "Slack",
+      "Honeylove",
+      "Retention Express",
+      "Salesforce",
+      "Zendesk",
+      "Nice"
+    ],
+    "technologies": [
+      "latent Dirichlet allocation",
+      "AI agents",
+      "conversational AI",
+      "workforce management software"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Assembled",
+      "summary": "Ryan Wang introduces Assembled and its mission to enhance customer support through AI.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Impact of COVID-19",
+      "summary": "Discussion on how the pandemic accelerated the demand for customer support solutions.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI and Workforce Management",
+      "summary": "Exploration of the complexities involved in managing customer support teams and the role of AI.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "The Future of AI in Customer Support",
+      "summary": "Ryan shares insights on the evolving landscape of AI technology and its implications for customer service.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Economic Considerations",
+      "summary": "Discussion on the economic viability of AI solutions in customer support and the importance of human agents.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Assembled"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Ryan emphasizes the importance of a hybrid human plus AI support model.",
+      "Discussion on the rapid growth of customer support needs during the pandemic."
+    ]
+  },
+  "_meta": {
+    "episode_number": 276,
+    "episode_date": "2025-08-03",
+    "rss_title": "#276 Ryan Wang: How Assembled is Building the Future of AI-Powered Customer Support",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:23:03Z",
+    "input_tokens": 12894,
+    "output_tokens": 1015
+  }
+}

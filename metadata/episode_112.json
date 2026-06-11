@@ -1,0 +1,84 @@
+{
+  "episode_profile": {
+    "title": "AI Supply Chain Optimization",
+    "guest_name": "",
+    "guest_title": "",
+    "guest_organization": "",
+    "topic_summary": "This episode discusses the impact of AI on supply chain optimization, exploring how machine learning and data analytics can enhance efficiency and decision-making in logistics. The conversation highlights various strategies and technologies that organizations can adopt to improve their supply chain operations."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "data analytics"
+    ],
+    "industries": [
+      "logistics",
+      "supply chain management"
+    ],
+    "policy_areas": [],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "AI can significantly reduce costs and improve efficiency in supply chain operations.",
+      "speaker": "Craig Smith",
+      "context": "This claim is made in the context of discussing the various applications of AI in logistics."
+    },
+    {
+      "claim": "Data-driven decision-making is essential for modern supply chain management.",
+      "speaker": "Craig Smith",
+      "context": "This statement emphasizes the importance of utilizing data analytics to inform supply chain strategies."
+    },
+    {
+      "claim": "Implementing AI technologies can lead to faster response times in supply chain processes.",
+      "speaker": "Craig Smith",
+      "context": "This claim is made while discussing the benefits of AI in enhancing operational agility."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [],
+    "technologies": [
+      "machine learning",
+      "data analytics"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to AI in Supply Chain",
+      "summary": "An overview of how AI is transforming supply chain management.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Benefits of AI Implementation",
+      "summary": "Discussion on the advantages of integrating AI technologies into supply chains.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges and Considerations",
+      "summary": "Exploration of the hurdles organizations face when adopting AI in logistics.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": []
+  },
+  "_meta": {
+    "episode_number": 112,
+    "episode_date": "2022-11-09",
+    "rss_title": "AI Supply Chain Optimization",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:30:18Z",
+    "input_tokens": 48906,
+    "output_tokens": 552
+  }
+}

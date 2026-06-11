@@ -1,0 +1,138 @@
+{
+  "episode_profile": {
+    "title": "Fei-Fei Li: Spatial Intelligence, World Models & the Future of AI",
+    "guest_name": "Fei-Fei Li",
+    "guest_title": "Pioneer in Artificial Intelligence and Computer Vision",
+    "guest_organization": "World Labs",
+    "topic_summary": "Fei-Fei Li discusses the significance of spatial intelligence and world models in AI, emphasizing the need for models to learn from direct experiences rather than just text. She introduces her startup, World Labs, and its product Marble, which creates complex 3D spaces from internal representations."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "computer vision",
+      "spatial intelligence",
+      "embodied AI",
+      "multimodal learning"
+    ],
+    "industries": [
+      "technology",
+      "education",
+      "entertainment",
+      "healthcare"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Spatial intelligence is crucial for AI to understand and interact with the world beyond language.",
+      "speaker": "Fei-Fei Li",
+      "context": "Li argues that much of human knowledge is not captured in text, highlighting the importance of direct experiences."
+    },
+    {
+      "claim": "The current AI models, including large language models, are limited by their reliance on text and need to evolve to incorporate multimodal learning.",
+      "speaker": "Fei-Fei Li",
+      "context": "Li emphasizes that AI should learn from various modalities, including video and sensory experiences."
+    },
+    {
+      "claim": "Continuous learning is essential for AI to adapt and improve its understanding of the world.",
+      "speaker": "Fei-Fei Li",
+      "context": "Li discusses the importance of AI systems being able to learn from new experiences in real-time."
+    },
+    {
+      "claim": "The development of a universal task function for AI is necessary to achieve true spatial intelligence.",
+      "speaker": "Fei-Fei Li",
+      "context": "Li reflects on the challenges of defining a task function that aligns with the complexities of spatial reasoning."
+    },
+    {
+      "claim": "AI's understanding of the world is fundamentally different from human understanding, lacking the embodied experience.",
+      "speaker": "Fei-Fei Li",
+      "context": "Li explains that while AI can process information, it does not have the same level of consciousness or embodied understanding as humans."
+    },
+    {
+      "claim": "The future of AI will involve breakthroughs beyond current transformer architectures.",
+      "speaker": "Fei-Fei Li",
+      "context": "Li expresses optimism about future innovations in AI architecture that will enhance capabilities."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Yang",
+      "Peter Diamandis",
+      "Eric Schmidt"
+    ],
+    "organizations": [
+      "World Labs",
+      "Linux Foundation"
+    ],
+    "technologies": [
+      "Marble",
+      "RTFM"
+    ],
+    "publications": [
+      "Manifesto of Spatial Intelligence"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Spatial Intelligence",
+      "summary": "Fei-Fei Li introduces the concept of spatial intelligence and its relevance to AI development.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "World Models and Marble",
+      "summary": "Discussion on the capabilities of Marble, the product from World Labs, and its approach to creating 3D spaces.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Multimodal Learning in AI",
+      "summary": "Li emphasizes the importance of AI learning from various modalities beyond text.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Continuous Learning and Future Directions",
+      "summary": "Exploration of the need for continuous learning in AI and potential future breakthroughs.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Understanding and Creativity in AI",
+      "summary": "Li discusses the differences between human and AI understanding, particularly in creative and scientific reasoning.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Manifesto of Spatial Intelligence",
+      "authors": "Fei-Fei Li",
+      "context": "Li references her essay to clarify her views on spatial intelligence and its implications for AI."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "World Labs"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Li's discussion on the limitations of current AI models and the need for multimodal learning.",
+      "The playful naming of RTFM and its implications for AI understanding."
+    ]
+  },
+  "_meta": {
+    "episode_number": 303,
+    "episode_date": "2025-11-23",
+    "rss_title": "#303 Fei-Fei Li: Spatial Intelligence, World Models & the Future of AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:31:58Z",
+    "input_tokens": 10093,
+    "output_tokens": 1070
+  }
+}

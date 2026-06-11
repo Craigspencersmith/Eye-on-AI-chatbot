@@ -1,0 +1,132 @@
+{
+  "episode_profile": {
+    "title": "Brian Peterson: How Dialpad is Building the Future of AI-Powered Communication",
+    "guest_name": "Brian Peterson",
+    "guest_title": "CEO",
+    "guest_organization": "Dialpad",
+    "topic_summary": "Brian Peterson discusses Dialpad's AI-powered customer communications platform, detailing its features such as live coaching, customer satisfaction analysis, and the integration of AI in enhancing communication efficiency. He emphasizes the importance of combining AI with human support to improve customer experiences."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "natural language processing",
+      "generative AI"
+    ],
+    "industries": [
+      "communications",
+      "technology",
+      "customer service"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI will enhance customer communication but won't replace support agents entirely.",
+      "speaker": "Brian Peterson",
+      "context": "Brian emphasizes the need for human escalation in customer service despite advancements in AI."
+    },
+    {
+      "claim": "Dialpad's AI can provide real-time coaching during sales calls.",
+      "speaker": "Brian Peterson",
+      "context": "He explains how Dialpad's technology can detect questions during calls and provide agents with instant responses."
+    },
+    {
+      "claim": "Voice data is the last offline data set that businesses can leverage for insights.",
+      "speaker": "Brian Peterson",
+      "context": "Brian discusses the untapped potential of voice data in understanding customer interactions."
+    },
+    {
+      "claim": "Dialpad's AI can analyze customer satisfaction with 90% accuracy.",
+      "speaker": "Brian Peterson",
+      "context": "He highlights how Dialpad's model evaluates conversations to provide insights into customer happiness."
+    },
+    {
+      "claim": "The future of customer communication will involve more automation and data-driven insights.",
+      "speaker": "Brian Peterson",
+      "context": "Brian outlines Dialpad's strategy to enhance customer interactions through automation and data analysis."
+    },
+    {
+      "claim": "Building a global real-time communication platform is complex and requires extensive infrastructure.",
+      "speaker": "Brian Peterson",
+      "context": "He explains the challenges of creating a comprehensive communication solution that integrates various functionalities."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Rich Miner"
+    ],
+    "organizations": [
+      "Google",
+      "Dialpad",
+      "Uber",
+      "Motorola",
+      "Randstad",
+      "Los Angeles Chargers",
+      "Netflix"
+    ],
+    "technologies": [
+      "Dialpad GPT",
+      "TalkIQ"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Dialpad",
+      "summary": "Brian Peterson introduces Dialpad as an AI-powered customer communications platform and shares his background.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "AI Features and Capabilities",
+      "summary": "Discussion on Dialpad's AI features, including live coaching and customer satisfaction analysis.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Market Position and Competition",
+      "summary": "Brian talks about Dialpad's market presence and how it differentiates itself from competitors.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of Customer Communication",
+      "summary": "Exploration of the future trends in customer communication and the role of AI.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Challenges in AI Adoption",
+      "summary": "Brian discusses the barriers enterprises face in adopting AI technologies for customer service.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Dialpad"
+    ],
+    "funding_sources": [
+      "Google"
+    ],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "collegial",
+    "notable_moments": [
+      "Brian emphasizes that AI will not replace support agents entirely.",
+      "He discusses the importance of integrating AI with human support for better customer experiences."
+    ]
+  },
+  "_meta": {
+    "episode_number": 258,
+    "episode_date": "2025-05-29",
+    "rss_title": "#258 Brian Peterson: How Dialpad is Building the Future of AI-Powered Communication",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:16:37Z",
+    "input_tokens": 10179,
+    "output_tokens": 907
+  }
+}

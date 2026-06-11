@@ -1,0 +1,139 @@
+{
+  "episode_profile": {
+    "title": "AI Governance and Security Challenges with Miles Brundage",
+    "guest_name": "Miles Brundage",
+    "guest_title": "AI Policy Research Fellow",
+    "guest_organization": "Future of Humanity Institute",
+    "topic_summary": "Miles Brundage discusses the complexities of regulating AI technologies, particularly in the context of security and governance. He highlights the challenges posed by adversarial attacks on AI systems and the need for effective policy responses to ensure safe deployment."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "AI governance",
+      "adversarial machine learning",
+      "autonomous systems"
+    ],
+    "industries": [
+      "automotive",
+      "healthcare",
+      "defense"
+    ],
+    "policy_areas": [
+      "regulation",
+      "ethics",
+      "safety",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States",
+      "China",
+      "Canada"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI systems are fragile and vulnerable to adversarial attacks, which complicates their deployment in safety-critical applications.",
+      "speaker": "Miles Brundage",
+      "context": "Brundage emphasizes the inherent weaknesses in AI systems and the implications for their real-world applications."
+    },
+    {
+      "claim": "There is currently no comprehensive global AI regulation, with policies being developed in a piecemeal fashion across different jurisdictions.",
+      "speaker": "Miles Brundage",
+      "context": "He discusses the lack of unified regulatory frameworks for AI, highlighting the varied approaches taken by different countries."
+    },
+    {
+      "claim": "Preventing malicious uses of AI requires a combination of technical measures, regulations, and responsible practices within the AI research community.",
+      "speaker": "Miles Brundage",
+      "context": "Brundage outlines the multifaceted approach needed to mitigate risks associated with AI misuse."
+    },
+    {
+      "claim": "The narrative of an AI arms race is overblown, as many countries are pursuing AI for economic growth and stability rather than purely military applications.",
+      "speaker": "Miles Brundage",
+      "context": "He argues that the discourse around AI competition often conflates different motivations and contexts."
+    },
+    {
+      "claim": "Conditional optimism exists regarding AI's potential benefits if governance challenges are addressed effectively.",
+      "speaker": "Miles Brundage",
+      "context": "Brundage expresses a hopeful perspective on AI's future, contingent on proper governance and safety measures."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Nick Bostrom",
+      "Joanna Bryson"
+    ],
+    "organizations": [
+      "Future of Humanity Institute",
+      "DeepMind",
+      "Interpol",
+      "UN"
+    ],
+    "technologies": [
+      "LIDAR",
+      "AlphaGo"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to AI Governance",
+      "summary": "Craig introduces Miles Brundage and the focus of their discussion on AI governance and security.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Challenges of AI Security",
+      "summary": "Miles discusses the fragility of AI systems and the implications of adversarial attacks.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Regulatory Landscape",
+      "summary": "The conversation shifts to the current state of AI regulation and the piecemeal approach taken by different jurisdictions.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Malicious Uses of AI",
+      "summary": "Miles outlines the risks of malicious AI applications and the strategies to mitigate them.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "International Cooperation on AI",
+      "summary": "The discussion covers the potential for international agreements on AI governance and the complexities involved.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Optimism for AI's Future",
+      "summary": "Miles shares his views on the potential benefits of AI if governance challenges are addressed.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Bostrom's book",
+      "authors": "Nick Bostrom",
+      "context": "Referenced in the context of discussing potential terrifying scenarios related to AI."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Future of Humanity Institute"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Miles discusses the fragility of AI systems and the implications for their real-world applications.",
+      "The narrative of an AI arms race is overblown, as many countries are pursuing AI for economic growth."
+    ]
+  },
+  "_meta": {
+    "episode_number": 5,
+    "episode_date": "2018-11-06",
+    "rss_title": "Episode 5 - Miles Brundage",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T00:56:00Z",
+    "input_tokens": 5579,
+    "output_tokens": 1051
+  }
+}

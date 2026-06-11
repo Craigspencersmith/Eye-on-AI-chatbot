@@ -1,0 +1,139 @@
+{
+  "episode_profile": {
+    "title": "MLOps and Digital Twins in Supply Chain Management",
+    "guest_name": "Bob Rogers",
+    "guest_title": "Co-founder and CEO",
+    "guest_organization": "Oii.ai",
+    "topic_summary": "Bob Rogers discusses his transition from astrophysics to supply chain optimization using AI and digital twins. He explains how his company leverages AI to create resilient supply chains that adapt to changing circumstances and improve efficiency."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "deep learning",
+      "computer vision"
+    ],
+    "industries": [
+      "supply chain",
+      "logistics",
+      "healthcare"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States",
+      "India"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI can significantly reduce the costs and inefficiencies in supply chains by minimizing manual interventions.",
+      "speaker": "Bob Rogers",
+      "context": "Bob discusses the potential for AI to streamline operations and reduce costs in supply chain management."
+    },
+    {
+      "claim": "Digital twins allow for real-time optimization of supply chains by simulating various scenarios and predicting outcomes.",
+      "speaker": "Bob Rogers",
+      "context": "Bob explains how digital twins are used to model supply chains and optimize their performance."
+    },
+    {
+      "claim": "Confidential computing can enable collaboration across supply chains without compromising sensitive data.",
+      "speaker": "Bob Rogers",
+      "context": "Bob envisions a future where confidential computing allows for better data sharing and optimization across fragmented supply chains."
+    },
+    {
+      "claim": "The pandemic highlighted the need for resilient supply chains that can adapt to unexpected disruptions.",
+      "speaker": "Bob Rogers",
+      "context": "Bob reflects on how recent global events have underscored the importance of flexibility in supply chain management."
+    },
+    {
+      "claim": "AI should be viewed as augmented intelligence, enhancing human decision-making rather than replacing it.",
+      "speaker": "Bob Rogers",
+      "context": "Bob emphasizes the role of AI in supporting supply chain planners and improving their efficiency."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Ashton Kutcher",
+      "David Evans"
+    ],
+    "organizations": [
+      "Oii.ai",
+      "University of California, San Francisco",
+      "National Center for Missing and Exploited Children",
+      "Thorn",
+      "Harvard Institute of Applied Computational Science",
+      "Intel"
+    ],
+    "technologies": [
+      "digital twins",
+      "convolutional neural networks",
+      "XG Boost",
+      "Gaussian process regression"
+    ],
+    "publications": [
+      "Demystifying AI for the Enterprise"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Bob Rogers",
+      "summary": "Bob introduces himself and shares his background in astrophysics and AI.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "AI in Supply Chain Optimization",
+      "summary": "Discussion on how AI and digital twins are applied to improve supply chain efficiency.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Real-time Data and Decision Making",
+      "summary": "Exploration of how real-time data impacts supply chain management and decision-making processes.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges and Opportunities",
+      "summary": "Bob discusses the challenges faced by supply chains and the opportunities for improvement through AI.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of Supply Chains",
+      "summary": "Predictions on how digitization and AI will transform supply chains in the future.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Demystifying AI for the Enterprise",
+      "authors": "",
+      "context": "Bob wrote a chapter on supply chain in this book, which led to his interest in applying AI to supply chain challenges."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Oii.ai",
+      "University of California, San Francisco",
+      "Harvard Institute of Applied Computational Science"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Bob's transition from astrophysics to supply chain management highlights the versatility of AI applications.",
+      "The discussion on confidential computing opens up new avenues for data collaboration in supply chains."
+    ]
+  },
+  "_meta": {
+    "episode_number": 110,
+    "episode_date": "2022-10-05",
+    "rss_title": "MLOps with ClearML",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:29:49Z",
+    "input_tokens": 8091,
+    "output_tokens": 993
+  }
+}

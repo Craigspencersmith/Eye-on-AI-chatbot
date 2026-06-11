@@ -1,0 +1,127 @@
+{
+  "episode_profile": {
+    "title": "Why AI's Future Depends on Human Judgement",
+    "guest_name": "Phelim Brady",
+    "guest_title": "Co-founder and CEO",
+    "guest_organization": "Prolific",
+    "topic_summary": "Phelim Brady discusses the critical role of human judgment in AI development, emphasizing the importance of high-quality data collection and evaluation. He explains how Prolific connects researchers with verified participants to enhance the reliability of AI models."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "human data collection",
+      "model evaluation",
+      "behavioral research"
+    ],
+    "industries": [
+      "research",
+      "technology",
+      "education"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Human judgment is essential for pushing the capabilities of AI beyond current limits.",
+      "speaker": "Phelim Brady",
+      "context": "Brady argues that while AI can automate many tasks, human insight is necessary for nuanced evaluation and improvement."
+    },
+    {
+      "claim": "The quality of data contributors significantly impacts the performance of AI models.",
+      "speaker": "Phelim Brady",
+      "context": "He highlights the importance of selecting participants with diverse backgrounds to ensure the representativeness of data."
+    },
+    {
+      "claim": "Prolific aims to become a full-stack human data platform to support various applications.",
+      "speaker": "Phelim Brady",
+      "context": "Brady outlines Prolific's vision to integrate tools and methodologies for better human data utilization in AI."
+    },
+    {
+      "claim": "The shift from academic benchmarks to real-world evaluations is driving demand for Prolific's services.",
+      "speaker": "Phelim Brady",
+      "context": "He notes that as AI models mature, there is a growing need for evaluations that reflect real-world performance."
+    },
+    {
+      "claim": "AI tools are increasingly being integrated into Prolific's platform to enhance participant matching and data collection.",
+      "speaker": "Phelim Brady",
+      "context": "Brady discusses how AI is being used to streamline processes and improve the quality of data collection."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Faye Lee",
+      "Jeff Hinton",
+      "Ben Franklin"
+    ],
+    "organizations": [
+      "Prolific",
+      "Mechanical Turk",
+      "Label Box",
+      "AI Security Institute"
+    ],
+    "technologies": [
+      "ChatGPT",
+      "AlexNet",
+      "LLM Arena",
+      "Chatbot Arena"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "The Human Backbone Of AI",
+      "summary": "Craig and Phelim discuss the foundational role of human evaluators in AI development.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Founding Prolific And Early Pain Points",
+      "summary": "Phelim shares the origin story of Prolific and the challenges faced in data collection.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Academic Research And AI Use Cases Split",
+      "summary": "The conversation shifts to the balance of Prolific's work between academic research and AI model evaluation.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "High-Complexity Projects Over Commoditized Labeling",
+      "summary": "Phelim explains the types of projects Prolific focuses on, emphasizing quality over quantity.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Why Humans Won\u2019t Disappear From The Loop",
+      "summary": "The discussion concludes with insights on the enduring necessity of human judgment in AI evaluation.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Prolific"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "collegial",
+    "notable_moments": [
+      "Phelim's analogy of AI being like a chess automaton with humans working behind the scenes.",
+      "The emphasis on the importance of demographic representativeness in data collection."
+    ]
+  },
+  "_meta": {
+    "episode_number": 325,
+    "episode_date": "2026-03-09",
+    "rss_title": "#325 Phelim Brady: Why AI's Future Depends on Human Judgement",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:41:11Z",
+    "input_tokens": 9585,
+    "output_tokens": 950
+  }
+}

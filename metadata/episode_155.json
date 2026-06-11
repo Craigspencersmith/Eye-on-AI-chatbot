@@ -1,0 +1,134 @@
+{
+  "episode_profile": {
+    "title": "From Molecules to Memories: The AI Approach to Scent Detection",
+    "guest_name": "Alex Wiltschko",
+    "guest_title": "CEO",
+    "guest_organization": "Osmo",
+    "topic_summary": "In this episode, Alex Wiltschko discusses the intersection of neuroscience and technology in scent detection. He explains how AI is being used to predict and create new fragrance molecules, the complexities of olfactory perception, and the potential applications of this technology in various industries."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "neuroscience",
+      "graph neural networks"
+    ],
+    "industries": [
+      "fragrance",
+      "healthcare",
+      "agriculture"
+    ],
+    "policy_areas": [
+      "safety",
+      "environmental impact"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI can predict the smell of molecules better than human perfumers.",
+      "speaker": "Alex Wiltschko",
+      "context": "Wiltschko discusses the advancements in AI that allow for accurate predictions of scents based on molecular structure."
+    },
+    {
+      "claim": "The olfactory sense is more complex than previously understood, with 350 distinct channels of information.",
+      "speaker": "Alex Wiltschko",
+      "context": "Wiltschko explains the intricacies of the olfactory system and its implications for AI scent detection."
+    },
+    {
+      "claim": "Osmo's AI platform can discover new fragrance molecules that are safe and effective.",
+      "speaker": "Alex Wiltschko",
+      "context": "Wiltschko highlights the company's focus on creating new scents that meet safety and performance standards."
+    },
+    {
+      "claim": "The future of scent technology includes the ability to capture and replay smells digitally.",
+      "speaker": "Alex Wiltschko",
+      "context": "Wiltschko envisions a future where smells can be digitized and stored, similar to how images are handled."
+    },
+    {
+      "claim": "AI can help design insect repellents by understanding the olfactory preferences of both humans and insects.",
+      "speaker": "Alex Wiltschko",
+      "context": "Wiltschko discusses a collaboration with the Gates Foundation to create effective mosquito repellents using AI."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Zubin Garamani",
+      "Alexei Kulikov"
+    ],
+    "organizations": [
+      "Google Brain",
+      "Gates Foundation",
+      "USDA"
+    ],
+    "technologies": [
+      "graph neural networks",
+      "AI",
+      "SENT AI platform"
+    ],
+    "publications": [
+      "Science"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Olfactory Neuroscience",
+      "summary": "Alex Wiltschko shares his background in neuroscience and his passion for the olfactory sense.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "AI and Scent Detection",
+      "summary": "Discussion on how AI is applied to predict and create new fragrance molecules.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Applications of AI in Fragrance",
+      "summary": "Exploration of various applications for AI in the fragrance industry, including insect repellents.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of Scent Technology",
+      "summary": "Wiltschko discusses the potential for digitizing smells and the implications for various industries.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Alan Brain Atlas",
+      "authors": "",
+      "context": "Wiltschko references this project to explain the brain's processing of smell."
+    },
+    {
+      "reference": "Science",
+      "authors": "",
+      "context": "Wiltschko mentions a study published in Science regarding their AI's predictive capabilities."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Osmo"
+    ],
+    "funding_sources": [
+      "Gates Foundation"
+    ],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Wiltschko's description of the olfactory system's complexity.",
+      "The revelation that AI predictions can surpass human perfumers."
+    ]
+  },
+  "_meta": {
+    "episode_number": 155,
+    "episode_date": "2023-11-19",
+    "rss_title": "#155 Alex Wiltschko: From Molecules to Memories & The AI Approach to Scent Detection",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:41:20Z",
+    "input_tokens": 13558,
+    "output_tokens": 953
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "episode_profile": {
+    "title": "Debdas Sen: Why AI Without ROI Will Die (Again)",
+    "guest_name": "Debdas Sen",
+    "guest_title": "CEO",
+    "guest_organization": "TCG Digital",
+    "topic_summary": "Debdas Sen discusses the evolution of AI and its integration into digital transformation, emphasizing the importance of ROI for AI initiatives. He explains how TCG Digital's MCube platform leverages both internal and external data to optimize complex industrial processes, particularly in sectors like energy and life sciences."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "data management",
+      "knowledge graphs",
+      "agentic AI"
+    ],
+    "industries": [
+      "energy",
+      "life sciences",
+      "petrochemicals",
+      "pharmaceuticals"
+    ],
+    "policy_areas": [
+      "ROI",
+      "digital transformation",
+      "enterprise AI"
+    ],
+    "geographic_focus": [
+      "global",
+      "Middle East",
+      "India"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI initiatives must demonstrate a clear return on investment to avoid failure.",
+      "speaker": "Debdas Sen",
+      "context": "Sen emphasizes that without ROI, AI projects risk becoming obsolete, as seen in past AI cycles."
+    },
+    {
+      "claim": "The MCube platform integrates internal enterprise data with external information to create actionable insights.",
+      "speaker": "Debdas Sen",
+      "context": "Sen explains how the platform collaborates with existing data systems to enhance decision-making."
+    },
+    {
+      "claim": "Digital transformation is increasingly domain-specific, requiring deep expertise in the relevant industry.",
+      "speaker": "Debdas Sen",
+      "context": "Sen argues that successful AI applications depend on understanding the specific challenges of each sector."
+    },
+    {
+      "claim": "The ability to optimize industrial processes can lead to significant economic benefits, potentially impacting national GDPs.",
+      "speaker": "Debdas Sen",
+      "context": "Sen discusses how improvements in yield and efficiency can translate into substantial financial gains for large enterprises."
+    },
+    {
+      "claim": "Hybrid modeling that combines traditional methods with AI is essential for effective problem-solving in industries like energy.",
+      "speaker": "Debdas Sen",
+      "context": "Sen highlights the importance of balancing AI with established scientific principles to achieve reliable outcomes."
+    },
+    {
+      "claim": "The current wave of agentic AI is marked by advancements in inference and reasoning capabilities.",
+      "speaker": "Debdas Sen",
+      "context": "Sen notes that these improvements are crucial for the practical application of AI in enterprise settings."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Craig S. Smith"
+    ],
+    "organizations": [
+      "TCG Digital",
+      "Tattergy Group",
+      "Lumus Technology",
+      "Lab Vantage",
+      "Hindustan Petroleum"
+    ],
+    "technologies": [
+      "MCube",
+      "MCP protocol",
+      "A2A protocol",
+      "LLMs",
+      "Gamma",
+      "Llama"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to TCG Digital",
+      "summary": "Debdas Sen introduces himself and TCG Digital, discussing its role in digital transformation and AI.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Overview of MCube Platform",
+      "summary": "Sen explains the functionalities of the MCube platform and its evolution in handling complex data.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Importance of ROI in AI",
+      "summary": "The conversation shifts to the necessity of demonstrating ROI for AI projects to ensure their success.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Case Studies and Real-World Applications",
+      "summary": "Sen shares examples of how TCG Digital optimizes processes in industries like petrochemicals and pharmaceuticals.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI in Enterprises",
+      "summary": "The discussion concludes with insights on the future trajectory of AI and its potential economic impact.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "TCG Digital",
+      "Tattergy Group"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informal conversation",
+    "tone": "educational",
+    "notable_moments": [
+      "Sen emphasizes the importance of ROI in AI, stating, 'If somebody's paying five million dollars, they should get back fifty million dollars.'",
+      "The discussion on the collapse of R&D timelines in catalyst development highlights the transformative potential of AI."
+    ]
+  },
+  "_meta": {
+    "episode_number": 337,
+    "episode_date": "2026-04-23",
+    "rss_title": "#337 Debdas Sen: Why AI Without ROI Will Die (Again)",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:45:46Z",
+    "input_tokens": 9762,
+    "output_tokens": 1030
+  }
+}

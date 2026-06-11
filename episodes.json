@@ -1,0 +1,2698 @@
+[
+  {
+    "doc_id": "",
+    "title": "Jack Clark on AI's Impact and Future",
+    "guest_name": "Jack Clark",
+    "episode_number": "1",
+    "episode_date": "2018-10-08",
+    "episode_topic": "Jack Clark discusses the significance of AI advancements, comparing them to historical milestones like electricity and fire. He explores the implications of AI on global governance, competition, and the democratization of technology."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring AI in Cryptocurrency and Healthcare",
+    "guest_name": "Jack Clark",
+    "episode_number": "2",
+    "episode_date": "2018-10-08",
+    "episode_topic": "In this episode, Jack Clark discusses the potential of AI in cryptocurrency trading and healthcare diagnostics. He highlights the challenges and opportunities in applying AI to these fields, emphasizing the importance of data and computational power."
+  },
+  {
+    "doc_id": "",
+    "title": "AI Research and National Strategies with Misha Bilenko",
+    "guest_name": "Misha Bilenko",
+    "episode_number": "3",
+    "episode_date": "2018-10-08",
+    "episode_topic": "Misha Bilenko discusses the role of state actors in AI research, the misconception of an AI arms race, and the importance of national strategies for developing competent researchers. He emphasizes the collaborative nature of the AI community and the economic imperatives driving AI advancements."
+  },
+  {
+    "doc_id": "",
+    "title": "China's AI Superpower: Insights from Kaifu Lee",
+    "guest_name": "Kaifu Lee",
+    "episode_number": "4",
+    "episode_date": "2018-10-22",
+    "episode_topic": "In this episode, Kaifu Lee discusses the competitive landscape of AI between China and the U.S., emphasizing China's rapid advancements and unique advantages in data and implementation. He explores the implications of these developments for global AI dynamics and the future of technology."
+  },
+  {
+    "doc_id": "",
+    "title": "AI Governance and Security Challenges with Miles Brundage",
+    "guest_name": "Miles Brundage",
+    "episode_number": "5",
+    "episode_date": "2018-11-06",
+    "episode_topic": "Miles Brundage discusses the complexities of regulating AI technologies, particularly in the context of security and governance. He highlights the challenges posed by adversarial attacks on AI systems and the need for effective policy responses to ensure safe deployment."
+  },
+  {
+    "doc_id": "",
+    "title": "The Role of Video Games in AI Research",
+    "guest_name": "Julian Togelius",
+    "episode_number": "6",
+    "episode_date": "2018-11-27",
+    "episode_topic": "Julian Togelius discusses the intersection of video games and artificial intelligence, emphasizing how video games serve as ideal benchmarks for AI research. He explores the evolution of AI in gaming, the challenges of generalization, and the potential for AI to enhance game design."
+  },
+  {
+    "doc_id": "",
+    "title": "Building AI Competency in Africa with Ben Rosman",
+    "guest_name": "Ben Rosman",
+    "episode_number": "7",
+    "episode_date": "2018-12-20",
+    "episode_topic": "Ben Rosman discusses the challenges and opportunities for AI development in Africa, focusing on the initiatives of Deep Learning Indaba and Data Science Africa to unify the continent's machine learning community. He emphasizes the importance of building local expertise and infrastructure to ensure Africa is not left behind in the AI revolution."
+  },
+  {
+    "doc_id": "",
+    "title": "The Future of AI Research in Europe",
+    "guest_name": "Bernhard Sch\u00f6lkopf, Matthias Bethge",
+    "episode_number": "8",
+    "episode_date": "2019-02-05",
+    "episode_topic": "This episode discusses the challenges and opportunities for AI research in Europe, focusing on the ELLIS initiative aimed at unifying machine learning efforts across the continent. The conversation highlights the competition with the US and China, the importance of funding, and the need for collaboration among European nations."
+  },
+  {
+    "doc_id": "",
+    "title": "Advancements in Simultaneous Translation Technology",
+    "guest_name": "Liang Huang",
+    "episode_number": "9",
+    "episode_date": "2019-02-20",
+    "episode_topic": "Liang Huang discusses Baidu's breakthroughs in simultaneous translation technology, which aims to eliminate language barriers by allowing real-time speech translation with minimal delay. He explains the challenges of simultaneous interpretation and the innovative approaches being developed to enhance translation accuracy and speed."
+  },
+  {
+    "doc_id": "",
+    "title": "AI Arms Race: Insights from Pedro Domingos",
+    "guest_name": "Pedro Domingos",
+    "episode_number": "10",
+    "episode_date": "2019-03-07",
+    "episode_topic": "Pedro Domingos discusses the implications of AI on global power dynamics, particularly the competition between the U.S. and China. He emphasizes the need for a master algorithm that could unify various machine learning paradigms and reflects on the potential of AI to both enhance democracy and empower authoritarian regimes."
+  },
+  {
+    "doc_id": "",
+    "title": "Richard Sutton on Reinforcement Learning and AI's Future",
+    "guest_name": "Richard Sutton",
+    "episode_number": "11",
+    "episode_date": "2019-03-20",
+    "episode_topic": "In this episode, Richard Sutton discusses his pioneering work in reinforcement learning, including the development of the temporal difference learning algorithm. He shares insights on the future of AI, the potential for achieving human-level intelligence, and the philosophical implications of AI on understanding the mind."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring Neural Networks with the Bengio Brothers",
+    "guest_name": "Samy Bengio, Yoshua Bengio",
+    "episode_number": "12",
+    "episode_date": "2019-04-03",
+    "episode_topic": "In this episode, Craig Smith interviews the Bengio brothers, Samy and Yoshua, discussing their early influences, the evolution of neural networks, and the future of AI research. They share insights on the importance of collaboration, funding, and ethical considerations in AI development."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring AI and Robotics with Pieter Abbeel",
+    "guest_name": "Pieter Abbeel",
+    "episode_number": "13",
+    "episode_date": "2019-04-17",
+    "episode_topic": "Pieter Abbeel discusses the integration of AI in robotics, focusing on one-shot and few-shot learning, the challenges of real-world applications, and the potential for robots to assist in everyday tasks. He shares insights on the future of intelligent robots and their ability to learn from limited demonstrations."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring Robot Touch and Learning with Sergey Levine",
+    "guest_name": "Sergey Levine",
+    "episode_number": "14",
+    "episode_date": "2019-05-02",
+    "episode_topic": "In this episode, Sergey Levine discusses his work on machine learning for robotics, focusing on developing robots that can learn through touch and operate autonomously. He shares insights on the challenges of integrating AI with physical systems and the importance of environmental interaction in fostering intelligence."
+  },
+  {
+    "doc_id": "",
+    "title": "Ken Church on Natural Language Processing and Explainable AI",
+    "guest_name": "Ken Church",
+    "episode_number": "15",
+    "episode_date": "2019-05-16",
+    "episode_topic": "Ken Church discusses his journey in Natural Language Processing, focusing on the shift to statistical models and the importance of explainable AI. He reflects on the challenges of understanding AI systems and the implications for society."
+  },
+  {
+    "doc_id": "",
+    "title": "AI in National Security: Insights from Anduril Industries",
+    "guest_name": "Trae Stephens, Brian Schimpf",
+    "episode_number": "16",
+    "episode_date": "2019-06-05",
+    "episode_topic": "This episode explores the intersection of artificial intelligence and national security, focusing on the role of AI in military applications and the competitive landscape between the US and China. Trae Stephens and Brian Schimpf discuss the challenges and opportunities in integrating AI into defense strategies."
+  },
+  {
+    "doc_id": "",
+    "title": "Yann Lecun on Self-Supervised Learning and AI's Future",
+    "guest_name": "Yann Lecun",
+    "episode_number": "17",
+    "episode_date": "2019-06-19",
+    "episode_topic": "In this episode, Yann Lecun discusses his journey in AI, the development of neural networks, and the significance of self-supervised learning in achieving human-level intelligence in machines. He emphasizes the need for machines to learn from observation and the potential of AI to transform various industries."
+  },
+  {
+    "doc_id": "",
+    "title": "AI Research and Development in India",
+    "guest_name": "Partha Talukdar",
+    "episode_number": "18",
+    "episode_date": "2019-07-04",
+    "episode_topic": "In this episode, Craig S. Smith interviews Partha Talukdar about the state of AI research and development in India. They discuss the challenges and opportunities within the Indian AI ecosystem, including the role of education, startups, and government policy in shaping the future of AI in the country."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring Meta-Learning and Lifelong Learning in Robotics",
+    "guest_name": "Chelsea Finn",
+    "episode_number": "19",
+    "episode_date": "2019-07-16",
+    "episode_topic": "Chelsea Finn discusses her research in meta-learning and lifelong learning for robots, emphasizing the importance of enabling robots to learn from past experiences and adapt to new tasks efficiently. She shares insights from her PhD work and her vision for the future of robotics."
+  },
+  {
+    "doc_id": "",
+    "title": "AI's Role in Combating Climate Change",
+    "guest_name": "John Platt",
+    "episode_number": "20",
+    "episode_date": "2019-07-31",
+    "episode_topic": "In this episode, John Platt discusses the intersection of artificial intelligence and climate change, emphasizing the urgent need to reduce carbon emissions and explore innovative energy solutions. He highlights the potential of machine learning in addressing environmental challenges and the importance of collective action."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring the Smelliverse with Alexei Koulakov",
+    "guest_name": "Alexei Koulakov",
+    "episode_number": "21",
+    "episode_date": "2019-08-14",
+    "episode_topic": "In this episode, Alexei Koulakov discusses the application of machine learning to the study of olfaction, the least understood of our senses. He explores how we perceive odors, the limitations of current sensors, and the potential for understanding the olfactory system through computational neuroscience."
+  },
+  {
+    "doc_id": "",
+    "title": "AI and National Security: Insights from Brendan McCord",
+    "guest_name": "Brendan McCord",
+    "episode_number": "22",
+    "episode_date": "2019-08-29",
+    "episode_topic": "Brendan McCord discusses the integration of AI into national security, the U.S. strategy to compete with China, and the ethical implications of AI in military applications. He emphasizes the need for a coordinated national approach to AI development and deployment."
+  },
+  {
+    "doc_id": "",
+    "title": "AutoML with Determined AI",
+    "guest_name": "Evan Sparks, Ameet Talwalkar",
+    "episode_number": "23",
+    "episode_date": "2019-09-11",
+    "episode_topic": "This episode discusses the development and impact of Determined AI's platform, which aims to streamline the machine learning workflow through automated machine learning (AutoML) techniques. The founders share their journey in democratizing AI and the challenges faced in making machine learning accessible to a broader audience."
+  },
+  {
+    "doc_id": "",
+    "title": "Climate Change and AI: Addressing Global Warming with Machine Learning",
+    "guest_name": "David Rolnick, Priya Donti",
+    "episode_number": "24",
+    "episode_date": "2019-09-25",
+    "episode_topic": "This episode discusses the intersection of artificial intelligence and climate change, focusing on the formation of climatechange.ai and its mission to leverage machine learning for climate change mitigation and adaptation. David Rolnick and Priya Donti share insights on their work and the collaborative efforts within the AI community to address climate-related challenges."
+  },
+  {
+    "doc_id": "",
+    "title": "Dawn Song on Data Privacy and Blockchain Solutions",
+    "guest_name": "Dawn Song",
+    "episode_number": "25",
+    "episode_date": "2019-10-10",
+    "episode_topic": "Dawn Song discusses her vision for a new paradigm in data ownership and privacy, emphasizing the importance of decentralized systems and blockchain technology. She introduces her work with Oasis Labs, which aims to empower individuals to control their data and benefit from its use."
+  },
+  {
+    "doc_id": "",
+    "title": "Labelbox: Revolutionizing Data Labeling for AI",
+    "guest_name": "Manu Sharma, Brian Rieger",
+    "episode_number": "26",
+    "episode_date": "2019-10-24",
+    "episode_topic": "This episode discusses the challenges and innovations in data labeling for AI, focusing on the founding and mission of Labelbox. Manu Sharma and Brian Rieger share their experiences in the industry and the importance of high-quality labeled data for machine learning models."
+  },
+  {
+    "doc_id": "",
+    "title": "US-China AI Competition and National Security",
+    "guest_name": "Eric Schmidt, Robert O. Work",
+    "episode_number": "27",
+    "episode_date": "2019-11-04",
+    "episode_topic": "Eric Schmidt and Robert O. Work discuss the strategic competition between the US and China in artificial intelligence, emphasizing the importance of AI for national security and economic prosperity. They outline the commission's interim report, which assesses the current state of AI in the US and proposes future recommendations."
+  },
+  {
+    "doc_id": "",
+    "title": "Aude Billard on Robotics and Machine Learning",
+    "guest_name": "Aude Billard",
+    "episode_number": "28",
+    "episode_date": "2019-11-24",
+    "episode_topic": "Aude Billard discusses her innovative work at the intersection of robotics and machine learning, focusing on how her lab blends control theory with AI to create dexterous robotic systems capable of handling complex tasks like catching a tennis racket and performing precision watchmaking."
+  },
+  {
+    "doc_id": "",
+    "title": "Daphne Koller on Machine Learning in Drug Discovery",
+    "guest_name": "Daphne Koller",
+    "episode_number": "29",
+    "episode_date": "2019-12-11",
+    "episode_topic": "Daphne Koller discusses the application of machine learning in drug discovery, focusing on how it can identify genetic and cellular targets for treatment. She emphasizes the potential of machine learning to revolutionize the healthcare industry by speeding up the development of new therapies."
+  },
+  {
+    "doc_id": "",
+    "title": "The 3 Most Interesting Trends In AI",
+    "guest_name": "John Platt, David Rolnick, Priya Donti, Kaifu Lee, Eric Schmidt, Bob Work, Pedro Domingos, Yoshua Bengio, Samy Bengio, Rich Sutton, Sergey Levine",
+    "episode_number": "30",
+    "episode_date": "2020-01-07",
+    "episode_topic": "This episode explores three significant trends in AI: the application of machine learning to combat climate change, the competitive landscape between the U.S. and China in AI development, and advancements in unsupervised learning techniques. Various experts share insights on these topics, highlighting the urgency of addressing climate issues and the implications of AI competition."
+  },
+  {
+    "doc_id": "",
+    "title": "Deep Learning and the Brain: Insights from Terry Sejnowski",
+    "guest_name": "Terry Sejnowski",
+    "episode_number": "31",
+    "episode_date": "2020-02-05",
+    "episode_topic": "Terry Sejnowski discusses the intersection of deep learning and neuroscience, focusing on the development of Boltzmann machines and their implications for understanding brain function. He explores how deep learning algorithms can mimic brain processes, including dreaming and memory consolidation."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring Privacy-Preserving Machine Learning with Casimir Wierzynski",
+    "guest_name": "Casimir Wierzynski",
+    "episode_number": "32",
+    "episode_date": "2020-03-04",
+    "episode_topic": "Casimir Wierzynski discusses the intersection of AI and privacy, focusing on privacy-preserving machine learning techniques. He elaborates on neuromorphic engineering, connectomics, and the challenges of balancing data privacy with the need for AI development."
+  },
+  {
+    "doc_id": "",
+    "title": "Democratizing Software Development through Machine Programming",
+    "guest_name": "Justin Gottschlich",
+    "episode_number": "33",
+    "episode_date": "2020-03-11",
+    "episode_topic": "In this episode, Justin Gottschlich discusses machine programming, a field aimed at automating software development by allowing users to create software through natural language and other intuitive interfaces. He elaborates on the three pillars of machine programming: intention, invention, and adaptation, and shares insights on how this approach can democratize software creation."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring Neuro-Symbolic AI with David Cox",
+    "guest_name": "David Cox",
+    "episode_number": "34",
+    "episode_date": "2020-03-18",
+    "episode_topic": "David Cox discusses the integration of symbolic AI and deep learning through neuro-symbolic AI. He highlights the development of the CLEVRER dataset, which enables machines to reason about causal relationships in video, showcasing the potential for improved AI understanding and reasoning capabilities."
+  },
+  {
+    "doc_id": "",
+    "title": "AI Against COVID-19: Insights from Irina Rish",
+    "guest_name": "Irina Rish",
+    "episode_number": "35",
+    "episode_date": "2020-03-30",
+    "episode_topic": "Irina Rish discusses the rapid response of the machine learning community to the COVID-19 pandemic, detailing the formation of a task force at Mila to leverage AI for tracking the virus and aiding in drug development. She highlights ongoing projects, data challenges, and the collaborative efforts across institutions."
+  },
+  {
+    "doc_id": "",
+    "title": "Rejuvenating Cells: The Future of Stem Cell Therapy",
+    "guest_name": "Vittorio Sebastiano",
+    "episode_number": "36",
+    "episode_date": "2020-04-15",
+    "episode_topic": "Vittorio Sebastiano discusses groundbreaking techniques in stem cell biology that can rejuvenate old or damaged cells using gene expression. He explores the implications for treating diseases and the potential for machine learning collaborations to enhance research."
+  },
+  {
+    "doc_id": "",
+    "title": "AI Research Funding and National Security",
+    "guest_name": "Andrew Moore",
+    "episode_number": "37",
+    "episode_date": "2020-05-06",
+    "episode_topic": "Andrew Moore discusses the National Security Commission on AI's recommendations to Congress, emphasizing the need to double non-defense AI R&D funding and establish a National AI Research Resource. He highlights the importance of integrating AI into national security and the role of academic institutions in driving technological innovation."
+  },
+  {
+    "doc_id": "",
+    "title": "Strengthening the Government's AI Workforce",
+    "guest_name": "Jose-Marie Griffiths",
+    "episode_number": "38",
+    "episode_date": "2020-05-13",
+    "episode_topic": "In this episode, Jose-Marie Griffiths discusses the National Security Commission on AI's recommendations for enhancing the government's AI workforce. Key points include the need for improved hiring practices, the importance of AI literacy across government employees, and strategies to attract younger talent to the federal workforce."
+  },
+  {
+    "doc_id": "",
+    "title": "Accelerating AI in National Security with Katharina McFarland",
+    "guest_name": "Katharina McFarland",
+    "episode_number": "39",
+    "episode_date": "2020-05-20",
+    "episode_topic": "Katharina McFarland discusses the National Security Commission's recommendations for integrating AI into the Department of Defense. She emphasizes the need for structural changes and a steering committee to prioritize AI applications for national security."
+  },
+  {
+    "doc_id": "",
+    "title": "AI in National Security: Insights from Jason Matheny",
+    "guest_name": "Jason Matheny",
+    "episode_number": "40",
+    "episode_date": "2020-05-27",
+    "episode_topic": "Jason Matheny discusses the integration of AI into national security, emphasizing the need for cooperation with allies, the establishment of AI war games, and the importance of interoperability in military networks."
+  },
+  {
+    "doc_id": "",
+    "title": "Maintaining US Leadership in AI Hardware and 5G",
+    "guest_name": "Gilman Louie",
+    "episode_number": "41",
+    "episode_date": "2020-06-03",
+    "episode_topic": "Gilman Louie discusses the importance of a national microelectronics strategy for the US to maintain its leadership in AI and 5G technologies. He emphasizes the need for self-sufficiency in microelectronics manufacturing and the challenges posed by foreign dependencies, particularly concerning Huawei."
+  },
+  {
+    "doc_id": "",
+    "title": "Ethics and Responsible AI in National Security",
+    "guest_name": "Eric Horvitz",
+    "episode_number": "42",
+    "episode_date": "2020-06-10",
+    "episode_topic": "Eric Horvitz discusses the ethical and responsible use of AI in national security, emphasizing the need for training, standards, and documentation. He highlights the challenges of defining fairness and accountability in AI systems and the importance of aligning AI applications with societal values."
+  },
+  {
+    "doc_id": "",
+    "title": "Pietro Perona on Computer Vision and Efficient Learning",
+    "guest_name": "Pietro Perona",
+    "episode_number": "43",
+    "episode_date": "2020-06-24",
+    "episode_topic": "Pietro Perona discusses the challenges of building efficient computer vision models that require less training data. He shares insights on the development of smartphone apps like eBird and iNaturalist, and the importance of recognizing a wide variety of species with limited examples."
+  },
+  {
+    "doc_id": "",
+    "title": "Fei-Fei Li on AI, ImageNet, and Elder Care",
+    "guest_name": "Fei-Fei Li",
+    "episode_number": "44",
+    "episode_date": "2020-07-08",
+    "episode_topic": "Fei-Fei Li discusses her journey from immigrant to AI pioneer, her creation of ImageNet, and her current work on ambient intelligence aimed at improving elder care. She emphasizes the importance of diversity in AI and the potential of technology to enhance healthcare."
+  },
+  {
+    "doc_id": "",
+    "title": "Starting Project Maven with Lt. Gen. Jack Shanahan",
+    "guest_name": "Lt. Gen. Jack Shanahan",
+    "episode_number": "45",
+    "episode_date": "2020-07-22",
+    "episode_topic": "Lt. Gen. Jack Shanahan discusses his journey to becoming the director of the Joint Artificial Intelligence Center (JAIC) and the challenges faced in implementing AI within the Department of Defense. He highlights the importance of Project Maven and the need for AI in various military applications."
+  },
+  {
+    "doc_id": "",
+    "title": "Qualcomm's Role in AI and 5G Technologies",
+    "guest_name": "Ziad Asghar, Hsin-I Hsu",
+    "episode_number": "46",
+    "episode_date": "2020-08-04",
+    "episode_topic": "This episode explores Qualcomm's integration of AI into its Snapdragon platforms and the impact on 5G technology. Ziad Asghar and Hsin-I Hsu discuss how AI enhances device performance, reduces power consumption, and enables new applications across various industries."
+  },
+  {
+    "doc_id": "",
+    "title": "Talking Machines with Prem Natarajan",
+    "guest_name": "Prem Natarajan",
+    "episode_number": "47",
+    "episode_date": "2020-08-04",
+    "episode_topic": "In this episode, Craig Smith speaks with Prem Natarajan about the evolution of conversational AI, the challenges it faces, and the future potential of social bots. They discuss the advancements in deep learning and how these technologies are being integrated into systems like Alexa to enhance user interactions."
+  },
+  {
+    "doc_id": "",
+    "title": "Mignon Clyburn on AI Workforce Challenges in Government",
+    "guest_name": "Mignon Clyburn",
+    "episode_number": "48",
+    "episode_date": "2020-08-12",
+    "episode_topic": "Mignon Clyburn discusses the critical shortage of AI knowledge and talent in the U.S. government, emphasizing the need for a digital workforce to address national security and modernization challenges. She outlines recommendations for creating a National Reserve Digital Corps and a Digital Service Academy to bridge the skills gap."
+  },
+  {
+    "doc_id": "",
+    "title": "The Conundrum of AI Export Controls",
+    "guest_name": "Jason Matheny",
+    "episode_number": "49",
+    "episode_date": "2020-08-19",
+    "episode_topic": "Jason Matheny discusses the complexities of AI export controls and investment screening, emphasizing the need for technical expertise in government to effectively manage dual-use technologies. He highlights the balance between protecting national security and maintaining US competitiveness in technology."
+  },
+  {
+    "doc_id": "",
+    "title": "Eric Horvitz on Ethical Uses of AI for National Security",
+    "guest_name": "Eric Horvitz",
+    "episode_number": "50",
+    "episode_date": "2020-08-26",
+    "episode_topic": "In this episode, Eric Horvitz discusses the ethical and responsible use of AI in national security, emphasizing the importance of aligning AI systems with democratic values and principles. He outlines key considerations for operationalizing ethical AI practices within defense and national security agencies."
+  },
+  {
+    "doc_id": "",
+    "title": "AI War Games Will Inform Military Doctrine",
+    "guest_name": "Katharina McFarland",
+    "episode_number": "51",
+    "episode_date": "2020-09-02",
+    "episode_topic": "Katharina McFarland discusses the integration of AI into the National Defense Strategy and the implications of algorithmic warfare on military doctrine. She emphasizes the need for the Department of Defense to adapt quickly to technological advancements to maintain military superiority."
+  },
+  {
+    "doc_id": "",
+    "title": "Turning AI from a Tool to a Teammate",
+    "guest_name": "Ken Ford",
+    "episode_number": "52",
+    "episode_date": "2020-09-09",
+    "episode_topic": "Ken Ford discusses the evolution of artificial intelligence from being a mere tool to becoming a teammate in military applications. He emphasizes the importance of human-machine collaboration, the need for robust AI systems, and the bureaucratic challenges facing AI research and development in the defense sector."
+  },
+  {
+    "doc_id": "",
+    "title": "Great Power Competition in the Digital Age",
+    "guest_name": "Gilman Louie",
+    "episode_number": "53",
+    "episode_date": "2020-09-16",
+    "episode_topic": "Gilman Louie discusses the implications of great power competition in the digital age, particularly focusing on China's technological advancements and their impact on global standards. He emphasizes the need for the U.S. to enhance its diplomatic strategies to counter China's influence in technology and AI."
+  },
+  {
+    "doc_id": "",
+    "title": "CPUs to GPUs to TPUs: The Evolution of AI Hardware",
+    "guest_name": "David Patterson",
+    "episode_number": "54",
+    "episode_date": "2020-09-30",
+    "episode_topic": "David Patterson discusses the evolution of computer chips, focusing on the transition from general-purpose CPUs to specialized AI chips like Google's TPUs. He highlights the implications of Moore's Law slowing down and the emergence of domain-specific architectures in the AI hardware landscape."
+  },
+  {
+    "doc_id": "",
+    "title": "Data Preparation Challenges in Machine Learning",
+    "guest_name": "Joe Hellerstein",
+    "episode_number": "55",
+    "episode_date": "2020-10-14",
+    "episode_topic": "In this episode, Joe Hellerstein discusses the critical role of data preparation in machine learning, highlighting the challenges faced in making data machine consumable. He shares insights on the evolution of data wrangling tools and the importance of collaboration between human intelligence and AI in the data preparation process."
+  },
+  {
+    "doc_id": "",
+    "title": "Programmatic Labeling in Machine Learning with Alex Ratner",
+    "guest_name": "Alex Ratner",
+    "episode_number": "56",
+    "episode_date": "2020-10-28",
+    "episode_topic": "In this episode, Alex Ratner discusses the challenges of labeling training data for supervised learning models and introduces Snorkel, a platform designed to programmatically label data. The conversation covers the evolution of machine learning, the importance of data quality, and how Snorkel enables faster and more efficient data labeling processes."
+  },
+  {
+    "doc_id": "",
+    "title": "AI and Allies: Coordinating National Security with NATO and India",
+    "guest_name": "Jason Matheny",
+    "episode_number": "57",
+    "episode_date": "2020-10-28",
+    "episode_topic": "The episode discusses the need for NATO to enhance its AI capabilities to match the US, focusing on interoperability and data sharing. It also explores the potential for US-India collaboration in AI development to counter China's advancements."
+  },
+  {
+    "doc_id": "",
+    "title": "Opening AI Career Paths in Government and Funding STEM Education",
+    "guest_name": "Jose Marie",
+    "episode_number": "58",
+    "episode_date": "2020-11-04",
+    "episode_topic": "The episode discusses the need for a digitally literate workforce in the U.S. government, emphasizing funding for AI education and training initiatives. Jose Marie outlines recommendations for improving STEM education and creating career paths in AI and related fields."
+  },
+  {
+    "doc_id": "",
+    "title": "AI in Space with NASA's Steve Chien",
+    "guest_name": "Steve Chien",
+    "episode_number": "59",
+    "episode_date": "2020-11-12",
+    "episode_topic": "Steve Chien discusses the increasing demand for AI solutions in space, including the management of numerous earth-orbiting objects and the protection of communication satellites. He emphasizes the need for AI in both operational autonomy and data management for national security."
+  },
+  {
+    "doc_id": "",
+    "title": "Tricky Business: Deploying AI Models on Hardware",
+    "guest_name": "Eric Horvitz",
+    "episode_number": "60",
+    "episode_date": "2020-12-03",
+    "episode_topic": "This episode discusses the interoperability of AI systems among US allies and the importance of ensuring reliability in AI technologies. Eric Horvitz shares insights on the NSCAI's recommendations for NATO and the significance of establishing common standards and practices in AI development."
+  },
+  {
+    "doc_id": "",
+    "title": "Eric Horvitz on AI and Allies",
+    "guest_name": "Tianqi Chen",
+    "episode_number": "61",
+    "episode_date": "2020-12-03",
+    "episode_topic": "In this episode, Tianqi Chen discusses his work on TVM, an open-source machine learning compiler designed to optimize model performance across various hardware platforms. The conversation covers the importance of co-designing machine learning models with hardware and the challenges of automating the optimization process."
+  },
+  {
+    "doc_id": "",
+    "title": "Biodata as an Instrument of National Power",
+    "guest_name": "Chris Darby",
+    "episode_number": "62",
+    "episode_date": "2020-12-11",
+    "episode_topic": "Chris Darby discusses the intersection of AI and biotechnology, emphasizing the potential of AI to drive innovations in biotech and the strategic implications of biodata as a tool of national power. He highlights the need for the U.S. to maintain leadership in biotech while addressing the dual-use nature of these technologies."
+  },
+  {
+    "doc_id": "",
+    "title": "Geoff Hinton on his quest to decode learning in the brain",
+    "guest_name": "Geoff Hinton",
+    "episode_number": "63",
+    "episode_date": "2020-12-18",
+    "episode_topic": "Geoff Hinton discusses his groundbreaking work on capsule networks and unsupervised learning, exploring how these concepts relate to human cognition and the brain's learning processes. He also delves into the implications of his research for future AI models."
+  },
+  {
+    "doc_id": "",
+    "title": "AI for Education: Insights from Yoshua Bengio and Iulian Serban",
+    "guest_name": "Yoshua Bengio, Iulian Serban",
+    "episode_number": "64",
+    "episode_date": "2021-01-28",
+    "episode_topic": "This episode explores the application of AI in education, focusing on the development of personalized AI tutors that enhance learning experiences. Yoshua Bengio and Iulian Serban discuss their work at Korbit, the challenges of democratizing education, and the potential impact of AI technologies on teaching and learning."
+  },
+  {
+    "doc_id": "",
+    "title": "Riiid, the leader in AI for Education",
+    "guest_name": "David Yi, Yohan Lee",
+    "episode_number": "65",
+    "episode_date": "2021-02-03",
+    "episode_topic": "David Yi and Yohan Lee discuss Riiid's mission to democratize education through AI, focusing on personalized learning and the impact of their algorithms on test preparation. They also highlight the Riiid AIEd Challenge and the potential of AI to transform educational assessments."
+  },
+  {
+    "doc_id": "",
+    "title": "Lt. Gen. Michael S. Groen on AI War Fighting",
+    "guest_name": "Michael S. Groen",
+    "episode_number": "66",
+    "episode_date": "2021-02-17",
+    "episode_topic": "In this episode, Lt. Gen. Michael S. Groen discusses the role of the Joint Artificial Intelligence Center (JAIC) in transforming military operations through AI integration. He emphasizes the importance of building frameworks for AI implementation across the Department of Defense and the need for a cohesive approach to modern warfare."
+  },
+  {
+    "doc_id": "",
+    "title": "Creating New Materials with AI",
+    "guest_name": "Al\u00e1n Aspuru-Guzik",
+    "episode_number": "67",
+    "episode_date": "2021-03-03",
+    "episode_topic": "Al\u00e1n Aspuru-Guzik discusses his innovative work in materials discovery using machine learning, focusing on applications in healthcare and climate change. He elaborates on the development of an automated lab for synthesizing new molecules and the potential impact of AI on material science."
+  },
+  {
+    "doc_id": "",
+    "title": "The Future of Synthetic Data in AI Training",
+    "guest_name": "Daeil Kim",
+    "episode_number": "68",
+    "episode_date": "2021-03-18",
+    "episode_topic": "Daeil Kim discusses the transformative role of synthetic data in machine learning, particularly for computer vision. He emphasizes its efficiency, ability to eliminate bias, and potential to become the primary data source for AI training."
+  },
+  {
+    "doc_id": "",
+    "title": "Google's Kent Walker on Ethical AI",
+    "guest_name": "Kent Walker",
+    "episode_number": "69",
+    "episode_date": "2021-04-14",
+    "episode_topic": "Kent Walker discusses Google's approach to AI ethics, including the development of AI principles and the processes in place to ensure responsible innovation. He highlights the importance of transparency, accountability, and the need for ongoing dialogue about the ethical implications of AI technologies."
+  },
+  {
+    "doc_id": "",
+    "title": "Cade Metz on Genius Makers",
+    "guest_name": "Cade Metz",
+    "episode_number": "70",
+    "episode_date": "2021-04-28",
+    "episode_topic": "Cade Metz discusses his book 'Genius Makers,' which explores the personalities and companies driving AI innovation. He delves into the narratives behind key figures in AI, the controversies surrounding the technology, and the implications of AI advancements on society."
+  },
+  {
+    "doc_id": "",
+    "title": "AI and National Security: US vs China",
+    "guest_name": "Ylli Bajraktari",
+    "episode_number": "71",
+    "episode_date": "2021-05-05",
+    "episode_topic": "This episode discusses the National Security Commission on AI's final report, focusing on the U.S. strategy to maintain its technological edge over China in AI. Ylli Bajraktari outlines key recommendations for leadership, talent development, hardware revitalization, and innovation to ensure national security in the AI era."
+  },
+  {
+    "doc_id": "",
+    "title": "Educating the Warfighter for the AI Era",
+    "guest_name": "Justin Lynch, Lance Lantier, Shaantam Chawla",
+    "episode_number": "72",
+    "episode_date": "2021-05-12",
+    "episode_topic": "The episode discusses the necessary training and education for warfighters to effectively integrate AI into military operations. The guests emphasize the importance of adapting decision-making processes and the need for a workforce that understands AI's capabilities and limitations."
+  },
+  {
+    "doc_id": "",
+    "title": "US Defense: AI-ready by 2025",
+    "guest_name": "Dr. Christopher Rice, Courtney Barnett",
+    "episode_number": "73",
+    "episode_date": "2021-05-19",
+    "episode_topic": "This episode discusses the U.S. Department of Defense's strategy to adopt and scale AI technologies by 2025 to maintain military superiority, focusing on the challenges and recommendations outlined in the NSCAI's final report."
+  },
+  {
+    "doc_id": "",
+    "title": "Making the Government a Better AI Customer",
+    "guest_name": "Kevin McGuinness, Raina Davis",
+    "episode_number": "74",
+    "episode_date": "2021-05-26",
+    "episode_topic": "This episode discusses the recommendations from the National Security Commission on AI aimed at improving the government's engagement with AI companies. Kevin McGuinness and Raina Davis share insights on public-private partnerships and strategies to enhance the Department of Defense's role as a customer for AI technologies."
+  },
+  {
+    "doc_id": "",
+    "title": "Democratizing AI for the Warfighter",
+    "guest_name": "Courtney Barno, Dave Kumashiro",
+    "episode_number": "75",
+    "episode_date": "2021-06-02",
+    "episode_topic": "This episode discusses the recommendations from the National Security Commission on AI regarding the democratization of AI for military applications. The conversation highlights the need for both top-down strategic leadership and bottom-up innovation to effectively integrate AI into national security missions."
+  },
+  {
+    "doc_id": "",
+    "title": "Getting the Intelligence Community up to Speed with AI",
+    "guest_name": "Mike Jackson, Darren Wright",
+    "episode_number": "76",
+    "episode_date": "2021-06-09",
+    "episode_topic": "This episode discusses the recommendations from the National Security Commission on Artificial Intelligence regarding the integration of AI into the intelligence community. The guests highlight the organizational changes and cultural shifts necessary for effective AI adoption in national security operations."
+  },
+  {
+    "doc_id": "",
+    "title": "Public-Private Innovation Hubs for AI and National Security",
+    "guest_name": "Aristotle Vainikos, Parker Wild",
+    "episode_number": "77",
+    "episode_date": "2021-06-16",
+    "episode_topic": "This episode discusses the National Security Commission on AI's recommendations for establishing regional innovation hubs to enhance public-private partnerships in AI development. The conversation highlights the need for collaboration across the U.S. to tap into emerging tech sectors and ensure national security."
+  },
+  {
+    "doc_id": "",
+    "title": "Building the Foundation for AI in National Security",
+    "guest_name": "Michael Jackson, Michael Garris",
+    "episode_number": "78",
+    "episode_date": "2021-06-24",
+    "episode_topic": "This episode discusses the integration of AI into the national security framework, focusing on the Department of Defense's need for a digital ecosystem to support AI innovation. The guests outline challenges, recommendations, and the importance of collaboration between the Department of Defense and the Intelligence Community."
+  },
+  {
+    "doc_id": "",
+    "title": "Building a Democratic AI Coalition",
+    "guest_name": "Paul Lekas, Christie Lawrence",
+    "episode_number": "79",
+    "episode_date": "2021-06-30",
+    "episode_topic": "This episode discusses the importance of international partnerships in shaping AI governance and standards to counter authoritarian uses of technology. Paul Lekas and Christie Lawrence outline the recommendations from the NSCAI report, emphasizing the need for a coalition of democratic nations to promote responsible AI development and counter malign uses of technology."
+  },
+  {
+    "doc_id": "",
+    "title": "Steps to Drive AI Innovation",
+    "guest_name": "Tess Deblanc-Knowles, Michael Garris",
+    "episode_number": "80",
+    "episode_date": "2021-07-21",
+    "episode_topic": "This episode discusses the steps the U.S. government needs to take to foster AI innovation, focusing on the findings and recommendations from the National Security Commission on Artificial Intelligence's final report. Tess Deblanc-Knowles and Michael Garris highlight the current state of AI R&D in the U.S. and the importance of federal investment to maintain leadership in AI."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring AI's Future: Insights from Kai Fu Lee",
+    "guest_name": "Kai Fu Lee",
+    "episode_number": "81",
+    "episode_date": "2021-07-21",
+    "episode_topic": "In this episode, Kai Fu Lee discusses his new book 'AI 2041', exploring how AI might shape our lives over the next two decades. He shares insights on the potential benefits and dangers of AI, emphasizing the importance of ethical considerations and regulatory frameworks."
+  },
+  {
+    "doc_id": "",
+    "title": "Reorganizing DoD for the AI Future",
+    "guest_name": "Ben Goertzel",
+    "episode_number": "82",
+    "episode_date": "2021-07-30",
+    "episode_topic": "Ben Goertzel discusses the complexities of artificial general intelligence (AGI), the capabilities and limitations of Sophia the robot, and the implications of AI in healthcare and eldercare. He also critiques the dominance of big tech in AI research and shares insights on the future of AGI development."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring MLOps and the Future of AI with Cognilytica",
+    "guest_name": "Ron Schmelzer, Kathleen Walch",
+    "episode_number": "83",
+    "episode_date": "2021-08-11",
+    "episode_topic": "This episode features a discussion with Ron Schmelzer and Kathleen Walch from Cognilytica, focusing on the rise of MLOps, data labeling, and the journey towards achieving human-level artificial general intelligence. They share insights on market trends, vendor consolidation, and the evolving landscape of machine learning technologies."
+  },
+  {
+    "doc_id": "",
+    "title": "Building Trustworthy AI with IBM's Seth Dobrin",
+    "guest_name": "Seth Dobrin",
+    "episode_number": "84",
+    "episode_date": "2021-08-25",
+    "episode_topic": "In this episode, Seth Dobrin discusses IBM's initiatives to enhance the trustworthiness, fairness, and explainability of AI models. He elaborates on the importance of transparency and ethical considerations in AI, particularly through IBM's FactSheets 360 product, which aims to provide a comprehensive understanding of AI systems."
+  },
+  {
+    "doc_id": "",
+    "title": "Building Trustworthy AI with IBM's Seth Dobrin",
+    "guest_name": "Seth Dobrin",
+    "episode_number": "85",
+    "episode_date": "2021-09-01",
+    "episode_topic": "In this episode, Seth Dobrin discusses IBM's initiatives to enhance the trustworthiness, fairness, and explainability of AI models. He elaborates on the importance of transparency and ethical considerations in AI, particularly through the use of tools like FactSheets 360."
+  },
+  {
+    "doc_id": "",
+    "title": "Building Trustworthy AI with Seth Dobrin",
+    "guest_name": "Seth Dobrin",
+    "episode_number": "86",
+    "episode_date": "2021-09-15",
+    "episode_topic": "Seth Dobrin discusses IBM's initiatives to enhance the trustworthiness, fairness, and explainability of AI models. He elaborates on the importance of transparency and bias mitigation in AI systems, particularly through tools like FactSheets 360."
+  },
+  {
+    "doc_id": "",
+    "title": "The National Research Cloud: Democratizing AI Research",
+    "guest_name": "Daniel Ho",
+    "episode_number": "87",
+    "episode_date": "2021-09-29",
+    "episode_topic": "Daniel Ho discusses the National Research Cloud initiative aimed at expanding access to data and computing resources for academic researchers. He emphasizes the need to democratize AI research and rebalance the innovation ecosystem away from commercial interests."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring Symbolic AI and Decision Science with Stephen DeAngelis",
+    "guest_name": "Stephen DeAngelis",
+    "episode_number": "88",
+    "episode_date": "2021-10-13",
+    "episode_topic": "Stephen DeAngelis discusses the power of symbolic AI and its application in decision-making processes within large organizations. He explains how Enterra Solutions leverages knowledge bases and inference engines to optimize business functions and navigate complex systems."
+  },
+  {
+    "doc_id": "",
+    "title": "Geopolitical Implications of AI and Military Competition",
+    "guest_name": "Robert O. Work",
+    "episode_number": "89",
+    "episode_date": "2021-11-04",
+    "episode_topic": "This episode discusses the geopolitical implications of AI, particularly the military competition between the US and China. Robert O. Work shares insights on algorithmic warfare, the evolution of military technologies, and the potential dangers of autonomous systems."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring Large Language Models with Connor Leahy",
+    "guest_name": "Connor Leahy",
+    "episode_number": "90",
+    "episode_date": "2021-11-17",
+    "episode_topic": "Connor Leahy discusses the development and implications of large language models, particularly focusing on EleutherAI's efforts to create open-source alternatives to models like GPT-3. He emphasizes the challenges of building these models and the ethical considerations surrounding AI technology."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring China's WuDao 2.0 AI Model with Tang Jie",
+    "guest_name": "Tang Jie",
+    "episode_number": "91",
+    "episode_date": "2021-12-15",
+    "episode_topic": "In this episode, Craig Smith interviews Professor Tang Jie about the WuDao 2.0 AI model, its unique features, and the future of AI development in China. They discuss the model's architecture, training data, and potential applications, as well as the implications of AI advancements."
+  },
+  {
+    "doc_id": "",
+    "title": "DeepMind's AlphaFold and AI for Science",
+    "guest_name": "Pushmeet Kohli",
+    "episode_number": "92",
+    "episode_date": "2022-01-12",
+    "episode_topic": "Pushmeet Kohli discusses the development and impact of AlphaFold, a machine learning system that predicts protein structures. He elaborates on the advancements from AlphaFold 1 to AlphaFold 2, its applications in biology, and the future directions for AI in scientific research."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring Robotics and AI with Vladlen Koltun",
+    "guest_name": "Vladlen Koltun",
+    "episode_number": "93",
+    "episode_date": "2022-01-26",
+    "episode_topic": "Vladlen Koltun discusses his work in robotics and AI, focusing on the integration of perception and action in physical systems. He shares insights on the evolution of intelligence through embodied systems, including quadrupedal robots and drones, and the development of the Megaverse platform for high-speed computer vision training."
+  },
+  {
+    "doc_id": "",
+    "title": "DeepMind for Science: Protein Annotation with AI",
+    "guest_name": "Max Bileschi",
+    "episode_number": "94",
+    "episode_date": "2022-02-16",
+    "episode_topic": "Max Bileschi discusses his work at Google Research on using deep learning to annotate protein functions based on amino acid sequences. He explains how this approach complements existing methods like AlphaFold and its potential applications in healthcare and biological research."
+  },
+  {
+    "doc_id": "",
+    "title": "Tom Siebel on AI's Impact and Ethical Challenges",
+    "guest_name": "Tom Siebel",
+    "episode_number": "95",
+    "episode_date": "2022-03-02",
+    "episode_topic": "Tom Siebel discusses the transformative potential of AI in various sectors, including healthcare and defense, while also addressing the ethical implications and challenges posed by these technologies. He emphasizes the importance of explainable AI and the need for regulation to prevent misuse."
+  },
+  {
+    "doc_id": "",
+    "title": "Data-Centric AI and the Future of Machine Learning",
+    "guest_name": "Andrew Ng",
+    "episode_number": "96",
+    "episode_date": "2022-03-16",
+    "episode_topic": "Andrew Ng discusses the importance of a data-centric approach to AI, emphasizing the need for quality data over merely improving models. He shares insights on the challenges of implementing AI in various industries and the future of supervised versus unsupervised learning."
+  },
+  {
+    "doc_id": "",
+    "title": "Tom Denton on Audio Machine Learning for Birdsong",
+    "guest_name": "Tom Denton",
+    "episode_number": "97",
+    "episode_date": "2022-03-31",
+    "episode_topic": "Tom Denton discusses his work on audio machine learning, specifically focusing on separating individual birdsongs from background noise. He explains the challenges of working with bioacoustics and the development of algorithms that can enhance the identification of bird species in the wild."
+  },
+  {
+    "doc_id": "",
+    "title": "DeepMind's AlphaCode and the Path to AGI",
+    "guest_name": "Oriol Vinalys",
+    "episode_number": "98",
+    "episode_date": "2022-04-13",
+    "episode_topic": "In this episode, Oriol Vinalys discusses AlphaCode, DeepMind's code-writing language model, and its implications for artificial general intelligence (AGI). He shares insights on the development process, the relationship between AlphaCode and other models like RETRO, and the future of AI in software engineering."
+  },
+  {
+    "doc_id": "",
+    "title": "Baidu's PaddlePaddle and AI Development in China",
+    "guest_name": "Ma Yanjun",
+    "episode_number": "99",
+    "episode_date": "2022-04-27",
+    "episode_topic": "Dr. Ma Yanjun discusses Baidu's AI framework PaddlePaddle, its development, and its competitive position against other frameworks like TensorFlow and PyTorch. The conversation also covers the broader landscape of AI research and application in China."
+  },
+  {
+    "doc_id": "",
+    "title": "AI and Machine Learning Research in Iraq",
+    "guest_name": "Almammon Rasool Abdali",
+    "episode_number": "100",
+    "episode_date": "2022-05-11",
+    "episode_topic": "Almammon discusses the state of AI and machine learning research in Iraq, focusing on his work in violence detection using deep learning. He highlights the challenges faced by researchers in Iraq, including limited resources and outdated educational materials."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring Amazon's Astro: The Future of Consumer Robotics",
+    "guest_name": "Ken Washington",
+    "episode_number": "101",
+    "episode_date": "2022-05-26",
+    "episode_topic": "In this episode, Craig Smith interviews Ken Washington about Amazon's consumer robot, Astro. They discuss its design, capabilities, and the potential future of robotics in the home, including its role in companionship and elder care."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring Ambient Intelligence with Rohit Prasad",
+    "guest_name": "Rohit Prasad",
+    "episode_number": "102",
+    "episode_date": "2022-06-09",
+    "episode_topic": "This episode delves into the development of conversational AI and ambient intelligence, focusing on how AI can be seamlessly integrated into everyday life through devices like Alexa. Rohit Prasad discusses the importance of sensors, privacy concerns, and the future of AI in enhancing user experiences."
+  },
+  {
+    "doc_id": "",
+    "title": "Building Trust in AI: Insights from Aaron Patzer",
+    "guest_name": "Aaron Patzer",
+    "episode_number": "103",
+    "episode_date": "2022-07-15",
+    "episode_topic": "Aaron Patzer discusses the challenges of building trust in AI-driven applications, particularly in healthcare and personal finance. He shares insights on the importance of security protocols and user data protection in both VITAL and Mint."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring the ANA Avatar XPRIZE with Jacki Morie",
+    "guest_name": "Jacki Morie",
+    "episode_number": "104",
+    "episode_date": "2022-06-23",
+    "episode_topic": "Jacki Morie discusses the ANA Avatar XPRIZE, a competition aimed at developing tele robotic avatars that can transport human skills and experiences to remote locations. She highlights the challenges of sensory data communication and the potential impact of this technology on various industries."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring Differential Privacy and AI at Amazon",
+    "guest_name": "Michael Kearns",
+    "episode_number": "105",
+    "episode_date": "2022-07-28",
+    "episode_topic": "Michael Kearns discusses his work on differential privacy and responsible AI at Amazon, contrasting it with traditional academic research. He emphasizes the importance of fairness in machine learning and the evolving landscape of AI applications."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring the Future of AI and Teleportation",
+    "guest_name": "",
+    "episode_number": "106",
+    "episode_date": "2022-08-10",
+    "episode_topic": "This episode delves into the intersection of artificial intelligence and teleportation technology. The discussion covers the implications of AI advancements on teleportation concepts and the potential future applications in various fields."
+  },
+  {
+    "doc_id": "",
+    "title": "Michael Kearns on Privacy",
+    "guest_name": "Michael Kearns",
+    "episode_number": "107",
+    "episode_date": "2022-08-25",
+    "episode_topic": "Michael Kearns discusses the intersection of artificial intelligence and privacy, exploring the implications of AI technologies on personal data protection. He emphasizes the need for robust privacy frameworks as AI systems become more pervasive."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring MLOps with ClearML's Moses Guttmann",
+    "guest_name": "Moses Guttmann",
+    "episode_number": "108",
+    "episode_date": "2022-09-08",
+    "episode_topic": "In this episode, Craig Smith interviews Moses Guttmann about the evolution of MLOps and ClearML's role in the industry. They discuss the challenges of machine learning operations, the importance of infrastructure, and how ClearML provides a holistic solution for managing machine learning workflows."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring No-Code Machine Learning with Akkio",
+    "guest_name": "John Riley",
+    "episode_number": "109",
+    "episode_date": "2022-09-21",
+    "episode_topic": "In this episode, John Riley discusses the evolution and impact of no-code machine learning platforms, particularly Akkio. He explains how these platforms democratize access to AI, allowing non-technical users to leverage machine learning for data-driven decision-making."
+  },
+  {
+    "doc_id": "",
+    "title": "MLOps and Digital Twins in Supply Chain Management",
+    "guest_name": "Bob Rogers",
+    "episode_number": "110",
+    "episode_date": "2022-10-05",
+    "episode_topic": "Bob Rogers discusses his transition from astrophysics to supply chain optimization using AI and digital twins. He explains how his company leverages AI to create resilient supply chains that adapt to changing circumstances and improve efficiency."
+  },
+  {
+    "doc_id": "",
+    "title": "No-Code Revolution with Akkio",
+    "guest_name": "Akkio Team",
+    "episode_number": "111",
+    "episode_date": "2022-10-20",
+    "episode_topic": "This episode explores the rise of no-code platforms, particularly focusing on Akkio's approach to democratizing AI. The discussion highlights how no-code solutions empower users without technical expertise to leverage AI for data analysis and decision-making."
+  },
+  {
+    "doc_id": "",
+    "title": "AI Supply Chain Optimization",
+    "guest_name": "",
+    "episode_number": "112",
+    "episode_date": "2022-11-09",
+    "episode_topic": "This episode discusses the impact of AI on supply chain optimization, exploring how machine learning and data analytics can enhance efficiency and decision-making in logistics. The conversation highlights various strategies and technologies that organizations can adopt to improve their supply chain operations."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring the Intersection of AI and Neuroscience",
+    "guest_name": "Terry Sejnowski",
+    "episode_number": "113",
+    "episode_date": "2023-01-02",
+    "episode_topic": "Terry Sejnowski discusses the relationship between advances in deep learning and our understanding of the brain, emphasizing the significance of large transformer models and the principles of scaling in AI. He reflects on the evolution of the NeurIPS conference and the ongoing exploration of diverse algorithms in the field."
+  },
+  {
+    "doc_id": "",
+    "title": "Geoffrey Hinton: Unpacking The Forward-Forward Algorithm",
+    "guest_name": "Geoffrey Hinton",
+    "episode_number": "114",
+    "episode_date": "2023-01-19",
+    "episode_topic": "In this episode, Geoffrey Hinton discusses the Forward-Forward algorithm, a novel approach to training neural networks. He explains its implications for improving the efficiency and effectiveness of AI models, particularly in the context of deep learning."
+  },
+  {
+    "doc_id": "",
+    "title": "Terry Sejnowski: NeurIPS and the Future of AI",
+    "guest_name": "Terry Sejnowski",
+    "episode_number": "115",
+    "episode_date": "2023-02-01",
+    "episode_topic": "Terry Sejnowski discusses the significance of the NeurIPS conference in shaping the future of AI. He explores the evolution of neural networks and their impact on various fields, emphasizing the importance of interdisciplinary collaboration in advancing AI research."
+  },
+  {
+    "doc_id": "",
+    "title": "Ilya Sutskever on Large Language Models and AI's Future",
+    "guest_name": "Ilya Sutskever",
+    "episode_number": "116",
+    "episode_date": "2023-02-16",
+    "episode_topic": "Ilya Sutskever discusses the evolution of large language models, the significance of neural networks, and the future of AI in understanding and interacting with the world. He addresses the limitations of current models and the potential for improvements through reinforcement learning."
+  },
+  {
+    "doc_id": "",
+    "title": "Data Pruning for Efficient Machine Learning",
+    "guest_name": "Edo Liberty",
+    "episode_number": "117",
+    "episode_date": "2023-03-02",
+    "episode_topic": "Edo Liberty discusses the development of long-term memory for large language models using vector embeddings, addressing the issue of hallucinations in AI responses. He explains how Pinecone's vector database allows models like ChatGPT to access authoritative information, improving accuracy and reliability."
+  },
+  {
+    "doc_id": "",
+    "title": "Yoshua Bengio on AI Regulation and World Models",
+    "guest_name": "Yoshua Bengio",
+    "episode_number": "118",
+    "episode_date": "2023-03-15",
+    "episode_topic": "Yoshua Bengio discusses the implications of powerful AI technologies, the need for regulation, and the importance of developing world models to enhance reasoning in AI systems."
+  },
+  {
+    "doc_id": "",
+    "title": "Danny Tobey on AI Regulation and Legal Challenges",
+    "guest_name": "Danny Tobey",
+    "episode_number": "119",
+    "episode_date": "2023-03-30",
+    "episode_topic": "Danny Tobey discusses the evolving legal landscape surrounding artificial intelligence, focusing on regulatory challenges, the role of law firms in AI governance, and the implications of AI technologies on safety and liability."
+  },
+  {
+    "doc_id": "",
+    "title": "Yoshua Bengio on AI Regulation and World Models",
+    "guest_name": "Yoshua Bengio",
+    "episode_number": "120",
+    "episode_date": "2023-04-13",
+    "episode_topic": "Yoshua Bengio discusses the implications of powerful AI models, the need for regulation, and his work on world models that enhance AI reasoning capabilities. He reflects on the urgency of addressing AI risks and the importance of international cooperation in governance."
+  },
+  {
+    "doc_id": "",
+    "title": "Connor Leahy: Unveiling the Darker Side of AI",
+    "guest_name": "Connor Leahy",
+    "episode_number": "122",
+    "episode_date": "2023-05-10",
+    "episode_topic": "Connor Leahy discusses the existential risks posed by advanced AI systems, the importance of AI alignment, and the challenges of ensuring that AI behaves in ways that are beneficial to humanity. He shares insights from his work with EleutherAI and Conjecture, emphasizing the need for responsible development and regulation of AI technologies."
+  },
+  {
+    "doc_id": "",
+    "title": "Aidan Gomez: How AI Language Models Will Shape The Future",
+    "guest_name": "Aidan Gomez",
+    "episode_number": "123",
+    "episode_date": "2023-05-24",
+    "episode_topic": "Aidan Gomez discusses the development of the transformer algorithm and its impact on generative AI and large language models. He shares insights on the evolution of AI technologies, the challenges of deploying them in enterprises, and the future of AI in various industries."
+  },
+  {
+    "doc_id": "",
+    "title": "Reshaping Privacy in the AI & Machine Learning Revolution",
+    "guest_name": "Sina Kian",
+    "episode_number": "124",
+    "episode_date": "2023-06-08",
+    "episode_topic": "Sina Kian discusses the intersection of AI, machine learning, and privacy, focusing on Aleo's use of zero knowledge proofs to enable secure data sharing without compromising personal information. The conversation explores how this technology can enhance machine learning applications while preserving user privacy."
+  },
+  {
+    "doc_id": "",
+    "title": "Harnessing Generative AI for Creativity and Productivity",
+    "guest_name": "Pascal Weinberger",
+    "episode_number": "125",
+    "episode_date": "2023-06-15",
+    "episode_topic": "Pascal Weinberger discusses the evolution and applications of generative AI, particularly in workflow automation. He shares insights from his experience at Telefonica and the founding of Bardeen AI, emphasizing the importance of user-centric design and the potential of AI to enhance productivity."
+  },
+  {
+    "doc_id": "",
+    "title": "Noam Chomsky: Decoding the Human Mind & Neural Nets",
+    "guest_name": "Noam Chomsky",
+    "episode_number": "126",
+    "episode_date": "2023-06-22",
+    "episode_topic": "In this episode, Noam Chomsky discusses the shift of AI from a scientific pursuit of understanding cognition to a purely engineering focus. He critiques large language models for their inability to explain language and cognition, while also exploring the implications of this shift for the future of AI and our understanding of the brain."
+  },
+  {
+    "doc_id": "",
+    "title": "Clemens Mewald: Redefining the Boundaries of Artificial Intelligence & GPT-4",
+    "guest_name": "Clemens Mewald",
+    "episode_number": "127",
+    "episode_date": "2023-06-29",
+    "episode_topic": "Clemens Mewald discusses the transformative impact of AI technologies, particularly GPT-4, on various industries. He emphasizes the need for ethical considerations and the importance of redefining boundaries in AI applications."
+  },
+  {
+    "doc_id": "",
+    "title": "Yoshua Bengio: Dissecting The Extinction Threat of AI",
+    "guest_name": "Yoshua Bengio",
+    "episode_number": "128",
+    "episode_date": "2023-07-06",
+    "episode_topic": "In this episode, Yoshua Bengio discusses the potential extinction threat posed by advanced AI systems. He emphasizes the importance of ethical considerations and proactive measures to ensure AI development aligns with human values and safety."
+  },
+  {
+    "doc_id": "",
+    "title": "Alexandra Geese: Demystifying AI Regulations in Europe & Beyond",
+    "guest_name": "Alexandra Geese",
+    "episode_number": "129",
+    "episode_date": "2023-07-12",
+    "episode_topic": "In this episode, Alexandra Geese discusses the complexities of AI regulations in Europe, emphasizing the need for a balanced approach that fosters innovation while ensuring safety and ethical standards. She highlights the challenges and opportunities presented by the evolving regulatory landscape."
+  },
+  {
+    "doc_id": "",
+    "title": "The Future of Large Language Models in AI",
+    "guest_name": "Mathew Lodge",
+    "episode_number": "130",
+    "episode_date": "2023-07-19",
+    "episode_topic": "Mathew Lodge discusses the role of reinforcement learning in AI, particularly in code generation, and contrasts it with the capabilities and limitations of large language models. He emphasizes the importance of accuracy in reinforcement learning and how it can enhance software development."
+  },
+  {
+    "doc_id": "",
+    "title": "Andrew Ng: Exploring Artificial Intelligence's Potential & Threats",
+    "guest_name": "Andrew Ng",
+    "episode_number": "131",
+    "episode_date": "2023-07-26",
+    "episode_topic": "Andrew Ng discusses the transformative potential of artificial intelligence, its implications for various industries, and the ethical considerations that come with its rapid development. He emphasizes the need for responsible AI deployment and the balance between innovation and safety."
+  },
+  {
+    "doc_id": "",
+    "title": "Scott Downes: Navigating the Language of AI & Large Language Models",
+    "guest_name": "Scott Downes",
+    "episode_number": "132",
+    "episode_date": "2023-08-02",
+    "episode_topic": "Scott Downes discusses the role of human trainers in the development of large language models, emphasizing the importance of reinforcement learning with human feedback (RLHF). He explores how these models can be optimized for specific tasks and the evolving nature of AI training processes."
+  },
+  {
+    "doc_id": "",
+    "title": "Michael Jordan: How Deep Learning Has Completely Changed Industries",
+    "guest_name": "Michael Jordan",
+    "episode_number": "133",
+    "episode_date": "2023-08-09",
+    "episode_topic": "Michael Jordan discusses the transformative impact of deep learning on various industries, emphasizing its statistical foundations and the importance of understanding the broader economic systems in which AI operates. He critiques the notion that deep learning is a panacea, advocating for a more nuanced view of its capabilities and limitations."
+  },
+  {
+    "doc_id": "",
+    "title": "Alex Zhavoronkov: Unraveling AI's Crucial Role in Pharma",
+    "guest_name": "Alex Zhavoronkov",
+    "episode_number": "134",
+    "episode_date": "2023-08-16",
+    "episode_topic": "In this episode, Alex Zhavoronkov discusses the transformative role of AI in drug discovery, particularly in the field of longevity research. He explains how his company utilizes generative AI and robotics to identify drug targets and develop molecules for clinical trials, emphasizing the importance of targeting aging-related diseases."
+  },
+  {
+    "doc_id": "",
+    "title": "Diaa El All: How AI Could Change Music Forever",
+    "guest_name": "Diaa El All",
+    "episode_number": "135",
+    "episode_date": "2023-08-23",
+    "episode_topic": "In this episode, Diaa El All discusses the transformative potential of AI in the music industry, exploring how AI can enhance creativity, streamline production processes, and create new forms of musical expression. The conversation also touches on the implications of AI-generated music for artists and the industry as a whole."
+  },
+  {
+    "doc_id": "",
+    "title": "Zapier's Evolution and the Future of AI Automation",
+    "guest_name": "Mike Knoop",
+    "episode_number": "136",
+    "episode_date": "2023-08-30",
+    "episode_topic": "Mike Knoop discusses the evolution of Zapier from an API integration platform to a leading automation tool leveraging AI. He shares insights on how generative AI is transforming business processes and the challenges of competing in a crowded market."
+  },
+  {
+    "doc_id": "",
+    "title": "Raul Martynek: How AI Will Change Data Centers Forever",
+    "guest_name": "Raul Martynek",
+    "episode_number": "137",
+    "episode_date": "2023-09-06",
+    "episode_topic": "In this episode, Raul Martynek discusses the transformative impact of AI on data centers, emphasizing how AI technologies can optimize operations, enhance efficiency, and drive innovation in the industry. He explores the future of data centers in the context of AI advancements and the challenges that come with this evolution."
+  },
+  {
+    "doc_id": "",
+    "title": "Dan O'Connell: How AI is Disrupting Business Communications",
+    "guest_name": "Dan O'Connell",
+    "episode_number": "138",
+    "episode_date": "2023-09-13",
+    "episode_topic": "Dan O'Connell discusses how Dialpad leverages AI technologies like natural language processing and speech recognition to enhance business communications. He highlights the company's unique approach to building their own AI stack and the transformative potential of AI in understanding and automating customer interactions."
+  },
+  {
+    "doc_id": "",
+    "title": "Breaking Barriers with No Code AI",
+    "guest_name": "Dmitry Shapiro",
+    "episode_number": "139",
+    "episode_date": "2023-09-20",
+    "episode_topic": "Dmitry Shapiro discusses UAI's innovative platform that enables users to create generative AI applications without coding. He elaborates on the concept of mind indexing, which allows users to personalize AI interactions based on their preferences and knowledge gaps, potentially transforming education and communication."
+  },
+  {
+    "doc_id": "",
+    "title": "Isabelle Guyon on AI's Future and Support Vector Machines",
+    "guest_name": "Isabelle Guyon",
+    "episode_number": "140",
+    "episode_date": "2023-09-27",
+    "episode_topic": "In this episode, Isabelle Guyon discusses the evolution and future of artificial intelligence, particularly focusing on Support Vector Machines (SVMs). She explores the implications of AI advancements in various fields and the importance of ethical considerations in AI development."
+  },
+  {
+    "doc_id": "",
+    "title": "Peter Voss Reveals the Future of Artificial General Intelligence",
+    "guest_name": "Peter Voss",
+    "episode_number": "141",
+    "episode_date": "2023-10-01",
+    "episode_topic": "In this episode, Peter Voss discusses the advancements and future potential of Artificial General Intelligence (AGI). He shares insights on the challenges and ethical considerations surrounding AGI development, as well as its implications for society."
+  },
+  {
+    "doc_id": "",
+    "title": "The Intersection of AI, Diversity, and Ethics",
+    "guest_name": "Arjun Subramonian",
+    "episode_number": "142",
+    "episode_date": "2023-10-04",
+    "episode_topic": "In this episode, Arjun Subramonian discusses the critical intersection of artificial intelligence, diversity, and ethics. He emphasizes the importance of inclusive practices in AI development to mitigate biases and enhance fairness in technology."
+  },
+  {
+    "doc_id": "",
+    "title": "Revealing the Truth About Quantum Computing",
+    "guest_name": "Scott Aaronson",
+    "episode_number": "143",
+    "episode_date": "2023-10-09",
+    "episode_topic": "Scott Aaronson discusses the current state and future potential of quantum computing, addressing common misconceptions and the limitations of existing technologies. He emphasizes the importance of understanding quantum algorithms and their practical applications, particularly in relation to AI and optimization."
+  },
+  {
+    "doc_id": "",
+    "title": "Matt Hicks: Red Hat's CEO on Open Source, Linux, and the AI Revolution",
+    "guest_name": "Matt Hicks",
+    "episode_number": "144",
+    "episode_date": "2023-10-11",
+    "episode_topic": "In this episode, Matt Hicks discusses the transformative impact of open source software and Linux on the tech industry, particularly in the context of the AI revolution. He emphasizes the importance of community collaboration and innovation in driving advancements in artificial intelligence."
+  },
+  {
+    "doc_id": "",
+    "title": "Riley McComrack: Digimarc's CEO on Digital Watermarking in the Age of AI",
+    "guest_name": "Riley McComrack",
+    "episode_number": "145",
+    "episode_date": "2023-10-15",
+    "episode_topic": "In this episode, Riley McComrack discusses the role of digital watermarking in the context of AI advancements. He explains how Digimarc's technology can help protect digital content and enhance security in various industries."
+  },
+  {
+    "doc_id": "",
+    "title": "How Google's AI is Pioneering Brain Mapping Research",
+    "guest_name": "Viren Jain",
+    "episode_number": "146",
+    "episode_date": "2023-10-18",
+    "episode_topic": "In this episode, Viren Jain discusses the advancements in connectomics, the study of mapping neural connections in the brain, and how Google's AI technologies are aiding this research. He shares insights on the history of the field, the challenges of mapping larger brains, and the potential implications for understanding learning and intelligence."
+  },
+  {
+    "doc_id": "",
+    "title": "AI Debates, Reinforcement Learning, & The Power of Generative Models",
+    "guest_name": "Yilun Du",
+    "episode_number": "147",
+    "episode_date": "2023-10-22",
+    "episode_topic": "Yilun Du discusses the evolving landscape of AI debates, focusing on reinforcement learning and the transformative potential of generative models. The conversation explores the implications of these technologies on various sectors and the ethical considerations surrounding their deployment."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring AI Generative Models and Open-Source Challenges",
+    "guest_name": "Ahmed Imtiaz",
+    "episode_number": "148",
+    "episode_date": "2023-10-26",
+    "episode_topic": "In this episode, Ahmed Imtiaz discusses the intricacies of AI generative models, including their potential and limitations. He also delves into the concept of model autophagy disorder and the challenges faced by the open-source AI community."
+  },
+  {
+    "doc_id": "",
+    "title": "Alex Klein: The Next Wave of AI To Rock The Music Industry",
+    "guest_name": "Alex Klein",
+    "episode_number": "149",
+    "episode_date": "2023-10-30",
+    "episode_topic": "In this episode, Alex Klein discusses the transformative impact of AI on the music industry, exploring how technology is reshaping creativity and production. He shares insights on the future of music creation and the potential for AI to democratize music-making."
+  },
+  {
+    "doc_id": "",
+    "title": "Yann LeCun on World Models, AI Threats and Open-Sourcing",
+    "guest_name": "Yann LeCun",
+    "episode_number": "150",
+    "episode_date": "2023-11-02",
+    "episode_topic": "Yann LeCun discusses the concept of world models in AI, the potential threats posed by advanced AI systems, and the importance of open-sourcing AI technologies to foster innovation and safety."
+  },
+  {
+    "doc_id": "",
+    "title": "Asa Cooper: How Will We Know If AI Is Fooling Us?",
+    "guest_name": "Asa Strickland",
+    "episode_number": "151",
+    "episode_date": "2023-11-05",
+    "episode_topic": "In this episode, Asa Strickland discusses the concept of situational awareness in large language models (LLMs) and its implications for AI safety. He explains the tests developed to measure precursors of self-awareness in LLMs and the potential risks associated with their emergence."
+  },
+  {
+    "doc_id": "",
+    "title": "Alex Kendall: How Close Is AI to Taking the Wheel?",
+    "guest_name": "Alex Kendall",
+    "episode_number": "152",
+    "episode_date": "2023-11-08",
+    "episode_topic": "In this episode, Alex Kendall discusses the innovative world model called Gaia developed by Wave AI for autonomous vehicles. He explains how this model enhances decision-making in self-driving cars, the challenges faced in the industry, and the future of AI in driving technology."
+  },
+  {
+    "doc_id": "",
+    "title": "Ed Anuff: Unpacking AI's Role in Data Management",
+    "guest_name": "Ed Anuff",
+    "episode_number": "153",
+    "episode_date": "2023-11-12",
+    "episode_topic": "In this episode, Ed Anuff discusses the transformative impact of AI on data management practices. He explores how organizations can leverage AI to enhance data quality, streamline processes, and drive better decision-making."
+  },
+  {
+    "doc_id": "",
+    "title": "Sal Khan: Revolutionizing Education with AI",
+    "guest_name": "Sal Khan",
+    "episode_number": "154",
+    "episode_date": "2023-11-15",
+    "episode_topic": "In this episode, Sal Khan discusses the transformative potential of AI in education, emphasizing personalized learning experiences and the role of technology in making education more accessible. He shares insights on how AI can enhance teaching methods and improve student engagement."
+  },
+  {
+    "doc_id": "",
+    "title": "From Molecules to Memories: The AI Approach to Scent Detection",
+    "guest_name": "Alex Wiltschko",
+    "episode_number": "155",
+    "episode_date": "2023-11-19",
+    "episode_topic": "In this episode, Alex Wiltschko discusses the intersection of neuroscience and technology in scent detection. He explains how AI is being used to predict and create new fragrance molecules, the complexities of olfactory perception, and the potential applications of this technology in various industries."
+  },
+  {
+    "doc_id": "",
+    "title": "Gordon Crovitz: Will AI SPREAD Misinformation & Fake News?",
+    "guest_name": "Gordon Crovitz",
+    "episode_number": "156",
+    "episode_date": "2023-11-22",
+    "episode_topic": "In this episode, Craig Smith interviews Gordon Crovitz about the challenges of misinformation in the age of AI. They discuss how NewsGuard's databases help identify unreliable news sources and the implications of AI-generated content on the spread of misinformation."
+  },
+  {
+    "doc_id": "",
+    "title": "Inside OpenAI's Tumultuous Saga with Karen Hao",
+    "guest_name": "Karen Hao",
+    "episode_number": "157",
+    "episode_date": "2023-11-23",
+    "episode_topic": "Karen Hao discusses the recent upheaval at OpenAI, exploring the implications of its nonprofit-for-profit structure and the ongoing power struggles within the organization. The conversation also touches on the future of AI development and the existential risks associated with advanced AI technologies."
+  },
+  {
+    "doc_id": "",
+    "title": "Connor Leahy: The Unspoken Risks of Centralizing AI Power",
+    "guest_name": "Connor Leahy",
+    "episode_number": "158",
+    "episode_date": "2023-11-29",
+    "episode_topic": "In this episode, Connor Leahy discusses the potential dangers of centralizing AI power within a few large organizations. He emphasizes the importance of decentralization and the risks associated with monopolistic control over AI technologies."
+  },
+  {
+    "doc_id": "",
+    "title": "Building the AI-Driven Future of Robotics",
+    "guest_name": "Peter Chen",
+    "episode_number": "159",
+    "episode_date": "2023-12-03",
+    "episode_topic": "In this episode, Peter Chen discusses the intersection of AI and robotics, focusing on how AI is transforming the robotics industry. He shares insights on the challenges and opportunities in developing autonomous systems and the future of AI-driven robotics."
+  },
+  {
+    "doc_id": "",
+    "title": "Atul Deo: The Future of Generative AI at Amazon",
+    "guest_name": "Atul Deo",
+    "episode_number": "160",
+    "episode_date": "2023-12-06",
+    "episode_topic": "Atul Deo discusses the transformative potential of generative AI at Amazon, exploring its applications in various sectors and the ethical considerations that accompany its deployment. He emphasizes the importance of responsible AI development and the future landscape of AI technologies."
+  },
+  {
+    "doc_id": "",
+    "title": "Harut Martirosyan: What Secrets Lie Behind Armenia's AI Surge?",
+    "guest_name": "Harut Martirosyan",
+    "episode_number": "161",
+    "episode_date": "2023-12-20",
+    "episode_topic": "In this episode, Harut Martirosyan discusses Armenia's emerging tech ecosystem, highlighting the country's Soviet-era computing legacy and the challenges of finding experienced AI talent. He shares insights on Intent AI's privacy-focused ad targeting platform and the impact of major tech companies like NVIDIA and Adobe on Armenia's AI landscape."
+  },
+  {
+    "doc_id": "",
+    "title": "Behind the Scenes of Amazon's AI Breakthroughs",
+    "guest_name": "Vasi Philomin",
+    "episode_number": "162",
+    "episode_date": "2023-12-29",
+    "episode_topic": "Vasi Philomin discusses Amazon's advancements in artificial intelligence, including the development of AI tools and their applications across various sectors. He shares insights into the challenges and opportunities presented by AI technologies in enhancing customer experiences and operational efficiencies."
+  },
+  {
+    "doc_id": "",
+    "title": "Inside Armenia's Tech Revolution & Rise of AI Startups",
+    "guest_name": "Rem Darbinyan",
+    "episode_number": "163",
+    "episode_date": "2024-01-03",
+    "episode_topic": "Rem Darbinyan discusses the rapid growth of the tech sector in Armenia, highlighting the emergence of AI startups and the unique challenges and opportunities they face. He shares insights on the local ecosystem, government support, and the potential for Armenia to become a significant player in the global tech landscape."
+  },
+  {
+    "doc_id": "",
+    "title": "Hrant Khachatrian: Deep Dive Into The Breakthroughs & Challenges of AI Research",
+    "guest_name": "Hrant Khachatrian",
+    "episode_number": "164",
+    "episode_date": "2024-01-08",
+    "episode_topic": "Hrant Khachatrian discusses the development of machine learning in Armenia, focusing on the establishment of Yerevann, a research lab aimed at fostering academic careers in AI. He shares insights on the challenges of hardware access, the evolution of AI education, and the lab's research directions in drug discovery and aerial navigation."
+  },
+  {
+    "doc_id": "",
+    "title": "Andy Hock: Will AI Revolutionize How We Do Business?",
+    "guest_name": "Andy Hock",
+    "episode_number": "165",
+    "episode_date": "2024-01-17",
+    "episode_topic": "Andy Hock discusses Cerebras Systems' innovative wafer scale chip technology and its implications for training large AI models. He explains how this architecture addresses the GPU shortage and enhances efficiency in AI computations."
+  },
+  {
+    "doc_id": "",
+    "title": "Is Voice AI the Future of Customer Service?",
+    "guest_name": "Itamar Arel",
+    "episode_number": "166",
+    "episode_date": "2024-01-24",
+    "episode_topic": "Itamar Arel discusses his transition from academia to the tech industry, focusing on the development of voice AI solutions for customer service. He highlights the advancements in natural language understanding and the challenges of creating human-like interactions in automated systems."
+  },
+  {
+    "doc_id": "",
+    "title": "The Impact of AI on Security and Surveillance",
+    "guest_name": "Matt Powell",
+    "episode_number": "167",
+    "episode_date": "2024-02-02",
+    "episode_topic": "Matt Powell discusses the transformative role of AI in security and surveillance, focusing on video analytics and its applications in urban planning, safety, and public infrastructure. He explains how ISS utilizes advanced computer vision models to enhance public safety and operational efficiency."
+  },
+  {
+    "doc_id": "",
+    "title": "Ian Bremmer on Regulating AI for a Safer Future",
+    "guest_name": "Ian Bremmer",
+    "episode_number": "168",
+    "episode_date": "2024-02-07",
+    "episode_topic": "Ian Bremmer discusses the urgent need for effective AI regulation and governance in a rapidly evolving technological landscape. He emphasizes the challenges posed by powerful tech companies and the geopolitical implications of AI development, particularly between the US and China."
+  },
+  {
+    "doc_id": "",
+    "title": "Guillermo Rauch: How To Use AI to Improve Web Development",
+    "guest_name": "Guillermo Rauch",
+    "episode_number": "169",
+    "episode_date": "2024-02-14",
+    "episode_topic": "In this episode, Guillermo Rauch discusses the integration of generative AI applications on the Vercel platform and its impact on web development. He highlights how Vercel simplifies the deployment of AI-driven applications, enabling developers to create dynamic and personalized user experiences."
+  },
+  {
+    "doc_id": "",
+    "title": "Richard Sutton on Pursuing AGI Through Reinforcement Learning",
+    "guest_name": "Richard Sutton",
+    "episode_number": "170",
+    "episode_date": "2024-02-22",
+    "episode_topic": "In this episode, Richard Sutton discusses his collaboration with John Carmack on Keen Technologies, aiming to achieve artificial general intelligence (AGI) by 2030. He elaborates on the Alberta plan, a five-year research agenda focused on developing embodied agents capable of learning and planning through environmental interactions."
+  },
+  {
+    "doc_id": "",
+    "title": "Harnessing AI for Synthetic Biology with Anna Marie Wagner",
+    "guest_name": "Anna Marie Wagner",
+    "episode_number": "171",
+    "episode_date": "2024-02-27",
+    "episode_topic": "In this episode, Anna Marie Wagner discusses the intersection of AI and synthetic biology at Ginkgo Bioworks. She explains how AI is leveraged to innovate in biotechnology, including projects like self-fertilizing corn and biodegradable materials, while also addressing biosecurity and sustainability challenges."
+  },
+  {
+    "doc_id": "",
+    "title": "Crist\u00f3bal Valenzuela: Can AI Revolutionize How We Create Art?",
+    "guest_name": "Crist\u00f3bal Valenzuela",
+    "episode_number": "172",
+    "episode_date": "2024-03-03",
+    "episode_topic": "In this episode, Crist\u00f3bal Valenzuela discusses the advancements in AI-driven art creation, particularly focusing on image and video generation models like Stable Diffusion. He explores the intersection of technology and creativity, the evolution of open-source models, and the future of AI in artistic expression."
+  },
+  {
+    "doc_id": "",
+    "title": "Vincent Vanhoucke: How Is AI Helping Advance Robotics?",
+    "guest_name": "Vincent Vanhoucke",
+    "episode_number": "173",
+    "episode_date": "2024-03-09",
+    "episode_topic": "In this episode, Vincent Vanhoucke discusses the development of RT2, a multimodal model that integrates language and visual understanding for robotic control. He explains how this model enhances common sense reasoning and action planning in robots, paving the way for more advanced robotic applications."
+  },
+  {
+    "doc_id": "",
+    "title": "Tianmin Shu: How World Models are Shaping The Future of AI",
+    "guest_name": "Tianmin Shu",
+    "episode_number": "174",
+    "episode_date": "2024-03-10",
+    "episode_topic": "Tianmin Shu discusses the concept of world models, their origins in cognitive science, and their integration into AI systems. He explores how these models can enhance AI's ability to understand and interact with humans, particularly in social contexts, and shares insights on his research involving household environments and multimodal sensory data."
+  },
+  {
+    "doc_id": "",
+    "title": "Revolutionizing Search with Perplexity AI",
+    "guest_name": "Aravind Srinivas",
+    "episode_number": "175",
+    "episode_date": "2024-03-14",
+    "episode_topic": "Aravind Srinivas discusses how Perplexity AI is transforming the search landscape with its conversational answer engine, which provides direct answers grounded in real facts. He shares insights on the challenges of competing with established players like Google and the innovative approaches his team is taking to improve search accuracy and user experience."
+  },
+  {
+    "doc_id": "",
+    "title": "Decoding The Evolution of AI in Robotics",
+    "guest_name": "Sergey Levine",
+    "episode_number": "176",
+    "episode_date": "2024-03-17",
+    "episode_topic": "In this episode, Sergey Levine discusses advancements in robotics and AI, particularly focusing on reinforcement learning and the aggregation of diverse datasets to enhance robotic capabilities. He emphasizes the importance of generalization across different robot morphologies and the potential for creating versatile robotic systems that can perform complex tasks in real-world environments."
+  },
+  {
+    "doc_id": "",
+    "title": "Diffusion Mods Explained By Stable Diffusion's Creator",
+    "guest_name": "Bj\u00f6rn Ommer",
+    "episode_number": "177",
+    "episode_date": "2024-03-22",
+    "episode_topic": "In this episode, Bj\u00f6rn Ommer discusses the advancements in generative models, particularly diffusion models, and their implications for technology and society. He emphasizes the importance of democratizing AI technology to ensure accessibility and innovation beyond large corporations."
+  },
+  {
+    "doc_id": "",
+    "title": "Integrating Human Development Principles into AI Models",
+    "guest_name": "Terry Sejnowski",
+    "episode_number": "178",
+    "episode_date": "2024-03-27",
+    "episode_topic": "Terry Sejnowski discusses the intersection of computational neuroscience and AI, emphasizing the need to incorporate human developmental principles into AI models. He explores the evolution of neural networks, the impact of large models like GPT-4, and the ethical considerations surrounding AI's integration into society."
+  },
+  {
+    "doc_id": "",
+    "title": "Ylli Bajraktari: AI and National Security - The Race with China",
+    "guest_name": "Ylli Bajraktari",
+    "episode_number": "179",
+    "episode_date": "2024-04-03",
+    "episode_topic": "Ylli Bajraktari discusses the competitive landscape of AI between the US and China, emphasizing the strategic importance of AI in national security. He elaborates on the OffsetX strategy and the implications of generative AI advancements."
+  },
+  {
+    "doc_id": "",
+    "title": "Navigating AI Adoption in Tech Businesses",
+    "guest_name": "Thomas Lah",
+    "episode_number": "180",
+    "episode_date": "2024-04-08",
+    "episode_topic": "Thomas Lah discusses the challenges and opportunities tech companies face in integrating AI into their operations. He highlights how AI is transforming internal processes and the importance of understanding the maturity of various AI tools and use cases."
+  },
+  {
+    "doc_id": "",
+    "title": "The Meaning of Life in a World Dominated by AI",
+    "guest_name": "Nick Bostrom",
+    "episode_number": "181",
+    "episode_date": "2024-04-14",
+    "episode_topic": "Nick Bostrom discusses his latest book, 'Deep Utopia', exploring how humans can find meaning in a technologically advanced world where AI performs all tasks. He reflects on the implications of superintelligence and the existential questions it raises about human purpose and societal structure."
+  },
+  {
+    "doc_id": "",
+    "title": "The Role of AI and Machine Learning in Waymo's Self-Driving Cars",
+    "guest_name": "Dragomir Anguelov",
+    "episode_number": "182",
+    "episode_date": "2024-04-21",
+    "episode_topic": "Dragomir Anguelov discusses Waymo's advancements in machine learning for autonomous vehicles, focusing on their ride-hailing services in San Francisco and Phoenix. He highlights the importance of the Waymo Open Data Set in advancing AI research and shares insights on the future of robo-taxis."
+  },
+  {
+    "doc_id": "",
+    "title": "Will Falcon: Lightning Studio, an iOS for AI Developers?",
+    "guest_name": "William Falcon",
+    "episode_number": "183",
+    "episode_date": "2024-04-29",
+    "episode_topic": "In this episode, William Falcon discusses Lightning Studio, a cloud-based platform designed to streamline AI development by integrating various tools and frameworks. He shares insights on the evolution of AI tools, the importance of open-source, and how Lightning Studio aims to democratize access to powerful AI capabilities."
+  },
+  {
+    "doc_id": "",
+    "title": "Building An Artificial Brain With 100 Billion Neurons",
+    "guest_name": "Andr\u00e9 van Schaik",
+    "episode_number": "184",
+    "episode_date": "2024-05-01",
+    "episode_topic": "In this episode, Andr\u00e9 van Schaik discusses the development of Deep South, a neuromorphic computing system designed to simulate 100 billion neurons in real time. He explains how this system mimics brain processes using spiking neurons and aims to enhance our understanding of brain computation and AI architectures."
+  },
+  {
+    "doc_id": "",
+    "title": "Achieving 90% Accuracy in Predicting Drug Trial Outcomes",
+    "guest_name": "Damon Rasheed, Saurabh Jain",
+    "episode_number": "185",
+    "episode_date": "2024-05-06",
+    "episode_topic": "In this episode, Damon Rasheed and Saurabh Jain discuss how Opyl's Trialkey.ai utilizes machine learning and natural language processing to predict clinical trial outcomes with up to 90% accuracy. They explore the implications for pharmaceutical companies and investors, emphasizing the importance of trial design and data analysis."
+  },
+  {
+    "doc_id": "",
+    "title": "Maximizing GPU Utilization for AI with Run:ai",
+    "guest_name": "Ronen Dar",
+    "episode_number": "186",
+    "episode_date": "2024-05-12",
+    "episode_topic": "In this episode, Ronen Dar discusses the challenges of GPU utilization in AI infrastructure amidst a GPU shortage. He explains how Run.ai's software optimizes GPU clusters, enhancing performance for machine learning teams and shaping the future of AI deployment."
+  },
+  {
+    "doc_id": "",
+    "title": "Systematic Testing for Generative AI Models with Kolena",
+    "guest_name": "Mohamed Elgendy",
+    "episode_number": "187",
+    "episode_date": "2024-05-18",
+    "episode_topic": "In this episode, Mohamed Elgendy discusses the challenges of testing machine learning systems and the importance of a systematic framework for AI quality assurance. He shares insights on how Kolena is defining a gold standard for AI evaluation, the role of human evaluation, and the potential of adversarial models for testing."
+  },
+  {
+    "doc_id": "",
+    "title": "Edward Balassanian: The Evolution of AI Music",
+    "guest_name": "Edward Balassanian",
+    "episode_number": "188",
+    "episode_date": "2024-05-20",
+    "episode_topic": "In this episode, Edward Balassanian discusses the transformative potential of AI in music creation through his company Aimi. He explains how Aimi's generative music platform aims to enhance human creativity while navigating the unique challenges of the music industry."
+  },
+  {
+    "doc_id": "",
+    "title": "The Future of Programming: AI-Powered Code Generation with Julius AI",
+    "guest_name": "Rahul Sonwalkar",
+    "episode_number": "189",
+    "episode_date": "2024-05-24",
+    "episode_topic": "Rahul Sonwalkar discusses the evolution of programming through AI, focusing on his company Julius AI, which enables users to analyze data and generate code using natural language. He shares insights on the challenges of AI code generation and the future of programming as more people become 'programmers' through simple English commands."
+  },
+  {
+    "doc_id": "",
+    "title": "Fighting Financial Crimes with AI",
+    "guest_name": "Peter Cousins",
+    "episode_number": "190",
+    "episode_date": "2024-05-29",
+    "episode_topic": "In this episode, Peter Cousins discusses the integration of generative AI and classical AI in combating financial crimes. He highlights the challenges and advancements in fraud detection, compliance, and the automation of anti-financial crime processes within the financial services sector."
+  },
+  {
+    "doc_id": "",
+    "title": "AI or Human? Exploring Originality AI's Detection Technology",
+    "guest_name": "Jonathan Gillham",
+    "episode_number": "191",
+    "episode_date": "2024-06-05",
+    "episode_topic": "In this episode, Jonathan Gillham discusses the challenges of detecting AI-generated content and the technology behind Originality.ai's detection models. He emphasizes the importance of balancing accuracy with minimizing false positives and explores the implications for web publishers using AI-generated content."
+  },
+  {
+    "doc_id": "",
+    "title": "Lukas Biewald: How Weights and Biases Supercharges Machine Learning",
+    "guest_name": "Lukas Biewald",
+    "episode_number": "192",
+    "episode_date": "2024-06-09",
+    "episode_topic": "Lukas Biewald discusses the complexities of machine learning operations and how Weights and Biases provides tools to streamline the ML workflow. He highlights the importance of tracking training data, monitoring model behavior, and ensuring compliance with evolving regulations."
+  },
+  {
+    "doc_id": "",
+    "title": "Itamar Friedman: How CodiumAI is Making Bug-Free Code a Reality",
+    "guest_name": "Itamar Friedman",
+    "episode_number": "193",
+    "episode_date": "2024-06-13",
+    "episode_topic": "In this episode, Itamar Friedman discusses CodiumAI's mission to achieve zero bugs in software development through a multi-agent platform. He shares insights on their products, including Codium 8 and Alpha Codium, and explores the future of coding with generative AI."
+  },
+  {
+    "doc_id": "",
+    "title": "How AI is Taking Over Hollywood and Changing Filmmaking Forever",
+    "guest_name": "Russell Palmer",
+    "episode_number": "194",
+    "episode_date": "2024-06-26",
+    "episode_topic": "Russell Palmer discusses the transformative impact of AI on filmmaking, emphasizing the importance of storytelling in AI-generated films. He shares insights on his startup's approach to democratizing filmmaking through AI tools that assist in story development, storyboarding, and video generation."
+  },
+  {
+    "doc_id": "",
+    "title": "Building Secure AI Systems with Blockchain",
+    "guest_name": "Mrinal Manohar",
+    "episode_number": "195",
+    "episode_date": "2024-06-30",
+    "episode_topic": "Mrinal Manohar discusses the innovative integration of blockchain technology in AI governance, emphasizing the importance of tamper-proof records and compliance with emerging regulations. He explains how Casper Labs is developing a product called Prove AI to enhance data integrity and governance in AI systems."
+  },
+  {
+    "doc_id": "",
+    "title": "Avi Kedmi: How SysAid Uses AI to Redefine IT Service Management",
+    "guest_name": "Avi Kedmi",
+    "episode_number": "196",
+    "episode_date": "2024-07-05",
+    "episode_topic": "Avi Kedmi discusses the transformative role of AI in IT service management, highlighting SysAid's innovative use of generative AI and predictive modeling to enhance service delivery, reduce ticket volumes, and improve customer satisfaction."
+  },
+  {
+    "doc_id": "",
+    "title": "AI, Fusion, and National Security with Brian Spears",
+    "guest_name": "Brian Spears",
+    "episode_number": "197",
+    "episode_date": "2024-07-13",
+    "episode_topic": "Brian Spears discusses the intersection of AI and fusion energy at Lawrence Livermore National Laboratory, emphasizing the role of AI in enhancing predictive capabilities for fusion experiments and national security. He also highlights the competitive landscape with China in AI and computing technologies."
+  },
+  {
+    "doc_id": "",
+    "title": "Sethuraman Panchanathan: How The U.S. National Science Foundation is Shaping the Future of AI",
+    "guest_name": "Sethuraman Panchanathan",
+    "episode_number": "198",
+    "episode_date": "2024-07-17",
+    "episode_topic": "Dr. Sethuraman Panchanathan discusses the role of the National Science Foundation (NSF) in advancing AI research and funding. He highlights the importance of collaboration across sectors and the NSF's strategic investments in AI to foster innovation and address societal challenges."
+  },
+  {
+    "doc_id": "",
+    "title": "How Gen AI is Transforming Modern Data Science and Management",
+    "guest_name": "Shub Bhowmick",
+    "episode_number": "199",
+    "episode_date": "2024-07-25",
+    "episode_topic": "Shub Bhowmick discusses the transformative impact of generative AI on data science and management, emphasizing its role in enhancing business profitability and customer experience. He shares insights on the challenges of AI adoption in various industries and Tredence's strategic approach to integrating AI solutions."
+  },
+  {
+    "doc_id": "",
+    "title": "Trevor Back: How Speechmatics is Shaping the Future of Conversational AI",
+    "guest_name": "Trevor Back",
+    "episode_number": "200",
+    "episode_date": "2024-08-01",
+    "episode_topic": "In this episode, Trevor Back discusses the advancements in speech recognition and conversational AI at Speechmatics. He highlights the launch of their new tool, Flow, which integrates speech recognition, large language models, and text-to-speech synthesis to create a more natural interaction between humans and technology."
+  },
+  {
+    "doc_id": "",
+    "title": "Danny Halawi: The Science Behind AI Predictions",
+    "guest_name": "Danny Halawi",
+    "episode_number": "201",
+    "episode_date": "2024-08-05",
+    "episode_topic": "Danny Halawi discusses his research on using large language models for AI forecasting, comparing their predictive capabilities to human forecasters and prediction markets. The conversation covers the architecture of the AI system, its accuracy, and the implications for decision-making in various domains."
+  },
+  {
+    "doc_id": "",
+    "title": "Raphael Townshend: How AI and RNA Tech is Transforming Drug Discovery",
+    "guest_name": "Raphael Townsend",
+    "episode_number": "202",
+    "episode_date": "2024-08-07",
+    "episode_topic": "Raphael Townsend discusses the intersection of AI and RNA technology in drug discovery, focusing on how Atomic AI leverages AI models to predict RNA structures and develop new therapies. He highlights the importance of understanding RNA's role in diseases and the potential for RNA-targeted treatments."
+  },
+  {
+    "doc_id": "",
+    "title": "Xun Wang: How Bloomreach is Shaping the Future of AI-Powered E-Commerce",
+    "guest_name": "Xun Wang",
+    "episode_number": "203",
+    "episode_date": "2024-08-14",
+    "episode_topic": "Xun Wang discusses how Bloomreach leverages AI to enhance e-commerce through personalized customer experiences. He explains the importance of data in driving engagement and conversion rates, and how their platform integrates various AI technologies to optimize search and recommendations."
+  },
+  {
+    "doc_id": "",
+    "title": "Peter Guagenti: How AI Will Change the Way Developers Work",
+    "guest_name": "Peter Guagenti",
+    "episode_number": "204",
+    "episode_date": "2024-08-21",
+    "episode_topic": "Peter Guagenti discusses the evolution of AI in software development, focusing on how tools like Tabnine are transforming the role of developers. He emphasizes the importance of context and personalization in AI code assistance, and the future of fully autonomous software engineering."
+  },
+  {
+    "doc_id": "",
+    "title": "Randall Degges: The Biggest Risks of AI-Generated Code",
+    "guest_name": "Randall Deggs",
+    "episode_number": "205",
+    "episode_date": "2024-08-28",
+    "episode_topic": "Randall Deggs discusses the implications of AI-generated code, focusing on the risks and benefits for developers. He explains how Snyk utilizes both symbolic and generative AI to enhance code security and the importance of human oversight in the coding process."
+  },
+  {
+    "doc_id": "",
+    "title": "Krishna Rangasayee: Why Edge AI is the Next Big Thing in Tech",
+    "guest_name": "Krishna Rangasayee",
+    "episode_number": "206",
+    "episode_date": "2024-09-04",
+    "episode_topic": "Krishna Rangasayee discusses the transformative potential of Edge AI, emphasizing its advantages over cloud computing, the importance of localized processing for applications like robotics and automotive, and the need for a robust AI software roadmap in the industry."
+  },
+  {
+    "doc_id": "",
+    "title": "How to Mitigate AI Risk in High-Stakes Industries",
+    "guest_name": "Noa Srebrnik",
+    "episode_number": "207",
+    "episode_date": "2024-09-15",
+    "episode_topic": "Noa Srebrnik discusses the challenges and solutions for mitigating AI risks in high-stakes industries, particularly finance and insurance. She emphasizes the importance of compliance with evolving regulations and the need for organizations to adopt a responsible approach to AI deployment."
+  },
+  {
+    "doc_id": "",
+    "title": "Michael Martin: How AI is Saving Lives Every Day",
+    "guest_name": "Michael Martin",
+    "episode_number": "208",
+    "episode_date": "2024-09-18",
+    "episode_topic": "Michael Martin discusses how RapidSOS leverages AI and connected devices to enhance emergency response systems. He highlights the challenges faced by traditional 911 services and how RapidSOS aims to improve response times and outcomes through innovative technology."
+  },
+  {
+    "doc_id": "",
+    "title": "Bill Moore: How BCG Created a Conversational AI Co-Host",
+    "guest_name": "Bill Moore, Jessica",
+    "episode_number": "209",
+    "episode_date": "2024-09-25",
+    "episode_topic": "Bill Moore discusses the development of Gene, a conversational AI co-host for podcasts, detailing the challenges and advancements in AI technology. The conversation also explores the implications of AI in media and the importance of ethical considerations in AI representation."
+  },
+  {
+    "doc_id": "",
+    "title": "Pedro Domingos: Exploring AI's Impact on Politics and Society",
+    "guest_name": "Pedro Domingos",
+    "episode_number": "210",
+    "episode_date": "2024-09-30",
+    "episode_topic": "Pedro Domingos discusses the implications of AI on society and politics, emphasizing the misconceptions surrounding AI's capabilities and the importance of understanding its limitations. He explores themes of control, governance, and the societal impact of technology, particularly in the context of his satirical novel '2040'."
+  },
+  {
+    "doc_id": "",
+    "title": "Stuart Hameroff: Why AI Will Never Fully Replicate Human Consciousness",
+    "guest_name": "Stuart Hameroff",
+    "episode_number": "211",
+    "episode_date": "2024-10-06",
+    "episode_topic": "Stuart Hameroff discusses his theory of consciousness, which posits that quantum processes within microtubules in neurons are fundamental to conscious experience. He critiques the notion that AI can achieve consciousness, arguing that it oversimplifies the complexity of biological systems."
+  },
+  {
+    "doc_id": "",
+    "title": "The Future of Machine Learning, Deep Learning and Computer Vision",
+    "guest_name": "Thomas Dietterich",
+    "episode_number": "212",
+    "episode_date": "2024-10-09",
+    "episode_topic": "Thomas Dietterich discusses the evolution of machine learning, focusing on its applications in computer vision and drug design. He emphasizes the importance of addressing the challenges of novelty in AI systems and explores the potential of generative AI and transformer models."
+  },
+  {
+    "doc_id": "",
+    "title": "Mark Surman: How Mozilla Is Shaping the Future of Open-Source AI",
+    "guest_name": "Mark Surman",
+    "episode_number": "213",
+    "episode_date": "2024-10-13",
+    "episode_topic": "Mark Surman discusses Mozilla's evolution from a web browser company to a key player in the open-source AI landscape. He emphasizes the importance of privacy, trustworthiness, and open-source principles in AI development, advocating for a future where technology serves public interests."
+  },
+  {
+    "doc_id": "",
+    "title": "Ece Kamar: Why AI Agents Are the Next Big Thing in Tech",
+    "guest_name": "Ece Kamar",
+    "episode_number": "214",
+    "episode_date": "2024-10-17",
+    "episode_topic": "Ece Kamar discusses the evolution and significance of AI agents, emphasizing their potential to transform workflows and enhance human-AI collaboration. She highlights the importance of responsible AI development and the challenges posed by the rapid advancement of agent technologies."
+  },
+  {
+    "doc_id": "",
+    "title": "Manuel Haug: How Celonis Uses AI to Optimize Business Processes",
+    "guest_name": "Manuel Haug",
+    "episode_number": "215",
+    "episode_date": "2024-10-23",
+    "episode_topic": "Manuel Haug discusses how Celonis leverages AI and process mining to optimize business processes for large enterprises. He explains the unique approach of connecting to underlying IT systems to provide transparency and actionable insights, enabling companies to improve efficiency and decision-making."
+  },
+  {
+    "doc_id": "",
+    "title": "Inside Vertex AI - The Ultimate AI Toolkit by Google Cloud",
+    "guest_name": "Nenshad Bardoliwalla",
+    "episode_number": "216",
+    "episode_date": "2024-10-30",
+    "episode_topic": "Nenshad Bardoliwalla discusses the capabilities and evolution of Vertex AI, Google's comprehensive AI platform. He highlights the integration of various models, including open-source and third-party options, and the importance of model evaluation and selection for businesses."
+  },
+  {
+    "doc_id": "",
+    "title": "The Path to Artificial General Intelligence, Decentralized AI and AI Consciousness",
+    "guest_name": "Ben Goertzel",
+    "episode_number": "217",
+    "episode_date": "2024-11-06",
+    "episode_topic": "Ben Goertzel discusses his book 'Consciousness Explosion' and explores the intersection of artificial intelligence and consciousness. He shares insights on the development of artificial general intelligence (AGI), the implications of decentralized AI, and the philosophical debates surrounding consciousness in both humans and machines."
+  },
+  {
+    "doc_id": "",
+    "title": "The Future of Open Source AI Development with Jeff Boudier",
+    "guest_name": "Jeff Boudier",
+    "episode_number": "218",
+    "episode_date": "2024-11-13",
+    "episode_topic": "In this episode, Jeff Boudier discusses the evolution of Hugging Face as a leading platform for open source AI development. He explains how Hugging Face enables enterprises to build and host their own AI models, the significance of open source in AI, and the growing trend of multimodal models."
+  },
+  {
+    "doc_id": "",
+    "title": "Building Smarter AI Applications with PostgreSQL",
+    "guest_name": "Avthar Sewrathan",
+    "episode_number": "219",
+    "episode_date": "2024-11-18",
+    "episode_topic": "Avthar Sewrathan discusses the evolution of Timescale from an IoT platform to a leading Postgres database company, focusing on their AI offerings and how they enhance PostgreSQL for AI applications. He highlights the importance of open source in their strategy and the various extensions developed to support AI workloads."
+  },
+  {
+    "doc_id": "",
+    "title": "Terry Sejnowski: The Future of AI, ChatGPT & Deep Learning",
+    "guest_name": "Terry Sejnowski",
+    "episode_number": "220",
+    "episode_date": "2024-11-22",
+    "episode_topic": "Terry Sejnowski discusses the implications of ChatGPT and deep learning on our understanding of language and intelligence. He explores the ongoing debates in cognitive science regarding AI's capabilities and the future of generative AI, emphasizing the need for a deeper understanding of intelligence and the limitations of current AI models."
+  },
+  {
+    "doc_id": "",
+    "title": "Varun Mohan: The AI Tool That's Changing How Code is Written",
+    "guest_name": "Varun Mohan",
+    "episode_number": "221",
+    "episode_date": "2024-11-25",
+    "episode_topic": "In this episode, Varun Mohan discusses Codeium, an AI tool designed to enhance software development by integrating deeply with existing codebases. He explains how the tool allows developers to write, refactor, and manage code more efficiently, while also addressing the challenges of understanding complex code structures."
+  },
+  {
+    "doc_id": "",
+    "title": "Andrew Feldman: How Cerebras Systems Is Disrupting AI Inference",
+    "guest_name": "Andrew Feldman",
+    "episode_number": "222",
+    "episode_date": "2024-11-28",
+    "episode_topic": "Andrew Feldman discusses the evolution of AI inference and how Cerebras Systems is leading the charge with its wafer-scale engine technology. He emphasizes the shift from AI as a novelty to a critical component of business operations, highlighting the importance of speed and efficiency in inference."
+  },
+  {
+    "doc_id": "",
+    "title": "Kai Beckmann: Why Next-Gen Chips Are Critical for AI's Future",
+    "guest_name": "Kai Beckmann",
+    "episode_number": "223",
+    "episode_date": "2024-12-04",
+    "episode_topic": "Kai Beckmann discusses the critical role of next-generation chips in advancing artificial intelligence, particularly in data centers and edge AI applications. He elaborates on the semiconductor manufacturing process, the importance of specialty materials, and how AI is transforming material science and chip design."
+  },
+  {
+    "doc_id": "",
+    "title": "Tariq Shaukat: How Safe Is AI-Assisted Coding?",
+    "guest_name": "Tariq Shaukat",
+    "episode_number": "224",
+    "episode_date": "2024-12-11",
+    "episode_topic": "In this episode, Tariq Shaukat discusses the role of AI in coding, particularly focusing on the challenges and benefits of AI-assisted coding tools. He emphasizes the importance of maintaining code quality and security while integrating AI technologies into the software development process."
+  },
+  {
+    "doc_id": "",
+    "title": "Christian Marek: How AI is Shaping the Future of Product Management",
+    "guest_name": "Rodrigo Leon",
+    "episode_number": "225",
+    "episode_date": "2024-12-18",
+    "episode_topic": "Rodrigo Leon discusses the evolution of AI inference systems and their impact on product management. He highlights the competitive landscape, particularly against NVIDIA, and emphasizes the importance of efficiency, speed, and accuracy in AI deployment."
+  },
+  {
+    "doc_id": "",
+    "title": "Nathan Michael: The Future of AI-Powered Drones and Autonomous Warfare",
+    "guest_name": "Christian",
+    "episode_number": "226",
+    "episode_date": "2024-12-23",
+    "episode_topic": "In this episode, Christian discusses the role of AI in product management, particularly through the lens of Product Board's platform. He highlights how AI accelerates the ideation and discovery processes for product managers, enabling them to efficiently gather customer feedback and streamline product development."
+  },
+  {
+    "doc_id": "",
+    "title": "The Importance of Data Quality in AI Systems",
+    "guest_name": "Nathan Michael",
+    "episode_number": "227",
+    "episode_date": "2024-12-29",
+    "episode_topic": "Nathan Michael discusses the role of data quality in AI systems, particularly in the context of autonomous vehicles and robotics. He emphasizes the importance of resilient intelligence and the integration of AI capabilities across various platforms to enhance operational effectiveness in challenging environments."
+  },
+  {
+    "doc_id": "",
+    "title": "Rodrigo Liang: How SambaNova Systems Is Disrupting AI Inference",
+    "guest_name": "Rodrigo Liang",
+    "episode_number": "228",
+    "episode_date": "2025-01-01",
+    "episode_topic": "Rodrigo Liang discusses SambaNova's innovative approach to AI inference, highlighting their new inference service that outperforms competitors like NVIDIA and Cerebras. He emphasizes the importance of efficiency, speed, and accuracy in AI production, as well as the growing trend towards open-source models."
+  },
+  {
+    "doc_id": "",
+    "title": "Mitesh Agrawal: Why Lambda Labs' AI Cloud Is a Game-Changer for Developers",
+    "guest_name": "Mitesh Agrawal",
+    "episode_number": "229",
+    "episode_date": "2025-01-08",
+    "episode_topic": "Mitesh Agrawal discusses the evolution of Lambda Labs from a style transfer app to a leading provider of AI cloud infrastructure. He emphasizes the importance of deep learning applications and the company's commitment to making compute accessible for developers and enterprises."
+  },
+  {
+    "doc_id": "",
+    "title": "Jamie Lerner: How Quantum Solves AI's Need for Unstructured Data Solutions",
+    "guest_name": "Jamie Lerner",
+    "episode_number": "230",
+    "episode_date": "2025-01-13",
+    "episode_topic": "In this episode, Jamie Lerner discusses how Quantum Corporation addresses the challenges of managing unstructured data, particularly in the context of AI. He explains the lifecycle of unstructured data, the importance of metadata, and how Quantum's technology supports long-term data storage and retrieval."
+  },
+  {
+    "doc_id": "",
+    "title": "Paras Jain: The Future of AI Video Generation with Genmo",
+    "guest_name": "Paras Jain",
+    "episode_number": "231",
+    "episode_date": "2025-01-16",
+    "episode_topic": "Paras Jain discusses the advancements in AI video generation, focusing on Genmo's model, Mochi One, which emphasizes superior motion and prompt adherence. He shares insights on the challenges and innovations in the field, including the importance of open-source technology for fostering creativity and collaboration."
+  },
+  {
+    "doc_id": "",
+    "title": "Sepp Hochreiter: How LSTMs Power Modern AI Systems",
+    "guest_name": "Sepp Hochreiter",
+    "episode_number": "232",
+    "episode_date": "2025-01-22",
+    "episode_topic": "Sepp Hochreiter discusses the development and impact of Long Short-Term Memory (LSTM) networks in AI, explaining their advantages over traditional neural networks and their applications in various industries. He also addresses the evolution of AI architectures, including the transition from LSTMs to transformers, and the potential for LSTMs to regain relevance in modern AI systems."
+  },
+  {
+    "doc_id": "",
+    "title": "Matt Price: How Crescendo is Disrupting Customer Service with Gen AI",
+    "guest_name": "Matt Price",
+    "episode_number": "233",
+    "episode_date": "2025-01-26",
+    "episode_topic": "Matt Price discusses how Crescendo is revolutionizing customer service through the integration of generative AI and human agents. He emphasizes the importance of holistic service design and the need for quality in AI interactions to enhance customer engagement."
+  },
+  {
+    "doc_id": "",
+    "title": "How AI is Shaping the Future of Combat & Warfare",
+    "guest_name": "Tyler Xuan Saltsman",
+    "episode_number": "234",
+    "episode_date": "2025-01-29",
+    "episode_topic": "Tyler Xuan Saltsman discusses the development of generative AI technologies tailored for military applications, focusing on logistics and combat scenarios. He emphasizes the importance of open and auditable AI systems that enhance the capabilities of warfighters while ensuring national security."
+  },
+  {
+    "doc_id": "",
+    "title": "The Future of AI-Driven Compliance with Tyler Xuan Saltsman",
+    "guest_name": "Tyler Xuan Saltsman",
+    "episode_number": "235",
+    "episode_date": "2025-02-03",
+    "episode_topic": "Tyler Xuan Saltsman discusses the development of AI-driven solutions for military logistics and drone technology. He emphasizes the importance of domain-specific intelligence and the integration of AI in enhancing national security."
+  },
+  {
+    "doc_id": "",
+    "title": "Pedro Domingo's on Bayesians and Analogical Learning in AI",
+    "guest_name": "Vall Howard",
+    "episode_number": "236",
+    "episode_date": "2025-02-09",
+    "episode_topic": "Vall Howard discusses the role of generative AI in ensuring compliance within financial services. He explains how Safer AI's technology acts as a safety layer to help organizations create compliant content, thereby reducing friction in the content creation process and promoting wider adoption of AI tools in regulated industries."
+  },
+  {
+    "doc_id": "",
+    "title": "Pedro Domingos Breaks Down The Symbolist Approach to AI",
+    "guest_name": "Peter Domingos",
+    "episode_number": "237",
+    "episode_date": "2025-02-17",
+    "episode_topic": "Peter Domingos discusses the Bayesian approach to statistics and machine learning, contrasting it with frequentist methods. He explains the significance of Bayesian networks and their applications in various fields, including medical diagnosis and decision-making under uncertainty."
+  },
+  {
+    "doc_id": "",
+    "title": "Dominic Williams Reveals His Vision for the Internet Computer (ICP)",
+    "guest_name": "Dominic Williams",
+    "episode_number": "238",
+    "episode_date": "2025-02-20",
+    "episode_topic": "Dominic Williams discusses the Internet Computer, a decentralized platform designed to host software directly on the internet. He explains its unique architecture, the concept of a 'world computer,' and how it aims to revolutionize the way applications are built and run, emphasizing its tamper-proof and autonomous capabilities."
+  },
+  {
+    "doc_id": "",
+    "title": "Tuhin Srivatsa: How Baseten is Disrupting AI Deployment & Scaling in 2025",
+    "guest_name": "Tuhin Srivatsa",
+    "episode_number": "239",
+    "episode_date": "2025-02-26",
+    "episode_topic": "Tuhin Srivatsa discusses how Base10 is revolutionizing AI deployment and scaling by providing a comprehensive infrastructure for running machine learning models. He emphasizes the importance of open-source models and the need for enterprises to adopt efficient, scalable solutions in their AI strategies."
+  },
+  {
+    "doc_id": "",
+    "title": "Manos Koukoumidis: Why The Future of AI is Open-Source",
+    "guest_name": "Dominic",
+    "episode_number": "240",
+    "episode_date": "2025-03-04",
+    "episode_topic": "Dominic discusses the evolution of blockchain technology and the Internet Computer, emphasizing its potential to host decentralized applications and AI models. He argues for the advantages of open-source systems and the transformative impact of AI on software development."
+  },
+  {
+    "doc_id": "",
+    "title": "The Alberta Plan's Roadmap to AI and AGI",
+    "guest_name": "Patrick M. Pilarski",
+    "episode_number": "241",
+    "episode_date": "2025-03-07",
+    "episode_topic": "Patrick M. Pilarski discusses the Alberta Plan, an initiative aimed at developing artificial general intelligence through reinforcement learning. He elaborates on the plan's commitments, the integration of AI in bionic medicine, and the importance of learning from raw sensory experiences."
+  },
+  {
+    "doc_id": "",
+    "title": "Dylan Arena: The AI Education Revolution",
+    "guest_name": "Manos Koukoumiris",
+    "episode_number": "242",
+    "episode_date": "2025-03-12",
+    "episode_topic": "In this episode, Manos Koukoumiris discusses the importance of open source in AI development, particularly in education. He emphasizes the need for open data, code, and models to foster collaboration and innovation in AI technologies."
+  },
+  {
+    "doc_id": "",
+    "title": "Greg Osuri: Why the Future of AI Depends on Decentralized Cloud Platforms",
+    "guest_name": "Greg Osuri",
+    "episode_number": "243",
+    "episode_date": "2025-03-18",
+    "episode_topic": "Greg Osuri discusses the challenges of AI training, particularly focusing on data and energy limitations. He emphasizes the importance of decentralized cloud platforms like Akash Network in addressing these challenges by utilizing underutilized compute resources and enabling cost-effective, efficient AI training."
+  },
+  {
+    "doc_id": "",
+    "title": "Yoav Shoham on Jamba Models, Maestro and The Future of Enterprise AI",
+    "guest_name": "Yoav Shoham",
+    "episode_number": "244",
+    "episode_date": "2025-03-27",
+    "episode_topic": "Yoav Shoham discusses the evolution of AI models, particularly focusing on the development of Jamba and Maestro. He emphasizes the shift from traditional language models to more integrated AI systems that can efficiently serve enterprise needs."
+  },
+  {
+    "doc_id": "",
+    "title": "Rajat Taneja: Visa's $3.3 Billion AI Strategy",
+    "guest_name": "Rajat Taneja",
+    "episode_number": "245",
+    "episode_date": "2025-04-02",
+    "episode_topic": "Rajat Taneja discusses Visa's extensive use of AI in fraud detection and transaction processing, highlighting their $3.3 billion investment in AI technologies. He elaborates on the future of commerce with generative AI and agentic systems, emphasizing the importance of trust and security in financial transactions."
+  },
+  {
+    "doc_id": "",
+    "title": "Will Granis: How Google Cloud is Powering the Future of Agentic AI",
+    "guest_name": "Will Granis",
+    "episode_number": "246",
+    "episode_date": "2025-04-09",
+    "episode_topic": "Will Granis discusses the evolution of agentic AI and how Google Cloud is enabling developers to create intelligent agents. He highlights the importance of generative AI, the orchestration of workflows, and the future potential of autonomous agents in various industries."
+  },
+  {
+    "doc_id": "",
+    "title": "Barr Moses: Why Reliable Data is Key to Building Good AI Systems",
+    "guest_name": "Barr Moses",
+    "episode_number": "247",
+    "episode_date": "2025-04-13",
+    "episode_topic": "Barr Moses discusses the critical importance of data reliability in AI systems, emphasizing the need for effective data observability. He explains how Monte Carlo helps organizations manage their data estates to ensure high-quality, trusted data for AI applications."
+  },
+  {
+    "doc_id": "",
+    "title": "Pedro Domingos: How Connectionism Is Reshaping the Future of Machine Learning",
+    "guest_name": "Pedro Domingos",
+    "episode_number": "248",
+    "episode_date": "2025-04-17",
+    "episode_topic": "Pedro Domingos discusses the evolution of machine learning paradigms, particularly focusing on connectionism and generative models. He contrasts generative and discriminative learning, explores the history of neural networks, and critiques the current trends in AI research."
+  },
+  {
+    "doc_id": "",
+    "title": "Brice Challamel: How Moderna is Using AI to Disrupt Modern Healthcare",
+    "guest_name": "Brice Challamel",
+    "episode_number": "249",
+    "episode_date": "2025-04-20",
+    "episode_topic": "Brice Challamel discusses how Moderna leverages AI in drug design and clinical trials, emphasizing the transformative potential of AI in healthcare. He highlights the company's focus on integrating AI as a utility across its operations to enhance efficiency and accelerate the delivery of therapies."
+  },
+  {
+    "doc_id": "",
+    "title": "Pedro Domingos on the Real Path to AGI",
+    "guest_name": "Pedro Domingos",
+    "episode_number": "250",
+    "episode_date": "2025-04-24",
+    "episode_topic": "Pedro Domingos discusses the five paradigms of machine learning, emphasizing the importance of reasoning by analogy and evolutionary algorithms in the pursuit of artificial general intelligence (AGI). He explores the historical context of these paradigms and their relevance in today's AI landscape."
+  },
+  {
+    "doc_id": "",
+    "title": "Sid Sheth: How d-Matrix is Disrupting AI Inference in 2025",
+    "guest_name": "Sid Sheth",
+    "episode_number": "251",
+    "episode_date": "2025-04-30",
+    "episode_topic": "Sid Sheth discusses the evolution of AI inference technology and how D-Matrix is positioning itself to disrupt the market dominated by major players like NVIDIA. He shares insights on the company's innovative chip architecture and its approach to integrating with existing infrastructure in data centers."
+  },
+  {
+    "doc_id": "",
+    "title": "How to Build Scalable GenAI Products",
+    "guest_name": "Jeffrey Hammond",
+    "episode_number": "252",
+    "episode_date": "2025-05-09",
+    "episode_topic": "Jeffrey Hammond discusses the challenges and strategies for independent software vendors (ISVs) in building scalable generative AI products. He emphasizes the importance of understanding customer needs, reducing toil, and leveraging AWS resources to drive profitable growth."
+  },
+  {
+    "doc_id": "",
+    "title": "Inside the Fight Against AI-Driven Cybercrime",
+    "guest_name": "Ivan Shkvarun",
+    "episode_number": "253",
+    "episode_date": "2025-05-11",
+    "episode_topic": "Ivan Shkvarun discusses the rise of AI-driven cybercrime and the initiatives being taken to combat it, including the launch of the Dark Side AI Initiative. He emphasizes the importance of open-source intelligence in identifying and mitigating digital threats."
+  },
+  {
+    "doc_id": "",
+    "title": "Why Developers Still Trust Stack Overflow in the Age of AI",
+    "guest_name": "Prashanth",
+    "episode_number": "254",
+    "episode_date": "2025-05-14",
+    "episode_topic": "Prashanth discusses the evolution of Stack Overflow as a trusted knowledge base for developers amidst the rise of AI. He highlights the platform's unique role in providing authoritative answers and its integration with AI technologies to enhance user experience."
+  },
+  {
+    "doc_id": "",
+    "title": "Eric Topol: Why AI is the Most Powerful Tool in Healthcare Now",
+    "guest_name": "Eric Topol",
+    "episode_number": "255",
+    "episode_date": "2025-05-18",
+    "episode_topic": "In this episode, Dr. Eric Topol discusses the transformative potential of AI in healthcare, particularly in predicting and preventing age-related diseases. He emphasizes the importance of personalized data and the integration of various health metrics to enhance individual health outcomes."
+  },
+  {
+    "doc_id": "",
+    "title": "Stephen Schmidt: Inside Amazon's AI-Powered Cybersecurity Strategy",
+    "guest_name": "Stephen Schmidt",
+    "episode_number": "256",
+    "episode_date": "2025-05-22",
+    "episode_topic": "Stephen Schmidt discusses Amazon's innovative approach to cybersecurity, leveraging generative AI and a vast network of honeypots to detect and mitigate threats. He emphasizes the importance of robust security practices and the evolving role of AI in both offensive and defensive cybersecurity strategies."
+  },
+  {
+    "doc_id": "",
+    "title": "How cheqd.io Is Building Trust for AI Agents with Decentralized Identity",
+    "guest_name": "Ankur Banerjee",
+    "episode_number": "257",
+    "episode_date": "2025-05-25",
+    "episode_topic": "Ankur Banerjee discusses the challenges and solutions related to decentralized identity for AI agents. He explains how digital identity can enhance trust and security in interactions between AI agents and online services, addressing issues like authentication and agent-to-agent trust."
+  },
+  {
+    "doc_id": "",
+    "title": "Brian Peterson: How Dialpad is Building the Future of AI-Powered Communication",
+    "guest_name": "Brian Peterson",
+    "episode_number": "258",
+    "episode_date": "2025-05-29",
+    "episode_topic": "Brian Peterson discusses Dialpad's AI-powered customer communications platform, detailing its features such as live coaching, customer satisfaction analysis, and the integration of AI in enhancing communication efficiency. He emphasizes the importance of combining AI with human support to improve customer experiences."
+  },
+  {
+    "doc_id": "",
+    "title": "Anjney Midha: a16z's Strategy to Turn AI Startups into Unicorns",
+    "guest_name": "Anjney Midha",
+    "episode_number": "259",
+    "episode_date": "2025-06-02",
+    "episode_topic": "Anjney Midha discusses his journey from machine learning at Stanford to becoming a venture capitalist at a16z, focusing on the evolution of AI technologies, the importance of agentic systems, and the future of AI startups. He emphasizes the need for reliable evaluation methods and the potential of hybrid architectures in AI."
+  },
+  {
+    "doc_id": "",
+    "title": "Ash Anwar: How Molecular You Uses AI for Early Disease Detection",
+    "guest_name": "Ash Anwar",
+    "episode_number": "260",
+    "episode_date": "2025-06-09",
+    "episode_topic": "In this episode, Ash Anwar discusses how Molecular U leverages AI to identify early biomarkers for diseases, enabling proactive health management. He explains the importance of tracking biomarkers over time to predict health outcomes and improve longevity."
+  },
+  {
+    "doc_id": "",
+    "title": "Jonathan Frankle: How Databricks is Disrupting AI Model Training",
+    "guest_name": "Jonathan Frankle",
+    "episode_number": "261",
+    "episode_date": "2025-06-12",
+    "episode_topic": "In this episode, Jonathan Frankle discusses how Databricks is revolutionizing AI model training through innovative techniques like synthetic data generation and test time adaptive optimization (Tau). He emphasizes the importance of making AI accessible and efficient for users, while addressing challenges in data labeling and model fine-tuning."
+  },
+  {
+    "doc_id": "",
+    "title": "Deepak Chopra: How to Use AI to Expand Human Consciousness",
+    "guest_name": "Deepak Chopra",
+    "episode_number": "262",
+    "episode_date": "2025-06-15",
+    "episode_topic": "Deepak Chopra discusses the intersection of artificial intelligence and human consciousness, emphasizing how AI can serve as a tool for spiritual awakening and well-being. He explores the potential of AI to enhance personal health and spiritual practices while addressing the challenges and ethical considerations of integrating technology into human experience."
+  },
+  {
+    "doc_id": "",
+    "title": "How DeepL Is Using AI to Break Language Barriers",
+    "guest_name": "Jarek Kutylowski",
+    "episode_number": "263",
+    "episode_date": "2025-06-18",
+    "episode_topic": "Jarek Kutylowski discusses how DeepL leverages AI to enhance translation accuracy and integrate language solutions into business workflows. He emphasizes the importance of maintaining the nuances of language while breaking down communication barriers in a globalized world."
+  },
+  {
+    "doc_id": "",
+    "title": "Vectara's Mission To Make AI Hallucination-Free & Enterprise Ready",
+    "guest_name": "Amr Awadallah",
+    "episode_number": "264",
+    "episode_date": "2025-06-22",
+    "episode_topic": "Amr Awadallah discusses Vectara's approach to creating AI agents that minimize hallucinations and enhance accuracy for enterprise applications. He emphasizes the importance of retrieval-augmented generation (RAG) and the need for security and explainability in AI systems."
+  },
+  {
+    "doc_id": "",
+    "title": "Jeff Lu: How Akool Uses Gen AI to Make Live AI Avatars & Voices",
+    "guest_name": "Jeff Lu",
+    "episode_number": "265",
+    "episode_date": "2025-06-27",
+    "episode_topic": "Jeff Lu discusses how Akool leverages generative AI to create live AI avatars and voice translation technologies. He explains the technical aspects of their products, including real-time video translation and avatar lip-syncing, and shares insights on the future of language barriers in communication."
+  },
+  {
+    "doc_id": "",
+    "title": "Andy Kurtzig: How Pearl Uses AI + Human Experts In Professional Services",
+    "guest_name": "Andy Kurtzig",
+    "episode_number": "266",
+    "episode_date": "2025-06-29",
+    "episode_topic": "Andy Kurtzig discusses how Pearl combines AI with a network of human experts to enhance the quality of professional services in fields like healthcare and legal. He explains the unique business model that leverages human verification to improve accuracy and trust in AI-generated responses."
+  },
+  {
+    "doc_id": "",
+    "title": "Exploring AI-Powered Enterprise Networking with Nabil Bukhari",
+    "guest_name": "Nabil Bukhari",
+    "episode_number": "267",
+    "episode_date": "2025-07-02",
+    "episode_topic": "Nabil Bukhari discusses the integration of AI in enterprise networking, emphasizing the importance of secure connectivity and the role of AI as a capability rather than a product. He highlights the exponential growth of connected devices and data, and the necessity for explainability and human oversight in AI systems."
+  },
+  {
+    "doc_id": "",
+    "title": "Kiren Sekar: The Future of Physical Operations Is AI-Powered",
+    "guest_name": "Kiren Sekar",
+    "episode_number": "268",
+    "episode_date": "2025-07-06",
+    "episode_topic": "Kiren Sekar discusses how AI is transforming physical operations across various industries, enhancing safety, efficiency, and sustainability. He shares insights on Samsara's technology, its impact on operations, and the evolving role of AI in improving operational visibility and decision-making."
+  },
+  {
+    "doc_id": "",
+    "title": "Jason Hardy: How Hitachi Vantara Is Powering the Future of Enterprise AI",
+    "guest_name": "Jason Hardy",
+    "episode_number": "269",
+    "episode_date": "2025-07-11",
+    "episode_topic": "Jason Hardy discusses Hitachi Vantara's approach to enterprise AI through its Hitachi IQ brand, emphasizing a pragmatic methodology that balances ambitious AI capabilities with realistic expectations. He highlights the importance of data in AI success and the company's commitment to providing tailored solutions for various industries."
+  },
+  {
+    "doc_id": "",
+    "title": "Thomas Dohmke: GitHub CEO Reveals How AI Will Change Coding Forever",
+    "guest_name": "Thomas Dohmke",
+    "episode_number": "270",
+    "episode_date": "2025-07-15",
+    "episode_topic": "In this episode, Thomas Dohmke discusses the transformative impact of AI on software development, particularly through GitHub's Copilot and coding agents. He emphasizes the evolving role of developers as they integrate AI tools into their workflows, shifting from traditional coding to managing AI-driven processes."
+  },
+  {
+    "doc_id": "",
+    "title": "Steve Lucas: Why AI Agents Will Automate 75% of Business Operations by 2026",
+    "guest_name": "Steve Lucas",
+    "episode_number": "271",
+    "episode_date": "2025-07-17",
+    "episode_topic": "In this episode, Steve Lucas discusses the transformative potential of AI agents in automating business operations. He shares insights on how Boomi's integration platform is evolving to leverage AI, enabling organizations to streamline processes and enhance efficiency."
+  },
+  {
+    "doc_id": "",
+    "title": "Andrew Blum: Inside The Most Important AI Event Of The Year",
+    "guest_name": "Andrew Blum",
+    "episode_number": "272",
+    "episode_date": "2025-07-20",
+    "episode_topic": "Andrew Blum discusses the significance of the HumanX conference, focusing on the intersection of AI and business. He emphasizes the need for better curation of AI products and the importance of government regulation in the tech industry."
+  },
+  {
+    "doc_id": "",
+    "title": "Benjamin Encz: How Ashby is Building the Future of Hiring with AI",
+    "guest_name": "Benjamin Encz",
+    "episode_number": "273",
+    "episode_date": "2025-07-24",
+    "episode_topic": "Benjamin Encz discusses how Ashby is revolutionizing the hiring process through an AI-driven recruiting platform. He highlights the challenges faced in traditional hiring methods and how Ashby's technology addresses these issues by providing data analytics and automation to streamline recruitment."
+  },
+  {
+    "doc_id": "",
+    "title": "Luke Behnke: Why Grammarly Is Going All In on AI Agents",
+    "guest_name": "Luke Behnke",
+    "episode_number": "274",
+    "episode_date": "2025-07-28",
+    "episode_topic": "In this episode, Luke Behnke discusses Grammarly's evolution into an AI-driven productivity suite, emphasizing the integration of AI agents to enhance user experience. He highlights the importance of collaboration between humans and AI, particularly in educational and enterprise settings, and introduces Grammarly's new authorship feature aimed at clarifying the use of AI in writing."
+  },
+  {
+    "doc_id": "",
+    "title": "Nandan Nayampally: How Baya Systems is Fixing AI Chip Bottlenecks",
+    "guest_name": "Nandan Nayampally",
+    "episode_number": "275",
+    "episode_date": "2025-07-31",
+    "episode_topic": "Nandan Nayampally discusses the challenges in AI chip design, particularly focusing on data movement bottlenecks and the innovations Baya Systems is implementing to enhance chip performance. He elaborates on the evolution of chip design, the importance of efficient networking on chips, and the future of AI processing."
+  },
+  {
+    "doc_id": "",
+    "title": "Ryan Wang: Building AI-Powered Customer Support",
+    "guest_name": "Ryan Wang",
+    "episode_number": "276",
+    "episode_date": "2025-08-03",
+    "episode_topic": "Ryan Wang discusses the evolution of customer support through AI, emphasizing the importance of hybrid human-AI systems. He shares insights on how Assembled helps companies scale their support operations while navigating the complexities of workforce management."
+  },
+  {
+    "doc_id": "",
+    "title": "Alex Salazar: Arcade's Vision to Make AI Agents Secure and Scalable",
+    "guest_name": "Alex Salazar",
+    "episode_number": "277",
+    "episode_date": "2025-08-06",
+    "episode_topic": "In this episode, Alex Salazar discusses the challenges and innovations in building secure and scalable AI agents. He explains how Arcade enables developers to create agents that can interact with various services while ensuring proper authentication and authorization."
+  },
+  {
+    "doc_id": "",
+    "title": "Julia Peyre: How Schneider Electric is Pioneering Enterprise AI at Scale",
+    "guest_name": "Julia Peyre",
+    "episode_number": "278",
+    "episode_date": "2025-08-10",
+    "episode_topic": "Julia Peyre discusses Schneider Electric's approach to integrating AI into their operations and products, focusing on energy management and industrial automation. She highlights the company's AI Hub, the applications of AI for internal efficiency, and the development of innovative solutions for clients."
+  },
+  {
+    "doc_id": "",
+    "title": "Matthew Carroll: Immuta's Approach to Secure, Scalable Data Access in the Age of AI",
+    "guest_name": "Matthew Carroll",
+    "episode_number": "279",
+    "episode_date": "2025-08-14",
+    "episode_topic": "Matthew Carroll discusses Immuta's innovative platform for managing data access and security in the context of generative AI. He emphasizes the importance of governance, legal compliance, and the challenges posed by the increasing number of data consumers in enterprises."
+  },
+  {
+    "doc_id": "",
+    "title": "Aytekin Tank: How to Fully Automate Your Customer Service with AI Agents",
+    "guest_name": "Aytekin Tank",
+    "episode_number": "280",
+    "episode_date": "2025-08-17",
+    "episode_topic": "Aytekin Tank discusses the evolution of JotForm's AI agents, which have transformed customer service by automating responses and improving resolution rates. He shares insights on the technology behind these agents and their potential to enhance user experience for businesses."
+  },
+  {
+    "doc_id": "",
+    "title": "Leon Song: The Research Driving Next-Gen Open-Source Models",
+    "guest_name": "Leon Song",
+    "episode_number": "281",
+    "episode_date": "2025-08-25",
+    "episode_topic": "Leon Song discusses the advancements in open-source AI models and their competitive edge against closed-source alternatives. He shares insights on Together AI's research initiatives, including speculative decoding and the development of innovative models that enhance performance and flexibility for enterprise applications."
+  },
+  {
+    "doc_id": "",
+    "title": "Chris O'Neill: How GrowthLoop is Using Agentic AI for Real-Time, Personalized Marketing",
+    "guest_name": "Chris O'Neill",
+    "episode_number": "282",
+    "episode_date": "2025-09-02",
+    "episode_topic": "Chris O'Neill discusses how GrowthLoop leverages agentic AI to enhance marketing strategies through real-time data analysis and personalized customer engagement. He emphasizes the importance of reducing complexity in marketing workflows and the role of AI in driving growth and improving customer relationships."
+  },
+  {
+    "doc_id": "",
+    "title": "Andrei Danescu: How Dexory Uses AI & Robotics for Warehouse Management",
+    "guest_name": "Andrei Danescu",
+    "episode_number": "283",
+    "episode_date": "2025-09-03",
+    "episode_topic": "In this episode, Andrei Danescu discusses how Dexory leverages AI and robotics to optimize warehouse management through the creation of digital twins and real-time data collection. He explains the importance of enhancing human workers' efficiency and the future potential of fully automated warehouses."
+  },
+  {
+    "doc_id": "",
+    "title": "Inside Abstract: The AI That Decodes Laws and Regulations",
+    "guest_name": "Pat Utz",
+    "episode_number": "284",
+    "episode_date": "2025-09-07",
+    "episode_topic": "Pat Utz discusses how Abstract uses AI to analyze and decode laws and regulations, providing insights for law firms and companies. The conversation covers the platform's capabilities in tracking legislative changes, its impact on lobbying strategies, and the potential for democratizing access to legal information."
+  },
+  {
+    "doc_id": "",
+    "title": "Raj Koneru: How Kore.ai is Building No Code Enterprise-Grade Agentic AI",
+    "guest_name": "Raj Koneru",
+    "episode_number": "285",
+    "episode_date": "2025-09-10",
+    "episode_topic": "Raj Koneru discusses the evolution of Kore.ai's platform, emphasizing its focus on enterprise-grade, no-code solutions for building AI agents. He highlights the importance of security, scalability, and the integration of natural language processing in creating effective AI-driven customer service and employee experience solutions."
+  },
+  {
+    "doc_id": "",
+    "title": "Building and Scaling Enterprise AI Agents with Ram Venkatesh",
+    "guest_name": "Ram Venkatesh",
+    "episode_number": "286",
+    "episode_date": "2025-09-14",
+    "episode_topic": "Ram Venkatesh discusses the evolution of enterprise AI agents, emphasizing their role in automating business processes and enhancing data utilization. He explores the challenges of traditional RPA and the innovative approaches Sema4.ai is taking to create flexible, conversational agents that can operate autonomously while integrating seamlessly with existing enterprise systems."
+  },
+  {
+    "doc_id": "",
+    "title": "Sahil Bansal: Why Developers Are Switching to CodeRabbit's AI Code Reviews",
+    "guest_name": "Sahil Bansal",
+    "episode_number": "287",
+    "episode_date": "2025-09-17",
+    "episode_topic": "Sahil Bansal discusses the challenges developers face with code reviews in the age of AI-generated code and how CodeRabbit's AI code review platform addresses these issues. He explains the importance of context in AI reviews and how their tool enhances developer efficiency by automating parts of the review process."
+  },
+  {
+    "doc_id": "",
+    "title": "Florian Douetteau: How Enterprises Can Scale and Adopt Agentic AI",
+    "guest_name": "Florian Douetteau",
+    "episode_number": "288",
+    "episode_date": "2025-09-21",
+    "episode_topic": "Florian Douetteau discusses the challenges and opportunities enterprises face in adopting agentic AI. He emphasizes the importance of democratizing AI within organizations and the need for effective lifecycle management of AI agents to enhance productivity and ensure security."
+  },
+  {
+    "doc_id": "",
+    "title": "Eiso Kant: How Reinforcement Learning and Coding Could Unlock Human-Level AI",
+    "guest_name": "Eiso Kant",
+    "episode_number": "289",
+    "episode_date": "2025-09-24",
+    "episode_topic": "Eiso Kant discusses the intersection of reinforcement learning and software development, emphasizing how focusing on coding can lead to advancements in AI capabilities. He shares insights on the evolution of AI models, the importance of reasoning in coding, and the future of AI in software development."
+  },
+  {
+    "doc_id": "",
+    "title": "Joel Hron: How Thomson Reuters is Approaching The Next Era of AI",
+    "guest_name": "Joel Hron",
+    "episode_number": "290",
+    "episode_date": "2025-09-29",
+    "episode_topic": "Joel Hron discusses the evolution of AI at Thomson Reuters, focusing on the development of agentic systems that can autonomously plan and execute workflows. He emphasizes the importance of integrating human expertise into AI systems to enhance accuracy and user trust."
+  },
+  {
+    "doc_id": "",
+    "title": "Naveen Jain: How AI Predicts Cancer, Diabetes & Chronic Illness",
+    "guest_name": "Naveen Jain",
+    "episode_number": "291",
+    "episode_date": "2025-10-06",
+    "episode_topic": "Naveen Jain discusses the potential of AI in predicting chronic diseases like cancer and diabetes. He shares insights on how his company, Viome, analyzes biomarkers to provide personalized health recommendations and early disease detection."
+  },
+  {
+    "doc_id": "",
+    "title": "Peeyush Ranjan: How Nurix Is Redefining Voice AI for the Enterprise",
+    "guest_name": "Peeyush Ranjan",
+    "episode_number": "292",
+    "episode_date": "2025-10-09",
+    "episode_topic": "Peeyush Ranjan discusses the challenges and innovations in voice AI for enterprise applications, focusing on low latency and human-like interactions. He explains how Nurix aims to enhance customer service through advanced conversational agents that integrate deeply with business workflows."
+  },
+  {
+    "doc_id": "",
+    "title": "Greg Shewmaker on Scaling Enterprises with Agentic AI",
+    "guest_name": "Greg Shewmaker",
+    "episode_number": "293",
+    "episode_date": "2025-10-13",
+    "episode_topic": "Greg Shewmaker discusses how enterprises can effectively implement and scale AI technologies, emphasizing the importance of integrating AI into existing workflows rather than treating it as a separate initiative. He highlights the need for a human-centric approach to maximize efficiency and the role of leadership in driving successful AI adoption."
+  },
+  {
+    "doc_id": "",
+    "title": "Bhaskar Roy: How Workato Is Building the Rise of the Agentic Enterprise",
+    "guest_name": "Bhaskar Roy",
+    "episode_number": "294",
+    "episode_date": "2025-10-16",
+    "episode_topic": "In this episode, Bhaskar Roy discusses the concept of the 'Agentic Enterprise' and how Workato is enabling businesses to integrate applications and automate workflows through AI-driven agents. He emphasizes the importance of democratizing technology for business users while maintaining security and governance."
+  },
+  {
+    "doc_id": "",
+    "title": "Fergal Reid: Why Your Bots Fail and How Agents Fix Your Customer Support",
+    "guest_name": "Fergal Reid",
+    "episode_number": "295",
+    "episode_date": "2025-10-19",
+    "episode_topic": "Fergal Reid discusses the evolution of customer support through AI agents, specifically focusing on Intercom's product, Finn. He explains how Finn is designed to handle complex customer service tasks, its adaptability across various industries, and the importance of maintaining high resolution rates in customer interactions."
+  },
+  {
+    "doc_id": "",
+    "title": "Yeop Lee: How Coxwave is Redefining AI Evaluation",
+    "guest_name": "Yeop Lee",
+    "episode_number": "296",
+    "episode_date": "2025-10-26",
+    "episode_topic": "Yeop Lee discusses Coxwave's innovative analytics solution for conversational AI products, positioning it as the 'Google Analytics' for LLMs like ChatGPT. He explains the importance of subjective evaluation in understanding user interactions and improving AI responses."
+  },
+  {
+    "doc_id": "",
+    "title": "Jeff Lunsford: How Agentic AI Will Redefine Every Digital Interaction",
+    "guest_name": "Jeff Lunsford",
+    "episode_number": "297",
+    "episode_date": "2025-10-30",
+    "episode_topic": "Jeff Lunsford discusses the rapid evolution of agentic AI and its implications for digital interactions. He emphasizes the importance of real-time data and privacy compliance in enhancing customer experiences and predicts significant growth in agentic commerce by 2030."
+  },
+  {
+    "doc_id": "",
+    "title": "Ryan Kolln: How Appen Trains the World's Most Powerful AI Models",
+    "guest_name": "Ryan Kolln",
+    "episode_number": "298",
+    "episode_date": "2025-11-06",
+    "episode_topic": "Ryan Kolln discusses the evolution of large language model (LLM) evaluation, emphasizing the importance of human evaluators in providing cultural context and nuanced feedback. He explains how Appen supports AI model training and evaluation through a diverse workforce and highlights the challenges and opportunities in the AI evaluation market."
+  },
+  {
+    "doc_id": "",
+    "title": "Why the Future of AI Won't Be Built on Transformers",
+    "guest_name": "Jacob Buckman",
+    "episode_number": "299",
+    "episode_date": "2025-11-09",
+    "episode_topic": "Jacob Buckman discusses the limitations of transformer models in AI and introduces his new architecture, Power Retention, which aims to address scaling issues and improve efficiency in processing large contexts. He emphasizes the potential of this architecture for various applications, including scientific research and information retrieval."
+  },
+  {
+    "doc_id": "",
+    "title": "Fred Laluyaux: How Decision Intelligence & AI Agents Are Redefining Enterprise Operations",
+    "guest_name": "Frederic Laluyaux",
+    "episode_number": "300",
+    "episode_date": "2025-11-13",
+    "episode_topic": "Frederic Laluyaux discusses the concept of decision intelligence and its significance in modern enterprises. He explains how Aera Technology aims to automate decision-making processes by leveraging AI, breaking down organizational silos, and enhancing operational efficiency."
+  },
+  {
+    "doc_id": "",
+    "title": "The AI Safety System Driving Toward Zero Harm",
+    "guest_name": "Hemant Banavar, Ryan Ennis",
+    "episode_number": "301",
+    "episode_date": "2025-11-16",
+    "episode_topic": "This episode discusses the importance of AI in enhancing safety in transportation, focusing on how Motive's AI-driven safety system significantly reduces safety events and improves driver behavior. Hemant and Ryan share insights on the technology's impact on operational safety and efficiency."
+  },
+  {
+    "doc_id": "",
+    "title": "Karl Friston: How the Free Energy Principle Could Rewrite AI",
+    "guest_name": "Karl Friston",
+    "episode_number": "302",
+    "episode_date": "2025-11-19",
+    "episode_topic": "Karl Friston discusses the Free Energy Principle and its implications for artificial intelligence, emphasizing how this principle can lead to more efficient and reliable AI systems. He explains the connection between neuroscience and machine learning, particularly in the context of predictive coding and active inference."
+  },
+  {
+    "doc_id": "",
+    "title": "Fei-Fei Li: Spatial Intelligence, World Models & the Future of AI",
+    "guest_name": "Fei-Fei Li",
+    "episode_number": "303",
+    "episode_date": "2025-11-23",
+    "episode_topic": "Fei-Fei Li discusses the significance of spatial intelligence and world models in AI, emphasizing the need for models to learn from direct experiences rather than just text. She introduces her startup, World Labs, and its product Marble, which creates complex 3D spaces from internal representations."
+  },
+  {
+    "doc_id": "",
+    "title": "Matt Zeiler: Why Government And Enterprises Choose Clarifai For AI Ops",
+    "guest_name": "Matt Zeiler",
+    "episode_number": "304",
+    "episode_date": "2025-11-28",
+    "episode_topic": "Matt Zeiler discusses the evolution of Clarifai from its inception to its current role in AI operations for both government and enterprise sectors. He highlights the importance of user-friendly APIs and UIs in AI deployment, as well as the company's involvement in significant projects like Project Maven."
+  },
+  {
+    "doc_id": "",
+    "title": "Rakshit Ghura: How Lenovo Is Turning AI Agents Into Digital Coworkers",
+    "guest_name": "Rakshit Ghura",
+    "episode_number": "305",
+    "episode_date": "2025-12-03",
+    "episode_topic": "Rakshit Ghura discusses Lenovo's approach to integrating AI into digital workplace solutions, emphasizing the importance of employee productivity and the role of AI agents in transforming business processes. He highlights the gap between AI enthusiasm and readiness among organizations and shares insights from Lenovo's Work Reborn report."
+  },
+  {
+    "doc_id": "",
+    "title": "What Shutdown-Avoiding AI Agents Mean for Future Safety",
+    "guest_name": "Jeffrey Ladish",
+    "episode_number": "306",
+    "episode_date": "2025-12-07",
+    "episode_topic": "Jeffrey Ladish discusses the behavior of AI agents in controlled environments, particularly their ability to circumvent shutdown commands. He emphasizes the implications of these findings for AI safety and the challenges of aligning AI behavior with human intentions."
+  },
+  {
+    "doc_id": "",
+    "title": "How Neuromorphic Computing Cuts Inference Power by 10x",
+    "guest_name": "Steven Brightfield",
+    "episode_number": "307",
+    "episode_date": "2025-12-16",
+    "episode_topic": "Steven Brightfield discusses neuromorphic computing and its potential to revolutionize AI by mimicking the brain's architecture. He explains how this technology can significantly reduce power consumption for inference tasks, making it suitable for various applications, including wearables and autonomous systems."
+  },
+  {
+    "doc_id": "",
+    "title": "Christopher Bergey: How Arm Enables AI to Run Directly on Devices",
+    "guest_name": "Christopher Bergey",
+    "episode_number": "308",
+    "episode_date": "2025-12-19",
+    "episode_topic": "Christopher Bergey discusses the evolution of ARM's architecture and its role in enabling AI directly on edge devices. He highlights the importance of heterogeneous computing, the advancements in ARM's V9 architecture, and the future of AI applications in various sectors."
+  },
+  {
+    "doc_id": "",
+    "title": "Jamie Metzl: Why Gene Editing Needs Governance Or We Lose Control",
+    "guest_name": "Jamie Metzl",
+    "episode_number": "309",
+    "episode_date": "2025-12-24",
+    "episode_topic": "Jamie Metzl discusses the implications of gene editing and the need for governance to prevent unethical practices. He emphasizes the importance of societal infrastructure to responsibly manage advancements in biotechnology and the potential consequences of unregulated human experimentation."
+  },
+  {
+    "doc_id": "",
+    "title": "Stefano Ermon: Why Diffusion Language Models Will Define the Next Generation of LLMs",
+    "guest_name": "Stefano Ermon",
+    "episode_number": "310",
+    "episode_date": "2026-01-04",
+    "episode_topic": "Stefano Ermon discusses the advantages of diffusion language models over traditional autoregressive models, highlighting their efficiency in generating text and code. He explains the training process, the architecture's flexibility, and the potential for future advancements in generative AI."
+  },
+  {
+    "doc_id": "",
+    "title": "Inside Cisco's Vision for AI-Powered Enterprise Systems",
+    "guest_name": "Anurag Dhingra",
+    "episode_number": "311",
+    "episode_date": "2026-01-07",
+    "episode_topic": "Anurag Dhingra discusses Cisco's integration of AI into enterprise networking and collaboration tools. He emphasizes the importance of AI in enhancing productivity, security, and user experience while addressing the challenges of connectivity in modern workplaces."
+  },
+  {
+    "doc_id": "",
+    "title": "AI Agents Are Reshaping the Future of Compute Infrastructure",
+    "guest_name": "Jonathan Wall",
+    "episode_number": "312",
+    "episode_date": "2026-01-11",
+    "episode_topic": "Jonathan Wall discusses the transformative impact of AI agents on compute infrastructure, emphasizing the need for new compute primitives tailored for agentic workflows. He explains how Runloop AI aims to provide a platform for deploying and managing these agents, highlighting their unique operational patterns compared to traditional servers."
+  },
+  {
+    "doc_id": "",
+    "title": "Evan Reiser: How Abnormal AI Protects Humans with Behavioral AI",
+    "guest_name": "Evan Reiser",
+    "episode_number": "313",
+    "episode_date": "2026-01-16",
+    "episode_topic": "Evan Reiser discusses the evolution of cyber threats, particularly phishing, and how Abnormal AI uses behavioral models to protect organizations from sophisticated attacks. He emphasizes the importance of understanding human behavior in cybersecurity and the challenges posed by AI-driven attacks."
+  },
+  {
+    "doc_id": "",
+    "title": "Nick Pandher: How Inference-First Infrastructure Is Powering the Next Wave of AI",
+    "guest_name": "Nick Pandher",
+    "episode_number": "314",
+    "episode_date": "2026-01-17",
+    "episode_topic": "Nick Pandher discusses the shift from AI training to inference, emphasizing the importance of inference-first infrastructure for AI services. He explains how CirusScale differentiates itself by providing tailored cloud solutions that optimize inference workloads for various enterprise applications."
+  },
+  {
+    "doc_id": "",
+    "title": "Jarrod Johnson: How Agentic AI Is Impacting Modern Customer Service",
+    "guest_name": "Jarrod Johnson",
+    "episode_number": "315",
+    "episode_date": "2026-01-21",
+    "episode_topic": "Jarrod Johnson discusses the transformative role of agentic AI in customer service, emphasizing its ability to automate interactions and improve efficiency. He explains how TaskUs integrates AI technologies to enhance customer experiences while maintaining human oversight for complex issues."
+  },
+  {
+    "doc_id": "",
+    "title": "Robbie Goldfarb: Why the Future of AI Depends on Better Judgment",
+    "guest_name": "Robbie Goldfarb",
+    "episode_number": "316",
+    "episode_date": "2026-01-23",
+    "episode_topic": "Robbie Goldfarb discusses the importance of expert judgment in AI development, particularly in sensitive areas like healthcare and politics. He emphasizes the need for transparency and trust in AI systems to avoid misinformation and ensure responsible outcomes."
+  },
+  {
+    "doc_id": "",
+    "title": "Why Modern Medicine Needs AI-Assisted Decision Making",
+    "guest_name": "Steven Brown",
+    "episode_number": "317",
+    "episode_date": "2026-01-25",
+    "episode_topic": "Steven Brown discusses his personal journey with cancer and how he applied AI-assisted decision-making to manage his healthcare. He emphasizes the importance of using AI to analyze medical records and facilitate better communication between patients and doctors."
+  },
+  {
+    "doc_id": "",
+    "title": "How AI Is Fixing the Biggest Bottleneck in Construction",
+    "guest_name": "Olek Baraska",
+    "episode_number": "318",
+    "episode_date": "2026-01-29",
+    "episode_topic": "Olek Baraska discusses how Togal AI is revolutionizing the construction industry by automating pre-construction processes. He highlights the inefficiencies in traditional construction methods and explains how AI can streamline project estimating and planning, ultimately addressing the housing crisis."
+  },
+  {
+    "doc_id": "",
+    "title": "Why Traditional App Security Fails in the Age of AI",
+    "guest_name": "Subho Halder",
+    "episode_number": "319",
+    "episode_date": "2026-02-01",
+    "episode_topic": "Subho Halder discusses the evolving landscape of mobile application security in the context of rapid AI advancements. He highlights the challenges posed by the increasing complexity of applications and the need for security measures that adapt to this dynamic environment."
+  },
+  {
+    "doc_id": "",
+    "title": "Carter Huffman: Exploring The Architecture Behind Modulate's Next-Gen Voice AI",
+    "guest_name": "Carter Huffman",
+    "episode_number": "320",
+    "episode_date": "2026-02-11",
+    "episode_topic": "Carter Huffman discusses the innovative voice AI technology developed by Modulate, focusing on real-time voice analysis for applications in gaming and safety. He explains the architecture of their ensemble models, which enhance emotion detection and lie detection, and the potential for broader applications in various industries."
+  },
+  {
+    "doc_id": "",
+    "title": "Nick Frosst: Why Cohere Is Betting on Enterprise AI, Not AGI",
+    "guest_name": "Nick Frosst",
+    "episode_number": "321",
+    "episode_date": "2026-02-17",
+    "episode_topic": "Nick Frosst discusses Cohere's focus on enterprise AI solutions rather than pursuing artificial general intelligence (AGI). He explains the company's approach to making large language models efficient and useful for businesses, emphasizing the importance of tailored applications and capital efficiency."
+  },
+  {
+    "doc_id": "",
+    "title": "The Widening AI Value Gap with Amanda Luther",
+    "guest_name": "Amanda Luther",
+    "episode_number": "322",
+    "episode_date": "2026-02-19",
+    "episode_topic": "Amanda Luther discusses the widening value gap in AI adoption between early adopters and laggards, highlighting the importance of investment in AI capabilities and the impact on business performance. She shares insights from BCG's annual study on AI's effects across various industries."
+  },
+  {
+    "doc_id": "",
+    "title": "David Ha: Why Model Merging Could Be the Next AI Breakthrough",
+    "guest_name": "David Ha",
+    "episode_number": "323",
+    "episode_date": "2026-02-24",
+    "episode_topic": "David Ha discusses the concept of model merging in AI, exploring how evolutionary strategies can enhance AI capabilities. He shares insights from his work at Sakana AI, focusing on the intersection of generative AI and evolutionary computation."
+  },
+  {
+    "doc_id": "",
+    "title": "Sharon Zhou: Inside AMD's Plan to Build Self-Improving AI",
+    "guest_name": "Sharon Zhou",
+    "episode_number": "324",
+    "episode_date": "2026-02-27",
+    "episode_topic": "Sharon Zhou discusses AMD's initiatives in self-improving AI, focusing on kernel optimization for GPUs and the challenges of catastrophic forgetting in AI models. She elaborates on the role of AI in enhancing hardware performance and the importance of making AI accessible to a broader audience."
+  },
+  {
+    "doc_id": "",
+    "title": "Why AI's Future Depends on Human Judgement",
+    "guest_name": "Phelim Brady",
+    "episode_number": "325",
+    "episode_date": "2026-03-09",
+    "episode_topic": "Phelim Brady discusses the critical role of human judgment in AI development, emphasizing the importance of high-quality data collection and evaluation. He explains how Prolific connects researchers with verified participants to enhance the reliability of AI models."
+  },
+  {
+    "doc_id": "",
+    "title": "Inside Pathway's Post-Transformer Architecture Designed for Memory and On-the-Fly Learning",
+    "guest_name": "Zuzanna Stamirowska",
+    "episode_number": "326",
+    "episode_date": "2026-03-11",
+    "episode_topic": "Zuzanna Stamirowska discusses the innovative post-transformer architecture developed at Pathway, focusing on memory and on-the-fly learning. She explains how this architecture differs from traditional LLMs by incorporating memory to enhance reasoning and creativity."
+  },
+  {
+    "doc_id": "",
+    "title": "Baris Gultekin: The Next Phase of AI - Agents That Understand Your Company's Data",
+    "guest_name": "Baris Gultekin",
+    "episode_number": "327",
+    "episode_date": "2026-03-19",
+    "episode_topic": "Baris Gultekin discusses the evolution of AI at Snowflake, focusing on the integration of AI with data governance and security. He highlights the development of data agents that allow users to interact with their data in natural language, emphasizing the importance of high-quality data retrieval and the transformative potential of AI in enterprise settings."
+  },
+  {
+    "doc_id": "",
+    "title": "AI Deepfakes And Broken Trust",
+    "guest_name": "Kevin Tian",
+    "episode_number": "328",
+    "episode_date": "2026-03-23",
+    "episode_topic": "Kevin Tian discusses the existential threat posed by AI deepfakes and social engineering attacks. He explains how his company, Doppel, uses AI to combat these threats by detecting impersonation attacks and providing training to organizations."
+  },
+  {
+    "doc_id": "",
+    "title": "Quantum Elements: Enhancing Quantum Computing with Digital Twins",
+    "guest_name": "Izhar",
+    "episode_number": "329",
+    "episode_date": "2026-03-27",
+    "episode_topic": "Izhar discusses the innovative use of digital twins and AI to optimize quantum computing systems. He explains how these technologies can enhance the accuracy and efficiency of quantum algorithms, particularly in error correction and noise management."
+  },
+  {
+    "doc_id": "",
+    "title": "Sebastian Risi: Why AI Should Be Grown, Not Trained",
+    "guest_name": "Sebastian Risi",
+    "episode_number": "330",
+    "episode_date": "2026-04-06",
+    "episode_topic": "Sebastian Risi discusses the concept of neuroevolution, which combines evolutionary algorithms with neural networks to optimize their architecture and learning rules. He emphasizes the potential of self-growing networks inspired by biological systems, aiming for continual learning and adaptability in AI."
+  },
+  {
+    "doc_id": "",
+    "title": "The Robot Revolution Nobody Is Talking About",
+    "guest_name": "Sergey Levine",
+    "episode_number": "331",
+    "episode_date": "2026-04-12",
+    "episode_topic": "Sergey Levine discusses the advancements in robotic foundation models and their implications for general-purpose robots. He emphasizes the importance of diverse data sources and the challenges of deploying robots in real-world environments."
+  },
+  {
+    "doc_id": "",
+    "title": "The Code Is Clean. The App Is Broken: AI Development Integrity",
+    "guest_name": "Dan Faulkner",
+    "episode_number": "332",
+    "episode_date": "2026-04-14",
+    "episode_topic": "Dan Faulkner discusses the integrity challenges in AI-driven software development, emphasizing the need for continuous application testing and the risks associated with rapid coding practices. He highlights the importance of maintaining application integrity amidst the increasing reliance on AI tools and the potential systemic risks that arise from agentic workflows."
+  },
+  {
+    "doc_id": "",
+    "title": "Shadow AI Meets Enterprise Controls",
+    "guest_name": "Adi Kuruganti",
+    "episode_number": "333",
+    "episode_date": "2026-04-15",
+    "episode_topic": "The episode discusses the challenges and opportunities of integrating agentic AI into enterprise processes. Adi Kuruganti explains how Automation Anywhere is leveraging AI to enhance operational productivity, compliance, and governance while addressing the rapid evolution of AI technologies."
+  },
+  {
+    "doc_id": "",
+    "title": "Abhishek Singh: The $1.2 Billion Plan to Turn India Into an AI Superpower",
+    "guest_name": "Abhishek Singh",
+    "episode_number": "334",
+    "episode_date": "2026-04-16",
+    "episode_topic": "Abhishek Singh discusses India's ambitious $1.2 billion AI mission aimed at transforming the country into an AI superpower. He outlines the challenges and strategies involved in building AI infrastructure, enhancing data accessibility, and fostering talent within the nation."
+  },
+  {
+    "doc_id": "",
+    "title": "Sriram Raghavan: Why IBM Is Betting Everything on Small AI Models",
+    "guest_name": "Sriram Raghavan",
+    "episode_number": "335",
+    "episode_date": "2026-04-19",
+    "episode_topic": "Sriram Raghavan discusses IBM's focus on developing smaller AI models, specifically the Granite series, and the advantages of direct training over distillation. He emphasizes the importance of data quality, inference scaling, and the evolving landscape of AI architecture."
+  },
+  {
+    "doc_id": "",
+    "title": "Why India Is Losing the AI Race and What It Will Take to Catch Up",
+    "guest_name": "Professor Mausam",
+    "episode_number": "336",
+    "episode_date": "2026-04-20",
+    "episode_topic": "Professor Mausam discusses the reasons behind India's lag in AI development compared to China and the US, highlighting systemic issues in academia, funding, and talent retention. He emphasizes the need for a robust research culture and the importance of attracting top professors to foster innovation in AI."
+  },
+  {
+    "doc_id": "",
+    "title": "Debdas Sen: Why AI Without ROI Will Die (Again)",
+    "guest_name": "Debdas Sen",
+    "episode_number": "337",
+    "episode_date": "2026-04-23",
+    "episode_topic": "Debdas Sen discusses the evolution of AI and its integration into digital transformation, emphasizing the importance of ROI for AI initiatives. He explains how TCG Digital's MCube platform leverages both internal and external data to optimize complex industrial processes, particularly in sectors like energy and life sciences."
+  },
+  {
+    "doc_id": "",
+    "title": "Amith Singhee: Can India Catch Up in AI?",
+    "guest_name": "Amith Singhee",
+    "episode_number": "338",
+    "episode_date": "2026-04-24",
+    "episode_topic": "Amith Singhee discusses the challenges and opportunities for India in the AI landscape, emphasizing the need for investment, talent, and infrastructure to accelerate progress. He shares insights on IBM's research focus in India and the potential for the country to leverage AI for economic growth."
+  }
+]

@@ -1,0 +1,128 @@
+{
+  "episode_profile": {
+    "title": "Carter Huffman: Exploring The Architecture Behind Modulate's Next-Gen Voice AI",
+    "guest_name": "Carter Huffman",
+    "guest_title": "CTO and Co-founder",
+    "guest_organization": "RIT Modulate",
+    "topic_summary": "Carter Huffman discusses the innovative voice AI technology developed by Modulate, focusing on real-time voice analysis for applications in gaming and safety. He explains the architecture of their ensemble models, which enhance emotion detection and lie detection, and the potential for broader applications in various industries."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "voice AI",
+      "emotion recognition",
+      "natural language processing"
+    ],
+    "industries": [
+      "gaming",
+      "telecommunications",
+      "finance",
+      "security"
+    ],
+    "policy_areas": [
+      "ethics",
+      "privacy",
+      "regulation"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "Real-time voice analysis can significantly reduce harassment in gaming communities.",
+      "speaker": "Carter Huffman",
+      "context": "Carter explains how Modulate's technology can analyze voice conversations to identify and mitigate toxic behavior in online gaming."
+    },
+    {
+      "claim": "The architecture of Modulate's voice AI is designed to be more efficient and accurate than traditional foundation models.",
+      "speaker": "Carter Huffman",
+      "context": "Carter describes how their ensemble of models allows for specialized processing, improving both cost-effectiveness and performance."
+    },
+    {
+      "claim": "Lie detection is a feasible application of voice analysis, leveraging emotional and contextual cues.",
+      "speaker": "Carter Huffman",
+      "context": "Carter discusses the challenges and potential of using voice signals to detect deception."
+    },
+    {
+      "claim": "Modulate's technology can be applied beyond gaming to sectors like finance and security.",
+      "speaker": "Carter Huffman",
+      "context": "Carter outlines the versatility of their models in understanding voice across various applications."
+    },
+    {
+      "claim": "The market for voice analysis is vast, with billions of hours of conversations that can be analyzed for insights.",
+      "speaker": "Carter Huffman",
+      "context": "Carter emphasizes the untapped potential of voice data in various industries."
+    },
+    {
+      "claim": "Modulate aims to provide their voice analysis models through an API to enable broader use cases.",
+      "speaker": "Carter Huffman",
+      "context": "Carter shares the company's shift towards becoming a model provider, allowing others to build applications using their technology."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Alan Guth"
+    ],
+    "organizations": [
+      "Jet Propulsion Lab",
+      "MIT",
+      "Tasty Trade"
+    ],
+    "technologies": [
+      "voice skins",
+      "ensemble models",
+      "emotion extraction models"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Modulate",
+      "summary": "Carter Huffman introduces himself and shares his background in astrophysics and machine learning.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Real-time Voice Analysis",
+      "summary": "Discussion on the importance of real-time voice analysis in gaming and its implications for safety.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Architecture of Voice AI",
+      "summary": "Carter explains the ensemble model architecture that powers Modulate's voice analysis technology.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Applications Beyond Gaming",
+      "summary": "Exploration of how Modulate's technology can be applied in finance, security, and other sectors.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future Directions",
+      "summary": "Carter discusses the company's shift towards providing API access for their voice models.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "RIT Modulate"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Carter discusses the challenges of accurately detecting lies through voice analysis.",
+      "The conversation highlights the significant impact of toxic behavior in gaming communities."
+    ]
+  },
+  "_meta": {
+    "episode_number": 320,
+    "episode_date": "2026-02-11",
+    "rss_title": "#320 Carter Huffman: Exploring The Architecture Behind Modulate's Next-Gen Voice AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:38:32Z",
+    "input_tokens": 14050,
+    "output_tokens": 970
+  }
+}

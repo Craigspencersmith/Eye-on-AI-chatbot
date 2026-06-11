@@ -1,0 +1,126 @@
+{
+  "episode_profile": {
+    "title": "Inside Cisco's Vision for AI-Powered Enterprise Systems",
+    "guest_name": "Anurag Dhingra",
+    "guest_title": "General Manager, Enterprise Networking and Collaboration",
+    "guest_organization": "Cisco",
+    "topic_summary": "Anurag Dhingra discusses Cisco's integration of AI into enterprise networking and collaboration tools. He emphasizes the importance of AI in enhancing productivity, security, and user experience while addressing the challenges of connectivity in modern workplaces."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "networking",
+      "collaboration tools"
+    ],
+    "industries": [
+      "technology",
+      "enterprise software",
+      "manufacturing"
+    ],
+    "policy_areas": [
+      "security",
+      "ethics",
+      "automation"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI is being applied to simplify network management and enhance user experiences in collaboration tools.",
+      "speaker": "Anurag Dhingra",
+      "context": "Dhingra explains how AI can optimize network operations and improve productivity in enterprise settings."
+    },
+    {
+      "claim": "Cisco's approach to AI includes building both autonomous agents and enabling third-party AI integrations.",
+      "speaker": "Anurag Dhingra",
+      "context": "He discusses Cisco's dual role in developing AI solutions while allowing customers to use their preferred AI models."
+    },
+    {
+      "claim": "The future of AI in enterprise systems will involve a mix of large foundational models and smaller, specialized models.",
+      "speaker": "Anurag Dhingra",
+      "context": "Dhingra highlights the trend towards purpose-built AI models that can operate effectively in specific domains."
+    },
+    {
+      "claim": "Security concerns are growing as AI becomes more integrated into enterprise systems, necessitating new approaches to data access.",
+      "speaker": "Anurag Dhingra",
+      "context": "He addresses the challenges of securing AI agents that require access to sensitive information."
+    },
+    {
+      "claim": "AI can enhance customer service through autonomous voice agents that provide natural interactions.",
+      "speaker": "Anurag Dhingra",
+      "context": "Dhingra describes how AI is transforming customer engagement in contact centers."
+    },
+    {
+      "claim": "The integration of AI into networking will lead to self-healing systems that reduce the burden on IT teams.",
+      "speaker": "Anurag Dhingra",
+      "context": "He explains how AI can automate network management tasks, allowing IT professionals to focus on more complex issues."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Cisco",
+      "ServiceNow",
+      "Splunk"
+    ],
+    "technologies": [
+      "WebEx",
+      "AI Canvas",
+      "ultra-reliable wireless backhaul"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Cisco's AI Vision",
+      "summary": "Anurag Dhingra introduces himself and outlines Cisco's goals in applying AI to enterprise networking and collaboration.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "AI in Networking and Collaboration",
+      "summary": "Discussion on how AI is being integrated into Cisco's networking infrastructure and collaboration tools like WebEx.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Security and AI Challenges",
+      "summary": "Dhingra addresses the security implications of AI in enterprise systems and the need for new strategies.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Customer Service Innovations",
+      "summary": "Exploration of how AI is transforming customer service through autonomous agents and enhanced interactions.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future Trends in AI and Networking",
+      "summary": "Dhingra shares insights on the future of AI in enterprise systems and the importance of adaptability.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Cisco"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Dhingra emphasizes the importance of educating oneself about AI to mitigate fears and embrace opportunities."
+    ]
+  },
+  "_meta": {
+    "episode_number": 311,
+    "episode_date": "2026-01-07",
+    "rss_title": "#311 Anurag Dhingra: Inside Cisco's Vision for AI-Powered Enterprise Systems",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:34:55Z",
+    "input_tokens": 10308,
+    "output_tokens": 970
+  }
+}

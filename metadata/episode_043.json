@@ -1,0 +1,135 @@
+{
+  "episode_profile": {
+    "title": "Pietro Perona on Computer Vision and Efficient Learning",
+    "guest_name": "Pietro Perona",
+    "guest_title": "Professor",
+    "guest_organization": "California Institute of Technology",
+    "topic_summary": "Pietro Perona discusses the challenges of building efficient computer vision models that require less training data. He shares insights on the development of smartphone apps like eBird and iNaturalist, and the importance of recognizing a wide variety of species with limited examples."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "computer vision",
+      "machine learning"
+    ],
+    "industries": [
+      "technology",
+      "education",
+      "environment"
+    ],
+    "policy_areas": [
+      "data ethics",
+      "community engagement"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Machines can outperform human experts in specific tasks when provided with infinite training examples.",
+      "speaker": "Pietro Perona",
+      "context": "Perona highlights the efficiency of deep networks in tasks like classifying skin lesions and birds."
+    },
+    {
+      "claim": "Humans are much more efficient learners than machines, requiring far fewer examples to recognize new species.",
+      "speaker": "Pietro Perona",
+      "context": "He contrasts the learning efficiency of humans with that of machines, particularly in recognizing species with limited training data."
+    },
+    {
+      "claim": "The world is characterized by a long-tail distribution of species, making it challenging to gather enough training data for rare categories.",
+      "speaker": "Pietro Perona",
+      "context": "Perona discusses the implications of long-tail distributions in data collection for training AI models."
+    },
+    {
+      "claim": "The iNaturalist app functions as an online learning machine, continuously improving its training set with user-generated data.",
+      "speaker": "Pietro Perona",
+      "context": "He explains how the app leverages community contributions to enhance its recognition capabilities."
+    },
+    {
+      "claim": "Data augmentation techniques are useful, but the goal is to develop systems that can learn from actual data without relying on manipulations.",
+      "speaker": "Pietro Perona",
+      "context": "Perona emphasizes the need for AI systems to learn from real-world examples rather than artificially augmented data."
+    },
+    {
+      "claim": "Collaborative efforts between communities and technology can enhance species recognition and contribute to environmental monitoring.",
+      "speaker": "Pietro Perona",
+      "context": "He describes the Visipedia project, which combines community knowledge with AI to improve species identification."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Fei-Fei Li",
+      "Geoff Hinton",
+      "Yann LeCun",
+      "Andrew Ng",
+      "Scott Laurie"
+    ],
+    "organizations": [
+      "California Institute of Technology",
+      "Stanford University",
+      "NYU",
+      "California Academy of Sciences",
+      "Cornell Tech"
+    ],
+    "technologies": [
+      "eBird",
+      "iNaturalist",
+      "Caltech 101",
+      "ImageNet",
+      "Coco"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Pietro Perona",
+      "summary": "Pietro Perona introduces himself and shares his academic background and journey into computer vision.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Challenges in Computer Vision",
+      "summary": "Perona discusses the difficulties in training models for visual categorization and the importance of efficient learning.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "The Role of Community in Data Collection",
+      "summary": "The conversation shifts to how community engagement through apps like iNaturalist aids in data collection and species recognition.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Long-Tail Distribution in Species Recognition",
+      "summary": "Perona explains the implications of long-tail distributions on data availability for training AI models.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future Directions in AI Learning",
+      "summary": "The discussion concludes with thoughts on the future of AI learning and the integration of community knowledge.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "California Institute of Technology"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Perona's insights on the efficiency of human learning compared to machines.",
+      "The description of iNaturalist as an online learning machine."
+    ]
+  },
+  "_meta": {
+    "episode_number": 43,
+    "episode_date": "2020-06-24",
+    "rss_title": "Episode 43 - Pietro Perona",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:08:11Z",
+    "input_tokens": 8894,
+    "output_tokens": 1040
+  }
+}

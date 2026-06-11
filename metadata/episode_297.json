@@ -1,0 +1,138 @@
+{
+  "episode_profile": {
+    "title": "Jeff Lunsford: How Agentic AI Will Redefine Every Digital Interaction",
+    "guest_name": "Jeff Lunsford",
+    "guest_title": "CEO",
+    "guest_organization": "Tealium",
+    "topic_summary": "Jeff Lunsford discusses the rapid evolution of agentic AI and its implications for digital interactions. He emphasizes the importance of real-time data and privacy compliance in enhancing customer experiences and predicts significant growth in agentic commerce by 2030."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "data orchestration",
+      "agentic AI"
+    ],
+    "industries": [
+      "technology",
+      "finance",
+      "marketing"
+    ],
+    "policy_areas": [
+      "privacy",
+      "regulation",
+      "governance"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The velocity of capital formation and digital interactions will increase, making it easier for companies to engage customers and monetize effectively.",
+      "speaker": "Jeff Lunsford",
+      "context": "Lunsford highlights the rapid changes in technology and the need for businesses to adapt quickly."
+    },
+    {
+      "claim": "Agentic commerce is projected to grow from $136 billion in 2025 to $1.7 trillion by 2030.",
+      "speaker": "Jeff Lunsford",
+      "context": "Lunsford discusses the anticipated growth of agentic commerce and its implications for businesses."
+    },
+    {
+      "claim": "Companies that do not build agentic front doors risk losing a generation of customers.",
+      "speaker": "Jeff Lunsford",
+      "context": "Lunsford warns that businesses must adapt to new technologies or risk becoming obsolete."
+    },
+    {
+      "claim": "Real-time data visibility is crucial for enhancing customer experiences and improving conversion rates.",
+      "speaker": "Jeff Lunsford",
+      "context": "Lunsford explains how real-time data can significantly impact marketing effectiveness."
+    },
+    {
+      "claim": "Governance and privacy compliance can slow down innovation, but a centralized data governance approach can mitigate this.",
+      "speaker": "Jeff Lunsford",
+      "context": "Lunsford discusses the challenges of governance in large organizations and how to streamline processes."
+    },
+    {
+      "claim": "The future of digital interactions will involve personalized experiences driven by AI, where every visitor is treated as an audience of one.",
+      "speaker": "Jeff Lunsford",
+      "context": "Lunsford envisions a future where AI tailors experiences to individual users based on their behavior."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Max Levchin"
+    ],
+    "organizations": [
+      "Tealium",
+      "OpenAI",
+      "Stripe",
+      "Coinbase",
+      "Visa",
+      "Mastercard",
+      "Snowflake",
+      "Databricks",
+      "Redshift",
+      "Amazon",
+      "Google"
+    ],
+    "technologies": [
+      "ChatGPT",
+      "ERC 8004",
+      "Ex 402",
+      "agent commerce protocol"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Agentic AI",
+      "summary": "Jeff Lunsford introduces the concept of agentic AI and its rapid evolution in the digital landscape.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Role of Real-Time Data",
+      "summary": "Discussion on the importance of real-time data for enhancing customer experiences and driving conversions.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Growth of Agentic Commerce",
+      "summary": "Lunsford outlines the projected growth of agentic commerce and its implications for businesses.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Governance and Compliance Challenges",
+      "summary": "Exploration of how governance and privacy regulations impact innovation in large organizations.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of Digital Interactions",
+      "summary": "Lunsford shares his vision for the future of digital interactions and the role of AI in personalizing experiences.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Tealium"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "The future is already here. It's just not evenly distributed.",
+      "If you do not have an agentic front door, you are not going to get my daughter."
+    ]
+  },
+  "_meta": {
+    "episode_number": 297,
+    "episode_date": "2025-10-30",
+    "rss_title": "#297 Jeff Lunsford: How Agentic AI Will Redefine Every Digital Interaction",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:30:08Z",
+    "input_tokens": 10118,
+    "output_tokens": 1022
+  }
+}

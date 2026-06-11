@@ -1,0 +1,133 @@
+{
+  "episode_profile": {
+    "title": "Matt Zeiler: Why Government And Enterprises Choose Clarifai For AI Ops",
+    "guest_name": "Matt Zeiler",
+    "guest_title": "Founder and CEO",
+    "guest_organization": "Clarifai",
+    "topic_summary": "Matt Zeiler discusses the evolution of Clarifai from its inception to its current role in AI operations for both government and enterprise sectors. He highlights the importance of user-friendly APIs and UIs in AI deployment, as well as the company's involvement in significant projects like Project Maven."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "computer vision",
+      "generative AI",
+      "AI operations"
+    ],
+    "industries": [
+      "government",
+      "defense",
+      "technology"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Clarifai's platform allows intelligence analysts to train models independently, which is crucial for the success of their APIs.",
+      "speaker": "Matt Zeiler",
+      "context": "Matt emphasizes the importance of user-friendly interfaces that enable non-experts to engage with AI technology."
+    },
+    {
+      "claim": "Project Maven has evolved into the first successful AI program within the government, expanding beyond visual data to include various types of sensor data.",
+      "speaker": "Matt Zeiler",
+      "context": "Matt discusses the broadening scope of Project Maven and its significance in military intelligence."
+    },
+    {
+      "claim": "Clarifai's optimizations in inference processing can significantly reduce time to first token and improve overall throughput.",
+      "speaker": "Matt Zeiler",
+      "context": "Matt explains how their advancements in AI compute orchestration enhance performance for large language models."
+    },
+    {
+      "claim": "The future of AI will increasingly involve robotics and edge computing, driven by advancements in physical capabilities.",
+      "speaker": "Matt Zeiler",
+      "context": "Matt shares his vision for the next wave of AI applications in the physical world."
+    },
+    {
+      "claim": "Clarifai's long-standing expertise in computer vision positions it uniquely in a crowded inference market.",
+      "speaker": "Matt Zeiler",
+      "context": "Matt highlights the company's track record and trust built with customers as key competitive advantages."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Jeff Hinton",
+      "Graham Taylor",
+      "Rob Fergus",
+      "Ian Lacan",
+      "Jeff Dean",
+      "Andrew Ng",
+      "Joshua Bengio"
+    ],
+    "organizations": [
+      "Clarifai",
+      "University of Toronto",
+      "NYU",
+      "Google Brain",
+      "Project Maven",
+      "NVIDIA",
+      "Oracle"
+    ],
+    "technologies": [
+      "CUDA",
+      "GPT OSS",
+      "ImageNet"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Clarifai",
+      "summary": "Matt Zeiler introduces himself and shares the origins of Clarifai, including its focus on AI and computer vision.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Project Maven and Government Work",
+      "summary": "Discussion on Clarifai's involvement in Project Maven and the implications of working with government agencies.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Advancements in Inference Processing",
+      "summary": "Matt explains the optimizations Clarifai has made in inference processing and their impact on performance.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of AI and Robotics",
+      "summary": "Exploration of the future direction of AI, particularly in robotics and edge computing.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Conclusion and Future Outlook",
+      "summary": "Matt wraps up with thoughts on the growth of Clarifai and the importance of feedback from users.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Clarifai"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Matt's reflection on being Jeff Hinton's first undergrad thesis student.",
+      "The internal debate at Clarifai regarding government contracts and ethical implications."
+    ]
+  },
+  "_meta": {
+    "episode_number": 304,
+    "episode_date": "2025-11-28",
+    "rss_title": "#304 Matt Zeiler: Why Government And Enterprises Choose Clarifai For AI Ops",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:32:20Z",
+    "input_tokens": 11589,
+    "output_tokens": 976
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "episode_profile": {
+    "title": "Yoshua Bengio: Dissecting The Extinction Threat of AI",
+    "guest_name": "Yoshua Bengio",
+    "guest_title": "Co-founder and Scientific Director",
+    "guest_organization": "Mila (Quebec Artificial Intelligence Institute)",
+    "topic_summary": "In this episode, Yoshua Bengio discusses the potential extinction threat posed by advanced AI systems. He emphasizes the importance of ethical considerations and proactive measures to ensure AI development aligns with human values and safety."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "deep learning",
+      "ethics in AI"
+    ],
+    "industries": [
+      "technology",
+      "education"
+    ],
+    "policy_areas": [
+      "ethics",
+      "safety",
+      "governance"
+    ],
+    "geographic_focus": [
+      "Canada"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Advanced AI systems could pose an extinction threat if not properly managed.",
+      "speaker": "Yoshua Bengio",
+      "context": "Bengio highlights the rapid advancements in AI and the potential risks associated with unchecked development."
+    },
+    {
+      "claim": "Ethical frameworks are essential for guiding AI development.",
+      "speaker": "Yoshua Bengio",
+      "context": "He argues that without ethical guidelines, AI could evolve in ways that are harmful to humanity."
+    },
+    {
+      "claim": "Collaboration between AI researchers and policymakers is crucial.",
+      "speaker": "Yoshua Bengio",
+      "context": "Bengio stresses the need for interdisciplinary approaches to address the challenges posed by AI."
+    },
+    {
+      "claim": "Public awareness and education about AI risks are necessary.",
+      "speaker": "Yoshua Bengio",
+      "context": "He believes that an informed public can better engage in discussions about AI governance."
+    },
+    {
+      "claim": "AI should be developed with a focus on human values.",
+      "speaker": "Yoshua Bengio",
+      "context": "Bengio emphasizes that aligning AI systems with human ethics is vital for their safe integration into society."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Mila",
+      "Quebec Artificial Intelligence Institute"
+    ],
+    "technologies": [
+      "deep learning",
+      "machine learning"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to AI Threats",
+      "summary": "Bengio introduces the concept of AI posing existential risks and outlines the importance of addressing these threats.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Ethics in AI Development",
+      "summary": "Discussion on the ethical frameworks necessary for guiding AI advancements and ensuring safety.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Collaboration for AI Governance",
+      "summary": "Bengio emphasizes the need for collaboration between researchers and policymakers to manage AI risks.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Public Engagement and Awareness",
+      "summary": "The importance of educating the public about AI risks and fostering informed discussions.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Aligning AI with Human Values",
+      "summary": "Bengio concludes with thoughts on ensuring AI development reflects human ethics and values.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Mila",
+      "University of Montreal"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Bengio's warning about the potential extinction threat of AI.",
+      "His call for ethical frameworks in AI development."
+    ]
+  },
+  "_meta": {
+    "episode_number": 128,
+    "episode_date": "2023-07-06",
+    "rss_title": "#128 Yoshua Bengio: Dissecting The Extinction Threat of AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:34:49Z",
+    "input_tokens": 31478,
+    "output_tokens": 857
+  }
+}

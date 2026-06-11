@@ -1,0 +1,140 @@
+{
+  "episode_profile": {
+    "title": "Inside Pathway's Post-Transformer Architecture Designed for Memory and On-the-Fly Learning",
+    "guest_name": "Zuzanna Stamirowska",
+    "guest_title": "Co-founder and CEO",
+    "guest_organization": "Pathway",
+    "topic_summary": "Zuzanna Stamirowska discusses the innovative post-transformer architecture developed at Pathway, focusing on memory and on-the-fly learning. She explains how this architecture differs from traditional LLMs by incorporating memory to enhance reasoning and creativity."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "neural networks",
+      "memory-augmented learning",
+      "complex systems"
+    ],
+    "industries": [
+      "technology",
+      "finance",
+      "healthcare"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Traditional LLMs lack memory, which limits their ability to learn and adapt over time.",
+      "speaker": "Zuzanna Stamirowska",
+      "context": "Zuzanna compares LLMs to interns who do not improve with experience, highlighting the need for memory in AI systems."
+    },
+    {
+      "claim": "The post-transformer architecture can enhance reasoning by organizing memory differently.",
+      "speaker": "Zuzanna Stamirowska",
+      "context": "She explains how memory organization can lead to better internal representations and reasoning capabilities."
+    },
+    {
+      "claim": "The architecture allows for efficient learning with fewer parameters compared to traditional models.",
+      "speaker": "Zuzanna Stamirowska",
+      "context": "Zuzanna discusses how their model can achieve similar results to larger models with less data and fewer parameters."
+    },
+    {
+      "claim": "The system's design enables it to maintain coherence over longer tasks, reducing hallucinations.",
+      "speaker": "Zuzanna Stamirowska",
+      "context": "She emphasizes the importance of memory in maintaining task coherence and preventing errors during inference."
+    },
+    {
+      "claim": "The architecture is designed to be productized for applications requiring complex reasoning and small data.",
+      "speaker": "Zuzanna Stamirowska",
+      "context": "Zuzanna outlines potential use cases in regulated industries and areas with limited data."
+    },
+    {
+      "claim": "The model's structure allows for organic growth and adaptation, similar to biological systems.",
+      "speaker": "Zuzanna Stamirowska",
+      "context": "She draws parallels between their architecture and natural systems, emphasizing emergent properties."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "David Ha"
+    ],
+    "organizations": [
+      "Pathway",
+      "NVIDIA",
+      "AWS"
+    ],
+    "technologies": [
+      "BDH architecture",
+      "transformer architecture"
+    ],
+    "publications": [
+      "Dragon Hatchling"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Creativity Beyond Fixed LLMs",
+      "summary": "Zuzanna introduces the concept of memory in AI and its importance for creativity and reasoning.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Guest Background In Complexity Science",
+      "summary": "Zuzanna shares her background in complexity science and how it informs her work at Pathway.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Transformers\u2019 Missing Memory Problem",
+      "summary": "Discussion on the limitations of transformer architectures and the need for memory in AI.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "BDH: Brain-Like Learning On GPU",
+      "summary": "Zuzanna explains the unique features of the BDH architecture and its advantages over traditional models.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Tackling Hallucinations During Inference",
+      "summary": "Exploration of how the new architecture aims to reduce hallucinations and improve task coherence.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Productisation With NVIDIA And AWS",
+      "summary": "Zuzanna discusses the next steps for productizing the architecture and potential use cases.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Dragon Hatchling",
+      "authors": "Zuzanna Stamirowska et al.",
+      "context": "The paper outlines the BDH architecture and its implications for memory and reasoning in AI."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Pathway"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Zuzanna compares LLMs to interns who do not improve with experience.",
+      "She emphasizes the importance of memory in maintaining task coherence and preventing errors."
+    ]
+  },
+  "_meta": {
+    "episode_number": 326,
+    "episode_date": "2026-03-11",
+    "rss_title": "#326 Zuzanna Stamirowska: Inside Pathway's Post-Transformer Architecture Designed for Memory and On-the-Fly Learning",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:41:31Z",
+    "input_tokens": 13047,
+    "output_tokens": 1094
+  }
+}

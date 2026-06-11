@@ -1,0 +1,148 @@
+{
+  "episode_profile": {
+    "title": "Hrant Khachatrian: Deep Dive Into The Breakthroughs & Challenges of AI Research",
+    "guest_name": "Hrant Khachatrian",
+    "guest_title": "Founder and Director",
+    "guest_organization": "Yerevann",
+    "topic_summary": "Hrant Khachatrian discusses the development of machine learning in Armenia, focusing on the establishment of Yerevann, a research lab aimed at fostering academic careers in AI. He shares insights on the challenges of hardware access, the evolution of AI education, and the lab's research directions in drug discovery and aerial navigation."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "deep learning",
+      "natural language processing",
+      "computer vision"
+    ],
+    "industries": [
+      "education",
+      "biotechnology",
+      "agriculture"
+    ],
+    "policy_areas": [
+      "capacity building",
+      "funding",
+      "research collaboration"
+    ],
+    "geographic_focus": [
+      "Armenia"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The lack of computational resources in Armenia is a significant barrier to advancing AI research.",
+      "speaker": "Hrant Khachatrian",
+      "context": "Hrant discusses the limited availability of GPUs and how this affects the research capabilities of his lab and the broader Armenian AI community."
+    },
+    {
+      "claim": "Yerevann aims to create a sustainable academic career path for students in AI.",
+      "speaker": "Hrant Khachatrian",
+      "context": "Hrant explains the lab's mission to provide opportunities for students to engage in meaningful research and potentially pursue academic careers."
+    },
+    {
+      "claim": "The Armenian AI community is growing, but many researchers have not yet engaged with high-performance computing.",
+      "speaker": "Hrant Khachatrian",
+      "context": "He highlights the need for more access to advanced computing resources to remain competitive in AI research."
+    },
+    {
+      "claim": "The lab is focusing on drug discovery and aerial navigation as key research areas.",
+      "speaker": "Hrant Khachatrian",
+      "context": "Hrant outlines the strategic decision to concentrate on these fields due to their relevance and potential impact."
+    },
+    {
+      "claim": "Collaboration with the Armenian diaspora is crucial for elevating the quality of research in Armenia.",
+      "speaker": "Hrant Khachatrian",
+      "context": "He emphasizes the importance of connections with Armenians in top research positions globally to enhance local research efforts."
+    },
+    {
+      "claim": "The lab's research agenda is evolving to focus on extracting knowledge from existing AI models rather than solely developing new ones.",
+      "speaker": "Hrant Khachatrian",
+      "context": "Hrant discusses the shift in focus towards understanding and utilizing the capabilities of large language models."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Aram Galastian",
+      "Yann LeCun",
+      "Richard Sutton"
+    ],
+    "organizations": [
+      "Yerevann",
+      "IntelliNAR",
+      "University of Southern California",
+      "Meta",
+      "NVIDIA"
+    ],
+    "technologies": [
+      "GPT-3",
+      "transformers",
+      "LSTM",
+      "A100 GPUs",
+      "Galactica",
+      "RT2"
+    ],
+    "publications": [
+      "The Bitter Lesson"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Yerevann",
+      "summary": "Hrant Khachatrian introduces himself and the founding of Yerevann, discussing its mission and initial challenges.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Funding and Growth",
+      "summary": "The conversation covers how Yerevann secured funding and grew from a small group to a larger research lab.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Research Directions",
+      "summary": "Hrant outlines the lab's current research focuses, including drug discovery and aerial navigation.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in AI Research",
+      "summary": "Discussion on the limitations of hardware resources in Armenia and their impact on research capabilities.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Collaboration and Community",
+      "summary": "Hrant emphasizes the importance of collaboration with the Armenian diaspora and the global research community.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "The Bitter Lesson",
+      "authors": "Richard Sutton",
+      "context": "Hrant references this article to discuss the importance of computational resources in AI research."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Yerevann",
+      "IntelliNAR"
+    ],
+    "funding_sources": [
+      "government grants",
+      "donations"
+    ],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Hrant's reflection on the need for more GPUs in Armenia.",
+      "The discussion on the strategic focus of Yerevann on drug discovery and aerial navigation."
+    ]
+  },
+  "_meta": {
+    "episode_number": 164,
+    "episode_date": "2024-01-08",
+    "rss_title": "#164 Hrant Khachatrian: Deep Dive Into The Breakthroughs & Challenges of AI Research",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:44:57Z",
+    "input_tokens": 11053,
+    "output_tokens": 1122
+  }
+}

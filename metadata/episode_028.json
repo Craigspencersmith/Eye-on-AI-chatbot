@@ -1,0 +1,123 @@
+{
+  "episode_profile": {
+    "title": "Aude Billard on Robotics and Machine Learning",
+    "guest_name": "Aude Billard",
+    "guest_title": "Professor",
+    "guest_organization": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+    "topic_summary": "Aude Billard discusses her innovative work at the intersection of robotics and machine learning, focusing on how her lab blends control theory with AI to create dexterous robotic systems capable of handling complex tasks like catching a tennis racket and performing precision watchmaking."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "robotics",
+      "control theory"
+    ],
+    "industries": [
+      "manufacturing",
+      "healthcare"
+    ],
+    "policy_areas": [],
+    "geographic_focus": [
+      "Switzerland",
+      "Europe",
+      "Asia"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Robotics traditionally relies on control theory, but integrating machine learning can enhance robots' ability to handle real-world unpredictability.",
+      "speaker": "Aude Billard",
+      "context": "Aude emphasizes the importance of combining control theory with machine learning to improve robotic dexterity and adaptability."
+    },
+    {
+      "claim": "The robot's ability to catch a tennis racket demonstrates a significant advancement in robotic dexterity and speed.",
+      "speaker": "Aude Billard",
+      "context": "Aude describes the technical challenges and solutions involved in teaching a robot to catch a moving object."
+    },
+    {
+      "claim": "Machine learning can identify complex dynamics that are difficult to model explicitly, such as the trajectory of a flying racket.",
+      "speaker": "Aude Billard",
+      "context": "Aude explains how machine learning is used to predict the motion of objects based on observed data."
+    },
+    {
+      "claim": "The integration of traditional control methods with machine learning allows for rapid adjustments in robotic movements.",
+      "speaker": "Aude Billard",
+      "context": "Aude discusses how her lab's approach enables robots to adapt their actions in real-time."
+    },
+    {
+      "claim": "Current robotic systems can achieve a catch success rate of 60% to 80% with further improvements possible.",
+      "speaker": "Aude Billard",
+      "context": "Aude shares performance metrics from her lab's experiments with robotic catching."
+    },
+    {
+      "claim": "Future research aims to enhance robotic precision in tasks like watchmaking and surgery by mimicking human dexterity.",
+      "speaker": "Aude Billard",
+      "context": "Aude outlines her ongoing research goals in fine manipulation and surgical applications."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+      "University of Southern California",
+      "University of Tokyo"
+    ],
+    "technologies": [
+      "Gaussian mixture model",
+      "SVM",
+      "BioTac sensor"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Aude Billard",
+      "summary": "Craig introduces Aude Billard and her work in robotics and machine learning.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Robotic Dexterity and Control Theory",
+      "summary": "Aude explains the importance of combining control theory with machine learning for robotic dexterity.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Catching a Tennis Racket",
+      "summary": "Discussion on the technical aspects of teaching a robot to catch a moving tennis racket.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Applications in Watchmaking and Surgery",
+      "summary": "Aude shares insights on her research in precision tasks like watchmaking and surgical applications.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future Directions in Robotics",
+      "summary": "Aude discusses the future of her research and the potential for robots to learn complex manipulations.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Aude emphasizes the need for robots to combine control theory with machine learning for better performance."
+    ]
+  },
+  "_meta": {
+    "episode_number": 28,
+    "episode_date": "2019-11-24",
+    "rss_title": "Episode 28 - Aude Billard",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:03:53Z",
+    "input_tokens": 8685,
+    "output_tokens": 980
+  }
+}

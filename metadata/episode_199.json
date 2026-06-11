@@ -1,0 +1,146 @@
+{
+  "episode_profile": {
+    "title": "How Gen AI is Transforming Modern Data Science and Management",
+    "guest_name": "Shub Bhowmick",
+    "guest_title": "CEO and Co-founder",
+    "guest_organization": "Tredence",
+    "topic_summary": "Shub Bhowmick discusses the transformative impact of generative AI on data science and management, emphasizing its role in enhancing business profitability and customer experience. He shares insights on the challenges of AI adoption in various industries and Tredence's strategic approach to integrating AI solutions."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "machine learning",
+      "data science"
+    ],
+    "industries": [
+      "retail",
+      "consumer packaged goods",
+      "healthcare",
+      "financial services",
+      "telecom",
+      "hospitality"
+    ],
+    "policy_areas": [
+      "governance",
+      "responsible AI"
+    ],
+    "geographic_focus": [
+      "North America",
+      "Middle East"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI is the most powerful tool available to CEOs today, enabling companies to become more profitable and improve customer experience.",
+      "speaker": "Shub Bhowmick",
+      "context": "Bhowmick emphasizes the necessity for CEOs to integrate AI into their business strategies to remain competitive."
+    },
+    {
+      "claim": "Tredence has become a go-to provider in data and AI for over 80% of the largest retailers and CPG companies globally.",
+      "speaker": "Shub Bhowmick",
+      "context": "He highlights Tredence's specialization and success in the retail and CPG sectors."
+    },
+    {
+      "claim": "Generative AI can unlock significant value from unstructured data, which constitutes about 80% of business-relevant information.",
+      "speaker": "Shub Bhowmick",
+      "context": "Bhowmick discusses the potential of generative AI to enhance data utilization across various business functions."
+    },
+    {
+      "claim": "The journey of AI adoption involves phases from foundational model introduction to operationalization and enterprise adoption.",
+      "speaker": "Shub Bhowmick",
+      "context": "He outlines the structured approach Tredence takes in helping clients implement AI solutions."
+    },
+    {
+      "claim": "Tredence's Gen AI as a service platform helps enterprises navigate the complexities of generative AI adoption.",
+      "speaker": "Shub Bhowmick",
+      "context": "Bhowmick explains how the platform supports clients in building a robust data foundation and operationalizing AI solutions."
+    },
+    {
+      "claim": "AI is projected to contribute over $15 trillion to the global economy by 2030, making it a central priority for Fortune 500 companies.",
+      "speaker": "Shub Bhowmick",
+      "context": "He discusses the macroeconomic trends driving investment in AI technologies."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Tredence",
+      "Infosys",
+      "PWC",
+      "Shopify",
+      "OpenAI",
+      "Microsoft",
+      "NVIDIA",
+      "Google",
+      "Databricks",
+      "Snowflake"
+    ],
+    "technologies": [
+      "GPT-3.5",
+      "structured streaming",
+      "medallion architecture",
+      "T-ingester"
+    ],
+    "publications": [
+      "Unleashing the Boundless Power of Generative AI"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Tredence",
+      "summary": "Shub Bhowmick introduces Tredence and its mission to empower clients with AI capabilities.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "AI in Consumer Packaged Goods",
+      "summary": "Discussion on the challenges and opportunities of leveraging AI in the CPG sector.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Generative AI Journey",
+      "summary": "Bhowmick outlines Tredence's phases of adopting generative AI and its applications.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Gen AI as a Service",
+      "summary": "Overview of Tredence's Gen AI as a service platform and its benefits for enterprises.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future Growth and Strategy",
+      "summary": "Bhowmick discusses Tredence's growth strategy and focus on new verticals and geographies.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Unleashing the Boundless Power of Generative AI",
+      "authors": "Shub Bhowmick",
+      "context": "Bhowmick mentions this publication as a summary of Tredence's insights and experiences in generative AI."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Tredence"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "business strategy discussion",
+    "tone": "informative",
+    "notable_moments": [
+      "Bhowmick's emphasis on the necessity of AI for future business readiness.",
+      "The discussion on the complexities of generative AI and its operationalization."
+    ]
+  },
+  "_meta": {
+    "episode_number": 199,
+    "episode_date": "2024-07-25",
+    "rss_title": "#199 Shub Bhowmick: How Gen AI is Transforming Modern Data Science and Management",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:58:08Z",
+    "input_tokens": 10740,
+    "output_tokens": 1155
+  }
+}

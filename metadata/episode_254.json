@@ -1,0 +1,138 @@
+{
+  "episode_profile": {
+    "title": "Why Developers Still Trust Stack Overflow in the Age of AI",
+    "guest_name": "Prashanth",
+    "guest_title": "CEO",
+    "guest_organization": "Stack Overflow",
+    "topic_summary": "Prashanth discusses the evolution of Stack Overflow as a trusted knowledge base for developers amidst the rise of AI. He highlights the platform's unique role in providing authoritative answers and its integration with AI technologies to enhance user experience."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "natural language processing"
+    ],
+    "industries": [
+      "technology",
+      "software development"
+    ],
+    "policy_areas": [
+      "ethics",
+      "data licensing"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Stack Overflow's data significantly improves the accuracy of AI models, reducing hallucinations in generated content.",
+      "speaker": "Prashanth",
+      "context": "Prashanth explains how fine-tuning AI models with Stack Overflow's data has led to a 30 percentage point improvement in accuracy."
+    },
+    {
+      "claim": "The platform is evolving to incorporate AI tools while maintaining the integrity of its knowledge base.",
+      "speaker": "Prashanth",
+      "context": "Prashanth discusses the balance between integrating AI assistance and preserving the quality of canonical answers."
+    },
+    {
+      "claim": "Developers often return to Stack Overflow after encountering limitations with AI tools.",
+      "speaker": "Prashanth",
+      "context": "He notes that AI tools can hit a complexity cliff, necessitating human-generated knowledge for advanced programming needs."
+    },
+    {
+      "claim": "Stack Overflow is not just a Q&A site but a community-driven knowledge base that rewards high-quality contributions.",
+      "speaker": "Prashanth",
+      "context": "Prashanth emphasizes the community's role in curating and validating answers, which distinguishes Stack Overflow from other platforms."
+    },
+    {
+      "claim": "The integration of AI tools like Google Gemini aims to enhance user experience on Stack Overflow.",
+      "speaker": "Prashanth",
+      "context": "He describes how AI assists users in asking questions and finding relevant answers more efficiently."
+    },
+    {
+      "claim": "Stack Overflow's licensing agreements with AI companies ensure ongoing access to its data for model training.",
+      "speaker": "Prashanth",
+      "context": "Prashanth explains the importance of these agreements for maintaining the platform's relevance and generating new knowledge."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Dario",
+      "Craig S. Smith"
+    ],
+    "organizations": [
+      "Stack Overflow",
+      "Oracle",
+      "OpenAI",
+      "Google",
+      "Microsoft",
+      "Uber"
+    ],
+    "technologies": [
+      "Google Gemini",
+      "LLMs",
+      "Gen AI"
+    ],
+    "publications": [
+      "StackAval"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Stack Overflow",
+      "summary": "Prashanth introduces himself and provides background on Stack Overflow's mission and evolution.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Role of AI in Stack Overflow",
+      "summary": "Discussion on how Stack Overflow is integrating AI tools to enhance user experience while maintaining data integrity.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Community and Knowledge Curation",
+      "summary": "Exploration of how the community contributes to the knowledge base and the importance of high-quality answers.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges with AI Tools",
+      "summary": "Prashanth discusses the limitations of AI tools and the necessity for human-generated knowledge in complex scenarios.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future Directions for Stack Overflow",
+      "summary": "Insights into Stack Overflow's future plans, including partnerships and the ongoing evolution of its platform.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "StackAval",
+      "authors": "",
+      "context": "Prashanth mentions a technical paper that benchmarks AI models using Stack Overflow data."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Stack Overflow"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "collegial",
+    "notable_moments": [
+      "Prashanth emphasizes the importance of maintaining a pristine knowledge base amidst the rise of generative AI.",
+      "The discussion on how developers often return to Stack Overflow after hitting a complexity cliff with AI tools."
+    ]
+  },
+  "_meta": {
+    "episode_number": 254,
+    "episode_date": "2025-05-14",
+    "rss_title": "#254 Prashanth: Why Developers Still Trust Stack Overflow in the Age of AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:15:18Z",
+    "input_tokens": 11088,
+    "output_tokens": 1028
+  }
+}

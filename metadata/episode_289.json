@@ -1,0 +1,129 @@
+{
+  "episode_profile": {
+    "title": "Eiso Kant: How Reinforcement Learning and Coding Could Unlock Human-Level AI",
+    "guest_name": "Eiso Kant",
+    "guest_title": "Co-founder",
+    "guest_organization": "Poolside AI",
+    "topic_summary": "Eiso Kant discusses the intersection of reinforcement learning and software development, emphasizing how focusing on coding can lead to advancements in AI capabilities. He shares insights on the evolution of AI models, the importance of reasoning in coding, and the future of AI in software development."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "reinforcement learning",
+      "language modeling",
+      "code generation"
+    ],
+    "industries": [
+      "technology",
+      "software development"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "Reinforcement learning combined with coding can significantly enhance AI's capabilities in software development.",
+      "speaker": "Eiso Kant",
+      "context": "Eiso explains how focusing on software development allows AI to better understand complex reasoning and problem-solving."
+    },
+    {
+      "claim": "The future of AI will see a convergence of model capabilities with human-level intelligence, particularly in software development.",
+      "speaker": "Eiso Kant",
+      "context": "Eiso discusses the trajectory of AI development and its implications for knowledge work."
+    },
+    {
+      "claim": "Current AI models are not yet at human-level capabilities due to limitations in reasoning and the lack of comprehensive training data.",
+      "speaker": "Eiso Kant",
+      "context": "Eiso highlights the challenges AI faces in replicating human-like reasoning in coding tasks."
+    },
+    {
+      "claim": "The integration of reinforcement learning in code execution feedback is becoming a standard practice among AI models.",
+      "speaker": "Eiso Kant",
+      "context": "Eiso notes that many AI models are now incorporating code execution feedback to improve their learning processes."
+    },
+    {
+      "claim": "Poolside AI aims to create a system where anyone can write software using natural language, moving towards a more accessible coding environment.",
+      "speaker": "Eiso Kant",
+      "context": "Eiso outlines the long-term vision for Poolside AI and its focus on democratizing software development."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Andrej Karpathy",
+      "Jason"
+    ],
+    "organizations": [
+      "Poolside AI",
+      "GitHub",
+      "Amazon Web Services"
+    ],
+    "technologies": [
+      "Transformers",
+      "LSTMs",
+      "ChatGPT"
+    ],
+    "publications": [
+      "The Unreasonable Effectiveness of Recurrent Neural Nets"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Reinforcement Learning",
+      "summary": "Eiso Kant introduces the concept of reinforcement learning and its application in software development.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Evolution of AI Models",
+      "summary": "Discussion on the transition from LSTMs to Transformers and the implications for AI capabilities.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in AI Reasoning",
+      "summary": "Eiso explains the limitations of current AI models in achieving human-level reasoning and coding.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of Software Development with AI",
+      "summary": "Exploration of how AI will transform software development and the role of Poolside AI in this evolution.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Evaluating AI Effectiveness",
+      "summary": "Eiso discusses the importance of evaluation metrics in assessing AI performance in coding tasks.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "The Unreasonable Effectiveness of Recurrent Neural Nets",
+      "authors": "Andrej Karpathy",
+      "context": "Eiso cites this article as a pivotal moment that influenced his career and understanding of language modeling."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Poolside AI"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Eiso's conviction that reinforcement learning will become the largest part of the compute budget for training models.",
+      "The discussion on how AI models can improve reasoning capabilities through code execution feedback."
+    ]
+  },
+  "_meta": {
+    "episode_number": 289,
+    "episode_date": "2025-09-24",
+    "rss_title": "#289 Eiso Kant: How Reinforcement Learning and Coding Could Unlock Human-Level AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:27:14Z",
+    "input_tokens": 11872,
+    "output_tokens": 995
+  }
+}

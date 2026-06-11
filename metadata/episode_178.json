@@ -1,0 +1,138 @@
+{
+  "episode_profile": {
+    "title": "Integrating Human Development Principles into AI Models",
+    "guest_name": "Terry Sejnowski",
+    "guest_title": "President of the NeurIPS Foundation",
+    "guest_organization": "Salk Institute for Biological Studies",
+    "topic_summary": "Terry Sejnowski discusses the intersection of computational neuroscience and AI, emphasizing the need to incorporate human developmental principles into AI models. He explores the evolution of neural networks, the impact of large models like GPT-4, and the ethical considerations surrounding AI's integration into society."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "neural networks",
+      "reinforcement learning",
+      "natural language processing"
+    ],
+    "industries": [
+      "technology",
+      "education",
+      "healthcare"
+    ],
+    "policy_areas": [
+      "ethics",
+      "regulation",
+      "safety"
+    ],
+    "geographic_focus": [
+      "United States",
+      "Europe"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI models currently lack the ability to integrate human developmental feedback, which is essential for aligning them with human behavior.",
+      "speaker": "Terry Sejnowski",
+      "context": "Sejnowski argues that without a developmental phase, AI models cannot learn societal norms and expectations."
+    },
+    {
+      "claim": "The rapid advancement of AI technology is outpacing regulatory frameworks, leading to potential risks.",
+      "speaker": "Terry Sejnowski",
+      "context": "He highlights the need for governments to adapt quickly to the evolving landscape of AI technology."
+    },
+    {
+      "claim": "Reinforcement learning is crucial for aligning AI with human values and behaviors.",
+      "speaker": "Terry Sejnowski",
+      "context": "Sejnowski emphasizes the importance of incorporating reinforcement learning principles from human development into AI training."
+    },
+    {
+      "claim": "The future of AI will involve creating models that can better understand and predict human intentions and social interactions.",
+      "speaker": "Terry Sejnowski",
+      "context": "He speculates that advancements in AI will lead to systems that can empathize and interact more effectively with humans."
+    },
+    {
+      "claim": "The current educational system is not adequately preparing students for careers in AI and data science.",
+      "speaker": "Terry Sejnowski",
+      "context": "Sejnowski discusses the barriers in the education system that prevent the integration of AI into learning."
+    },
+    {
+      "claim": "AI's rapid development necessitates a balance between innovation and caution to avoid potential existential risks.",
+      "speaker": "Terry Sejnowski",
+      "context": "He acknowledges the concerns of experts about the dangers of AI while advocating for continued progress."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Sam Altman",
+      "Jeff Hinton",
+      "Ilya Sutskever",
+      "Fei-Fei Li"
+    ],
+    "organizations": [
+      "OpenAI",
+      "DeepMind",
+      "NeurIPS",
+      "Salk Institute for Biological Studies",
+      "University of California, San Diego"
+    ],
+    "technologies": [
+      "GPT-4",
+      "AlphaGo",
+      "H100",
+      "A100"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to AI and Neuroscience",
+      "summary": "Craig introduces Terry Sejnowski and outlines the main themes of the discussion, focusing on AI's evolution and its societal implications.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Human Development in AI",
+      "summary": "Terry discusses the importance of integrating human developmental principles into AI models to enhance their alignment with human behavior.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Regulatory Challenges",
+      "summary": "The conversation shifts to the regulatory landscape surrounding AI, highlighting the need for adaptive governance in response to rapid technological advancements.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI in Education",
+      "summary": "Terry reflects on the current state of education in relation to AI and data science, emphasizing the need for reform to better prepare students.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI Development",
+      "summary": "The discussion concludes with insights on the future trajectory of AI, including the balance between innovation and caution in its development.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "NeurIPS Foundation",
+      "Salk Institute for Biological Studies",
+      "University of California, San Diego"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Terry's insights on the necessity of integrating human feedback into AI models.",
+      "The discussion on the rapid pace of AI development and its implications for regulation."
+    ]
+  },
+  "_meta": {
+    "episode_number": 178,
+    "episode_date": "2024-03-27",
+    "rss_title": "#178 Terry Sejnowski on Integrating Human Development Principles into AI Models",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:50:02Z",
+    "input_tokens": 11179,
+    "output_tokens": 1085
+  }
+}

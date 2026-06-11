@@ -1,0 +1,140 @@
+{
+  "episode_profile": {
+    "title": "Peter Guagenti: How AI Will Change the Way Developers Work",
+    "guest_name": "Peter Guagenti",
+    "guest_title": "President and Chief Marketing Officer",
+    "guest_organization": "Tabnine",
+    "topic_summary": "Peter Guagenti discusses the evolution of AI in software development, focusing on how tools like Tabnine are transforming the role of developers. He emphasizes the importance of context and personalization in AI code assistance, and the future of fully autonomous software engineering."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "machine learning",
+      "code generation"
+    ],
+    "industries": [
+      "software development",
+      "technology"
+    ],
+    "policy_areas": [
+      "ethics",
+      "data privacy",
+      "trust in AI"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The future of AI in software development lies in creating highly personalized AI agents that understand the context of the organization.",
+      "speaker": "Peter Guagenti",
+      "context": "Guagenti argues that AI tools must adapt to the specific needs and behaviors of engineering teams to be truly effective."
+    },
+    {
+      "claim": "Generative AI can automate many tasks in software development, but it will not replace human engineers due to the complexity of modern applications.",
+      "speaker": "Peter Guagenti",
+      "context": "He highlights that while AI can handle repetitive tasks, the nuanced understanding required for complex software design still necessitates human oversight."
+    },
+    {
+      "claim": "Tabnine's approach to AI code assistance focuses on using context and prompt engineering to improve the relevance and quality of generated code.",
+      "speaker": "Peter Guagenti",
+      "context": "Guagenti explains that the interaction with AI models is crucial for achieving high-quality outputs, rather than relying solely on the models themselves."
+    },
+    {
+      "claim": "The integration of AI tools can lead to significant productivity gains, with studies showing real-world savings of 20-25% for software engineering teams.",
+      "speaker": "Peter Guagenti",
+      "context": "He references third-party research that quantifies the efficiency improvements brought by AI in software development."
+    },
+    {
+      "claim": "There is a growing trust crisis in generative AI, as companies and users are concerned about data privacy and the ethical use of AI technologies.",
+      "speaker": "Peter Guagenti",
+      "context": "Guagenti emphasizes the need for transparency and ethical practices in AI development to build trust with users."
+    },
+    {
+      "claim": "The training data used for AI models must be carefully curated to ensure high performance and avoid the pitfalls of low-quality code generation.",
+      "speaker": "Peter Guagenti",
+      "context": "He discusses the importance of using reliable sources for training data to enhance the effectiveness of AI tools."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "iran Yehov",
+      "Jor Weiss"
+    ],
+    "organizations": [
+      "Tabnine",
+      "Atlassian",
+      "Mistral",
+      "OpenAI",
+      "Anthropic",
+      "Carnegie Mellon",
+      "McKinsey",
+      "IBM"
+    ],
+    "technologies": [
+      "LLM",
+      "Jira",
+      "GPT-4"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Tabnine",
+      "summary": "Peter Guagenti introduces Tabnine, its origins, and its evolution in the AI code assistant space.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "AI in Software Development",
+      "summary": "Discussion on how AI tools are changing the landscape of software development and the role of developers.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "The Importance of Context",
+      "summary": "Guagenti emphasizes the need for context and personalization in AI code assistance for better outcomes.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Productivity Gains from AI",
+      "summary": "Exploration of the productivity improvements AI tools can bring to software engineering teams.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Trust and Ethics in AI",
+      "summary": "Discussion on the trust crisis in generative AI and the importance of ethical practices in AI development.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "The Rise of Generative AI in Law",
+      "authors": "",
+      "context": "Guagenti references this article to illustrate the challenges and hallucinations faced by generative AI in practical applications."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Tabnine"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Guagenti's assertion that AI will not replace software engineers but will enhance their capabilities.",
+      "The emphasis on the importance of trust and ethical considerations in AI development."
+    ]
+  },
+  "_meta": {
+    "episode_number": 204,
+    "episode_date": "2024-08-21",
+    "rss_title": "#204 Peter Guagenti: How AI Will Change the Way Developers Work (Tabnine's Vision Explained)",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:59:55Z",
+    "input_tokens": 13646,
+    "output_tokens": 1124
+  }
+}

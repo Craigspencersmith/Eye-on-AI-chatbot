@@ -1,0 +1,133 @@
+{
+  "episode_profile": {
+    "title": "Tuhin Srivatsa: How Baseten is Disrupting AI Deployment & Scaling in 2025",
+    "guest_name": "Tuhin Srivatsa",
+    "guest_title": "Founder and CEO",
+    "guest_organization": "Base10",
+    "topic_summary": "Tuhin Srivatsa discusses how Base10 is revolutionizing AI deployment and scaling by providing a comprehensive infrastructure for running machine learning models. He emphasizes the importance of open-source models and the need for enterprises to adopt efficient, scalable solutions in their AI strategies."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "inference",
+      "open source"
+    ],
+    "industries": [
+      "technology",
+      "software"
+    ],
+    "policy_areas": [
+      "data privacy",
+      "cloud computing"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Open-source models are becoming increasingly competitive with closed-source models, offering significant cost savings and flexibility.",
+      "speaker": "Tuhin Srivatsa",
+      "context": "Tuhin highlights the convergence of open-source and closed-source model quality, making it essential for enterprises to consider open-source options."
+    },
+    {
+      "claim": "Base10 enables faster deployment of AI models compared to traditional platforms like SageMaker, reducing deployment time from hours to minutes.",
+      "speaker": "Tuhin Srivatsa",
+      "context": "He discusses the challenges enterprises face with existing tools and how Base10 simplifies the deployment process."
+    },
+    {
+      "claim": "The demand for AI infrastructure is rapidly increasing, with Base10 experiencing a 200x growth in revenue and usage over the past 18 months.",
+      "speaker": "Tuhin Srivatsa",
+      "context": "Tuhin attributes this growth to the rising interest in open-source models and the need for efficient AI deployment solutions."
+    },
+    {
+      "claim": "Base10 provides a unique software layer that abstracts the complexities of running AI models across various cloud environments.",
+      "speaker": "Tuhin Srivatsa",
+      "context": "He explains how Base10 integrates different cloud services to offer a seamless experience for users."
+    },
+    {
+      "claim": "The future of AI will heavily rely on inference and reasoning models, which will require more robust infrastructure.",
+      "speaker": "Tuhin Srivatsa",
+      "context": "Tuhin discusses the evolving landscape of AI and the increasing importance of efficient inference capabilities."
+    },
+    {
+      "claim": "Base10's auto-scaling feature allows enterprises to optimize costs by only using compute resources when needed.",
+      "speaker": "Tuhin Srivatsa",
+      "context": "He elaborates on how this feature helps businesses save money compared to traditional always-on compute models."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Base10",
+      "OpenAI",
+      "Anthropic",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Hugging Face",
+      "DeepSeek"
+    ],
+    "technologies": [
+      "CUDA",
+      "H100",
+      "H200",
+      "TPUs",
+      "Tranium",
+      "AMD chips"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Base10",
+      "summary": "Tuhin introduces Base10 and its mission to provide AI infrastructure for enterprises.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "AI Infrastructure Challenges",
+      "summary": "Discussion on the challenges enterprises face with existing AI deployment tools and the need for better solutions.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Open Source vs Closed Source",
+      "summary": "Tuhin explains the growing importance of open-source models in the AI landscape and their advantages.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Base10's Unique Features",
+      "summary": "Overview of Base10's features, including auto-scaling and multi-cloud support.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI and Inference",
+      "summary": "Tuhin shares insights on the future of AI, focusing on inference and reasoning models.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Base10"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Tuhin emphasizes the importance of open-source models in the future of AI.",
+      "He discusses the rapid growth of Base10 and the increasing demand for AI infrastructure."
+    ]
+  },
+  "_meta": {
+    "episode_number": 239,
+    "episode_date": "2025-02-26",
+    "rss_title": "#239 Tuhin Srivatsa: How Baseten is Disrupting AI Deployment & Scaling in 2025",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:10:14Z",
+    "input_tokens": 10954,
+    "output_tokens": 1036
+  }
+}

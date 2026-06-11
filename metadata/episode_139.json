@@ -1,0 +1,125 @@
+{
+  "episode_profile": {
+    "title": "Breaking Barriers with No Code AI",
+    "guest_name": "Dmitry Shapiro",
+    "guest_title": "CEO",
+    "guest_organization": "UAI",
+    "topic_summary": "Dmitry Shapiro discusses UAI's innovative platform that enables users to create generative AI applications without coding. He elaborates on the concept of mind indexing, which allows users to personalize AI interactions based on their preferences and knowledge gaps, potentially transforming education and communication."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "NLP"
+    ],
+    "industries": [
+      "education",
+      "technology"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "Digitally capturing personal context will lead to exponential improvements in AI's utility across various domains.",
+      "speaker": "Dmitry Shapiro",
+      "context": "Shapiro emphasizes the importance of understanding individual user preferences to enhance AI interactions."
+    },
+    {
+      "claim": "The current educational system is too generic and lacks personalization, which can be addressed through AI-driven solutions.",
+      "speaker": "Dmitry Shapiro",
+      "context": "He argues that personalized learning can fill knowledge gaps more effectively than traditional methods."
+    },
+    {
+      "claim": "AI can better assist users by understanding their unique contexts rather than relying solely on generic prompts.",
+      "speaker": "Dmitry Shapiro",
+      "context": "He illustrates this with the example of summarizing documents for different audiences."
+    },
+    {
+      "claim": "UAI's Mind Studio allows users to create AI applications quickly, democratizing access to AI development.",
+      "speaker": "Dmitry Shapiro",
+      "context": "He describes how the platform enables non-technical users to build and deploy AI tools."
+    },
+    {
+      "claim": "The future of AI will involve more intuitive interfaces that understand user needs without extensive input.",
+      "speaker": "Dmitry Shapiro",
+      "context": "He envisions a shift from manual prompting to AI that can autonomously determine user requirements."
+    },
+    {
+      "claim": "The bottleneck in leveraging technology is the human ability to adapt and learn new tools.",
+      "speaker": "Dmitry Shapiro",
+      "context": "He discusses how increasing the efficiency of human-AI interaction is crucial for maximizing technological benefits."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Google",
+      "MySpace",
+      "UAI"
+    ],
+    "technologies": [
+      "ChatGPT",
+      "Claude",
+      "GPT-3",
+      "GPT-4"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to UAI",
+      "summary": "Dmitry Shapiro introduces UAI and its mission to simplify AI application development.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Mind Indexing Explained",
+      "summary": "Shapiro discusses the concept of mind indexing and its potential applications in personalizing AI interactions.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Applications in Education",
+      "summary": "The conversation shifts to how UAI's technology can transform educational experiences through personalized learning.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Building AI with Mind Studio",
+      "summary": "Shapiro explains how users can create AI applications using Mind Studio without coding skills.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI Interfaces",
+      "summary": "The discussion concludes with thoughts on the future of AI and the importance of intuitive user interfaces.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "UAI"
+    ],
+    "funding_sources": [
+      "Venture capital"
+    ],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Shapiro's insights on the ambiguity of data and its impact on AI effectiveness.",
+      "The discussion on how AI can personalize education and improve learning outcomes."
+    ]
+  },
+  "_meta": {
+    "episode_number": 139,
+    "episode_date": "2023-09-20",
+    "rss_title": "#139 Dmitry Shapiro: Breaking Barriers with No Code AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:37:32Z",
+    "input_tokens": 12145,
+    "output_tokens": 949
+  }
+}

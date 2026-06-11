@@ -1,0 +1,108 @@
+{
+  "episode_profile": {
+    "title": "Isabelle Guyon on AI's Future and Support Vector Machines",
+    "guest_name": "Isabelle Guyon",
+    "guest_title": "Researcher and AI Expert",
+    "guest_organization": "University of Paris-Saclay",
+    "topic_summary": "In this episode, Isabelle Guyon discusses the evolution and future of artificial intelligence, particularly focusing on Support Vector Machines (SVMs). She explores the implications of AI advancements in various fields and the importance of ethical considerations in AI development."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "support vector machines",
+      "deep learning"
+    ],
+    "industries": [
+      "technology",
+      "education",
+      "research"
+    ],
+    "policy_areas": [
+      "ethics",
+      "regulation"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Support Vector Machines remain a powerful tool in machine learning despite the rise of deep learning.",
+      "speaker": "Isabelle Guyon",
+      "context": "Guyon emphasizes the versatility and effectiveness of SVMs in various applications."
+    },
+    {
+      "claim": "The future of AI will heavily depend on ethical considerations and responsible development.",
+      "speaker": "Isabelle Guyon",
+      "context": "She discusses the need for frameworks that ensure AI technologies are developed and used ethically."
+    },
+    {
+      "claim": "AI has the potential to revolutionize many industries, but it also poses significant risks if not managed properly.",
+      "speaker": "Isabelle Guyon",
+      "context": "Guyon highlights the dual-edged nature of AI advancements."
+    },
+    {
+      "claim": "Interdisciplinary collaboration is crucial for the advancement of AI technologies.",
+      "speaker": "Isabelle Guyon",
+      "context": "She advocates for partnerships between technologists and domain experts."
+    },
+    {
+      "claim": "The understanding of AI models should be improved to foster trust and transparency.",
+      "speaker": "Isabelle Guyon",
+      "context": "Guyon stresses the importance of explainability in AI systems."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "University of Paris-Saclay"
+    ],
+    "technologies": [
+      "Support Vector Machines",
+      "machine learning",
+      "deep learning"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Support Vector Machines",
+      "summary": "Guyon introduces the concept of Support Vector Machines and their relevance in machine learning.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Ethics in AI Development",
+      "summary": "Discussion on the ethical implications of AI technologies and the importance of responsible development.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of AI",
+      "summary": "Exploration of the potential advancements in AI and the challenges that lie ahead.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "University of Paris-Saclay"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Guyon emphasizes the importance of ethics in AI development."
+    ]
+  },
+  "_meta": {
+    "episode_number": 140,
+    "episode_date": "2023-09-27",
+    "rss_title": "#140 Isabelle Guyon: The Future of AI and Support Vector Machines",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:37:42Z",
+    "input_tokens": 44355,
+    "output_tokens": 744
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "episode_profile": {
+    "title": "Building Trustworthy AI with Seth Dobrin",
+    "guest_name": "Seth Dobrin",
+    "guest_title": "Chief AI Officer",
+    "guest_organization": "IBM",
+    "topic_summary": "Seth Dobrin discusses IBM's initiatives to enhance the trustworthiness, fairness, and explainability of AI models. He elaborates on the importance of transparency and bias mitigation in AI systems, particularly through tools like FactSheets 360."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "explainable AI",
+      "fairness in AI",
+      "bias detection",
+      "machine learning"
+    ],
+    "industries": [
+      "technology",
+      "finance",
+      "healthcare"
+    ],
+    "policy_areas": [
+      "ethics",
+      "regulation",
+      "data privacy"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "FactSheets 360 acts as a nutritional label for AI, providing transparency and explainability.",
+      "speaker": "Seth Dobrin",
+      "context": "This claim was made while discussing the purpose and functionality of FactSheets 360 in enhancing AI trustworthiness."
+    },
+    {
+      "claim": "Bias detection and mitigation are critical as AI applications increasingly impact real-world decisions.",
+      "speaker": "Seth Dobrin",
+      "context": "Seth emphasized the importance of addressing bias in AI, particularly in sensitive applications like loan approvals."
+    },
+    {
+      "claim": "AI models can be monitored and adjusted to mitigate specific biases, but complete elimination of bias is not currently feasible.",
+      "speaker": "Seth Dobrin",
+      "context": "This was discussed in the context of ongoing monitoring and adjustment of AI models to ensure fairness."
+    },
+    {
+      "claim": "Explainability in AI is essential for informed decision-making, especially in healthcare.",
+      "speaker": "Seth Dobrin",
+      "context": "Seth highlighted the need for explainability to support discussions between patients and healthcare providers."
+    },
+    {
+      "claim": "Regulatory frameworks will likely require documentation of bias mitigation efforts and explainability standards.",
+      "speaker": "Seth Dobrin",
+      "context": "This claim was made while discussing the future of AI regulation and the role of companies in ensuring compliance."
+    },
+    {
+      "claim": "Data privacy regulations like GDPR and CCPA will impact how companies manage and utilize data in AI models.",
+      "speaker": "Seth Dobrin",
+      "context": "Seth discussed the implications of data privacy laws on AI model training and data usage."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "IBM",
+      "World Economic Forum"
+    ],
+    "technologies": [
+      "FactSheets 360",
+      "Watson Studio",
+      "Watson OpenScale",
+      "Watson Knowledge Catalog"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Trustworthy AI",
+      "summary": "Seth Dobrin introduces his role at IBM and the importance of trustworthy AI.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Understanding FactSheets 360",
+      "summary": "Discussion on the functionalities and goals of FactSheets 360 in providing transparency and explainability.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Bias Detection and Mitigation",
+      "summary": "Seth explains how IBM's tools detect and mitigate bias in AI models.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Explainability in AI",
+      "summary": "Exploration of the challenges and importance of explainability in AI, particularly in healthcare.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Regulatory Considerations",
+      "summary": "Discussion on the future of AI regulation and the implications for companies regarding bias and data privacy.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "IBM"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "FactSheets 360 is likened to a nutritional label for AI.",
+      "Seth emphasizes that while bias can be mitigated, it cannot be completely eliminated."
+    ]
+  },
+  "_meta": {
+    "episode_number": 86,
+    "episode_date": "2021-09-15",
+    "rss_title": "Seth Dobrin",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:21:36Z",
+    "input_tokens": 6538,
+    "output_tokens": 967
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "episode_profile": {
+    "title": "Florian Douetteau: How Enterprises Can Scale and Adopt Agentic AI",
+    "guest_name": "Florian Douetteau",
+    "guest_title": "CEO and Co-founder",
+    "guest_organization": "Dataiku",
+    "topic_summary": "Florian Douetteau discusses the challenges and opportunities enterprises face in adopting agentic AI. He emphasizes the importance of democratizing AI within organizations and the need for effective lifecycle management of AI agents to enhance productivity and ensure security."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "NLP",
+      "machine learning",
+      "agentic AI"
+    ],
+    "industries": [
+      "finance",
+      "manufacturing",
+      "retail",
+      "advertising"
+    ],
+    "policy_areas": [
+      "security",
+      "governance"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "Enterprises need to democratize AI to unlock its full potential and drive value.",
+      "speaker": "Florian Douetteau",
+      "context": "Florian discusses how empowering employees to create AI agents can lead to significant improvements in productivity."
+    },
+    {
+      "claim": "Agent sprawl can occur when employees create numerous small agents, leading to management challenges.",
+      "speaker": "Florian Douetteau",
+      "context": "Florian highlights the need for centralized management of agents to avoid confusion and ensure effective use."
+    },
+    {
+      "claim": "Financial services require stringent security measures for data access and project management.",
+      "speaker": "Florian Douetteau",
+      "context": "Florian explains the unique challenges faced by financial institutions in managing sensitive data."
+    },
+    {
+      "claim": "The future of enterprises will increasingly rely on agentic AI to remain competitive.",
+      "speaker": "Florian Douetteau",
+      "context": "Florian predicts that companies that fail to adopt AI will struggle to compete against more agile, tech-savvy newcomers."
+    },
+    {
+      "claim": "A collaborative approach between IT and business users is essential for successful AI implementation.",
+      "speaker": "Florian Douetteau",
+      "context": "Florian emphasizes the importance of breaking down silos between technical and non-technical staff to foster innovation."
+    },
+    {
+      "claim": "The complexity of AI agents will evolve, requiring different qualities and capabilities for various tasks.",
+      "speaker": "Florian Douetteau",
+      "context": "Florian discusses how agents will need to be tailored to specific business processes and decision-making needs."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Sam Altman"
+    ],
+    "organizations": [
+      "Dataiku",
+      "Nvidia"
+    ],
+    "technologies": [
+      "large language models",
+      "AI workbench"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Dataiku",
+      "summary": "Florian Douetteau introduces Dataiku and its mission to democratize AI within enterprises.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Challenges of Agent Sprawl",
+      "summary": "Discussion on the management challenges posed by the proliferation of AI agents within organizations.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Security in Financial Services",
+      "summary": "Florian explains the unique security requirements for AI applications in the financial sector.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "The Future of Agentic AI",
+      "summary": "Predictions about the increasing reliance on agentic AI in enterprises and the competitive landscape.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Collaboration Between IT and Business",
+      "summary": "The importance of fostering collaboration between IT departments and business users for successful AI adoption.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Dataiku"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Florian discusses the urgency for enterprises to adopt AI to avoid being disrupted by more agile competitors.",
+      "The conversation touches on the potential for agentic AI to transform traditional business processes."
+    ]
+  },
+  "_meta": {
+    "episode_number": 288,
+    "episode_date": "2025-09-21",
+    "rss_title": "#288 Florian Douetteau: How Enterprises Can Scale and Adopt Agentic AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:26:52Z",
+    "input_tokens": 10848,
+    "output_tokens": 957
+  }
+}

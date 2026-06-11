@@ -1,0 +1,138 @@
+{
+  "episode_profile": {
+    "title": "AI and Machine Learning Research in Iraq",
+    "guest_name": "Almammon Rasool Abdali",
+    "guest_title": "Machine Learning Engineer and PhD Student",
+    "guest_organization": "University of Technology, Baghdad",
+    "topic_summary": "Almammon discusses the state of AI and machine learning research in Iraq, focusing on his work in violence detection using deep learning. He highlights the challenges faced by researchers in Iraq, including limited resources and outdated educational materials."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "computer vision",
+      "deep learning",
+      "machine learning"
+    ],
+    "industries": [
+      "education",
+      "technology",
+      "security"
+    ],
+    "policy_areas": [
+      "education reform",
+      "research funding",
+      "infrastructure development"
+    ],
+    "geographic_focus": [
+      "Iraq"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The lack of infrastructure and resources severely limits AI research in Iraq.",
+      "speaker": "Almammon Rasool Abdali",
+      "context": "Almammon explains that many universities lack the necessary labs and computing power to conduct advanced AI research."
+    },
+    {
+      "claim": "AI education in Iraq is outdated, focusing on classical methods rather than modern techniques.",
+      "speaker": "Almammon Rasool Abdali",
+      "context": "He notes that many students are not exposed to current AI methodologies, which hampers their ability to innovate."
+    },
+    {
+      "claim": "Companies like Google and AWS are providing essential support for AI research through cloud credits.",
+      "speaker": "Almammon Rasool Abdali",
+      "context": "Almammon discusses how he utilizes cloud resources to conduct his research, which would otherwise be impossible due to local limitations."
+    },
+    {
+      "claim": "His violence detection model achieved a 96.25% accuracy, surpassing previous benchmarks.",
+      "speaker": "Almammon Rasool Abdali",
+      "context": "He highlights the significance of his research in addressing real-world issues in Iraq, particularly in public safety."
+    },
+    {
+      "claim": "There is a growing interest in AI among students in Iraq, despite the challenges.",
+      "speaker": "Almammon Rasool Abdali",
+      "context": "He mentions that he has a community of 4,000 student researchers who are eager to learn and engage with AI."
+    },
+    {
+      "claim": "Collaboration between universities and industry is essential for advancing AI research in Iraq.",
+      "speaker": "Almammon Rasool Abdali",
+      "context": "He argues that partnerships with companies could provide valuable data and resources for research."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Fei-Fei Li",
+      "Andrew Ng"
+    ],
+    "organizations": [
+      "Google",
+      "Amazon",
+      "Huawei",
+      "IEEE",
+      "DeepLearning.AI"
+    ],
+    "technologies": [
+      "TensorFlow",
+      "TimeSformer"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to AI in Iraq",
+      "summary": "Almammon shares his background and how he became involved in AI and machine learning.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Challenges in AI Research",
+      "summary": "Discussion on the limitations faced by researchers in Iraq, including lack of resources and outdated curricula.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Violence Detection Project",
+      "summary": "Almammon explains his research on using deep learning for violence detection and the results achieved.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI Community and Education",
+      "summary": "He discusses the growing interest in AI among students and the need for educational reform.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future Directions",
+      "summary": "Almammon talks about the potential for collaboration between universities and industry to enhance AI research.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Data Efficient Video Transformer",
+      "authors": "Almammon Rasool Abdali",
+      "context": "This paper presents his findings on improving violence detection using a novel transformer architecture."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "University of Technology, Baghdad",
+      "Iraqi Creative Solutions"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "educational",
+    "tone": "collegial",
+    "notable_moments": [
+      "Almammon's passion for AI and its potential to improve public safety in Iraq.",
+      "His frustration with the lack of support for implementing his research locally."
+    ]
+  },
+  "_meta": {
+    "episode_number": 100,
+    "episode_date": "2022-05-11",
+    "rss_title": "Oriol Vinyals",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:26:50Z",
+    "input_tokens": 7013,
+    "output_tokens": 1051
+  }
+}

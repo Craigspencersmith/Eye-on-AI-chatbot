@@ -1,0 +1,133 @@
+{
+  "episode_profile": {
+    "title": "Exploring MLOps and the Future of AI with Cognilytica",
+    "guest_name": "Ron Schmelzer, Kathleen Walch",
+    "guest_title": "Managing Partner and Principal Analyst",
+    "guest_organization": "Cognilytica",
+    "topic_summary": "This episode features a discussion with Ron Schmelzer and Kathleen Walch from Cognilytica, focusing on the rise of MLOps, data labeling, and the journey towards achieving human-level artificial general intelligence. They share insights on market trends, vendor consolidation, and the evolving landscape of machine learning technologies."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "MLOps",
+      "machine learning",
+      "data labeling",
+      "unsupervised learning"
+    ],
+    "industries": [
+      "technology",
+      "data analytics"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "The machine learning platform market is currently undergoing a consolidation phase with many acquisitions occurring.",
+      "speaker": "Ron Schmelzer",
+      "context": "This claim was made in the context of discussing the current state of the machine learning market and the number of viable vendors."
+    },
+    {
+      "claim": "MLOps is maturing and becoming increasingly recognized as a critical component of deploying machine learning models.",
+      "speaker": "Ron Schmelzer",
+      "context": "This was stated while discussing the importance of managing the lifecycle of machine learning models."
+    },
+    {
+      "claim": "The data labeling market is showing signs of specialization, with certain companies emerging as leaders.",
+      "speaker": "Kathleen Walch",
+      "context": "This claim was made while discussing the evolution of data labeling companies and their market positions."
+    },
+    {
+      "claim": "Synthetic data is becoming more widely used for specific applications, particularly where traditional labeling is impractical.",
+      "speaker": "Kathleen Walch",
+      "context": "This was mentioned in the context of discussing the future of data labeling and the role of synthetic data."
+    },
+    {
+      "claim": "The future of machine learning may involve algorithms that can operate across different data domains without needing labeled data.",
+      "speaker": "Ron Schmelzer",
+      "context": "This claim was made while discussing the potential for unsupervised learning to overtake supervised learning."
+    },
+    {
+      "claim": "No-code and low-code platforms are democratizing access to machine learning, allowing non-technical users to leverage AI.",
+      "speaker": "Kathleen Walch",
+      "context": "This was stated in the context of discussing the rise of auto ML and its implications for various users."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Fei-Fei Li",
+      "Alex Ratner"
+    ],
+    "organizations": [
+      "Cognilytica",
+      "Amazon",
+      "DataRobot",
+      "Labelbox",
+      "Allegion",
+      "Appen"
+    ],
+    "technologies": [
+      "AutoML",
+      "Mechanical Turk",
+      "ModelDB"
+    ],
+    "publications": [
+      "Cognitive Project Management for AI methodology",
+      "CRISP-DM"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Cognilytica",
+      "summary": "Ron Schmelzer and Kathleen Walch introduce themselves and their organization, Cognilytica, discussing their focus on AI and machine learning.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Market Trends in MLOps",
+      "summary": "The guests discuss the current state of the MLOps market, including vendor consolidation and the importance of managing machine learning models.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "The Evolution of Data Labeling",
+      "summary": "A discussion on the data labeling market, including the rise of synthetic data and the specialization of companies within this space.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of Machine Learning",
+      "summary": "Exploration of the potential future developments in machine learning, including unsupervised learning and the impact of no-code platforms.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Conclusion and Insights",
+      "summary": "The episode wraps up with final thoughts on the discussed topics and encouragement to check out the AI Today podcast.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Cognilytica"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "collegial",
+    "notable_moments": [
+      "Discussion on the importance of data labeling and its evolution.",
+      "Insights on the future of MLOps and machine learning technologies."
+    ]
+  },
+  "_meta": {
+    "episode_number": 83,
+    "episode_date": "2021-08-11",
+    "rss_title": "Kaifu Lee Tells Our Future",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:20:22Z",
+    "input_tokens": 10300,
+    "output_tokens": 1063
+  }
+}

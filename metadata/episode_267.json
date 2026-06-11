@@ -1,0 +1,133 @@
+{
+  "episode_profile": {
+    "title": "Exploring AI-Powered Enterprise Networking with Nabil Bukhari",
+    "guest_name": "Nabil Bukhari",
+    "guest_title": "Chief Product Officer, Chief Technology Officer, General Manager",
+    "guest_organization": "Extreme Networks",
+    "topic_summary": "Nabil Bukhari discusses the integration of AI in enterprise networking, emphasizing the importance of secure connectivity and the role of AI as a capability rather than a product. He highlights the exponential growth of connected devices and data, and the necessity for explainability and human oversight in AI systems."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "networking",
+      "AI governance"
+    ],
+    "industries": [
+      "technology",
+      "telecommunications",
+      "entertainment",
+      "transportation"
+    ],
+    "policy_areas": [
+      "ethics",
+      "explainability",
+      "security"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI should be viewed as a capability of the platform rather than a standalone product.",
+      "speaker": "Nabil Bukhari",
+      "context": "This claim was made to emphasize the integration of AI into existing systems and its role in enhancing enterprise networking."
+    },
+    {
+      "claim": "The number of connected devices and the amount of data generated is continuously increasing, with no signs of slowing down.",
+      "speaker": "Nabil Bukhari",
+      "context": "This statement reflects the ongoing trend in enterprise environments and the growing need for secure connectivity."
+    },
+    {
+      "claim": "AI systems must include explainability and auditing capabilities to be successful in enterprise environments.",
+      "speaker": "Nabil Bukhari",
+      "context": "This claim underscores the importance of transparency in AI applications, especially in mission-critical functions."
+    },
+    {
+      "claim": "The future of AI in networking involves creating autonomous agents that can communicate and collaborate to solve problems.",
+      "speaker": "Nabil Bukhari",
+      "context": "This prediction highlights the evolving role of AI in automating network management and troubleshooting."
+    },
+    {
+      "claim": "The complexity of networking technology is increasing, while user expectations for simplicity are also rising.",
+      "speaker": "Nabil Bukhari",
+      "context": "This observation points to the challenges faced by networking companies in meeting user demands."
+    },
+    {
+      "claim": "AI must be embedded responsibly in networking systems with appropriate guardrails and controls.",
+      "speaker": "Nabil Bukhari",
+      "context": "This claim emphasizes the need for ethical considerations in the deployment of AI technologies."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Extreme Networks",
+      "Cisco",
+      "HPE",
+      "Juniper",
+      "Huawei",
+      "ZTE",
+      "Ericsson",
+      "Nokia"
+    ],
+    "technologies": [
+      "AI",
+      "SD-WAN",
+      "cloud management"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Extreme Networks",
+      "summary": "Nabil Bukhari introduces himself and Extreme Networks, explaining the company's focus on secure connectivity for enterprises.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Role of AI in Networking",
+      "summary": "Discussion on how AI is integrated into networking solutions and its importance for enterprise environments.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in Network Management",
+      "summary": "Bukhari addresses the complexities of modern networking and the increasing expectations from users.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of Autonomous Agents",
+      "summary": "Exploration of the potential for AI agents to communicate and collaborate in network management.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Ethics and Explainability in AI",
+      "summary": "Discussion on the necessity of explainability and ethical considerations in AI deployment.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Extreme Networks"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Nabil emphasizes the importance of human oversight in AI systems.",
+      "He discusses the exponential growth of connected devices and data."
+    ]
+  },
+  "_meta": {
+    "episode_number": 267,
+    "episode_date": "2025-07-02",
+    "rss_title": "#267 Nabil Bukhari: Exploring the Future of AI-Powered Enterprise Networking with Extreme Networks",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:19:55Z",
+    "input_tokens": 12023,
+    "output_tokens": 990
+  }
+}

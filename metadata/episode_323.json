@@ -1,0 +1,144 @@
+{
+  "episode_profile": {
+    "title": "David Ha: Why Model Merging Could Be the Next AI Breakthrough",
+    "guest_name": "David Ha",
+    "guest_title": "Researcher and Co-founder",
+    "guest_organization": "Sakana AI",
+    "topic_summary": "David Ha discusses the concept of model merging in AI, exploring how evolutionary strategies can enhance AI capabilities. He shares insights from his work at Sakana AI, focusing on the intersection of generative AI and evolutionary computation."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "evolutionary AI",
+      "generative AI",
+      "neural networks"
+    ],
+    "industries": [
+      "technology",
+      "finance"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "Japan",
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Evolutionary strategies can be used to merge different AI models, enhancing their capabilities.",
+      "speaker": "David Ha",
+      "context": "Ha explains how combining models can leverage their unique strengths to create superior AI systems."
+    },
+    {
+      "claim": "The concept of collective intelligence can lead to breakthroughs in AI creativity and knowledge discovery.",
+      "speaker": "David Ha",
+      "context": "Ha argues that scaling up the number of AI agents can result in novel discoveries beyond current human knowledge."
+    },
+    {
+      "claim": "Current AI systems are limited by their training data, but interaction with the real world can lead to new insights.",
+      "speaker": "David Ha",
+      "context": "Ha emphasizes the importance of grounding AI in real-world experiences to foster innovation."
+    },
+    {
+      "claim": "Quality diversity in evolutionary algorithms can prevent local minima and encourage innovative solutions.",
+      "speaker": "David Ha",
+      "context": "Ha discusses the need to balance performance and novelty in AI solutions to enhance creativity."
+    },
+    {
+      "claim": "Continual learning is essential for AI systems to evolve and synthesize new knowledge effectively.",
+      "speaker": "David Ha",
+      "context": "Ha acknowledges the challenge of integrating continual learning into AI systems for better knowledge retention."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Kenneth Stanley",
+      "Risto",
+      "J\u00fcrgen Schmidthuber",
+      "Fei-Fei Li",
+      "Yan LeCun"
+    ],
+    "organizations": [
+      "Google",
+      "OpenAI",
+      "DeepMind",
+      "Sakana AI"
+    ],
+    "technologies": [
+      "Monte Carlo Tree Search",
+      "world models",
+      "Alpha Evolve",
+      "Shinka Evolve"
+    ],
+    "publications": [
+      "Discop",
+      "ABMCTS"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Model Merging",
+      "summary": "David Ha introduces the concept of model merging and its potential impact on AI development.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Evolutionary AI and Collective Intelligence",
+      "summary": "The discussion shifts to the role of evolutionary strategies in enhancing AI capabilities and fostering collective intelligence.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges of Proprietary Models",
+      "summary": "Ha explains the difficulties of merging proprietary AI models without access to their weights.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI Scientists and Knowledge Discovery",
+      "summary": "The conversation explores the concept of AI scientists and their potential to push the boundaries of human knowledge.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future Directions in AI Research",
+      "summary": "Ha discusses future research directions and the importance of continual learning in AI systems.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Discop",
+      "authors": "David Ha et al.",
+      "context": "This paper discusses the use of LLMs to generate new training algorithms for LLMs."
+    },
+    {
+      "reference": "ABMCTS",
+      "authors": "David Ha et al.",
+      "context": "This paper presents a method for combining closed models using Monte Carlo Tree Search."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Sakana AI",
+      "Google"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Ha's insights on the balance between performance and novelty in AI solutions.",
+      "The discussion on how AI can extend the boundaries of human knowledge."
+    ]
+  },
+  "_meta": {
+    "episode_number": 323,
+    "episode_date": "2026-02-24",
+    "rss_title": "#323 David Ha: Why Model Merging Could Be the Next AI Breakthrough",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:40:29Z",
+    "input_tokens": 10753,
+    "output_tokens": 1018
+  }
+}

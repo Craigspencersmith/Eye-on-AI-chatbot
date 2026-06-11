@@ -1,0 +1,130 @@
+{
+  "episode_profile": {
+    "title": "Geopolitical Implications of AI and Military Competition",
+    "guest_name": "Robert O. Work",
+    "guest_title": "Former Deputy Secretary of Defense",
+    "guest_organization": "National Security Commission on AI",
+    "topic_summary": "This episode discusses the geopolitical implications of AI, particularly the military competition between the US and China. Robert O. Work shares insights on algorithmic warfare, the evolution of military technologies, and the potential dangers of autonomous systems."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "military AI",
+      "autonomous systems",
+      "algorithmic warfare"
+    ],
+    "industries": [
+      "defense"
+    ],
+    "policy_areas": [
+      "regulation",
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States",
+      "China"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The US is losing its military technical superiority due to China's advancements in missile technology.",
+      "speaker": "Robert O. Work",
+      "context": "Work discusses the strategic shift in China's military focus towards missile capabilities rather than direct competition with US air power."
+    },
+    {
+      "claim": "China's development of hypersonic weapons poses a significant threat to US military operations.",
+      "speaker": "Robert O. Work",
+      "context": "Work explains how China is exploiting the near-space domain for hypersonic weapons, which the US currently lacks defenses against."
+    },
+    {
+      "claim": "The concept of systems confrontation is central to China's military strategy.",
+      "speaker": "Robert O. Work",
+      "context": "Work elaborates on how China aims to disrupt the US battle network rather than focusing solely on attrition warfare."
+    },
+    {
+      "claim": "AI-enabled autonomy is critical for maintaining military superiority.",
+      "speaker": "Robert O. Work",
+      "context": "Work emphasizes the importance of AI in future military operations and the need for the US to dominate this technology."
+    },
+    {
+      "claim": "The risk of autonomous systems making preemptive strikes could lead to destabilizing conflicts.",
+      "speaker": "Robert O. Work",
+      "context": "Work expresses concern over the potential for autonomous control systems to trigger unintended military engagements."
+    },
+    {
+      "claim": "The competition in AI technology between the US and China is intense and ongoing.",
+      "speaker": "Robert O. Work",
+      "context": "Work highlights the rapid advancements in AI by both nations and the challenges in determining who is leading in this technology."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Francis Fukuyama",
+      "Garry Kasparov",
+      "Lee Sedol"
+    ],
+    "organizations": [
+      "Department of Defense",
+      "National Security Commission on AI",
+      "DARPA"
+    ],
+    "technologies": [
+      "Harpy missile",
+      "Project Maven",
+      "AI command and control"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Geopolitical AI",
+      "summary": "Craig introduces the topic of AI's geopolitical implications, focusing on US-China military competition.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "China's Military Advancements",
+      "summary": "Robert O. Work discusses China's missile capabilities and the strategic implications for US military superiority.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Algorithmic Warfare and AI",
+      "summary": "The conversation shifts to the role of AI in military operations and the concept of algorithmic warfare.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Risks of Autonomous Systems",
+      "summary": "Work expresses concerns about the dangers of autonomous military systems and their potential to trigger conflicts.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of US-China AI Competition",
+      "summary": "The episode concludes with a discussion on the ongoing competition in AI technology between the US and China.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "National Security Commission on AI"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Work's insights on the implications of AI in military strategy.",
+      "Concerns about the destabilizing effects of autonomous weapons."
+    ]
+  },
+  "_meta": {
+    "episode_number": 89,
+    "episode_date": "2021-11-04",
+    "rss_title": "A National AI Research Resource",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:22:47Z",
+    "input_tokens": 13111,
+    "output_tokens": 984
+  }
+}

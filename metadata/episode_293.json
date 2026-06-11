@@ -1,0 +1,130 @@
+{
+  "episode_profile": {
+    "title": "Greg Shewmaker on Scaling Enterprises with Agentic AI",
+    "guest_name": "Greg Shewmaker",
+    "guest_title": "CEO",
+    "guest_organization": "Our Potential",
+    "topic_summary": "Greg Shewmaker discusses how enterprises can effectively implement and scale AI technologies, emphasizing the importance of integrating AI into existing workflows rather than treating it as a separate initiative. He highlights the need for a human-centric approach to maximize efficiency and the role of leadership in driving successful AI adoption."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "agentic AI",
+      "automation",
+      "machine learning"
+    ],
+    "industries": [
+      "technology",
+      "human resources",
+      "consulting"
+    ],
+    "policy_areas": [
+      "workforce transformation",
+      "AI ethics",
+      "organizational strategy"
+    ],
+    "geographic_focus": [
+      "United States",
+      "Europe"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI should be viewed as a tool to enhance human efficiency rather than a means to automate jobs completely.",
+      "speaker": "Greg Shewmaker",
+      "context": "Shewmaker argues that a human-centric approach to AI will yield better results for enterprises."
+    },
+    {
+      "claim": "The failure of agentic workflows in enterprises is primarily a management failure, not a software failure.",
+      "speaker": "Greg Shewmaker",
+      "context": "He suggests that companies often lack a cohesive strategy for integrating AI across all levels of the organization."
+    },
+    {
+      "claim": "Enterprises need to adopt a dual strategy to run their existing business while simultaneously exploring AI integration.",
+      "speaker": "Greg Shewmaker",
+      "context": "This approach allows companies to innovate without disrupting their core operations."
+    },
+    {
+      "claim": "Successful AI implementation requires treating AI agents as digital workers, with proper training and accountability.",
+      "speaker": "Greg Shewmaker",
+      "context": "He emphasizes the importance of integrating AI into the workforce in a structured manner."
+    },
+    {
+      "claim": "Companies that focus on understanding their specific needs and constraints will be more successful in adopting AI technologies.",
+      "speaker": "Greg Shewmaker",
+      "context": "Shewmaker advocates for a tailored approach to AI that considers the unique challenges of each enterprise."
+    },
+    {
+      "claim": "The future of work will involve a combination of human workers and AI, necessitating a shift in workforce strategies.",
+      "speaker": "Greg Shewmaker",
+      "context": "He believes that organizations must prepare for a hybrid workforce model."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Adecco Group",
+      "Salesforce",
+      "Our Potential"
+    ],
+    "technologies": [
+      "AI agents",
+      "multi-agent systems"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Agentic AI",
+      "summary": "Greg Shewmaker introduces the concept of agentic AI and its potential to enhance human productivity.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Role of Leadership in AI Adoption",
+      "summary": "Discussion on how C-suite executives must lead the integration of AI into their organizations.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges of Implementing AI",
+      "summary": "Shewmaker outlines the common pitfalls enterprises face when trying to adopt AI technologies.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "The Future Workforce",
+      "summary": "Exploration of how AI will reshape the workforce and the importance of reskilling employees.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Conclusion and Future Outlook",
+      "summary": "Final thoughts on the trajectory of AI in enterprises and the need for ongoing adaptation.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Our Potential",
+      "Adecco Group"
+    ],
+    "funding_sources": [
+      "Salesforce"
+    ],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Shewmaker emphasizes the need for a human-centric approach to AI.",
+      "He discusses the importance of treating AI agents as digital workers."
+    ]
+  },
+  "_meta": {
+    "episode_number": 293,
+    "episode_date": "2025-10-13",
+    "rss_title": "#293 Greg Shewmaker: How Enterprises Can Implement and Scale with Agentic AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:28:42Z",
+    "input_tokens": 10882,
+    "output_tokens": 967
+  }
+}

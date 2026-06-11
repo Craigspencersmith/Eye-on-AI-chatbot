@@ -1,0 +1,127 @@
+{
+  "episode_profile": {
+    "title": "How AI Is Fixing the Biggest Bottleneck in Construction",
+    "guest_name": "Olek Baraska",
+    "guest_title": "CTO",
+    "guest_organization": "Togal AI",
+    "topic_summary": "Olek Baraska discusses how Togal AI is revolutionizing the construction industry by automating pre-construction processes. He highlights the inefficiencies in traditional construction methods and explains how AI can streamline project estimating and planning, ultimately addressing the housing crisis."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "computer vision",
+      "generative AI"
+    ],
+    "industries": [
+      "construction",
+      "real estate"
+    ],
+    "policy_areas": [
+      "regulation",
+      "safety"
+    ],
+    "geographic_focus": [
+      "United States",
+      "Europe",
+      "Australia",
+      "Middle East"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The construction industry has seen zero innovation in the last 50 years, leading to significant inefficiencies.",
+      "speaker": "Olek Baraska",
+      "context": "Olek explains the stagnation in construction productivity and the need for AI-driven solutions."
+    },
+    {
+      "claim": "Togal AI can reduce the time spent on project estimating from a day to an hour, achieving a 90% efficiency saving.",
+      "speaker": "Olek Baraska",
+      "context": "Olek discusses the immediate value Togal AI brings to construction estimators by automating manual tasks."
+    },
+    {
+      "claim": "AI can connect perception and reasoning layers to enhance construction processes, making them more efficient.",
+      "speaker": "Olek Baraska",
+      "context": "Olek elaborates on how Togal AI integrates computer vision with large language models to improve project planning."
+    },
+    {
+      "claim": "The housing crisis is a structural problem that requires faster building processes to alleviate.",
+      "speaker": "Olek Baraska",
+      "context": "Olek attributes the housing crisis to inefficiencies in construction and emphasizes the need for innovation."
+    },
+    {
+      "claim": "Construction is resistant to bad technology, not technology itself, indicating a demand for effective solutions.",
+      "speaker": "Olek Baraska",
+      "context": "Olek reflects on the industry's skepticism towards new technologies and the importance of delivering real value."
+    },
+    {
+      "claim": "The ultimate vision for Togal AI is to enable users to generate building plans and material lists through natural language queries.",
+      "speaker": "Olek Baraska",
+      "context": "Olek shares Togal's long-term goal of creating an integrated solution for construction planning."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Patrick Murphy"
+    ],
+    "organizations": [
+      "Togal AI",
+      "CoCompliant"
+    ],
+    "technologies": [
+      "Gemini",
+      "transformer architecture"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Togal AI",
+      "summary": "Olek Baraska introduces himself and Togal AI, explaining its focus on the construction industry.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Challenges in Construction",
+      "summary": "Discussion on the inefficiencies and stagnation in the construction industry and how Togal AI aims to address these issues.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI Solutions for Pre-Construction",
+      "summary": "Olek explains how Togal AI automates pre-construction processes, including project estimating and planning.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future Vision for Togal AI",
+      "summary": "Olek shares the long-term vision for Togal AI, including the integration of AI in generating building plans.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Industry Insights and Challenges",
+      "summary": "Olek discusses the broader implications of AI in construction and the challenges faced by the industry.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Togal AI"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Olek emphasizes that construction is resistant to bad technology, highlighting the industry's demand for effective solutions.",
+      "The discussion on how Togal AI can reduce estimating time from a day to an hour showcases the potential impact of AI."
+    ]
+  },
+  "_meta": {
+    "episode_number": 318,
+    "episode_date": "2026-01-29",
+    "rss_title": "#318 Olek Paraska: How AI Is Fixing the Biggest Bottleneck in Construction",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:37:36Z",
+    "input_tokens": 11144,
+    "output_tokens": 1005
+  }
+}

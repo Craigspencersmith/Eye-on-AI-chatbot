@@ -1,0 +1,137 @@
+{
+  "episode_profile": {
+    "title": "Building Secure AI Systems with Blockchain",
+    "guest_name": "Mrinal Manohar",
+    "guest_title": "CEO",
+    "guest_organization": "Casper Labs",
+    "topic_summary": "Mrinal Manohar discusses the innovative integration of blockchain technology in AI governance, emphasizing the importance of tamper-proof records and compliance with emerging regulations. He explains how Casper Labs is developing a product called Prove AI to enhance data integrity and governance in AI systems."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "AI governance",
+      "blockchain technology"
+    ],
+    "industries": [
+      "technology",
+      "finance",
+      "food inspection"
+    ],
+    "policy_areas": [
+      "regulation",
+      "compliance",
+      "ethics"
+    ],
+    "geographic_focus": [
+      "EU",
+      "United States",
+      "China"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Blockchain provides the best form of tamper-proofing for AI governance.",
+      "speaker": "Mrinal Manohar",
+      "context": "Mrinal explains how blockchain's immutable records are essential for ensuring data integrity in AI systems."
+    },
+    {
+      "claim": "The EU AI Act will require AI systems to have a level of auditability similar to financial statements.",
+      "speaker": "Mrinal Manohar",
+      "context": "He discusses the implications of the EU AI Act and how it influences the development of Prove AI."
+    },
+    {
+      "claim": "Prove AI will integrate seamlessly with IBM's Watson X platform, enhancing its governance capabilities.",
+      "speaker": "Mrinal Manohar",
+      "context": "Mrinal describes the collaboration with IBM and how it strengthens the product's market position."
+    },
+    {
+      "claim": "Companies are currently managing AI governance manually, which is inefficient.",
+      "speaker": "Mrinal Manohar",
+      "context": "He highlights the need for automated solutions like Prove AI to streamline governance processes."
+    },
+    {
+      "claim": "The blockchain can enable automated triggers to shut down rogue AI systems.",
+      "speaker": "Mrinal Manohar",
+      "context": "He explains the potential for blockchain to act as a safety mechanism in AI governance."
+    },
+    {
+      "claim": "Casper Labs is ahead of competitors in developing end-to-end AI governance solutions.",
+      "speaker": "Mrinal Manohar",
+      "context": "Mrinal asserts that their early focus on AI governance positions them uniquely in the market."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Shyam Nagarajan"
+    ],
+    "organizations": [
+      "Casper Labs",
+      "IBM",
+      "Gartner",
+      "Watson X",
+      "Grayscale AI"
+    ],
+    "technologies": [
+      "Prove AI",
+      "blockchain"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Mrinal Manohar",
+      "summary": "Mrinal introduces himself and shares his background in computer science and AI governance.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Overview of Casper Labs",
+      "summary": "Discussion on the mission of Casper Labs and its focus on blockchain technology for AI governance.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Prove AI Product Development",
+      "summary": "Details about the Prove AI product, its features, and its integration with IBM's Watson X.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Regulatory Landscape and Compliance",
+      "summary": "Exploration of the EU AI Act and how Prove AI addresses compliance challenges.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of AI Governance",
+      "summary": "Mrinal discusses the future implications of AI governance and the role of blockchain.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Closing Thoughts",
+      "summary": "Mrinal shares final insights and expresses gratitude for the conversation.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Casper Labs",
+      "IBM"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Mrinal emphasizes the importance of tamper-proof records in AI governance.",
+      "Discussion on the potential for blockchain to act as a safety mechanism for AI systems."
+    ]
+  },
+  "_meta": {
+    "episode_number": 195,
+    "episode_date": "2024-06-30",
+    "rss_title": "#195 Mrinal Manohar: Building Secure AI Systems with Blockchain",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:56:48Z",
+    "input_tokens": 13631,
+    "output_tokens": 1003
+  }
+}

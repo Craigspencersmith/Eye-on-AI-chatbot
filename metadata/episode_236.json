@@ -1,0 +1,125 @@
+{
+  "episode_profile": {
+    "title": "Pedro Domingo's on Bayesians and Analogical Learning in AI",
+    "guest_name": "Vall Howard",
+    "guest_title": "CEO",
+    "guest_organization": "Safer AI",
+    "topic_summary": "Vall Howard discusses the role of generative AI in ensuring compliance within financial services. He explains how Safer AI's technology acts as a safety layer to help organizations create compliant content, thereby reducing friction in the content creation process and promoting wider adoption of AI tools in regulated industries."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "compliance AI"
+    ],
+    "industries": [
+      "financial services"
+    ],
+    "policy_areas": [
+      "regulation",
+      "safety"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Safer AI's technology can reduce compliance friction by 70-80%, making it easier for organizations to adopt generative AI.",
+      "speaker": "Vall Howard",
+      "context": "This claim was made in the context of discussing how compliance barriers hinder the adoption of AI in regulated industries."
+    },
+    {
+      "claim": "Generative AI can help create compliant content by suggesting language that adheres to regulatory standards.",
+      "speaker": "Vall Howard",
+      "context": "Vall explained how Safer AI's models assist in generating content that meets compliance requirements, thus streamlining the review process."
+    },
+    {
+      "claim": "The partnership with Microsoft allows Safer AI's models to be integrated into existing workflows, enhancing compliance across various applications.",
+      "speaker": "Vall Howard",
+      "context": "This was mentioned when discussing the strategic partnership with Microsoft and its implications for broader adoption of Safer AI's technology."
+    },
+    {
+      "claim": "Compliance is a significant barrier to AI adoption in regulated industries, and Safer AI aims to address this issue.",
+      "speaker": "Vall Howard",
+      "context": "Vall highlighted the importance of compliance in the financial sector and how Safer AI's solutions can mitigate these challenges."
+    },
+    {
+      "claim": "Safer AI's models can be adapted to reflect changing regulatory requirements, ensuring ongoing compliance.",
+      "speaker": "Vall Howard",
+      "context": "This claim was made in relation to the need for continuous updates to the models as regulations evolve."
+    },
+    {
+      "claim": "The technology developed by Safer AI could potentially be applied to other regulated industries beyond financial services.",
+      "speaker": "Vall Howard",
+      "context": "Vall acknowledged the broader applicability of their compliance solutions to other sectors, although their current focus is on finance."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Safer AI",
+      "Microsoft",
+      "SEC",
+      "Finra",
+      "Moody's Analytics",
+      "Fidelity Labs"
+    ],
+    "technologies": [
+      "large language models",
+      "generative AI"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Safer AI",
+      "summary": "Vall Howard introduces himself and explains the mission of Safer AI in making AI safer for financial services.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Role of Compliance in AI",
+      "summary": "Discussion on how compliance regulations impact the use of AI in financial services and the barriers they create.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Safer AI's Technology Explained",
+      "summary": "Vall details how Safer AI's models work to ensure content compliance and reduce friction in the content creation process.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Partnership with Microsoft",
+      "summary": "Overview of the strategic partnership with Microsoft and how it enhances the integration of Safer AI's models.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of Compliance and AI",
+      "summary": "Vall discusses the future implications of Safer AI's technology and its potential applications in other regulated industries.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Safer AI"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Vall's comparison of Safer AI's technology to a grammar check for regulatory compliance.",
+      "The emphasis on the importance of compliance in fostering trust in generative AI."
+    ]
+  },
+  "_meta": {
+    "episode_number": 236,
+    "episode_date": "2025-02-09",
+    "rss_title": "#236 Pedro Domingo's on Bayesians and Analogical Learning in AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:09:07Z",
+    "input_tokens": 10452,
+    "output_tokens": 1029
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "episode_profile": {
+    "title": "Zapier's Evolution and the Future of AI Automation",
+    "guest_name": "Mike Knoop",
+    "guest_title": "CEO and Co-founder",
+    "guest_organization": "Zapier",
+    "topic_summary": "Mike Knoop discusses the evolution of Zapier from an API integration platform to a leading automation tool leveraging AI. He shares insights on how generative AI is transforming business processes and the challenges of competing in a crowded market."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "automation",
+      "natural language processing"
+    ],
+    "industries": [
+      "technology",
+      "software",
+      "business automation"
+    ],
+    "policy_areas": [
+      "ethics",
+      "regulation"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI and automation are merging into a single concept that business users are beginning to understand.",
+      "speaker": "Mike Knoop",
+      "context": "Knoop emphasizes the growing recognition of AI's role in automation among business users."
+    },
+    {
+      "claim": "Zapier's user base primarily consists of non-technical employees who are eager to automate processes.",
+      "speaker": "Mike Knoop",
+      "context": "Knoop highlights that 80% of Zapier users do not identify as technical, showcasing the platform's accessibility."
+    },
+    {
+      "claim": "The integration of generative AI into Zapier will significantly enhance user capabilities and ease of use.",
+      "speaker": "Mike Knoop",
+      "context": "Knoop discusses how language models can simplify the automation setup process for users."
+    },
+    {
+      "claim": "Startups may struggle to differentiate themselves in a crowded AI market without strong distribution channels.",
+      "speaker": "Mike Knoop",
+      "context": "Knoop reflects on the challenges faced by new entrants in the AI space compared to established players."
+    },
+    {
+      "claim": "The future of work will likely require employees to have a strong understanding of AI and automation tools.",
+      "speaker": "Mike Knoop",
+      "context": "Knoop predicts that proficiency in AI will become a critical skill for employees in the coming years."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Brian",
+      "Wade"
+    ],
+    "organizations": [
+      "Zapier",
+      "YouAI",
+      "OpenAI",
+      "Salesforce",
+      "Atlassian",
+      "Microsoft",
+      "Lyft"
+    ],
+    "technologies": [
+      "ChatGPT",
+      "LeadParser",
+      "AI language models"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Zapier",
+      "summary": "Mike Knoop introduces Zapier and its evolution from an API integration tool to a leading automation platform.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "User Demographics and Use Cases",
+      "summary": "Discussion on the types of users Zapier attracts and the common use cases for automation.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Generative AI Integration",
+      "summary": "Knoop explains how Zapier is integrating generative AI to enhance automation capabilities.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Market Competition and Challenges",
+      "summary": "Knoop shares insights on the competitive landscape of AI automation tools and the challenges startups face.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI in Business",
+      "summary": "Predictions on how AI will shape the future of work and the skills employees will need.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Zapier"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informal discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Knoop's insights on the importance of user experience in automation tools.",
+      "Discussion on the challenges of competing in a crowded AI market."
+    ]
+  },
+  "_meta": {
+    "episode_number": 136,
+    "episode_date": "2023-08-30",
+    "rss_title": "(interpolated between ep135 and ep137)",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:36:49Z",
+    "input_tokens": 11163,
+    "output_tokens": 911
+  }
+}

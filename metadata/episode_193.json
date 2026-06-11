@@ -1,0 +1,131 @@
+{
+  "episode_profile": {
+    "title": "Itamar Friedman: How CodiumAI is Making Bug-Free Code a Reality",
+    "guest_name": "Itamar Friedman",
+    "guest_title": "Co-founder and CEO",
+    "guest_organization": "CodiumAI",
+    "topic_summary": "In this episode, Itamar Friedman discusses CodiumAI's mission to achieve zero bugs in software development through a multi-agent platform. He shares insights on their products, including Codium 8 and Alpha Codium, and explores the future of coding with generative AI."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "machine learning"
+    ],
+    "industries": [
+      "software development",
+      "technology"
+    ],
+    "policy_areas": [],
+    "geographic_focus": [
+      "Israel",
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Achieving zero bugs in software development is an ambitious but necessary goal.",
+      "speaker": "Itamar Friedman",
+      "context": "Friedman emphasizes the importance of code integrity and the challenges faced in software development."
+    },
+    {
+      "claim": "In three to five years, AI will assist developers significantly, allowing them to monitor AI-generated code.",
+      "speaker": "Itamar Friedman",
+      "context": "Friedman discusses the future of coding and the evolving role of developers as AI tools become more capable."
+    },
+    {
+      "claim": "A holistic approach to code integrity is essential, as relying on multiple isolated tools is ineffective.",
+      "speaker": "Itamar Friedman",
+      "context": "Friedman argues for the need for comprehensive solutions that integrate various aspects of software testing and verification."
+    },
+    {
+      "claim": "CodiumAI's AlphaCodium outperforms DeepMind's AlphaCode in generating code with fewer LLM calls.",
+      "speaker": "Itamar Friedman",
+      "context": "Friedman highlights the advancements of CodiumAI's research tool compared to existing solutions."
+    },
+    {
+      "claim": "The future of coding will involve orchestration, similar to how cloud computing has evolved.",
+      "speaker": "Itamar Friedman",
+      "context": "Friedman draws parallels between the evolution of cloud technology and the future of software development."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Daniel Kahneman",
+      "Andrej Karpathy"
+    ],
+    "organizations": [
+      "CodiumAI",
+      "NVIDIA",
+      "Alibaba Group",
+      "DeepMind",
+      "Meta",
+      "DiffBlue"
+    ],
+    "technologies": [
+      "Codiumate",
+      "AlphaCodium",
+      "TestLLM"
+    ],
+    "publications": [
+      "Thinking, Fast and Slow"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to CodiumAI",
+      "summary": "Itamar Friedman introduces CodiumAI and its mission to achieve zero bugs in software development.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Role of Generative AI",
+      "summary": "Discussion on how generative AI is transforming coding and the potential for future developments.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AlphaCodium vs. AlphaCode",
+      "summary": "Friedman compares CodiumAI's AlphaCodium with DeepMind's AlphaCode, highlighting performance differences.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Holistic Code Integrity",
+      "summary": "The importance of a comprehensive approach to code integrity and testing is emphasized.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of Software Development",
+      "summary": "Friedman shares insights on the evolving landscape of software development and the role of AI.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Thinking, Fast and Slow",
+      "authors": "Daniel Kahneman",
+      "context": "Friedman references Kahneman's concepts of System 1 and System 2 thinking in relation to decision-making processes."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "CodiumAI"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Friedman emphasizes the ambitious goal of zero bugs in software development.",
+      "Discussion on the future role of developers as AI tools evolve."
+    ]
+  },
+  "_meta": {
+    "episode_number": 193,
+    "episode_date": "2024-06-13",
+    "rss_title": "#193 Itamar Friedman: How CodiumAI is Making Bug-Free Code a Reality",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:56:07Z",
+    "input_tokens": 10662,
+    "output_tokens": 990
+  }
+}

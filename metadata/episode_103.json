@@ -1,0 +1,130 @@
+{
+  "episode_profile": {
+    "title": "Building Trust in AI: Insights from Aaron Patzer",
+    "guest_name": "Aaron Patzer",
+    "guest_title": "Co-founder and CEO",
+    "guest_organization": "VITAL",
+    "topic_summary": "Aaron Patzer discusses the challenges of building trust in AI-driven applications, particularly in healthcare and personal finance. He shares insights on the importance of security protocols and user data protection in both VITAL and Mint."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "NLP",
+      "predictive analytics"
+    ],
+    "industries": [
+      "healthcare",
+      "finance"
+    ],
+    "policy_areas": [
+      "privacy",
+      "security",
+      "regulation"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Trust is an emotional issue in technology, especially when it comes to handling sensitive data like financial and health information.",
+      "speaker": "Aaron Patzer",
+      "context": "Patzer emphasizes the need for a trustworthy brand and robust security measures to gain user confidence."
+    },
+    {
+      "claim": "VITAL's AI can predict emergency room wait times with high accuracy by analyzing various factors beyond just the number of patients.",
+      "speaker": "Aaron Patzer",
+      "context": "He explains how their AI models consider patient severity and historical data to improve predictions."
+    },
+    {
+      "claim": "Natural language processing is crucial for understanding subtle indicators in patient notes that can signal conditions like sepsis.",
+      "speaker": "Aaron Patzer",
+      "context": "Patzer highlights the importance of NLP in enhancing the accuracy of their predictive models."
+    },
+    {
+      "claim": "Interoperability in healthcare data is a significant barrier to the adoption of AI solutions.",
+      "speaker": "Aaron Patzer",
+      "context": "He discusses the challenges of accessing real-time data from various hospital systems for effective AI implementation."
+    },
+    {
+      "claim": "VITAL's approach is to supplement healthcare professionals rather than replace them, enhancing communication and efficiency.",
+      "speaker": "Aaron Patzer",
+      "context": "Patzer clarifies that their AI tools are designed to assist doctors and nurses in their workflow."
+    },
+    {
+      "claim": "The adoption rate of VITAL's software is significantly higher than typical healthcare applications due to its user-friendly design.",
+      "speaker": "Aaron Patzer",
+      "context": "He notes that their progressive web app format leads to a 50-70% utilization rate among patients."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Fei-Fei Li",
+      "Sandy Frazier"
+    ],
+    "organizations": [
+      "Mint",
+      "VITAL",
+      "Emory University",
+      "Epic"
+    ],
+    "technologies": [
+      "natural language processing",
+      "deep learning",
+      "SSL encryption"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Aaron Patzer",
+      "summary": "Aaron shares his background and the founding story of Mint and VITAL.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Trust and Security in AI",
+      "summary": "Discussion on the importance of trust and security protocols in AI applications.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI in Emergency Rooms",
+      "summary": "Exploration of how VITAL uses AI to improve patient experience and predict wait times.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in Healthcare Data",
+      "summary": "Patzer discusses the barriers to accessing and utilizing healthcare data for AI.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI in Healthcare",
+      "summary": "Insights into the potential future applications of AI in monitoring and patient care.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "VITAL",
+      "Mint"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Patzer's insights on the emotional aspect of trust in technology.",
+      "The high adoption rate of VITAL's software compared to typical healthcare applications."
+    ]
+  },
+  "_meta": {
+    "episode_number": 103,
+    "episode_date": "2022-07-15",
+    "rss_title": "Amazon's Rohit Prasad",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:27:44Z",
+    "input_tokens": 9734,
+    "output_tokens": 958
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "episode_profile": {
+    "title": "Exploring No-Code Machine Learning with Akkio",
+    "guest_name": "John Riley",
+    "guest_title": "Co-founder",
+    "guest_organization": "Akkio",
+    "topic_summary": "In this episode, John Riley discusses the evolution and impact of no-code machine learning platforms, particularly Akkio. He explains how these platforms democratize access to AI, allowing non-technical users to leverage machine learning for data-driven decision-making."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "automated machine learning",
+      "no-code AI"
+    ],
+    "industries": [
+      "technology",
+      "politics",
+      "finance",
+      "insurance",
+      "logistics"
+    ],
+    "policy_areas": [
+      "data privacy",
+      "ethics"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "No-code platforms are making machine learning accessible to non-technical users, allowing them to leverage AI for data-driven decisions.",
+      "speaker": "John Riley",
+      "context": "John discusses the evolution of technology from complex programming to user-friendly interfaces."
+    },
+    {
+      "claim": "Akkio automates the selection of the best machine learning model for a given dataset, making it easier for users to achieve accurate predictions.",
+      "speaker": "John Riley",
+      "context": "John explains how Akkio uses AutoML to streamline the modeling process."
+    },
+    {
+      "claim": "The ability to leverage time as an input variable is crucial for forecasting and time series modeling.",
+      "speaker": "John Riley",
+      "context": "John highlights the importance of time-driven analysis in machine learning applications."
+    },
+    {
+      "claim": "Machine learning can only learn patterns from historical data, which limits its predictive capabilities.",
+      "speaker": "John Riley",
+      "context": "John uses hurricane tracking as an analogy to explain the limitations of time series forecasting."
+    },
+    {
+      "claim": "Akkio's platform is designed for business analysts rather than data scientists, focusing on ease of use and accessibility.",
+      "speaker": "John Riley",
+      "context": "John describes the target audience for Akkio and how it differs from traditional data science tools."
+    },
+    {
+      "claim": "The no-code movement is enabling more people to leverage technology effectively across various applications.",
+      "speaker": "John Riley",
+      "context": "John discusses the broader implications of no-code platforms in democratizing technology."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Akkio",
+      "ClearML",
+      "Sterling Strategies"
+    ],
+    "technologies": [
+      "AutoML",
+      "large language models"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to No-Code ML",
+      "summary": "Craig introduces the concept of no-code machine learning and its significance.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Akkio's Features and Capabilities",
+      "summary": "John explains the functionalities of Akkio, including model types and user experience.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Real-World Applications",
+      "summary": "John discusses various applications of Akkio in different industries, including political fundraising.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges and Limitations",
+      "summary": "John addresses the limitations of machine learning and the importance of data quality.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of No-Code Platforms",
+      "summary": "John shares insights on the future of no-code platforms and their impact on business.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Akkio"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "John discusses the analogy of hurricane tracking to explain forecasting limitations.",
+      "John emphasizes the importance of data quality in machine learning predictions."
+    ]
+  },
+  "_meta": {
+    "episode_number": 109,
+    "episode_date": "2022-09-21",
+    "rss_title": "Amazon's Sagemaker",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:29:32Z",
+    "input_tokens": 10142,
+    "output_tokens": 928
+  }
+}

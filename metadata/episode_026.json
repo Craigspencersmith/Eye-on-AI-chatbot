@@ -1,0 +1,127 @@
+{
+  "episode_profile": {
+    "title": "Labelbox: Revolutionizing Data Labeling for AI",
+    "guest_name": "Manu Sharma, Brian Rieger",
+    "guest_title": "Founder and CEO, Co-founder and COO",
+    "guest_organization": "Labelbox",
+    "topic_summary": "This episode discusses the challenges and innovations in data labeling for AI, focusing on the founding and mission of Labelbox. Manu Sharma and Brian Rieger share their experiences in the industry and the importance of high-quality labeled data for machine learning models."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "computer vision",
+      "machine learning"
+    ],
+    "industries": [
+      "technology",
+      "agriculture",
+      "aerospace"
+    ],
+    "policy_areas": [
+      "ethics",
+      "bias",
+      "regulation"
+    ],
+    "geographic_focus": [
+      "United States",
+      "India",
+      "Chile"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The demand for data labeling is expected to grow significantly, potentially reaching hundreds of thousands to millions of workers by the mid-2020s.",
+      "speaker": "Brian Rieger",
+      "context": "This claim was made in the context of discussing the projected growth of the data labeling industry as AI adoption increases."
+    },
+    {
+      "claim": "Labelbox aims to provide a platform that simplifies the data labeling process, making it more efficient and collaborative.",
+      "speaker": "Manu Sharma",
+      "context": "This was discussed when explaining the core mission of Labelbox and its role in the AI ecosystem."
+    },
+    {
+      "claim": "Human supervision in data labeling will continue to grow despite advancements in automated labeling technologies.",
+      "speaker": "Manu Sharma",
+      "context": "This claim was made while discussing the future of data labeling and the balance between human and automated efforts."
+    },
+    {
+      "claim": "The quality of labeled data is crucial for the performance of machine learning models, and Labelbox focuses on providing high-quality data solutions.",
+      "speaker": "Brian Rieger",
+      "context": "This was emphasized when discussing the importance of data quality in AI applications."
+    },
+    {
+      "claim": "Bias in data can lead to ethical issues in AI decision-making, and Labelbox's tools can help identify and correct these biases.",
+      "speaker": "Brian Rieger",
+      "context": "This claim was made in relation to the discussion on the ethical implications of AI and the role of data labeling."
+    },
+    {
+      "claim": "Labelbox is positioned to evolve with the industry, adapting its tools to meet the changing needs of AI development.",
+      "speaker": "Manu Sharma",
+      "context": "This was mentioned when discussing the future direction of Labelbox and its commitment to advancing AI."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Labelbox",
+      "Drone Deploy",
+      "Planet Labs"
+    ],
+    "technologies": [
+      "deep learning",
+      "neural networks"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Labelbox",
+      "summary": "Craig introduces the guests and the concept of data labeling in AI, highlighting the challenges faced by data science teams.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Founding Story",
+      "summary": "Manu and Brian share their backgrounds and the journey that led to the creation of Labelbox, including their previous ventures.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "The Importance of Data Labeling",
+      "summary": "The discussion focuses on the critical role of labeled data in training machine learning models and the projected growth of the labeling workforce.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Labelbox's Mission and Tools",
+      "summary": "Manu explains Labelbox's mission to provide a robust platform for data labeling and the features that facilitate collaboration.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Ethics and Bias in AI",
+      "summary": "The guests discuss the ethical implications of data bias in AI and how Labelbox addresses these challenges.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Labelbox"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "entrepreneurial discussion",
+    "tone": "informative",
+    "notable_moments": [
+      "The guests emphasize the importance of high-quality labeled data for AI success.",
+      "Discussion on the ethical implications of bias in AI and the role of data labeling."
+    ]
+  },
+  "_meta": {
+    "episode_number": 26,
+    "episode_date": "2019-10-24",
+    "rss_title": "Episode 26 - Labelbox",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:03:17Z",
+    "input_tokens": 8448,
+    "output_tokens": 1026
+  }
+}

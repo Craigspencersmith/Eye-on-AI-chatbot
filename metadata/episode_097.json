@@ -1,0 +1,127 @@
+{
+  "episode_profile": {
+    "title": "Tom Denton on Audio Machine Learning for Birdsong",
+    "guest_name": "Tom Denton",
+    "guest_title": "Software Engineer",
+    "guest_organization": "Google",
+    "topic_summary": "Tom Denton discusses his work on audio machine learning, specifically focusing on separating individual birdsongs from background noise. He explains the challenges of working with bioacoustics and the development of algorithms that can enhance the identification of bird species in the wild."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "audio processing",
+      "bioacoustics"
+    ],
+    "industries": [
+      "technology",
+      "environmental conservation"
+    ],
+    "policy_areas": [
+      "conservation",
+      "endangered species protection"
+    ],
+    "geographic_focus": [
+      "Hawaii",
+      "California"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The separation algorithm developed allows for the isolation of individual bird vocalizations from noisy environments.",
+      "speaker": "Tom Denton",
+      "context": "This claim was made in the context of discussing the challenges of identifying birdsongs in the wild where multiple species vocalize simultaneously."
+    },
+    {
+      "claim": "Existing bird song classification apps are improving but still struggle with accurately identifying species due to background noise.",
+      "speaker": "Tom Denton",
+      "context": "Tom highlighted the limitations of current apps and how his team's approach could enhance their performance."
+    },
+    {
+      "claim": "The unsupervised sound separation technique is a novel approach that can be applied to various fields beyond bioacoustics.",
+      "speaker": "Tom Denton",
+      "context": "Tom explained that the techniques developed could also benefit areas like EEG signal processing and seismology."
+    },
+    {
+      "claim": "The next big challenge in bird classification is identifying rare and endangered species with limited training data.",
+      "speaker": "Tom Denton",
+      "context": "This claim was made while discussing the Kaggle competition focused on Hawaiian bird species."
+    },
+    {
+      "claim": "The algorithms developed could potentially be embedded in hearing aids to help users focus on specific voices in noisy environments.",
+      "speaker": "Tom Denton",
+      "context": "Tom discussed the implications of their technology for improving hearing aids and addressing the cocktail party problem."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Scott Wisdom",
+      "John Hershey",
+      "Jack Dumbacher",
+      "Durrell Kapan",
+      "Mary Clapp"
+    ],
+    "organizations": [
+      "Google",
+      "Cornell Lab of Ornithology",
+      "California Academy of Sciences"
+    ],
+    "technologies": [
+      "ClearML",
+      "BirdNet",
+      "Raven"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Tom Denton",
+      "summary": "Tom Denton introduces himself and shares his background in machine learning and bioacoustics.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Challenges in Audio Machine Learning",
+      "summary": "Discussion on the unique challenges of working with audio signals compared to other machine learning domains.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Sound Separation Techniques",
+      "summary": "Tom explains the algorithms used for separating bird vocalizations from background noise.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Applications and Future Directions",
+      "summary": "Exploration of potential applications of the technology in conservation and other fields.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Implications for Hearing Aids",
+      "summary": "Discussion on how the technology could improve hearing aids and assist users in noisy environments.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Google"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Tom's excitement about the effectiveness of the separation algorithm.",
+      "Discussion on the potential impact of identifying endangered species."
+    ]
+  },
+  "_meta": {
+    "episode_number": 97,
+    "episode_date": "2022-03-31",
+    "rss_title": "Tom Siebel of C3.AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:25:28Z",
+    "input_tokens": 7078,
+    "output_tokens": 916
+  }
+}

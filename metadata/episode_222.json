@@ -1,0 +1,154 @@
+{
+  "episode_profile": {
+    "title": "Andrew Feldman: How Cerebras Systems Is Disrupting AI Inference",
+    "guest_name": "Andrew Feldman",
+    "guest_title": "CEO",
+    "guest_organization": "Cerebras Systems",
+    "topic_summary": "Andrew Feldman discusses the evolution of AI inference and how Cerebras Systems is leading the charge with its wafer-scale engine technology. He emphasizes the shift from AI as a novelty to a critical component of business operations, highlighting the importance of speed and efficiency in inference."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "inference",
+      "hardware acceleration",
+      "large language models"
+    ],
+    "industries": [
+      "technology",
+      "cloud computing",
+      "energy"
+    ],
+    "policy_areas": [
+      "regulation",
+      "industrial policy",
+      "geopolitics"
+    ],
+    "geographic_focus": [
+      "United States",
+      "China",
+      "Saudi Arabia"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The shift from training AI to using AI for inference marks a significant turning point in the industry.",
+      "speaker": "Andrew Feldman",
+      "context": "Feldman explains that the novelty of AI has transitioned into practical applications, driving demand for faster inference solutions."
+    },
+    {
+      "claim": "Cerebras Systems has achieved the fastest AI inference in the world, surpassing traditional GPU speeds.",
+      "speaker": "Andrew Feldman",
+      "context": "He discusses the advantages of their near-memory compute architecture that allows for unprecedented memory bandwidth."
+    },
+    {
+      "claim": "The market for inference will grow to encompass more than half of compute resources in the future.",
+      "speaker": "Andrew Feldman",
+      "context": "Feldman predicts that AI will become foundational in many corporate workflows, necessitating significant infrastructure changes."
+    },
+    {
+      "claim": "The traditional dominance of NVIDIA in the training market is being challenged by new players and technologies.",
+      "speaker": "Andrew Feldman",
+      "context": "He highlights the emergence of alternative hardware solutions and the growing interest in non-GPU training methods."
+    },
+    {
+      "claim": "OpenAI's reliance on NVIDIA hardware is due to historical partnerships and optimizations, but they are open to exploring other options.",
+      "speaker": "Andrew Feldman",
+      "context": "Feldman reflects on the complexities of OpenAI's hardware relationships and the potential for future collaborations."
+    },
+    {
+      "claim": "The future of AI will involve a combination of edge computing and cloud-based inference, tailored to specific applications.",
+      "speaker": "Andrew Feldman",
+      "context": "He discusses the balance between edge and cloud computing in delivering AI applications effectively."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Sam Altman",
+      "Rodrigo from Samba Nova",
+      "Gene Amdahl",
+      "William Shockley"
+    ],
+    "organizations": [
+      "Cerebras Systems",
+      "OpenAI",
+      "NVIDIA",
+      "AWS",
+      "Azure",
+      "CoreWeave",
+      "Lambda",
+      "Sovereign Clouds",
+      "Lawrence Livermore National Laboratory",
+      "Argonne National Laboratory",
+      "Sandia National Laboratories",
+      "Los Alamos National Laboratory",
+      "Total Energies",
+      "Aramco"
+    ],
+    "technologies": [
+      "LAMA 8B",
+      "LAMA 70B",
+      "wafer-scale engine",
+      "TPUs"
+    ],
+    "publications": [
+      "Chip Wars"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to AI Inference",
+      "summary": "Andrew Feldman introduces the concept of AI inference and its evolution from novelty to necessity in business.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Cerebras Technology Overview",
+      "summary": "Discussion on Cerebras Systems' wafer-scale engine and its advantages over traditional GPUs.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Market Dynamics and Competition",
+      "summary": "Feldman analyzes the competitive landscape of AI hardware and the shifting dynamics with new entrants.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of AI and Inference",
+      "summary": "Predictions on the future role of AI in corporate workflows and the balance between edge and cloud computing.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Geopolitical Considerations",
+      "summary": "Discussion on the impact of geopolitical factors on the AI hardware market and international collaborations.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Chip Wars",
+      "authors": "Chris",
+      "context": "Referenced in the context of discussing the geopolitical implications of chip manufacturing and competition."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Cerebras Systems"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Feldman emphasizes the importance of speed in inference, comparing it to the evolution of internet speeds and their impact on business.",
+      "Discussion on the potential for AI to become foundational in corporate workflows, urging organizations to adapt or risk being left behind."
+    ]
+  },
+  "_meta": {
+    "episode_number": 222,
+    "episode_date": "2024-11-28",
+    "rss_title": "#222 Andrew Feldman: How Cerebras Systems Is Disrupting AI Inference",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:05:06Z",
+    "input_tokens": 7241,
+    "output_tokens": 1153
+  }
+}

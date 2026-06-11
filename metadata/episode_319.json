@@ -1,0 +1,130 @@
+{
+  "episode_profile": {
+    "title": "Why Traditional App Security Fails in the Age of AI",
+    "guest_name": "Subho Halder",
+    "guest_title": "Co-founder and CEO",
+    "guest_organization": "Appnox",
+    "topic_summary": "Subho Halder discusses the evolving landscape of mobile application security in the context of rapid AI advancements. He highlights the challenges posed by the increasing complexity of applications and the need for security measures that adapt to this dynamic environment."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "security",
+      "machine learning"
+    ],
+    "industries": [
+      "technology",
+      "finance",
+      "retail"
+    ],
+    "policy_areas": [
+      "regulation",
+      "ethics",
+      "data privacy"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The traditional approach to app security is outdated and fails to address the rapid evolution of software development.",
+      "speaker": "Subho Halder",
+      "context": "Subho explains how the speed of software releases and the complexity of applications have outpaced traditional security measures."
+    },
+    {
+      "claim": "AI is not just an incremental improvement in security; it represents a fundamental shift in how we secure applications.",
+      "speaker": "Subho Halder",
+      "context": "He argues that the integration of AI into applications changes the security landscape, requiring new approaches to protect sensitive data."
+    },
+    {
+      "claim": "Malicious actors can exploit security flaws in AI-based applications, leading to significant risks for users.",
+      "speaker": "Subho Halder",
+      "context": "Subho discusses the dangers of fake applications that mimic legitimate ones, potentially compromising user data."
+    },
+    {
+      "claim": "Trust in AI systems is eroding, and companies must provide transparency to rebuild that trust.",
+      "speaker": "Subho Halder",
+      "context": "He emphasizes the importance of transparency in how AI processes user data to foster trust among consumers."
+    },
+    {
+      "claim": "The review processes of app stores are inadequate to prevent the proliferation of malicious applications.",
+      "speaker": "Subho Halder",
+      "context": "Subho explains how benign-looking apps can still pose significant risks, highlighting the limitations of current app review practices."
+    },
+    {
+      "claim": "AI can enhance penetration testing, but it is not yet a complete substitute for human testers.",
+      "speaker": "Subho Halder",
+      "context": "He notes that while AI can automate parts of penetration testing, human reasoning is still crucial for identifying complex vulnerabilities."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Craig S. Smith"
+    ],
+    "organizations": [
+      "Appnox",
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Apple"
+    ],
+    "technologies": [
+      "ChatGPT",
+      "AI-powered search",
+      "Cloud Code"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to App Security",
+      "summary": "Subho Halder introduces himself and discusses the evolution of mobile application security.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Challenges of AI in Security",
+      "summary": "The conversation shifts to the challenges posed by AI in securing applications and the risks of malicious actors.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Trust and Transparency in AI",
+      "summary": "Subho emphasizes the importance of trust and transparency in AI systems to rebuild consumer confidence.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Penetration Testing with AI",
+      "summary": "The discussion covers the role of AI in penetration testing and the limitations compared to human testers.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of App Security",
+      "summary": "Subho shares insights on the future of app security and the role of AI in enhancing security measures.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Appnox"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Subho discusses the alarming rise of fake applications in app stores.",
+      "The conversation highlights the psychological aspects of trust in technology."
+    ]
+  },
+  "_meta": {
+    "episode_number": 319,
+    "episode_date": "2026-02-01",
+    "rss_title": "#319 Subho Halder: Why Traditional App Security Fails in the Age of AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:38:02Z",
+    "input_tokens": 11741,
+    "output_tokens": 982
+  }
+}

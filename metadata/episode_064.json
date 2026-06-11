@@ -1,0 +1,141 @@
+{
+  "episode_profile": {
+    "title": "AI for Education: Insights from Yoshua Bengio and Iulian Serban",
+    "guest_name": "Yoshua Bengio, Iulian Serban",
+    "guest_title": "Professor, Co-founder",
+    "guest_organization": "University of Montreal, Korbit",
+    "topic_summary": "This episode explores the application of AI in education, focusing on the development of personalized AI tutors that enhance learning experiences. Yoshua Bengio and Iulian Serban discuss their work at Korbit, the challenges of democratizing education, and the potential impact of AI technologies on teaching and learning."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "NLP",
+      "reinforcement learning",
+      "deep learning"
+    ],
+    "industries": [
+      "education",
+      "ed-tech"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI tutors can significantly increase student engagement and study time compared to traditional online courses.",
+      "speaker": "Iulian Serban",
+      "context": "Iulian discusses the results of studies comparing Korbit's AI tutoring system to regular MOOCs, highlighting a 73% increase in study time."
+    },
+    {
+      "claim": "The integration of AI in education can help address inequalities in access to quality teaching, especially in underprivileged regions.",
+      "speaker": "Yoshua Bengio",
+      "context": "Yoshua emphasizes the potential of AI to provide personalized learning experiences where skilled educators are scarce."
+    },
+    {
+      "claim": "Korbit's AI tutor is not rule-based but leverages deep learning and NLP technologies to create personalized learning paths.",
+      "speaker": "Iulian Serban",
+      "context": "Iulian contrasts Korbit's approach with older rule-based systems, explaining how deep learning allows for faster course creation."
+    },
+    {
+      "claim": "The future of AI in education will involve significant advancements in natural language understanding and reasoning capabilities.",
+      "speaker": "Yoshua Bengio",
+      "context": "Yoshua discusses the need for improved AI systems that can understand and reason about educational content more effectively."
+    },
+    {
+      "claim": "Korbit aims to democratize AI education by making it accessible to a broader audience, addressing ethical considerations in technology.",
+      "speaker": "Iulian Serban",
+      "context": "Iulian highlights the importance of educating more people about AI and its implications for society."
+    },
+    {
+      "claim": "The development of AI tutors is still in its early stages, akin to the first generation of mobile phones, with much room for improvement.",
+      "speaker": "Iulian Serban",
+      "context": "Iulian uses this analogy to explain the current limitations and future potential of AI tutoring technologies."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Aaron Courville",
+      "Ekaterina Kochmar",
+      "Vinod Khosla"
+    ],
+    "organizations": [
+      "Korbit",
+      "Mila",
+      "Concordia University",
+      "Dawson College"
+    ],
+    "technologies": [
+      "transformers",
+      "deep learning",
+      "NLP"
+    ],
+    "publications": [
+      "AIET 2020 conference"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Korbit",
+      "summary": "Craig introduces the guests and the mission of Korbit in the context of AI and education.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Role of AI in Education",
+      "summary": "Yoshua and Iulian discuss how AI can personalize learning and address educational inequalities.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Korbit's AI Tutor Features",
+      "summary": "Iulian explains the functionalities of Korbit's AI tutor and how it differs from traditional systems.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Research and Impact",
+      "summary": "The guests share insights from their research studies and the impact of Korbit on student learning.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI in Education",
+      "summary": "Yoshua and Iulian discuss the future advancements needed in AI for education and the importance of democratizing AI knowledge.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "AIET 2020 conference",
+      "authors": "",
+      "context": "Iulian mentions the conference where they published their research findings."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "University of Montreal",
+      "Korbit"
+    ],
+    "funding_sources": [
+      "Khosla Ventures"
+    ],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "educational discussion",
+    "tone": "collegial",
+    "notable_moments": [
+      "Yoshua discusses the psychological aspects of AI tutors and the importance of emotional interaction.",
+      "Iulian compares the current state of AI tutors to early mobile phones, emphasizing the potential for future development."
+    ]
+  },
+  "_meta": {
+    "episode_number": 64,
+    "episode_date": "2021-01-28",
+    "rss_title": "Yoshua Bengio and Iulian Serban on AI for Education",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:14:34Z",
+    "input_tokens": 9244,
+    "output_tokens": 1139
+  }
+}

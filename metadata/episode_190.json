@@ -1,0 +1,137 @@
+{
+  "episode_profile": {
+    "title": "Fighting Financial Crimes with AI",
+    "guest_name": "Peter Cousins",
+    "guest_title": "CTO",
+    "guest_organization": "WorkFusion",
+    "topic_summary": "In this episode, Peter Cousins discusses the integration of generative AI and classical AI in combating financial crimes. He highlights the challenges and advancements in fraud detection, compliance, and the automation of anti-financial crime processes within the financial services sector."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "classical AI",
+      "natural language processing"
+    ],
+    "industries": [
+      "finance",
+      "banking"
+    ],
+    "policy_areas": [
+      "regulation",
+      "compliance",
+      "anti-money laundering"
+    ],
+    "geographic_focus": [
+      "United States",
+      "Europe",
+      "Middle East"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Generative AI can serve as a tiebreaker in cases where classical AI is uncertain, enhancing decision-making in fraud detection.",
+      "speaker": "Peter Cousins",
+      "context": "Peter explains the role of generative AI in providing additional insights when classical AI is on the confidence bubble."
+    },
+    {
+      "claim": "The integration of generative AI can significantly reduce the workload of compliance teams by automating the analysis of alerts.",
+      "speaker": "Peter Cousins",
+      "context": "He discusses how digital workers can handle large volumes of alerts, allowing human investigators to focus on more complex cases."
+    },
+    {
+      "claim": "Classical AI techniques are currently more cost-effective and faster than generative AI for many tasks.",
+      "speaker": "Peter Cousins",
+      "context": "Peter emphasizes the efficiency of classical AI in routine tasks while noting the complementary role of generative AI."
+    },
+    {
+      "claim": "The use of generative AI in financial services is still cautious due to concerns about errors and the need for certainty.",
+      "speaker": "Peter Cousins",
+      "context": "He highlights the hesitance of financial institutions to fully adopt generative AI in critical compliance areas."
+    },
+    {
+      "claim": "Continuous monitoring and real-time analysis can drastically improve KYC processes and reduce compliance risks.",
+      "speaker": "Peter Cousins",
+      "context": "Peter outlines how their platform enables banks to efficiently manage KYC by filtering out low-risk signals."
+    },
+    {
+      "claim": "The hybrid approach of combining human oversight with AI capabilities is essential for effective fraud detection.",
+      "speaker": "Peter Cousins",
+      "context": "He discusses the importance of human judgment in conjunction with AI to ensure accurate outcomes in investigations."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "WorkFusion",
+      "Bottomline Technologies",
+      "IBM",
+      "Thomson Reuters",
+      "LexisNexis"
+    ],
+    "technologies": [
+      "LangChain",
+      "Mistral"
+    ],
+    "publications": [
+      "Fighting Fraud with AI"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to WorkFusion",
+      "summary": "Peter Cousins introduces himself and provides background on WorkFusion's focus on intelligent automation for financial crime solutions.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Generative AI in Financial Services",
+      "summary": "Discussion on the cautious adoption of generative AI in fraud detection and compliance, and its role alongside classical AI.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Use Cases and Applications",
+      "summary": "Peter explains specific use cases, such as sanction screening and KYC processes, highlighting the effectiveness of digital workers.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges and Solutions",
+      "summary": "Exploration of the challenges faced in financial crime detection and how AI technologies can address these issues.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI in Compliance",
+      "summary": "Peter discusses the evolving landscape of AI in financial services and the importance of continuous monitoring and human oversight.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Fighting Fraud with AI",
+      "authors": "",
+      "context": "Peter references this paper to discuss the intersection of generative AI and classical AI in combating financial crime."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "WorkFusion"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Peter emphasizes the importance of explainability in AI decisions, particularly in compliance contexts.",
+      "He discusses the 'needle in a haystack' problem in sanction screening and how digital workers can alleviate this issue."
+    ]
+  },
+  "_meta": {
+    "episode_number": 190,
+    "episode_date": "2024-05-29",
+    "rss_title": "#190 Peter Cousins: Fighting Financial Crimes with AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:55:08Z",
+    "input_tokens": 9647,
+    "output_tokens": 1073
+  }
+}

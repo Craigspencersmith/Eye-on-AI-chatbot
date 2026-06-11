@@ -1,0 +1,137 @@
+{
+  "episode_profile": {
+    "title": "Christian Marek: How AI is Shaping the Future of Product Management",
+    "guest_name": "Rodrigo Leon",
+    "guest_title": "Co-founder and CEO",
+    "guest_organization": "Salmanova",
+    "topic_summary": "Rodrigo Leon discusses the evolution of AI inference systems and their impact on product management. He highlights the competitive landscape, particularly against NVIDIA, and emphasizes the importance of efficiency, speed, and accuracy in AI deployment."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "inference systems",
+      "semiconductors",
+      "machine learning"
+    ],
+    "industries": [
+      "technology",
+      "cloud computing",
+      "energy"
+    ],
+    "policy_areas": [],
+    "geographic_focus": [
+      "Saudi Arabia",
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The cost of inferencing will be ten times more than what we spend on training.",
+      "speaker": "Rodrigo Leon",
+      "context": "Rodrigo emphasizes the shift in focus from training to production AI, highlighting the growing importance of efficient inference."
+    },
+    {
+      "claim": "Salmanova's inference system can achieve 132 tokens per second in full precision, outperforming competitors.",
+      "speaker": "Rodrigo Leon",
+      "context": "Rodrigo compares Salmanova's performance metrics against those of NVIDIA and other competitors, showcasing their technological advancements."
+    },
+    {
+      "claim": "The world is moving towards open-source models and customization in AI.",
+      "speaker": "Rodrigo Leon",
+      "context": "Rodrigo discusses the trend of enterprises wanting to train their private data into models and the importance of open-source solutions."
+    },
+    {
+      "claim": "Salmanova is the most deployed AI chip startup in the US government.",
+      "speaker": "Rodrigo Leon",
+      "context": "Rodrigo highlights Salmanova's significant presence in government sectors, indicating trust and reliability in their technology."
+    },
+    {
+      "claim": "The future of AI will require handling larger models with greater accuracy and speed.",
+      "speaker": "Rodrigo Leon",
+      "context": "Rodrigo outlines the demands of the market for faster, more accurate AI solutions as models continue to grow in size."
+    },
+    {
+      "claim": "Salmanova's architecture allows for multi-tenancy, enabling multiple AI checkpoints to run concurrently.",
+      "speaker": "Rodrigo Leon",
+      "context": "Rodrigo explains how their technology can efficiently manage multiple AI models, enhancing flexibility for enterprises."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "NVIDIA",
+      "Salmanova",
+      "Google",
+      "Intel",
+      "BlackRock",
+      "SoftBank",
+      "Temasek",
+      "Saudi Aramco"
+    ],
+    "technologies": [
+      "Lama 3.1",
+      "Lama 70B",
+      "Grok",
+      "Cerebras",
+      "CUDA"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Salmanova",
+      "summary": "Rodrigo Leon introduces himself and discusses his background in high-performance chip design.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Inference Landscape",
+      "summary": "Discussion on the competitive landscape of AI inference systems and the performance of Salmanova's technology.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges and Opportunities",
+      "summary": "Rodrigo addresses the challenges faced by competitors like Cerebras and NVIDIA in the inference market.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of AI Inference",
+      "summary": "Exploration of trends in AI, including the shift towards open-source models and the need for customization.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Salmanova's Technological Edge",
+      "summary": "Rodrigo explains the unique features of Salmanova's architecture, including multi-tenancy and efficiency.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Salmanova"
+    ],
+    "funding_sources": [
+      "Google",
+      "Intel",
+      "BlackRock",
+      "SoftBank",
+      "Temasek"
+    ],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Rodrigo claims that AI production costs for inferencing will surpass training costs by tenfold.",
+      "He emphasizes the importance of speed and accuracy in AI models, stating that the world is impatient for real-time results."
+    ]
+  },
+  "_meta": {
+    "episode_number": 225,
+    "episode_date": "2024-12-18",
+    "rss_title": "#225 Christian Marek: How AI is Shaping the Future of Product Management",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:06:01Z",
+    "input_tokens": 5692,
+    "output_tokens": 1046
+  }
+}

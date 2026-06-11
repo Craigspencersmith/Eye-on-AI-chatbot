@@ -1,0 +1,136 @@
+{
+  "episode_profile": {
+    "title": "Riiid, the leader in AI for Education",
+    "guest_name": "David Yi, Yohan Lee",
+    "guest_title": "CEO, Head of Strategy",
+    "guest_organization": "Riiid Labs",
+    "topic_summary": "David Yi and Yohan Lee discuss Riiid's mission to democratize education through AI, focusing on personalized learning and the impact of their algorithms on test preparation. They also highlight the Riiid AIEd Challenge and the potential of AI to transform educational assessments."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "natural language processing"
+    ],
+    "industries": [
+      "education"
+    ],
+    "policy_areas": [
+      "equity",
+      "accessibility"
+    ],
+    "geographic_focus": [
+      "United States",
+      "Korea"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI can significantly reduce the time required for standardized testing, making assessments more efficient and personalized.",
+      "speaker": "David Yi",
+      "context": "Discussing the potential of AI to transform traditional testing methods."
+    },
+    {
+      "claim": "The integration of AI in education can help identify students' strengths and weaknesses, allowing for tailored learning experiences.",
+      "speaker": "David Yi",
+      "context": "Explaining how AI can provide formative assessments rather than just conclusive evaluations."
+    },
+    {
+      "claim": "Riiid's Santa TOEIC program exemplifies how AI can replace traditional test prep processes with continuous assessment.",
+      "speaker": "David Yi",
+      "context": "Describing the innovative approach of using AI to enhance test preparation."
+    },
+    {
+      "claim": "The Riiid AIEd Challenge attracted over 3,000 teams globally, showcasing the interest in AI applications in education.",
+      "speaker": "Yohan Lee",
+      "context": "Highlighting the success and engagement of the AI education community."
+    },
+    {
+      "claim": "AI can help predict student performance and engagement, which is crucial for addressing dropout rates in education.",
+      "speaker": "Yohan Lee",
+      "context": "Discussing the importance of predictive analytics in improving educational outcomes."
+    },
+    {
+      "claim": "Riiid aims to create an open educational resource that democratizes access to quality education through AI.",
+      "speaker": "David Yi",
+      "context": "Emphasizing the company's commitment to equity in education."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Yoshua Bengio",
+      "Julian Serban"
+    ],
+    "organizations": [
+      "Riiid",
+      "Stanford University",
+      "Google Brain",
+      "Booz Allen Hamilton",
+      "National Institutes of Health"
+    ],
+    "technologies": [
+      "Santa TOEIC",
+      "EdNet",
+      "transformer algorithms",
+      "deep attentive neural networks"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Riiid",
+      "summary": "David Yi and Yohan Lee introduce themselves and their roles at Riiid Labs, discussing the company's mission.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "AI in Education",
+      "summary": "The guests discuss how AI can address various educational challenges and improve personalized learning.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "The Santa TOEIC Program",
+      "summary": "David explains the Santa TOEIC program and its role in transforming test preparation through AI.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Riiid AIEd Challenge",
+      "summary": "Yohan shares insights about the AIEd Challenge and its impact on the AI education community.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI in Education",
+      "summary": "The discussion shifts to the future applications of AI in education and the importance of equity.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "AI EdNet Challenge",
+      "authors": "",
+      "context": "Referenced as a significant event that engaged thousands of teams in AI research for education."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Riiid Labs"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "David's emphasis on the convoluted nature of education and the potential of AI to simplify it.",
+      "Yohan's insights on the importance of formative learning and engagement."
+    ]
+  },
+  "_meta": {
+    "episode_number": 65,
+    "episode_date": "2021-02-03",
+    "rss_title": "Riiid, the leader in AI for Education",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:14:52Z",
+    "input_tokens": 10620,
+    "output_tokens": 1022
+  }
+}

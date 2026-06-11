@@ -1,0 +1,126 @@
+{
+  "episode_profile": {
+    "title": "Jarrod Johnson: How Agentic AI Is Impacting Modern Customer Service",
+    "guest_name": "Jarrod Johnson",
+    "guest_title": "Chief Customer Officer",
+    "guest_organization": "TaskUs",
+    "topic_summary": "Jarrod Johnson discusses the transformative role of agentic AI in customer service, emphasizing its ability to automate interactions and improve efficiency. He explains how TaskUs integrates AI technologies to enhance customer experiences while maintaining human oversight for complex issues."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "agentic AI",
+      "natural language processing"
+    ],
+    "industries": [
+      "customer service",
+      "healthcare",
+      "technology"
+    ],
+    "policy_areas": [
+      "data privacy",
+      "compliance",
+      "AI safety"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Agentic AI can significantly increase the percentage of customer interactions resolved without human intervention, potentially reaching 70%.",
+      "speaker": "Jarrod Johnson",
+      "context": "This claim highlights the efficiency gains that can be achieved through the implementation of agentic AI in customer service."
+    },
+    {
+      "claim": "The integration of agentic AI allows for actions to be taken on behalf of customers, such as locking a card, which was previously only possible through human agents.",
+      "speaker": "Jarrod Johnson",
+      "context": "This illustrates the advanced capabilities of agentic AI compared to traditional chatbots."
+    },
+    {
+      "claim": "TaskUs aims to evolve its workforce by transitioning human agents to more complex tasks as AI handles simpler interactions.",
+      "speaker": "Jarrod Johnson",
+      "context": "This reflects the company's strategy to adapt to the changing landscape of customer service."
+    },
+    {
+      "claim": "Clients can achieve significant cost savings, estimated at 20-30%, by implementing agentic AI solutions.",
+      "speaker": "Jarrod Johnson",
+      "context": "This emphasizes the financial benefits of adopting AI technologies in customer service operations."
+    },
+    {
+      "claim": "The future of customer service will likely see a shift from traditional IVR systems to more natural language interactions powered by AI.",
+      "speaker": "Jarrod Johnson",
+      "context": "This prediction indicates a trend towards more user-friendly customer service experiences."
+    },
+    {
+      "claim": "The success of agentic AI deployments depends heavily on the quality of knowledge management and backend systems.",
+      "speaker": "Jarrod Johnson",
+      "context": "This highlights the importance of foundational processes in the effective implementation of AI solutions."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "TaskUs",
+      "Regal",
+      "Decagon"
+    ],
+    "technologies": [
+      "agentic AI",
+      "LLM",
+      "CRM systems"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to TaskUs",
+      "summary": "Jarrod Johnson introduces TaskUs and its focus on digital customer experience and AI services.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Role of AI in Customer Service",
+      "summary": "Discussion on how AI, particularly agentic AI, is transforming customer service interactions.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Partnerships and Technology Integration",
+      "summary": "Exploration of TaskUs's partnerships with Regal and Decagon and their impact on AI strategy.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in AI Implementation",
+      "summary": "Jarrod outlines the challenges companies face when deploying agentic AI solutions.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of Customer Service",
+      "summary": "Predictions on the evolution of customer service and the role of AI in shaping future interactions.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "TaskUs"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Jarrod emphasizes the existential threat AI poses to traditional customer service roles.",
+      "The discussion highlights the importance of AI literacy among human agents."
+    ]
+  },
+  "_meta": {
+    "episode_number": 315,
+    "episode_date": "2026-01-21",
+    "rss_title": "#315 Jarrod Johnson: How Agentic AI Is Impacting Modern Customer Service",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:36:35Z",
+    "input_tokens": 12782,
+    "output_tokens": 964
+  }
+}

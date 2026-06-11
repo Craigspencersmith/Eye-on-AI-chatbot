@@ -1,0 +1,135 @@
+{
+  "episode_profile": {
+    "title": "Naveen Jain: How AI Predicts Cancer, Diabetes & Chronic Illness",
+    "guest_name": "Naveen Jain",
+    "guest_title": "Founder and CEO",
+    "guest_organization": "Viome",
+    "topic_summary": "Naveen Jain discusses the potential of AI in predicting chronic diseases like cancer and diabetes. He shares insights on how his company, Viome, analyzes biomarkers to provide personalized health recommendations and early disease detection."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "healthcare AI",
+      "biomarker analysis",
+      "predictive analytics"
+    ],
+    "industries": [
+      "healthcare",
+      "biotechnology"
+    ],
+    "policy_areas": [
+      "healthcare regulation",
+      "personalized medicine"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Chronic diseases develop over many years, allowing for early detection through biomarker analysis.",
+      "speaker": "Naveen Jain",
+      "context": "Jain emphasizes the importance of understanding biological changes over time to predict diseases."
+    },
+    {
+      "claim": "Viome's approach focuses on RNA testing rather than DNA to understand health conditions.",
+      "speaker": "Naveen Jain",
+      "context": "Jain argues that RNA changes during disease onset, making it a more effective measure for early detection."
+    },
+    {
+      "claim": "The cost of sequencing and processing biological data has dramatically decreased, enabling scalable health solutions.",
+      "speaker": "Naveen Jain",
+      "context": "Jain highlights advancements in technology that make it feasible to analyze large amounts of health data."
+    },
+    {
+      "claim": "Viome can diagnose stage one oral cancer with high specificity and sensitivity using saliva tests.",
+      "speaker": "Naveen Jain",
+      "context": "Jain discusses the innovative testing methods developed by Viome for early cancer detection."
+    },
+    {
+      "claim": "Personalized health recommendations can significantly improve quality of life and reduce chronic disease symptoms.",
+      "speaker": "Naveen Jain",
+      "context": "Jain shares data from Viome's studies showing improvements in health outcomes for users."
+    },
+    {
+      "claim": "Intellectual curiosity is essential for innovation and disruption in any industry.",
+      "speaker": "Naveen Jain",
+      "context": "Jain encourages listeners to challenge existing beliefs and think critically to drive change."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Eric Topol"
+    ],
+    "organizations": [
+      "Viome",
+      "NASA",
+      "Los Alamos National Lab",
+      "Stanford",
+      "MIT"
+    ],
+    "technologies": [
+      "RNA sequencing",
+      "AI",
+      "biomarkers"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Viome",
+      "summary": "Naveen Jain introduces himself and shares the inspiration behind starting Viome.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Understanding Chronic Diseases",
+      "summary": "Discussion on how chronic diseases develop over time and the importance of early detection.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Innovative Testing Methods",
+      "summary": "Jain explains Viome's unique approach to testing and diagnosing diseases using RNA.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Impact of Personalized Health",
+      "summary": "Exploration of how personalized health recommendations can improve patient outcomes.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "The Role of AI in Healthcare",
+      "summary": "Jain discusses the future of AI in predicting and managing chronic diseases.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Attention is All You Need",
+      "authors": "Vaswani et al.",
+      "context": "Jain references this foundational paper on transformer architecture in AI."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Viome"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Jain's personal story about his father's battle with cancer.",
+      "The revelation that Viome can detect stage one cancers with high accuracy."
+    ]
+  },
+  "_meta": {
+    "episode_number": 291,
+    "episode_date": "2025-10-06",
+    "rss_title": "#291 Naveen Jain: How AI Predicts Cancer, Diabetes & Chronic Illness",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:27:55Z",
+    "input_tokens": 11673,
+    "output_tokens": 976
+  }
+}

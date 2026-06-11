@@ -1,0 +1,131 @@
+{
+  "episode_profile": {
+    "title": "Joel Hron: How Thomson Reuters is Approaching The Next Era of AI",
+    "guest_name": "Joel Hron",
+    "guest_title": "Chief Technology Officer",
+    "guest_organization": "Thomson Reuters",
+    "topic_summary": "Joel Hron discusses the evolution of AI at Thomson Reuters, focusing on the development of agentic systems that can autonomously plan and execute workflows. He emphasizes the importance of integrating human expertise into AI systems to enhance accuracy and user trust."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "agentic systems",
+      "machine learning",
+      "natural language processing"
+    ],
+    "industries": [
+      "legal",
+      "tax compliance",
+      "media"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The level of agency in AI systems can be adjusted based on the specific use case, allowing for varying degrees of autonomy.",
+      "speaker": "Joel Hron",
+      "context": "Hron explains how agency can be dialed up or down depending on the precision and repeatability required in different applications."
+    },
+    {
+      "claim": "Human experts play a critical role in the development and evaluation of AI systems, ensuring they align with legal standards and practices.",
+      "speaker": "Joel Hron",
+      "context": "Hron highlights the importance of leveraging domain experts to enhance the quality and reliability of AI outputs."
+    },
+    {
+      "claim": "The future of AI will involve multi-agent systems that collaborate and communicate, but challenges around memory and context sharing remain.",
+      "speaker": "Joel Hron",
+      "context": "Hron discusses the potential for multi-agent collaboration and the need for effective memory management in these systems."
+    },
+    {
+      "claim": "AI systems will never achieve 100% accuracy, but the goal is to continuously narrow the error margins through better design and user feedback.",
+      "speaker": "Joel Hron",
+      "context": "Hron addresses the inherent limitations of AI models and the importance of user experience in verifying outputs."
+    },
+    {
+      "claim": "Adaptability is the most important skill for engineers in the rapidly changing AI landscape.",
+      "speaker": "Joel Hron",
+      "context": "Hron emphasizes the need for engineers to be flexible and willing to learn new technologies as the field evolves."
+    },
+    {
+      "claim": "The integration of AI into workflows requires careful consideration of the level of autonomy granted to AI systems.",
+      "speaker": "Joel Hron",
+      "context": "Hron explains the balance between automation and human oversight in the deployment of AI agents."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Andrej Karpathy"
+    ],
+    "organizations": [
+      "Thomson Reuters",
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Westlaw"
+    ],
+    "technologies": [
+      "OCR",
+      "MLOps",
+      "Lang Chain",
+      "agency"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Agentic Systems",
+      "summary": "Joel Hron defines agentic systems and discusses their evolution and importance in AI.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Role of Human Experts",
+      "summary": "The conversation highlights how human expertise is integrated into AI systems to enhance their effectiveness.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges of Multi-Agent Collaboration",
+      "summary": "Hron discusses the complexities of memory management and context sharing in multi-agent systems.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Accuracy and User Trust",
+      "summary": "The importance of user experience design in verifying AI outputs and building trust is emphasized.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future Skills for Engineers",
+      "summary": "Hron shares insights on the skills engineers need to thrive in the evolving AI landscape.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Thomson Reuters"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Hron's insights on the adaptability required for engineers in the AI field.",
+      "Discussion on the importance of human verification in AI outputs."
+    ]
+  },
+  "_meta": {
+    "episode_number": 290,
+    "episode_date": "2025-09-29",
+    "rss_title": "#290 Joel Hron: How Thomson Reuters is Approaching The Next Era of AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:27:34Z",
+    "input_tokens": 12404,
+    "output_tokens": 1003
+  }
+}

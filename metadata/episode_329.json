@@ -1,0 +1,126 @@
+{
+  "episode_profile": {
+    "title": "Quantum Elements: Enhancing Quantum Computing with Digital Twins",
+    "guest_name": "Izhar",
+    "guest_title": "Co-founder and CEO",
+    "guest_organization": "Quantum Elements",
+    "topic_summary": "Izhar discusses the innovative use of digital twins and AI to optimize quantum computing systems. He explains how these technologies can enhance the accuracy and efficiency of quantum algorithms, particularly in error correction and noise management."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "reinforcement learning"
+    ],
+    "industries": [
+      "technology",
+      "quantum computing"
+    ],
+    "policy_areas": [],
+    "geographic_focus": [
+      "Israel",
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Using digital twins, we improved the accuracy of Schor's algorithm from 80% to 99% on IBM's quantum platform.",
+      "speaker": "Izhar",
+      "context": "This claim illustrates the effectiveness of digital twins in optimizing quantum algorithms by simulating and correcting errors."
+    },
+    {
+      "claim": "The ability to create a digital twin allows for large-scale error correction and the generation of labeled data for AI training.",
+      "speaker": "Izhar",
+      "context": "This highlights how digital twins can facilitate the development of AI models that address quantum computing challenges."
+    },
+    {
+      "claim": "Quantum systems are inherently noisy, and understanding the environmental factors affecting qubits is crucial for their performance.",
+      "speaker": "Izhar",
+      "context": "This emphasizes the complexity of quantum systems and the need for precise modeling to mitigate noise."
+    },
+    {
+      "claim": "The future of quantum computing will likely involve hybrid approaches, integrating classical and quantum systems for optimal performance.",
+      "speaker": "Izhar",
+      "context": "This reflects the current trajectory of quantum technology development and its practical applications."
+    },
+    {
+      "claim": "We can simulate over 100 noisy qubits, pushing the boundaries of classical simulation capabilities.",
+      "speaker": "Izhar",
+      "context": "This demonstrates the advancements in simulation technology that can aid in quantum error correction."
+    },
+    {
+      "claim": "The industry is moving towards logical qubits, which require ensembles of physical qubits to function effectively.",
+      "speaker": "Izhar",
+      "context": "This indicates a significant step in quantum computing, where logical qubits can perform meaningful computations."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Professor Daniel Lidar",
+      "Professor Amiria Kobe"
+    ],
+    "organizations": [
+      "IBM",
+      "Quantum Elements",
+      "ETH Zurich",
+      "Harvard",
+      "USC"
+    ],
+    "technologies": [
+      "Schor's algorithm",
+      "digital twins"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Quantum Elements",
+      "summary": "Izhar introduces himself and discusses his background in quantum computing and the founding of Quantum Elements.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Understanding Digital Twins",
+      "summary": "The conversation delves into the concept of digital twins and their role in simulating quantum systems.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Error Correction and AI Integration",
+      "summary": "Izhar explains how digital twins facilitate error correction and the generation of data for AI training.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of Quantum Computing",
+      "summary": "Discussion on the hybrid approaches in quantum computing and the potential for logical qubits.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Milestones in Quantum Development",
+      "summary": "Izhar outlines key milestones to watch for in the quantum computing landscape over the next few years.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Quantum Elements"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Izhar's explanation of how digital twins can simulate quantum systems and improve algorithm accuracy.",
+      "The discussion on the challenges of noise in quantum computing and how digital twins can help mitigate these issues."
+    ]
+  },
+  "_meta": {
+    "episode_number": 329,
+    "episode_date": "2026-03-27",
+    "rss_title": "#328 Kevin Tian: Exploring Doppel's AI-Native Social Engineering Defense Platform",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:42:37Z",
+    "input_tokens": 10963,
+    "output_tokens": 963
+  }
+}

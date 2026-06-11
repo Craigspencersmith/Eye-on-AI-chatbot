@@ -1,0 +1,125 @@
+{
+  "episode_profile": {
+    "title": "Andy Kurtzig: How Pearl Uses AI + Human Experts In Professional Services",
+    "guest_name": "Andy Kurtzig",
+    "guest_title": "Founder and CEO",
+    "guest_organization": "Pearl",
+    "topic_summary": "Andy Kurtzig discusses how Pearl combines AI with a network of human experts to enhance the quality of professional services in fields like healthcare and legal. He explains the unique business model that leverages human verification to improve accuracy and trust in AI-generated responses."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "natural language processing"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "veterinary",
+      "accounting",
+      "tech support"
+    ],
+    "policy_areas": [
+      "ethics",
+      "liability",
+      "regulation"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "Pearl's AI platform is 22% more accurate than ChatGPT and Google Gemini in professional services.",
+      "speaker": "Andy Kurtzig",
+      "context": "This claim highlights Pearl's focus on quality and the integration of human experts in the verification process."
+    },
+    {
+      "claim": "The combination of AI and human experts reduces the risk of misinformation in critical fields like healthcare and legal services.",
+      "speaker": "Andy Kurtzig",
+      "context": "Kurtzig emphasizes the importance of human oversight to mitigate the risks associated with AI hallucinations."
+    },
+    {
+      "claim": "Consumers are willing to pay for AI services that provide better accuracy and human validation.",
+      "speaker": "Andy Kurtzig",
+      "context": "Research indicates that a significant percentage of consumers trust AI more when human experts validate the answers."
+    },
+    {
+      "claim": "Pearl's business model is sustainable because it monetizes through subscriptions for expert consultations.",
+      "speaker": "Andy Kurtzig",
+      "context": "Kurtzig explains how the model leverages the willingness of users to pay for expert advice while keeping initial AI responses free."
+    },
+    {
+      "claim": "The current foundational AI models are facing significant challenges related to risk, quality, and monetization.",
+      "speaker": "Andy Kurtzig",
+      "context": "Kurtzig outlines the limitations of existing AI models and how Pearl addresses these issues."
+    },
+    {
+      "claim": "Pearl allows users to get multiple expert opinions easily, which is a significant advantage over traditional methods.",
+      "speaker": "Andy Kurtzig",
+      "context": "This feature addresses the common barrier of obtaining second opinions in healthcare and legal contexts."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Pearl",
+      "Just Answer"
+    ],
+    "technologies": [
+      "LLMs",
+      "AI"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Pearl",
+      "summary": "Andy Kurtzig introduces Pearl and its unique approach to combining AI with human expertise.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "AI Accuracy and Human Verification",
+      "summary": "Discussion on how Pearl achieves higher accuracy through human expert verification of AI responses.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Business Model and Monetization",
+      "summary": "Kurtzig explains Pearl's subscription model and how it monetizes its services through expert consultations.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in AI Models",
+      "summary": "Kurtzig outlines the fundamental challenges faced by current AI models regarding risk and quality.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI in Professional Services",
+      "summary": "Predictions on how AI will evolve in professional services and the importance of human oversight.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Pearl",
+      "Just Answer"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "collegial",
+    "notable_moments": [
+      "Kurtzig's emphasis on the importance of human verification in AI responses.",
+      "The discussion on consumer trust and willingness to pay for validated AI answers."
+    ]
+  },
+  "_meta": {
+    "episode_number": 266,
+    "episode_date": "2025-06-29",
+    "rss_title": "#266 Andy Kurtzig: How Pearl Uses AI + Human Experts In Professional Services",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:19:32Z",
+    "input_tokens": 10362,
+    "output_tokens": 966
+  }
+}

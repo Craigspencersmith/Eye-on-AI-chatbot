@@ -1,0 +1,138 @@
+{
+  "episode_profile": {
+    "title": "Rajat Taneja: Visa's $3.3 Billion AI Strategy",
+    "guest_name": "Rajat Taneja",
+    "guest_title": "President of Technology",
+    "guest_organization": "Visa",
+    "topic_summary": "Rajat Taneja discusses Visa's extensive use of AI in fraud detection and transaction processing, highlighting their $3.3 billion investment in AI technologies. He elaborates on the future of commerce with generative AI and agentic systems, emphasizing the importance of trust and security in financial transactions."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "fraud detection",
+      "generative AI",
+      "deep learning",
+      "neural networks"
+    ],
+    "industries": [
+      "finance",
+      "technology"
+    ],
+    "policy_areas": [
+      "cybersecurity",
+      "privacy",
+      "regulation"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Visa has detected and stopped over $40 billion in fraud using AI models.",
+      "speaker": "Rajat Taneja",
+      "context": "This claim illustrates the effectiveness of Visa's AI in managing fraud risk."
+    },
+    {
+      "claim": "AI is embedded in Visa's operations, processing over 300 billion transactions annually.",
+      "speaker": "Rajat Taneja",
+      "context": "This highlights the scale at which Visa utilizes AI to ensure transaction security and efficiency."
+    },
+    {
+      "claim": "Generative AI will transform commerce by enhancing buyer-seller interactions.",
+      "speaker": "Rajat Taneja",
+      "context": "Taneja discusses the potential of generative AI to improve the shopping experience."
+    },
+    {
+      "claim": "Visa has invested over $3.3 billion in building a sophisticated data platform for AI.",
+      "speaker": "Rajat Taneja",
+      "context": "This investment underscores Visa's commitment to leveraging AI for operational excellence."
+    },
+    {
+      "claim": "Identity verification will evolve with agentic commerce, utilizing biometrics and behavioral analytics.",
+      "speaker": "Rajat Taneja",
+      "context": "Taneja explains how Visa is preparing for future identity verification methods in e-commerce."
+    },
+    {
+      "claim": "Visa's AI models are developed and managed internally, ensuring control over their technology.",
+      "speaker": "Rajat Taneja",
+      "context": "This statement emphasizes Visa's long-standing commitment to AI and its proprietary technology."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Ryan McInerney",
+      "Jack Forrestal"
+    ],
+    "organizations": [
+      "Visa",
+      "Institute of Future",
+      "Credit Karma"
+    ],
+    "technologies": [
+      "deep neural networks",
+      "generative AI",
+      "AI models"
+    ],
+    "publications": [
+      "paper in collaboration with the Institute of Future"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Visa's AI Strategy",
+      "summary": "Rajat Taneja introduces Visa's long history with AI and its current applications in fraud detection.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Fraud Detection Techniques",
+      "summary": "Discussion on the AI models used for detecting and preventing fraud in transactions.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Generative AI and Future Commerce",
+      "summary": "Exploration of how generative AI will change the landscape of commerce and consumer interactions.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Identity Verification Innovations",
+      "summary": "Taneja discusses the future of identity verification in e-commerce and the role of biometrics.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Visa's Commitment to AI Development",
+      "summary": "Insights into Visa's internal development of AI models and their strategic investments.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "paper in collaboration with the Institute of Future",
+      "authors": "",
+      "context": "This paper discusses the future of commerce and the role of AI agents."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Visa"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Visa has been an AI company since the 90s, yet remains under-recognized for its contributions.",
+      "The analogy of fresh grape juice aging into wine to describe the value of data over time."
+    ]
+  },
+  "_meta": {
+    "episode_number": 245,
+    "episode_date": "2025-04-02",
+    "rss_title": "#245 Rajat Taneja: Visa's President of Technology Reveals Their $3.3 Billion AI Strategy",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:12:07Z",
+    "input_tokens": 4985,
+    "output_tokens": 1026
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "episode_profile": {
+    "title": "Matt Price: How Crescendo is Disrupting Customer Service with Gen AI",
+    "guest_name": "Matt Price",
+    "guest_title": "CEO",
+    "guest_organization": "Crescendo",
+    "topic_summary": "Matt Price discusses how Crescendo is revolutionizing customer service through the integration of generative AI and human agents. He emphasizes the importance of holistic service design and the need for quality in AI interactions to enhance customer engagement."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI"
+    ],
+    "industries": [
+      "customer service",
+      "technology"
+    ],
+    "policy_areas": [
+      "regulation",
+      "ethics"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "Generative AI can significantly improve customer service quality if integrated properly with human agents.",
+      "speaker": "Matt Price",
+      "context": "Price highlights the importance of blending AI capabilities with human expertise to optimize customer interactions."
+    },
+    {
+      "claim": "The traditional model of customer service often misaligns incentives between technology providers and BPOs.",
+      "speaker": "Matt Price",
+      "context": "He explains how this misalignment leads to poor customer experiences and emphasizes the need for a new approach."
+    },
+    {
+      "claim": "Crescendo's model allows for a more engaging customer experience rather than merely deflecting inquiries.",
+      "speaker": "Matt Price",
+      "context": "Price discusses how their approach encourages more meaningful interactions between customers and the service agents."
+    },
+    {
+      "claim": "AI can handle repetitive tasks, allowing human agents to focus on more complex and fulfilling work.",
+      "speaker": "Matt Price",
+      "context": "He notes that this shift can lead to higher job satisfaction and lower turnover rates in call centers."
+    },
+    {
+      "claim": "The outsourced BPO market is worth half a trillion dollars, indicating significant growth potential for Crescendo's model.",
+      "speaker": "Matt Price",
+      "context": "Price outlines the market opportunity for companies that can provide high-quality customer service through innovative solutions."
+    },
+    {
+      "claim": "Crescendo's approach to customer service can lead to lower costs per interaction while improving service quality.",
+      "speaker": "Matt Price",
+      "context": "He emphasizes the economic benefits of their outcome-based pricing model compared to traditional headcount-based models."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Crescendo",
+      "Partner Hero"
+    ],
+    "technologies": [
+      "generative AI"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Crescendo",
+      "summary": "Matt Price introduces Crescendo and its mission to enhance customer service through technology and human integration.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Role of AI in Customer Service",
+      "summary": "Discussion on how generative AI can improve customer service quality and the challenges of implementation.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Misalignment of Incentives",
+      "summary": "Exploration of the traditional customer service model and how it often leads to poor customer experiences.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Impact on Call Center Jobs",
+      "summary": "Price discusses how AI can make call center jobs more fulfilling and reduce turnover rates.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Market Potential for Crescendo",
+      "summary": "Analysis of the vast market opportunity for Crescendo's innovative customer service solutions.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Crescendo"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Price emphasizes the importance of redesigning customer service processes to fully leverage AI capabilities.",
+      "He notes that the traditional BPO model is outdated and needs to evolve to meet modern customer expectations."
+    ]
+  },
+  "_meta": {
+    "episode_number": 233,
+    "episode_date": "2025-01-26",
+    "rss_title": "#233 Matt Price: How Crescendo is Disrupting Customer Service with Gen AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:08:29Z",
+    "input_tokens": 7831,
+    "output_tokens": 930
+  }
+}

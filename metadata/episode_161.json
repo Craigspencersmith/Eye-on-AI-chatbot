@@ -1,0 +1,131 @@
+{
+  "episode_profile": {
+    "title": "Harut Martirosyan: What Secrets Lie Behind Armenia's AI Surge?",
+    "guest_name": "Harut Martirosyan",
+    "guest_title": "CTO",
+    "guest_organization": "Intent AI",
+    "topic_summary": "In this episode, Harut Martirosyan discusses Armenia's emerging tech ecosystem, highlighting the country's Soviet-era computing legacy and the challenges of finding experienced AI talent. He shares insights on Intent AI's privacy-focused ad targeting platform and the impact of major tech companies like NVIDIA and Adobe on Armenia's AI landscape."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "advertising technology"
+    ],
+    "industries": [
+      "technology",
+      "advertising"
+    ],
+    "policy_areas": [
+      "privacy",
+      "data protection"
+    ],
+    "geographic_focus": [
+      "Armenia",
+      "United States",
+      "Russia",
+      "Iran"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Armenia's tech ecosystem is growing, but it still needs more fundamental growth despite the hype from major companies.",
+      "speaker": "Harut Martirosyan",
+      "context": "Martirosyan reflects on the excitement surrounding foreign investments and the presence of big tech companies in Armenia."
+    },
+    {
+      "claim": "Finding experienced AI talent in Armenia is challenging due to a lack of senior specialists.",
+      "speaker": "Harut Martirosyan",
+      "context": "He discusses the disparity in salary expectations and the overall undeveloped state of the local IT market."
+    },
+    {
+      "claim": "Armenia's historical legacy in mathematics and engineering contributes to its current reputation as a tech hub.",
+      "speaker": "Harut Martirosyan",
+      "context": "Martirosyan attributes Armenia's tech potential to its Soviet-era educational institutions and research."
+    },
+    {
+      "claim": "The Armenian market is too small for local startups to thrive, necessitating a focus on Western markets.",
+      "speaker": "Harut Martirosyan",
+      "context": "He explains that startups in Armenia often target international markets from the outset due to the limited local consumer base."
+    },
+    {
+      "claim": "The arrival of major tech companies has enriched the local community and filled gaps in expertise.",
+      "speaker": "Harut Martirosyan",
+      "context": "He notes that the influx of professionals from companies like NVIDIA and Adobe has improved the talent pool in Armenia."
+    },
+    {
+      "claim": "Political instability in the region limits investment and growth opportunities for Armenian tech companies.",
+      "speaker": "Harut Martirosyan",
+      "context": "He discusses how geopolitical tensions affect investor confidence and the willingness of companies to establish operations in Armenia."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Andrew Ng"
+    ],
+    "organizations": [
+      "NVIDIA",
+      "Adobe",
+      "Intent AI",
+      "Automate Machines Problems Research Institute",
+      "Mergelyan Institute",
+      "ServiceTitan"
+    ],
+    "technologies": [
+      "AI",
+      "machine learning",
+      "data science"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Armenia's AI Landscape",
+      "summary": "Harut Martirosyan introduces himself and discusses the historical context of Armenia's tech ecosystem.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Challenges in AI Talent Acquisition",
+      "summary": "Martirosyan explains the difficulties in finding experienced AI professionals in Armenia and the disparity in salary expectations.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Intent AI's Privacy-Focused Approach",
+      "summary": "He describes Intent AI's ad targeting technology and its emphasis on privacy and effective targeting.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Impact of Major Tech Companies",
+      "summary": "Martirosyan discusses how the presence of companies like NVIDIA and Adobe is influencing the local tech community.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Geopolitical Challenges",
+      "summary": "He reflects on how Armenia's political situation affects its tech development and investment opportunities.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Intent AI"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informal discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Martirosyan's candid reflections on the challenges of the Armenian tech ecosystem and the influence of historical context."
+    ]
+  },
+  "_meta": {
+    "episode_number": 161,
+    "episode_date": "2023-12-20",
+    "rss_title": "#161 Harut Martirosyan: What Secrets Lie Behind Armenia's AI Surge?",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:43:42Z",
+    "input_tokens": 9550,
+    "output_tokens": 1007
+  }
+}

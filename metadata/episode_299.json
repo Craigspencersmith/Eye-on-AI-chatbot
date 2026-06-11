@@ -1,0 +1,130 @@
+{
+  "episode_profile": {
+    "title": "Why the Future of AI Won't Be Built on Transformers",
+    "guest_name": "Jacob Buckman",
+    "guest_title": "Co-founder",
+    "guest_organization": "Manifest AI",
+    "topic_summary": "Jacob Buckman discusses the limitations of transformer models in AI and introduces his new architecture, Power Retention, which aims to address scaling issues and improve efficiency in processing large contexts. He emphasizes the potential of this architecture for various applications, including scientific research and information retrieval."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "neural networks",
+      "state space models",
+      "in-context learning"
+    ],
+    "industries": [
+      "technology",
+      "research"
+    ],
+    "policy_areas": [],
+    "geographic_focus": [
+      "United States",
+      "Canada"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The quadratic cost of transformers makes them inefficient for processing large contexts, which is a significant limitation.",
+      "speaker": "Jacob Buckman",
+      "context": "Buckman explains how transformers scale poorly with context size, leading to high computational costs."
+    },
+    {
+      "claim": "Power Retention allows for independent scaling of state size and parameter count, improving model efficiency.",
+      "speaker": "Jacob Buckman",
+      "context": "He describes how this architecture can optimize performance across various tasks by adjusting state size."
+    },
+    {
+      "claim": "In-context learning is often more effective than fine-tuning for many tasks, especially with the limitations of current models.",
+      "speaker": "Jacob Buckman",
+      "context": "Buckman argues that many tasks benefit more from leveraging context rather than modifying model weights."
+    },
+    {
+      "claim": "The future of AI should focus on updating knowledge through context rather than solely through weight updates.",
+      "speaker": "Jacob Buckman",
+      "context": "He suggests that this shift could alleviate issues like catastrophic forgetting in AI models."
+    },
+    {
+      "claim": "Power Retention models can effectively handle vast amounts of information, making them suitable for applications like scientific research.",
+      "speaker": "Jacob Buckman",
+      "context": "Buckman highlights the potential for these models to synthesize large datasets for complex reasoning tasks."
+    },
+    {
+      "claim": "The architecture can be applied to robotics, allowing robots to adapt and learn from their experiences over time.",
+      "speaker": "Jacob Buckman",
+      "context": "He discusses the implications of Power Retention for creating more resilient and adaptable robotic systems."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Manifest AI",
+      "Mila",
+      "Decibel",
+      "True"
+    ],
+    "technologies": [
+      "Power Retention",
+      "Mamba",
+      "LSTM",
+      "GRU",
+      "Power Coder"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Power Retention",
+      "summary": "Jacob Buckman introduces the concept of Power Retention and its significance in AI architecture.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Limitations of Transformers",
+      "summary": "The discussion focuses on the inefficiencies of transformer models, particularly regarding scaling and context processing.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Applications of Power Retention",
+      "summary": "Buckman explores potential applications of the Power Retention model, including scientific research and robotics.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "In-context Learning vs. Fine-tuning",
+      "summary": "The conversation highlights the advantages of in-context learning over traditional fine-tuning methods.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future Directions in AI",
+      "summary": "Buckman shares his vision for the future of AI, emphasizing the need for continual learning and context-based knowledge updates.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Manifest AI",
+      "Mila"
+    ],
+    "funding_sources": [
+      "Decibel",
+      "True"
+    ],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Buckman emphasizes the importance of scaling laws in AI architecture.",
+      "He draws an analogy between human learning and AI state updates."
+    ]
+  },
+  "_meta": {
+    "episode_number": 299,
+    "episode_date": "2025-11-09",
+    "rss_title": "#299 Jacob Buckman: Why the Future of AI Won't Be Built on Transformers",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:30:47Z",
+    "input_tokens": 12132,
+    "output_tokens": 977
+  }
+}

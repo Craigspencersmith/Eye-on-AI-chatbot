@@ -1,0 +1,121 @@
+{
+  "episode_profile": {
+    "title": "Aytekin Tank: How to Fully Automate Your Customer Service with AI Agents",
+    "guest_name": "Aytekin Tank",
+    "guest_title": "Founder and CEO",
+    "guest_organization": "JotForm",
+    "topic_summary": "Aytekin Tank discusses the evolution of JotForm's AI agents, which have transformed customer service by automating responses and improving resolution rates. He shares insights on the technology behind these agents and their potential to enhance user experience for businesses."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "natural language processing"
+    ],
+    "industries": [
+      "customer service",
+      "software",
+      "small business"
+    ],
+    "policy_areas": [
+      "automation",
+      "user privacy"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "JotForm's AI agents have improved customer service resolution rates from 30% to 70% within two months.",
+      "speaker": "Aytekin Tank",
+      "context": "This claim highlights the effectiveness of AI in handling customer inquiries and the rapid improvements made through iterative development."
+    },
+    {
+      "claim": "AI agents can perform tasks beyond answering questions, such as scheduling appointments and making API calls.",
+      "speaker": "Aytekin Tank",
+      "context": "This illustrates the advanced capabilities of AI agents compared to traditional chatbots."
+    },
+    {
+      "claim": "The average response time for customer support has decreased from one hour to 30 minutes due to AI integration.",
+      "speaker": "Aytekin Tank",
+      "context": "This demonstrates the efficiency gains achieved through the use of AI agents in customer service."
+    },
+    {
+      "claim": "JotForm aims to enable every small business to have its own AI agent for customer interactions.",
+      "speaker": "Aytekin Tank",
+      "context": "This reflects the vision of democratizing access to AI technology for businesses of all sizes."
+    },
+    {
+      "claim": "The company has seen steady growth, reaching 10,000 users within two months of launching their AI product.",
+      "speaker": "Aytekin Tank",
+      "context": "This indicates a positive market reception and the potential for further expansion."
+    },
+    {
+      "claim": "JotForm's AI agents are designed to be user-friendly and accessible, particularly for small businesses.",
+      "speaker": "Aytekin Tank",
+      "context": "This emphasizes the company's focus on serving a niche market that often lacks resources for complex AI solutions."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "JotForm",
+      "Xtreme Networks"
+    ],
+    "technologies": [
+      "OpenAI 4.1",
+      "Gemini 2.0"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to JotForm",
+      "summary": "Aytekin Tank shares the origins of JotForm and its growth over two decades.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "AI Integration in Customer Service",
+      "summary": "Discussion on how JotForm's AI agents were developed and their impact on customer service.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Performance Metrics",
+      "summary": "Aytekin explains the improvements in resolution rates and response times due to AI.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of AI in Business",
+      "summary": "Exploration of the vision for AI agents in small businesses and their potential benefits.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Market Position and Growth",
+      "summary": "Aytekin discusses JotForm's growth trajectory and competitive landscape.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "JotForm"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "product demo",
+    "tone": "educational",
+    "notable_moments": [
+      "Aytekin's vision of every small business having its own AI agent.",
+      "The comparison of AI agent performance to traditional customer service methods."
+    ]
+  },
+  "_meta": {
+    "episode_number": 280,
+    "episode_date": "2025-08-17",
+    "rss_title": "#280 Aytekin Tank: How to Fully Automate Your Customer Service with AI Agents",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:24:18Z",
+    "input_tokens": 9424,
+    "output_tokens": 956
+  }
+}

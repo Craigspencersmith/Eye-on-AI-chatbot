@@ -1,0 +1,126 @@
+{
+  "episode_profile": {
+    "title": "Luke Behnke: Why Grammarly Is Going All In on AI Agents",
+    "guest_name": "Luke Behnke",
+    "guest_title": "Vice President of Enterprise Product",
+    "guest_organization": "Grammarly",
+    "topic_summary": "In this episode, Luke Behnke discusses Grammarly's evolution into an AI-driven productivity suite, emphasizing the integration of AI agents to enhance user experience. He highlights the importance of collaboration between humans and AI, particularly in educational and enterprise settings, and introduces Grammarly's new authorship feature aimed at clarifying the use of AI in writing."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "natural language processing"
+    ],
+    "industries": [
+      "education",
+      "technology",
+      "enterprise software"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "AI detection tools are useful but insufficient for ensuring academic integrity.",
+      "speaker": "Luke Behnke",
+      "context": "Luke discusses the limitations of AI detection tools in educational settings, particularly in light of a viral incident involving a student accused of cheating."
+    },
+    {
+      "claim": "Grammarly's authorship feature allows users to track the origin of text, distinguishing between human and AI contributions.",
+      "speaker": "Luke Behnke",
+      "context": "This feature aims to address concerns about AI-generated content in academic and professional environments."
+    },
+    {
+      "claim": "The future of productivity tools lies in the integration of AI agents that can assist users in real-time across various applications.",
+      "speaker": "Luke Behnke",
+      "context": "Luke explains Grammarly's vision for a platform where multiple AI agents can work together to enhance user productivity."
+    },
+    {
+      "claim": "Grammarly's unique selling point is its ability to provide consistent writing assistance across different platforms.",
+      "speaker": "Luke Behnke",
+      "context": "He contrasts Grammarly's approach with that of competitors who may only function within their own ecosystems."
+    },
+    {
+      "claim": "There is a growing demand for AI fluency in the workforce, and educational institutions must adapt to this reality.",
+      "speaker": "Luke Behnke",
+      "context": "Luke highlights the need for schools to prepare students for a job market that increasingly values AI skills."
+    },
+    {
+      "claim": "Grammarly's integration with other tools will enhance its utility and user adoption in enterprise settings.",
+      "speaker": "Luke Behnke",
+      "context": "He discusses the potential for partnerships with platforms like Microsoft to expand Grammarly's reach."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Marley"
+    ],
+    "organizations": [
+      "Grammarly",
+      "Microsoft",
+      "Zendesk",
+      "Coda"
+    ],
+    "technologies": [
+      "AI detection tools",
+      "LLMs",
+      "AI agents"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Grammarly's Evolution",
+      "summary": "Luke Behnke shares the history of Grammarly and its transition from a student-focused tool to an enterprise solution.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "AI Detection and Authorship",
+      "summary": "The discussion focuses on the challenges of AI detection in education and the introduction of Grammarly's authorship feature.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Integration of AI Agents",
+      "summary": "Luke explains how Grammarly plans to integrate multiple AI agents to enhance productivity across various applications.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of AI in Education and Enterprise",
+      "summary": "The conversation shifts to the importance of AI fluency in the workforce and how Grammarly can bridge the gap between education and professional use.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Partnerships and Market Position",
+      "summary": "Luke discusses Grammarly's strategy for partnerships with other platforms and its unique position in the market.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Grammarly"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "collegial",
+    "notable_moments": [
+      "Luke's insights on the necessity of AI fluency in education and the workforce.",
+      "The introduction of the authorship feature as a response to academic integrity concerns."
+    ]
+  },
+  "_meta": {
+    "episode_number": 274,
+    "episode_date": "2025-07-28",
+    "rss_title": "#274 Luke Behnke: Why Grammarly Is Going All In on AI Agents",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:22:25Z",
+    "input_tokens": 11420,
+    "output_tokens": 1026
+  }
+}

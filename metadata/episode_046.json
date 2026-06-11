@@ -1,0 +1,135 @@
+{
+  "episode_profile": {
+    "title": "Qualcomm's Role in AI and 5G Technologies",
+    "guest_name": "Ziad Asghar, Hsin-I Hsu",
+    "guest_title": "Product Managers",
+    "guest_organization": "Qualcomm Technologies",
+    "topic_summary": "This episode explores Qualcomm's integration of AI into its Snapdragon platforms and the impact on 5G technology. Ziad Asghar and Hsin-I Hsu discuss how AI enhances device performance, reduces power consumption, and enables new applications across various industries."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "computer vision",
+      "natural language processing"
+    ],
+    "industries": [
+      "telecommunications",
+      "automotive",
+      "consumer electronics"
+    ],
+    "policy_areas": [
+      "regulation",
+      "ethics"
+    ],
+    "geographic_focus": [
+      "United States",
+      "India"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Qualcomm has been developing AI products since 2015, integrating AI capabilities into its Snapdragon roadmap.",
+      "speaker": "Ziad Asghar",
+      "context": "This claim highlights Qualcomm's long-term commitment to AI technology and its evolution within the company's product lines."
+    },
+    {
+      "claim": "AI enhances 5G technology by improving reception and throughput through contextual information.",
+      "speaker": "Ziad Asghar",
+      "context": "This illustrates the symbiotic relationship between AI and 5G, where each technology enhances the other."
+    },
+    {
+      "claim": "Federated learning allows AI models to improve on devices without sharing personal data.",
+      "speaker": "Ziad Asghar",
+      "context": "This claim emphasizes the privacy benefits of federated learning in AI applications."
+    },
+    {
+      "claim": "Qualcomm's AI Model Efficiency Toolkit helps reduce the power consumption of AI models on devices.",
+      "speaker": "Hsin-I Hsu",
+      "context": "This highlights Qualcomm's focus on making AI processing more efficient for mobile and IoT devices."
+    },
+    {
+      "claim": "AI is crucial for automotive applications, enabling real-time processing of data from multiple sensors.",
+      "speaker": "Ziad Asghar",
+      "context": "This underscores the importance of AI in enhancing safety and functionality in autonomous vehicles."
+    },
+    {
+      "claim": "Qualcomm's Snapdragon platforms are designed to support a wide range of AI applications across various devices.",
+      "speaker": "Hsin-I Hsu",
+      "context": "This reflects Qualcomm's strategy to provide versatile solutions for different industries."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Fei-Fei Li"
+    ],
+    "organizations": [
+      "Qualcomm Technologies",
+      "iRobot"
+    ],
+    "technologies": [
+      "Snapdragon",
+      "Qualcomm Neural Processing SDK",
+      "Qualcomm AI Engine",
+      "Qualcomm Ride platform"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Qualcomm and AI",
+      "summary": "Craig introduces Qualcomm's role in AI and 5G, featuring insights from Ziad and Hsin-I.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "AI Integration in Snapdragon",
+      "summary": "Ziad discusses how AI is integrated into Snapdragon products and its impact on device performance.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Federated Learning and Privacy",
+      "summary": "The guests explain federated learning and its benefits for user privacy in AI applications.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI in Automotive Applications",
+      "summary": "Ziad elaborates on the importance of AI in automotive technology and autonomous vehicles.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI and 5G",
+      "summary": "The discussion concludes with predictions about the future applications of AI in various sectors.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Qualcomm AI Model Efficiency Toolkit",
+      "authors": "",
+      "context": "This toolkit was mentioned as a resource for developers to optimize AI models for low power consumption."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Qualcomm Technologies"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Ziad's insights on the symbiotic relationship between AI and 5G.",
+      "Hsin-I's explanation of how AI can enhance power efficiency in mobile devices."
+    ]
+  },
+  "_meta": {
+    "episode_number": 46,
+    "episode_date": "2020-08-04",
+    "rss_title": "Episode 46 - Qualcomm Technologies",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:09:08Z",
+    "input_tokens": 10367,
+    "output_tokens": 1026
+  }
+}

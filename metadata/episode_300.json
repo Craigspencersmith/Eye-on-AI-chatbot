@@ -1,0 +1,141 @@
+{
+  "episode_profile": {
+    "title": "Fred Laluyaux: How Decision Intelligence & AI Agents Are Redefining Enterprise Operations",
+    "guest_name": "Frederic Laluyaux",
+    "guest_title": "Co-founder and CEO",
+    "guest_organization": "Aera Technology",
+    "topic_summary": "Frederic Laluyaux discusses the concept of decision intelligence and its significance in modern enterprises. He explains how Aera Technology aims to automate decision-making processes by leveraging AI, breaking down organizational silos, and enhancing operational efficiency."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "decision intelligence",
+      "agentic AI",
+      "machine learning"
+    ],
+    "industries": [
+      "enterprise software",
+      "supply chain",
+      "healthcare"
+    ],
+    "policy_areas": [
+      "automation",
+      "data governance"
+    ],
+    "geographic_focus": [
+      "United States",
+      "Europe"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Companies must break down silos and rethink decision-making to remain competitive in a digital world.",
+      "speaker": "Frederic Laluyaux",
+      "context": "Laluyaux emphasizes the need for organizations to adapt to the increasing volume and complexity of decisions driven by digital transformation."
+    },
+    {
+      "claim": "Decision intelligence is the digitization, automation, and augmentation of decision-making processes.",
+      "speaker": "Frederic Laluyaux",
+      "context": "He defines decision intelligence as a category that integrates various AI capabilities to enhance enterprise decision-making."
+    },
+    {
+      "claim": "The future of decision-making will involve machines executing decisions guided by human oversight.",
+      "speaker": "Frederic Laluyaux",
+      "context": "Laluyaux envisions a shift from human-driven decision-making to a model where AI assists in executing decisions based on data."
+    },
+    {
+      "claim": "The adoption of decision intelligence is accelerating due to the pressures of complexity and the need for real-time decision-making.",
+      "speaker": "Frederic Laluyaux",
+      "context": "He notes that the demand for decision intelligence is growing as organizations face increasing operational challenges."
+    },
+    {
+      "claim": "Trust in AI systems is built through transparency in data sources and decision logic.",
+      "speaker": "Frederic Laluyaux",
+      "context": "Laluyaux discusses the importance of certifying data and providing clear explanations for AI-generated recommendations."
+    },
+    {
+      "claim": "A truly decision-first autonomous enterprise will integrate decision intelligence across all functions, optimizing the entire value chain.",
+      "speaker": "Frederic Laluyaux",
+      "context": "He describes the vision for organizations to leverage decision intelligence holistically rather than in isolated departments."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Sam Mulligan"
+    ],
+    "organizations": [
+      "Aera Technology",
+      "SAP",
+      "Anaplan",
+      "Gartner",
+      "Hershey's",
+      "Unilever",
+      "Western Governors University",
+      "AstraZeneca"
+    ],
+    "technologies": [
+      "LLMs",
+      "agentic AI"
+    ],
+    "publications": [
+      "Gartner Magic Quadrant"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Decision Intelligence",
+      "summary": "Frederic Laluyaux introduces himself and Aera Technology, explaining the concept of decision intelligence and its relevance.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Evolution of Decision-Making",
+      "summary": "Laluyaux discusses the historical context of decision-making in enterprises and the shift towards automation and AI.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Components of Decision Intelligence",
+      "summary": "The conversation covers the key components of decision intelligence, including data, intelligence, automation, and engagement.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Trust and Adoption Challenges",
+      "summary": "Laluyaux addresses the challenges of trust and adoption in implementing decision intelligence within organizations.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of Autonomous Enterprises",
+      "summary": "The discussion concludes with insights on what a decision-first autonomous enterprise looks like and the future of decision intelligence.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Gartner Magic Quadrant for Decision Intelligence Platforms",
+      "authors": "",
+      "context": "Laluyaux mentions the upcoming release of this report as a validation of the decision intelligence category."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Aera Technology"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Laluyaux's analogy of the self-driving enterprise to illustrate the future of decision-making.",
+      "The statement that Aera provides 'oxygen' to users by simplifying complex decision processes."
+    ]
+  },
+  "_meta": {
+    "episode_number": 300,
+    "episode_date": "2025-11-13",
+    "rss_title": "#300 Fred Laluyaux: How Decision Intelligence & AI Agents Are Redefining Enterprise Operations",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T17:32:49Z",
+    "input_tokens": 11796,
+    "output_tokens": 1101
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "episode_profile": {
+    "title": "Danny Tobey on AI Regulation and Legal Challenges",
+    "guest_name": "Danny Tobey",
+    "guest_title": "Attorney",
+    "guest_organization": "DLA Piper",
+    "topic_summary": "Danny Tobey discusses the evolving legal landscape surrounding artificial intelligence, focusing on regulatory challenges, the role of law firms in AI governance, and the implications of AI technologies on safety and liability."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "regulatory AI",
+      "AI ethics",
+      "AI safety"
+    ],
+    "industries": [
+      "legal",
+      "healthcare",
+      "insurance"
+    ],
+    "policy_areas": [
+      "regulation",
+      "ethics",
+      "safety",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States",
+      "Europe"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI may be one of the most unregulatable technologies in human history due to its rapid evolution and accessibility.",
+      "speaker": "Danny Tobey",
+      "context": "Discussing the challenges regulators face in keeping up with AI advancements."
+    },
+    {
+      "claim": "The marriage of legal and computational practices in law firms is unprecedented and necessary for addressing AI-related issues.",
+      "speaker": "Danny Tobey",
+      "context": "Explaining how DLA Piper is adapting its legal practice to incorporate AI expertise."
+    },
+    {
+      "claim": "The U.S. is moving more slowly than Europe in terms of AI regulation, reflecting a cultural difference in balancing technology and regulation.",
+      "speaker": "Danny Tobey",
+      "context": "Comparing the regulatory approaches of the U.S. and Europe regarding AI."
+    },
+    {
+      "claim": "Emergent properties of AI are causing unexpected challenges that regulators and society must address.",
+      "speaker": "Danny Tobey",
+      "context": "Highlighting the unpredictability of AI advancements and their implications."
+    },
+    {
+      "claim": "AI products liability is the next wave of products liability, fundamentally changing how liability is assessed.",
+      "speaker": "Danny Tobey",
+      "context": "Discussing the implications of AI on traditional liability frameworks."
+    },
+    {
+      "claim": "Lawyers who effectively use AI will outperform those who do not, transforming the legal profession.",
+      "speaker": "Danny Tobey",
+      "context": "Emphasizing the importance of integrating AI tools in legal practices."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Bennett Borden"
+    ],
+    "organizations": [
+      "DLA Piper",
+      "Federal Trade Commission",
+      "National Institute of Standards and Technology",
+      "Mayo Clinic",
+      "Duke University",
+      "Stanford University"
+    ],
+    "technologies": [
+      "GPT-4",
+      "ChatGPT"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to AI and Law",
+      "summary": "Danny Tobey introduces his background and the intersection of AI with legal practice.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Evolving Legal Practices",
+      "summary": "Discussion on how DLA Piper is adapting its legal services to address AI-related challenges.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Regulatory Landscape",
+      "summary": "Exploration of the current state of AI regulation in the U.S. and comparisons with Europe.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI Products Liability",
+      "summary": "Insights into how AI is changing the landscape of products liability and legal accountability.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI in Law",
+      "summary": "Tobey discusses the future implications of AI on the legal profession and the importance of adapting to new technologies.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "AI Bill of Rights",
+      "authors": "",
+      "context": "Referenced as a thoughtful document addressing AI-related issues."
+    },
+    {
+      "reference": "Artificial Intelligence Act",
+      "authors": "",
+      "context": "Mentioned in the context of European regulation affecting U.S. businesses."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "DLA Piper"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Danny Tobey emphasizes the need for humility in the face of rapidly advancing AI technologies.",
+      "Discussion on the implications of AI on traditional liability frameworks and the role of human gatekeepers."
+    ]
+  },
+  "_meta": {
+    "episode_number": 119,
+    "episode_date": "2023-03-30",
+    "rss_title": "Edo Liberty: Solving ChatGPT Hallucinations With Vector Embeddings",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:32:43Z",
+    "input_tokens": 10625,
+    "output_tokens": 1033
+  }
+}

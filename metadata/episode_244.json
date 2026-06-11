@@ -1,0 +1,139 @@
+{
+  "episode_profile": {
+    "title": "Yoav Shoham on Jamba Models, Maestro and The Future of Enterprise AI",
+    "guest_name": "Yoav Shoham",
+    "guest_title": "Co-founder and CEO",
+    "guest_organization": "AI21 Labs",
+    "topic_summary": "Yoav Shoham discusses the evolution of AI models, particularly focusing on the development of Jamba and Maestro. He emphasizes the shift from traditional language models to more integrated AI systems that can efficiently serve enterprise needs."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "language models",
+      "deep learning",
+      "symbolic AI",
+      "machine learning"
+    ],
+    "industries": [
+      "technology",
+      "enterprise software",
+      "cloud computing"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Language models are becoming part of a bigger picture and will not go away, but the focus is shifting towards AI systems.",
+      "speaker": "Yoav Shoham",
+      "context": "Yoav discusses the limitations of current language models and the need for more integrated AI systems."
+    },
+    {
+      "claim": "The Jamba model is designed to be more efficient than traditional transformers, allowing for better performance with fewer resources.",
+      "speaker": "Yoav Shoham",
+      "context": "Yoav explains the architectural innovations behind Jamba that enhance its efficiency and performance."
+    },
+    {
+      "claim": "Enterprises are moving from experimentation to mass deployment of AI technologies, but face challenges in accuracy and efficiency.",
+      "speaker": "Yoav Shoham",
+      "context": "Yoav highlights the current phase of AI adoption in enterprises and the hurdles they encounter."
+    },
+    {
+      "claim": "The future of AI will involve orchestration systems that integrate multiple models and tools to enhance reliability and predictability.",
+      "speaker": "Yoav Shoham",
+      "context": "Yoav introduces Maestro as a solution for orchestrating various AI models to better serve enterprise needs."
+    },
+    {
+      "claim": "Understanding in AI requires competence, consistency, and the ability to provide explanations.",
+      "speaker": "Yoav Shoham",
+      "context": "Yoav discusses the philosophical aspects of understanding in AI and what it means for models to truly understand."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Dominic Williams",
+      "Ori Goshen",
+      "Amnon Shashua",
+      "Jeff Hinton",
+      "Andrew Ng",
+      "Sepp Huckreiter"
+    ],
+    "organizations": [
+      "AI21 Labs",
+      "Google",
+      "DeepMind",
+      "Amazon",
+      "GCP",
+      "DFINITY Foundation"
+    ],
+    "technologies": [
+      "Jamba",
+      "Maestro",
+      "Jurassic One",
+      "GPT-3",
+      "transformers",
+      "RNNs",
+      "LSTM"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to AI21 and Jamba",
+      "summary": "Yoav Shoham introduces AI21 Labs and discusses the inception of the Jamba model.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Evolution of Language Models",
+      "summary": "The conversation shifts to the development and significance of language models in AI.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Enterprise Applications of AI",
+      "summary": "Yoav explains how AI models are being integrated into enterprise solutions and the challenges faced.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Understanding and Philosophy of AI",
+      "summary": "A philosophical discussion on what it means for AI to understand and the implications for future models.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future Directions for AI21",
+      "summary": "Yoav shares insights on the future of AI21 Labs and the ongoing development of AI systems.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "AI21 Labs",
+      "Stanford University"
+    ],
+    "funding_sources": [
+      "none apparent"
+    ],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Yoav emphasizes the importance of integrating traditional AI with modern deep learning.",
+      "The discussion on the philosophical implications of AI understanding sparks deeper questions about consciousness."
+    ]
+  },
+  "_meta": {
+    "episode_number": 244,
+    "episode_date": "2025-03-27",
+    "rss_title": "#244 Yoav Shoham on Jamba Models, Maestro and The Future of Enterprise AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:11:48Z",
+    "input_tokens": 9542,
+    "output_tokens": 992
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "episode_profile": {
+    "title": "The Robot Revolution Nobody Is Talking About",
+    "guest_name": "Sergey Levine",
+    "guest_title": "Professor and Co-founder",
+    "guest_organization": "Physical Intelligence, UC Berkeley",
+    "topic_summary": "Sergey Levine discusses the advancements in robotic foundation models and their implications for general-purpose robots. He emphasizes the importance of diverse data sources and the challenges of deploying robots in real-world environments."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "reinforcement learning",
+      "robotics",
+      "foundation models"
+    ],
+    "industries": [
+      "manufacturing",
+      "technology",
+      "defense"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Generalist models can handle a wide variety of tasks and become better specialists by dealing with unexpected situations.",
+      "speaker": "Sergey Levine",
+      "context": "Levine argues that the complexity of real-world environments necessitates a generalist approach in robotics."
+    },
+    {
+      "claim": "Real-world data is more valuable than simulated data for training robots.",
+      "speaker": "Sergey Levine",
+      "context": "Levine explains that while simulation can be useful, it cannot replicate the diversity of real-world experiences."
+    },
+    {
+      "claim": "Robotic foundation models should be trained on diverse data from various robotic platforms.",
+      "speaker": "Sergey Levine",
+      "context": "Levine discusses the importance of broad data sources to establish a strong foundation for robotic learning."
+    },
+    {
+      "claim": "The future of robotics will involve a mix of different data sources, including teleoperation and autonomous experience.",
+      "speaker": "Sergey Levine",
+      "context": "Levine outlines how combining various data sources can enhance the learning capabilities of robots."
+    },
+    {
+      "claim": "Humanoids will have a place in robotics, but there will also be a need for diverse robot forms tailored to specific tasks.",
+      "speaker": "Sergey Levine",
+      "context": "Levine reflects on the potential for different robot designs based on application needs."
+    },
+    {
+      "claim": "The RTX project demonstrated that generalist models can outperform specialized models in robotic tasks.",
+      "speaker": "Sergey Levine",
+      "context": "Levine shares insights from the RTX project, highlighting the effectiveness of generalist models."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Percy Liang",
+      "Fei Fei Li",
+      "Jan Lakun",
+      "Mike LeBlanc"
+    ],
+    "organizations": [
+      "Boston Dynamics",
+      "Hyundai",
+      "Google",
+      "Stanford University"
+    ],
+    "technologies": [
+      "foundation models",
+      "vision language models",
+      "reinforcement learning"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "What Foundation Models Mean",
+      "summary": "Levine explains the concept of foundation models in robotics and their significance.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Why Real Data Beats Simulation",
+      "summary": "Discussion on the advantages of real-world data over simulated data for training robots.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Fleet Learning Across Robot Bodies",
+      "summary": "Levine describes the benefits of collective learning among different robotic platforms.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Better Than Imitation With Offline RL",
+      "summary": "Exploration of how offline reinforcement learning can improve robotic learning.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Humanoids Hype And Better Form Factors",
+      "summary": "Levine discusses the role of humanoids in robotics and the potential for diverse robot designs.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "RTX project",
+      "authors": "Sergey Levine et al.",
+      "context": "Levine references the RTX project to illustrate the effectiveness of generalist models."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Physical Intelligence",
+      "UC Berkeley"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Levine emphasizes the importance of generalist models in handling unexpected real-world scenarios.",
+      "Discussion on the limitations of simulation in robotics."
+    ]
+  },
+  "_meta": {
+    "episode_number": 331,
+    "episode_date": "2026-04-12",
+    "rss_title": "#331 Sergey Levine: The Robot Revolution Nobody Is Talking About",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:43:21Z",
+    "input_tokens": 14309,
+    "output_tokens": 1006
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "episode_profile": {
+    "title": "Amith Singhee: Can India Catch Up in AI?",
+    "guest_name": "Amith Singhee",
+    "guest_title": "Director of IBM Research in India",
+    "guest_organization": "IBM",
+    "topic_summary": "Amith Singhee discusses the challenges and opportunities for India in the AI landscape, emphasizing the need for investment, talent, and infrastructure to accelerate progress. He shares insights on IBM's research focus in India and the potential for the country to leverage AI for economic growth."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "hybrid cloud",
+      "machine learning",
+      "natural language processing"
+    ],
+    "industries": [
+      "technology",
+      "finance",
+      "energy",
+      "education"
+    ],
+    "policy_areas": [
+      "investment",
+      "infrastructure",
+      "talent acquisition"
+    ],
+    "geographic_focus": [
+      "India",
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "India has been slow in AI development due to a lack of meaningful investment and intent compared to other countries.",
+      "speaker": "Amith Singhee",
+      "context": "Singhee reflects on the historical context of India's AI journey and the recent improvements in investment and ambition."
+    },
+    {
+      "claim": "The combination of investment, talent, and infrastructure is crucial for India's AI progress.",
+      "speaker": "Amith Singhee",
+      "context": "Singhee emphasizes that these elements must come together to enable rapid advancements in AI."
+    },
+    {
+      "claim": "IBM's research in India focuses on hybrid cloud solutions to enable AI deployment across various environments.",
+      "speaker": "Amith Singhee",
+      "context": "Singhee explains IBM's strategy to develop AI technologies that are portable and adaptable to different enterprise needs."
+    },
+    {
+      "claim": "India has the potential to apply the latest AI technologies for its own benefit, but becoming a leader in AI will take time.",
+      "speaker": "Amith Singhee",
+      "context": "Singhee expresses optimism about India's capabilities while acknowledging the challenges ahead."
+    },
+    {
+      "claim": "Attracting talent back to India from the US is challenging, but IBM Research has a strong local talent pool.",
+      "speaker": "Amith Singhee",
+      "context": "Singhee discusses the dynamics of talent acquisition and the appeal of IBM Research in India."
+    },
+    {
+      "claim": "The research on catastrophic forgetting and continual learning is essential for improving AI models.",
+      "speaker": "Amith Singhee",
+      "context": "Singhee highlights ongoing research efforts to address these challenges in AI development."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Abishek Singh",
+      "Mausum"
+    ],
+    "organizations": [
+      "IBM",
+      "IIT Karakpur",
+      "Carnegie Mellon University",
+      "DT Energy",
+      "PGE",
+      "IIT Bombay",
+      "IIT Delhi",
+      "IISC"
+    ],
+    "technologies": [
+      "granite model series",
+      "Watson X code assistant",
+      "hybrid cloud"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "India's AI Landscape",
+      "summary": "Discussion on the current state of AI development in India and the factors contributing to its slow progress.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "IBM's Role in AI Research",
+      "summary": "Amith Singhee explains IBM's research focus in India, particularly on hybrid cloud and generative AI.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Talent Acquisition Challenges",
+      "summary": "Exploration of the difficulties in attracting talent back to India and the local talent pool available.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of AI in India",
+      "summary": "Discussion on the potential for India to leverage AI technologies for economic growth and the necessary conditions for success.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Research on AI Challenges",
+      "summary": "Insights into ongoing research efforts addressing catastrophic forgetting and continual learning in AI.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "IBM"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Singhee's optimism about India's potential in AI despite current challenges.",
+      "The emphasis on the importance of combining investment, talent, and infrastructure."
+    ]
+  },
+  "_meta": {
+    "episode_number": 338,
+    "episode_date": "2026-04-24",
+    "rss_title": "#338 Amith Singhee: Can India Catch Up in AI? IBM's Amith Singhee on What It Will Take",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:46:08Z",
+    "input_tokens": 9426,
+    "output_tokens": 1023
+  }
+}

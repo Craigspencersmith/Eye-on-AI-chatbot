@@ -1,0 +1,129 @@
+{
+  "episode_profile": {
+    "title": "Karl Friston: How the Free Energy Principle Could Rewrite AI",
+    "guest_name": "Karl Friston",
+    "guest_title": "Professor of Neuroscience",
+    "guest_organization": "University College London, Chief Scientific Officer of Versus",
+    "topic_summary": "Karl Friston discusses the Free Energy Principle and its implications for artificial intelligence, emphasizing how this principle can lead to more efficient and reliable AI systems. He explains the connection between neuroscience and machine learning, particularly in the context of predictive coding and active inference."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "active inference",
+      "predictive coding",
+      "neuroscience-inspired AI"
+    ],
+    "industries": [
+      "technology",
+      "robotics",
+      "transportation"
+    ],
+    "policy_areas": [],
+    "geographic_focus": [
+      "Canada",
+      "United Kingdom"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The brain operates on the principle of minimizing prediction errors, which can be modeled mathematically through the Free Energy Principle.",
+      "speaker": "Karl Friston",
+      "context": "Friston explains how the brain continuously updates its model of the world based on sensory input and prediction errors."
+    },
+    {
+      "claim": "Mental disorders can be understood as failures of inference, where the brain struggles to minimize free energy.",
+      "speaker": "Karl Friston",
+      "context": "Friston discusses the implications of the Free Energy Principle for understanding mental health and disorders."
+    },
+    {
+      "claim": "Current AI architectures, particularly deep learning models, suffer from inefficiencies and unreliability that can be addressed by adopting principles from neuroscience.",
+      "speaker": "Karl Friston",
+      "context": "Friston argues for the need to move beyond traditional neural networks to more biologically plausible models."
+    },
+    {
+      "claim": "Axiom, the AI architecture developed by Versus, demonstrates significant improvements in efficiency and performance by applying the Free Energy Principle.",
+      "speaker": "Karl Friston",
+      "context": "Friston highlights the practical applications of his theories in the development of Axiom."
+    },
+    {
+      "claim": "Active inference allows for continuous learning without the risk of catastrophic forgetting, a common issue in traditional neural networks.",
+      "speaker": "Karl Friston",
+      "context": "Friston explains how his model can adapt and grow in complexity as new data is encountered."
+    },
+    {
+      "claim": "For AI to learn language effectively, it must be embodied and situated within its environment, similar to how humans learn.",
+      "speaker": "Karl Friston",
+      "context": "Friston discusses the importance of interaction with the environment for meaningful language acquisition."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Richard Feynman",
+      "Jeffrey Hinton",
+      "David McKay"
+    ],
+    "organizations": [
+      "Versus",
+      "University College London",
+      "Active Inference Institute"
+    ],
+    "technologies": [
+      "Axiom",
+      "transformer architecture",
+      "variational autoencoders"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Free Energy Principle",
+      "summary": "Friston introduces the Free Energy Principle and its relevance to neuroscience and AI.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Neuroscience and Mental Disorders",
+      "summary": "Discussion on how the Free Energy Principle relates to mental health and inference failures.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Axiom and AI Efficiency",
+      "summary": "Friston explains how Axiom implements the Free Energy Principle to enhance AI performance.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Active Inference and Continuous Learning",
+      "summary": "Exploration of how active inference allows for continuous learning without catastrophic forgetting.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Language Learning in AI",
+      "summary": "Friston discusses the conditions under which AI can learn language effectively.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "University College London",
+      "Versus"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Friston's explanation of how the brain's predictive coding relates to AI architectures.",
+      "The discussion on the implications of the Free Energy Principle for understanding mental disorders."
+    ]
+  },
+  "_meta": {
+    "episode_number": 302,
+    "episode_date": "2025-11-19",
+    "rss_title": "#302 Karl Friston: How the Free Energy Principle Could Rewrite AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:31:34Z",
+    "input_tokens": 11690,
+    "output_tokens": 1009
+  }
+}

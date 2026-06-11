@@ -1,0 +1,142 @@
+{
+  "episode_profile": {
+    "title": "Thomas Dohmke: GitHub CEO Reveals How AI Will Change Coding Forever",
+    "guest_name": "Thomas Dohmke",
+    "guest_title": "CEO",
+    "guest_organization": "GitHub",
+    "topic_summary": "In this episode, Thomas Dohmke discusses the transformative impact of AI on software development, particularly through GitHub's Copilot and coding agents. He emphasizes the evolving role of developers as they integrate AI tools into their workflows, shifting from traditional coding to managing AI-driven processes."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "machine learning"
+    ],
+    "industries": [
+      "software development",
+      "technology"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Human language is becoming the universal programming language as developers increasingly write prompts for AI to generate code.",
+      "speaker": "Thomas Dohmke",
+      "context": "Dohmke explains how AI tools like Coding Agent allow developers to describe problems in natural language, which the AI then translates into code."
+    },
+    {
+      "claim": "The future of software development will involve developers acting as managers or conductors of multiple AI agents.",
+      "speaker": "Thomas Dohmke",
+      "context": "Dohmke predicts that developers will need to decide when to use AI agents versus coding themselves, emphasizing the importance of understanding both technology and the craft of engineering."
+    },
+    {
+      "claim": "AI tools like Copilot are already writing a significant portion of code, with estimates suggesting they contribute to nearly half of the code in projects where they are enabled.",
+      "speaker": "Thomas Dohmke",
+      "context": "Dohmke shares statistics on the impact of Copilot, highlighting its role in enhancing developer productivity."
+    },
+    {
+      "claim": "The coding agent can autonomously review and modify code, but human oversight is still essential to ensure quality and adherence to coding standards.",
+      "speaker": "Thomas Dohmke",
+      "context": "Dohmke discusses how the coding agent operates similarly to a human developer, requiring feedback and validation from actual developers."
+    },
+    {
+      "claim": "The profession of software development will not disappear; instead, it will evolve as AI tools become more integrated into the development process.",
+      "speaker": "Thomas Dohmke",
+      "context": "Dohmke reassures that while AI will change how coding is done, the need for skilled developers will persist."
+    },
+    {
+      "claim": "AI will empower more individuals to become developers, democratizing access to software creation.",
+      "speaker": "Thomas Dohmke",
+      "context": "Dohmke expresses optimism about AI's potential to enable a broader range of people to engage in software development."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Linus Torvalds",
+      "Chris Wanstrath",
+      "PJ Hyett",
+      "Tom Preston-Werner"
+    ],
+    "organizations": [
+      "Microsoft",
+      "OpenAI",
+      "GitHub",
+      "Agency"
+    ],
+    "technologies": [
+      "Copilot",
+      "Coding Agent",
+      "Transformer model",
+      "Codex",
+      "Git",
+      "GitHub"
+    ],
+    "publications": [
+      "The Innovator's Dilemma"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Thomas Dohmke",
+      "summary": "Thomas shares his background and journey to becoming the CEO of GitHub.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Evolution of GitHub",
+      "summary": "Dohmke discusses the history and development of GitHub, highlighting its role beyond just a code repository.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI's Role in Coding",
+      "summary": "The conversation shifts to how AI tools like Copilot are changing the coding landscape and developer workflows.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of Software Development",
+      "summary": "Dohmke outlines his vision for the future, emphasizing the integration of AI and the evolving role of developers.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Community and Events",
+      "summary": "Discussion about GitHub's community events and their importance for developer engagement.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "The Innovator's Dilemma",
+      "authors": "Clayton Christensen",
+      "context": "Dohmke references this book to discuss the challenges of innovation and disruption in established companies."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "GitHub",
+      "Microsoft"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Dohmke's insights on the future role of developers as managers of AI agents.",
+      "The discussion on how AI is democratizing coding for younger generations."
+    ]
+  },
+  "_meta": {
+    "episode_number": 270,
+    "episode_date": "2025-07-15",
+    "rss_title": "#270 Thomas Dohmke: GitHub CEO Reveals How AI Will Change Coding Forever",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:20:58Z",
+    "input_tokens": 11237,
+    "output_tokens": 1141
+  }
+}

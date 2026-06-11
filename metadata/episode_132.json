@@ -1,0 +1,128 @@
+{
+  "episode_profile": {
+    "title": "Scott Downes: Navigating the Language of AI & Large Language Models",
+    "guest_name": "Scott Downes",
+    "guest_title": "Chief Technology Officer",
+    "guest_organization": "Invisible Technologies",
+    "topic_summary": "Scott Downes discusses the role of human trainers in the development of large language models, emphasizing the importance of reinforcement learning with human feedback (RLHF). He explores how these models can be optimized for specific tasks and the evolving nature of AI training processes."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "reinforcement learning",
+      "natural language processing",
+      "generative AI"
+    ],
+    "industries": [
+      "technology",
+      "e-commerce",
+      "delivery services"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Large language models are phenomenally useful across problem domains in ways that were previously unanticipated.",
+      "speaker": "Scott Downes",
+      "context": "Downes reflects on the unexpected versatility of large language models in various business applications."
+    },
+    {
+      "claim": "The workforce for reinforcement learning with human feedback is shifting towards higher qualifications and expertise.",
+      "speaker": "Scott Downes",
+      "context": "Downes discusses the trend of employing more educated individuals for RLHF tasks, moving away from generic labor."
+    },
+    {
+      "claim": "Prompt engineering significantly enhances the performance of large language models.",
+      "speaker": "Scott Downes",
+      "context": "Downes highlights the importance of asking the right questions to maximize the utility of LLMs."
+    },
+    {
+      "claim": "Reinforcement learning with human feedback can lead to observable improvements in large language models.",
+      "speaker": "Scott Downes",
+      "context": "Downes shares insights on how RLHF has directly impacted the capabilities of LLMs."
+    },
+    {
+      "claim": "The integration of human judgment in AI training processes is crucial for addressing complex problems.",
+      "speaker": "Scott Downes",
+      "context": "Downes emphasizes the need for high-level human expertise in the training of AI systems."
+    },
+    {
+      "claim": "AI technologies are best when they elevate human potential rather than replace it.",
+      "speaker": "Scott Downes",
+      "context": "Downes articulates the philosophy behind Invisible Technologies, focusing on enhancing human capabilities."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Andrew Ng"
+    ],
+    "organizations": [
+      "Invisible Technologies",
+      "OpenAI",
+      "DoorDash"
+    ],
+    "technologies": [
+      "GPT",
+      "OCR tools",
+      "UiPath"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Scott Downes",
+      "summary": "Scott Downes introduces himself and shares his background in technology and literature.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Invisible Technologies Overview",
+      "summary": "Downes explains the mission and services of Invisible Technologies, focusing on workforce management and automation.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Reinforcement Learning with Human Feedback",
+      "summary": "The discussion delves into the role of human trainers in AI and the specifics of RLHF.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges and Opportunities in AI",
+      "summary": "Downes discusses the challenges of hallucination in AI and the potential for improvement through RLHF.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI and Human Collaboration",
+      "summary": "The conversation concludes with thoughts on the evolving relationship between AI and human workers.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Invisible Technologies"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Downes compares training LLMs to raising a child, emphasizing the importance of education and guidance.",
+      "He expresses optimism about the potential of RLHF to improve AI models despite challenges."
+    ]
+  },
+  "_meta": {
+    "episode_number": 132,
+    "episode_date": "2023-08-02",
+    "rss_title": "#132 Scott Downes: Navigating the Language of AI & Large Language Models",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:35:48Z",
+    "input_tokens": 11065,
+    "output_tokens": 952
+  }
+}

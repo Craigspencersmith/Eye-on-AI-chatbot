@@ -1,0 +1,138 @@
+{
+  "episode_profile": {
+    "title": "Exploring the ANA Avatar XPRIZE with Jacki Morie",
+    "guest_name": "Jacki Morie",
+    "guest_title": "Senior Advisor",
+    "guest_organization": "XPRIZE",
+    "topic_summary": "Jacki Morie discusses the ANA Avatar XPRIZE, a competition aimed at developing tele robotic avatars that can transport human skills and experiences to remote locations. She highlights the challenges of sensory data communication and the potential impact of this technology on various industries."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "robotics",
+      "haptics",
+      "teleoperation"
+    ],
+    "industries": [
+      "healthcare",
+      "transportation",
+      "entertainment"
+    ],
+    "policy_areas": [
+      "innovation",
+      "technology development"
+    ],
+    "geographic_focus": [
+      "Japan",
+      "United States",
+      "Europe"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The ANA Avatar XPRIZE aims to create tele robotic avatars that provide a sense of physical presence through two-way communication of sensory data.",
+      "speaker": "Jacki Morie",
+      "context": "Morie explains the goal of the competition and the importance of haptic feedback for operators controlling the avatars."
+    },
+    {
+      "claim": "AI will play a critical role in overcoming latency issues in teleoperation, enabling avatars to act autonomously when direct signals are delayed.",
+      "speaker": "Jacki Morie",
+      "context": "Morie discusses the challenges of operating robots over long distances and the need for predictive algorithms."
+    },
+    {
+      "claim": "The competition has attracted a diverse range of teams, including universities and research institutions, aiming to spark a new industry in tele robotic avatars.",
+      "speaker": "Jacki Morie",
+      "context": "Morie highlights the variety of participants and their innovative approaches to solving complex problems."
+    },
+    {
+      "claim": "Haptic technology is essential for the success of the avatars, with about a third of the semifinalists integrating it into their solutions.",
+      "speaker": "Jacki Morie",
+      "context": "Morie emphasizes the importance of haptics for providing operators with feedback from the remote environment."
+    },
+    {
+      "claim": "The future applications of tele robotic avatars include healthcare, exploration, and enhancing human connectivity, especially in isolated situations.",
+      "speaker": "Jacki Morie",
+      "context": "Morie discusses potential use cases for the technology, particularly in light of the COVID-19 pandemic."
+    },
+    {
+      "claim": "The integration of multiple sensory inputs is crucial for creating a realistic and effective tele robotic experience.",
+      "speaker": "Jacki Morie",
+      "context": "Morie explains the challenges of combining audio, visual, and haptic feedback for operators."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Peter Diamandis",
+      "Elon Musk"
+    ],
+    "organizations": [
+      "XPRIZE",
+      "ANA",
+      "ClearML"
+    ],
+    "technologies": [
+      "tele robotic avatars",
+      "haptic technology"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to XPRIZE",
+      "summary": "Jacki Morie introduces herself and explains the mission of XPRIZE and the specifics of the ANA Avatar XPRIZE.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Challenges of Teleoperation",
+      "summary": "Discussion on the technical challenges of two-way communication and sensory feedback in tele robotic avatars.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Haptic Technology in Robotics",
+      "summary": "Morie elaborates on the importance of haptic feedback and the integration of sensory technologies in the competition.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future Applications and Impact",
+      "summary": "Exploration of potential applications for tele robotic avatars in various industries and their societal implications.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Finals Event Details",
+      "summary": "Morie invites listeners to attend the finals event in Long Beach, California, and discusses what to expect.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "XPRIZE",
+      "authors": "",
+      "context": "Morie references XPRIZE's history and its role in incentivizing technological advancements."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "XPRIZE"
+    ],
+    "funding_sources": [
+      "ANA"
+    ],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Morie's insights on the future of tele robotic avatars and their potential to enhance human connectivity.",
+      "The emphasis on the importance of haptic technology for the success of the avatars."
+    ]
+  },
+  "_meta": {
+    "episode_number": 104,
+    "episode_date": "2022-06-23",
+    "rss_title": "Amazon's Astro",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:28:00Z",
+    "input_tokens": 8117,
+    "output_tokens": 1082
+  }
+}

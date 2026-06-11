@@ -1,0 +1,136 @@
+{
+  "episode_profile": {
+    "title": "Andrew Blum: Inside The Most Important AI Event Of The Year",
+    "guest_name": "Andrew Blum",
+    "guest_title": "Co-founder and COO",
+    "guest_organization": "HumanX",
+    "topic_summary": "Andrew Blum discusses the significance of the HumanX conference, focusing on the intersection of AI and business. He emphasizes the need for better curation of AI products and the importance of government regulation in the tech industry."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "large language models"
+    ],
+    "industries": [
+      "technology",
+      "venture capital",
+      "conference management"
+    ],
+    "policy_areas": [
+      "regulation",
+      "ethics"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Government regulation will inevitably play a role in the AI industry, whether desired or not.",
+      "speaker": "Andrew Blum",
+      "context": "Blum discusses the potential consequences of a lack of regulation, referencing past financial crises."
+    },
+    {
+      "claim": "There is a need for better curation of existing AI products rather than creating new ones.",
+      "speaker": "Andrew Blum",
+      "context": "Blum reflects on the challenges business leaders face in navigating the AI landscape post-ChatGPT."
+    },
+    {
+      "claim": "The HumanX conference aims to bridge the gap between technology and business leaders.",
+      "speaker": "Andrew Blum",
+      "context": "Blum explains the motivation behind creating a conference tailored for executives in the AI space."
+    },
+    {
+      "claim": "AI products are versatile but can be overwhelming for users to understand their best applications.",
+      "speaker": "Andrew Blum",
+      "context": "Blum highlights the complexity of large language models and the need for clarity in their use."
+    },
+    {
+      "claim": "The success of the conference relies on attracting top-tier speakers to draw in attendees.",
+      "speaker": "Andrew Blum",
+      "context": "Blum describes the strategy of leveraging high-profile speakers to enhance the conference's appeal."
+    },
+    {
+      "claim": "The conference has generated significant interest and excitement among attendees and sponsors.",
+      "speaker": "Andrew Blum",
+      "context": "Blum shares his observations on the positive energy and engagement at the event."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Kamala Harris",
+      "Vinod Khosla",
+      "Gina Bianchini",
+      "Sean White",
+      "Michael Miskiewicz",
+      "Bin Ni"
+    ],
+    "organizations": [
+      "HumanX",
+      "Google",
+      "OpenAI",
+      "Anthropic",
+      "McDonald's",
+      "Visa",
+      "Yext"
+    ],
+    "technologies": [
+      "ChatGPT",
+      "large language models"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to HumanX",
+      "summary": "Andrew Blum introduces himself and the mission behind HumanX, emphasizing the need for a conference focused on AI for business leaders.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Role of Government Regulation",
+      "summary": "Blum discusses the implications of government regulation in the AI sector and its necessity for future developments.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in AI Product Curation",
+      "summary": "The conversation shifts to the difficulties businesses face in selecting and integrating AI products effectively.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Attracting Speakers and Sponsors",
+      "summary": "Blum explains the strategies used to secure high-profile speakers and sponsors for the conference.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future Plans for HumanX",
+      "summary": "The discussion concludes with Blum outlining plans for the next conference and the potential for growth.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "HumanX",
+      "Primary Ventures"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informal discussion",
+    "tone": "enthusiastic",
+    "notable_moments": [
+      "Blum's insights on the necessity of government regulation in AI.",
+      "The excitement surrounding the HumanX conference and its unique approach."
+    ]
+  },
+  "_meta": {
+    "episode_number": 272,
+    "episode_date": "2025-07-20",
+    "rss_title": "#272 Andrew Blum: Inside The Most Important AI Event Of The Year (HumanX)",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:21:44Z",
+    "input_tokens": 6572,
+    "output_tokens": 972
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "episode_profile": {
+    "title": "Inside Abstract: The AI That Decodes Laws and Regulations",
+    "guest_name": "Pat Utz",
+    "guest_title": "Co-founder and CEO",
+    "guest_organization": "Abstract",
+    "topic_summary": "Pat Utz discusses how Abstract uses AI to analyze and decode laws and regulations, providing insights for law firms and companies. The conversation covers the platform's capabilities in tracking legislative changes, its impact on lobbying strategies, and the potential for democratizing access to legal information."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "natural language processing",
+      "machine learning"
+    ],
+    "industries": [
+      "legal",
+      "government",
+      "technology"
+    ],
+    "policy_areas": [
+      "regulation",
+      "compliance",
+      "lobbying"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI is fundamentally changing how companies track and respond to legislative changes.",
+      "speaker": "Pat Utz",
+      "context": "This claim was made in the context of discussing how Abstract's platform automates the monitoring of regulatory updates."
+    },
+    {
+      "claim": "The platform can help identify relevant legislative changes for specific clients, allowing law firms to proactively manage compliance.",
+      "speaker": "Pat Utz",
+      "context": "Pat explained how the platform analyzes regulatory changes and assesses their impact on clients in the banking sector."
+    },
+    {
+      "claim": "There is a growing need for transparency in the legislative process, which Abstract aims to provide.",
+      "speaker": "Pat Utz",
+      "context": "Pat emphasized the importance of making legislative data accessible to the public and businesses."
+    },
+    {
+      "claim": "The platform has the potential to democratize access to legislative information for everyday citizens.",
+      "speaker": "Pat Utz",
+      "context": "Pat discussed the vision for a consumer-facing platform that would allow individuals to track legislation affecting their communities."
+    },
+    {
+      "claim": "AI can enhance the effectiveness of lobbying by providing data-driven insights into legislative processes.",
+      "speaker": "Pat Utz",
+      "context": "This was mentioned while discussing how the platform assists lobbyists in strategizing their efforts."
+    },
+    {
+      "claim": "The regulatory process is often overlooked but is crucial for understanding how laws are implemented.",
+      "speaker": "Pat Utz",
+      "context": "Pat highlighted the importance of tracking regulatory changes alongside legislative updates."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Abstract",
+      "Loyola Marymount University"
+    ],
+    "technologies": [
+      "natural language processing",
+      "AI"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Abstract",
+      "summary": "Pat Utz introduces Abstract and its mission to decode laws and regulations using AI.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "How the Platform Works",
+      "summary": "Discussion on the technical aspects of Abstract's platform and its capabilities in tracking legislative changes.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Impact on Lobbying and Compliance",
+      "summary": "Exploration of how Abstract aids law firms and companies in managing compliance and lobbying strategies.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future Vision for Accessibility",
+      "summary": "Pat shares his vision for making legislative information accessible to the general public.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Challenges and Opportunities",
+      "summary": "Discussion on the challenges of misinformation and the potential for AI to enhance democratic processes.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Abstract"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Pat's vision for democratizing access to legislative information.",
+      "The discussion on the impact of AI on lobbying strategies."
+    ]
+  },
+  "_meta": {
+    "episode_number": 284,
+    "episode_date": "2025-09-07",
+    "rss_title": "#284 Pat Utz: Inside Abstract, The AI That Decodes Laws and Regulations",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:25:30Z",
+    "input_tokens": 8789,
+    "output_tokens": 918
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "episode_profile": {
+    "title": "Exploring China's WuDao 2.0 AI Model with Tang Jie",
+    "guest_name": "Tang Jie",
+    "guest_title": "Professor",
+    "guest_organization": "Qinghua University",
+    "topic_summary": "In this episode, Craig Smith interviews Professor Tang Jie about the WuDao 2.0 AI model, its unique features, and the future of AI development in China. They discuss the model's architecture, training data, and potential applications, as well as the implications of AI advancements."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "large language models",
+      "multimodal AI",
+      "machine learning"
+    ],
+    "industries": [
+      "technology",
+      "education"
+    ],
+    "policy_areas": [
+      "regulation",
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "China"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "WuDao 2.0 is the largest AI model with 1.75 trillion parameters, trained on diverse data.",
+      "speaker": "Tang Jie",
+      "context": "Tang discusses the scale and ambition of the WuDao project, emphasizing its unique capabilities."
+    },
+    {
+      "claim": "The GLM training objective unifies various model architectures for better performance.",
+      "speaker": "Tang Jie",
+      "context": "Tang explains the advantages of using GLM over traditional language models like BERT and GPT-3."
+    },
+    {
+      "claim": "WuDao can generate images from text prompts, outperforming models like DALL-E.",
+      "speaker": "Tang Jie",
+      "context": "Tang highlights the multimodal capabilities of WuDao, showcasing its ability to create images based on textual descriptions."
+    },
+    {
+      "claim": "The team plans to scale WuDao to models with up to 100 trillion parameters.",
+      "speaker": "Tang Jie",
+      "context": "Tang outlines the future goals for WuDao, including scaling and developing new applications."
+    },
+    {
+      "claim": "AI could surpass human cognitive abilities within the next 10 to 20 years.",
+      "speaker": "Tang Jie",
+      "context": "Tang shares his perspective on the timeline for achieving human-level AI capabilities."
+    },
+    {
+      "claim": "There is a need for policies to manage the risks associated with advanced AI.",
+      "speaker": "Tang Jie",
+      "context": "Tang acknowledges the potential dangers of powerful AI and the importance of regulatory measures."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Connor Leahy",
+      "Stuart Russell"
+    ],
+    "organizations": [
+      "OpenAI",
+      "Alibaba",
+      "Microsoft",
+      "Baidu"
+    ],
+    "technologies": [
+      "WuDao 2.0",
+      "GLM",
+      "DALL-E",
+      "CogView",
+      "FastMoe"
+    ],
+    "publications": [
+      "neural IPS paper"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to WuDao 2.0",
+      "summary": "Craig introduces Professor Tang Jie and the WuDao project, discussing its scale and significance.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Technical Details of WuDao",
+      "summary": "Tang explains the architecture of WuDao, including the use of GLM and its multimodal capabilities.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future Plans for WuDao",
+      "summary": "The discussion shifts to the future of WuDao, including scaling and potential applications.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Ethics and Governance in AI",
+      "summary": "Tang addresses the ethical implications and the need for policies to manage AI risks.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Global Collaboration in AI Research",
+      "summary": "The conversation concludes with thoughts on international collaboration and competition in AI research.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "neural IPS paper",
+      "authors": "",
+      "context": "Tang references this paper to discuss technical contributions related to WuDao."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Qinghua University"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Tang expresses optimism about the future of AI and its potential to surpass human intelligence.",
+      "The discussion on the ethical implications of AI advancements highlights the need for regulatory measures."
+    ]
+  },
+  "_meta": {
+    "episode_number": 91,
+    "episode_date": "2021-12-15",
+    "rss_title": "Robert O. Work",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:23:22Z",
+    "input_tokens": 5472,
+    "output_tokens": 1022
+  }
+}

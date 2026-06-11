@@ -1,0 +1,131 @@
+{
+  "episode_profile": {
+    "title": "How DeepL Is Using AI to Break Language Barriers",
+    "guest_name": "Jarek Kutylowski",
+    "guest_title": "Founder and CEO",
+    "guest_organization": "DeepL",
+    "topic_summary": "Jarek Kutylowski discusses how DeepL leverages AI to enhance translation accuracy and integrate language solutions into business workflows. He emphasizes the importance of maintaining the nuances of language while breaking down communication barriers in a globalized world."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "NLP",
+      "machine translation",
+      "speech recognition"
+    ],
+    "industries": [
+      "technology",
+      "automotive",
+      "media",
+      "professional services"
+    ],
+    "policy_areas": [
+      "ethics",
+      "regulation"
+    ],
+    "geographic_focus": [
+      "global",
+      "Japan",
+      "Germany"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "DeepL's technology allows businesses to communicate effectively across language barriers, enhancing productivity and employee confidence.",
+      "speaker": "Jarek Kutylowski",
+      "context": "This claim was made in the context of discussing how AI can facilitate international business communication."
+    },
+    {
+      "claim": "The accuracy of DeepL's translations is superior to consumer-oriented solutions, making it essential for businesses with specific compliance and branding needs.",
+      "speaker": "Jarek Kutylowski",
+      "context": "This was mentioned while comparing DeepL's offerings to those of competitors like Google."
+    },
+    {
+      "claim": "Language barriers are becoming less significant, allowing for greater cultural exchange and understanding in business.",
+      "speaker": "Jarek Kutylowski",
+      "context": "This claim reflects Jarek's vision for the future of communication facilitated by AI."
+    },
+    {
+      "claim": "DeepL is expanding its language capabilities, focusing on both major and smaller languages to meet diverse customer needs.",
+      "speaker": "Jarek Kutylowski",
+      "context": "This was discussed in relation to the growing demand for translations in various industries."
+    },
+    {
+      "claim": "The integration of AI in translation technology is revolutionizing how companies operate in multilingual environments.",
+      "speaker": "Jarek Kutylowski",
+      "context": "This claim was made while discussing the evolving landscape of translation technology."
+    },
+    {
+      "claim": "DeepL's API allows other software developers to incorporate translation capabilities into their products, expanding its market reach.",
+      "speaker": "Jarek Kutylowski",
+      "context": "This was mentioned when discussing how DeepL collaborates with tech companies."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Craig Smith"
+    ],
+    "organizations": [
+      "DeepL",
+      "Nikkei"
+    ],
+    "technologies": [
+      "DeepL Write",
+      "DeepL voice",
+      "neural networks",
+      "transformers"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to DeepL",
+      "summary": "Jarek Kutylowski introduces himself and provides an overview of DeepL's mission and technology.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "DeepL's Technology and Differentiation",
+      "summary": "Discussion on how DeepL's technology differs from competitors and its focus on accuracy and integration.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Use Cases and Applications",
+      "summary": "Exploration of various use cases for DeepL's technology in different industries and workflows.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of Language Translation",
+      "summary": "Jarek shares insights on the future of language translation and the role of AI in breaking down barriers.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Customer Experiences and Feedback",
+      "summary": "Discussion on how customers are utilizing DeepL and the impact on their operations.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "DeepL"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Jarek emphasizes the emotional aspect of language and its importance in global communication.",
+      "Discussion on how AI can help preserve local languages while facilitating international business."
+    ]
+  },
+  "_meta": {
+    "episode_number": 263,
+    "episode_date": "2025-06-18",
+    "rss_title": "#263 Jarek\u202fKutylowski: How DeepL Is Using AI to Break Language Barriers",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:18:32Z",
+    "input_tokens": 9656,
+    "output_tokens": 974
+  }
+}

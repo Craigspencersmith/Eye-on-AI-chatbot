@@ -1,0 +1,144 @@
+{
+  "episode_profile": {
+    "title": "How Neuromorphic Computing Cuts Inference Power by 10x",
+    "guest_name": "Steven Brightfield",
+    "guest_title": "Chief Marketing Officer",
+    "guest_organization": "Brainchip",
+    "topic_summary": "Steven Brightfield discusses neuromorphic computing and its potential to revolutionize AI by mimicking the brain's architecture. He explains how this technology can significantly reduce power consumption for inference tasks, making it suitable for various applications, including wearables and autonomous systems."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "neuromorphic computing",
+      "machine learning",
+      "event-based computing"
+    ],
+    "industries": [
+      "semiconductors",
+      "wearable technology",
+      "automotive",
+      "defense"
+    ],
+    "policy_areas": [
+      "privacy",
+      "data security"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Neuromorphic computing can reduce inference power consumption by 10 times compared to traditional methods.",
+      "speaker": "Steven Brightfield",
+      "context": "This claim highlights the efficiency of neuromorphic architectures in processing data."
+    },
+    {
+      "claim": "The future of AI will see widespread integration of neuromorphic chips in consumer devices.",
+      "speaker": "Steven Brightfield",
+      "context": "Brightfield predicts that within five years, a significant percentage of devices will incorporate AI, with many using neuromorphic technology."
+    },
+    {
+      "claim": "Traditional AI relies on brute force computation, while neuromorphic computing is more elegant and efficient.",
+      "speaker": "Steven Brightfield",
+      "context": "This distinction emphasizes the advantages of neuromorphic approaches over conventional AI methods."
+    },
+    {
+      "claim": "Neuromorphic chips can enable real-time processing of sensory data at the edge, enhancing privacy and reducing latency.",
+      "speaker": "Steven Brightfield",
+      "context": "Brightfield discusses the benefits of edge computing in maintaining user privacy and improving response times."
+    },
+    {
+      "claim": "The integration of AI in wearables will lead to significant advancements in health monitoring and personal assistance.",
+      "speaker": "Steven Brightfield",
+      "context": "Brightfield outlines the potential applications of neuromorphic technology in health-related wearables."
+    },
+    {
+      "claim": "Neuromorphic computing can improve radar technology by enabling object classification and reducing size and power requirements.",
+      "speaker": "Steven Brightfield",
+      "context": "This claim illustrates the versatility of neuromorphic technology in various applications, including defense."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Jensen Wang"
+    ],
+    "organizations": [
+      "Brainchip",
+      "Qualcomm",
+      "NVIDIA",
+      "IBM",
+      "Intel",
+      "Global Foundries"
+    ],
+    "technologies": [
+      "Akita processor",
+      "state space models",
+      "large language models",
+      "digital signal processors"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Neuromorphic Computing",
+      "summary": "Steven Brightfield explains the concept of neuromorphic computing and its biological inspiration.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Applications of Neuromorphic Technology",
+      "summary": "Discussion on various applications of neuromorphic computing in consumer devices and autonomous systems.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Comparing Traditional AI and Neuromorphic Approaches",
+      "summary": "Brightfield contrasts traditional AI methods with neuromorphic computing, highlighting efficiency and power consumption.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of AI and Neuromorphic Chips",
+      "summary": "Predictions about the future integration of neuromorphic technology in everyday devices and its impact on industries.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Challenges and Opportunities",
+      "summary": "Brightfield discusses the barriers to adoption of neuromorphic computing and the ongoing research efforts.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "True North",
+      "authors": "",
+      "context": "Mentioned as an example of IBM's neuromorphic chip."
+    },
+    {
+      "reference": "Low High Chip",
+      "authors": "",
+      "context": "Discussed as Intel's neuromorphic computing chip."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Brainchip"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Brightfield's prediction that everyone will have a brain chip in their pocket in the future.",
+      "The comparison of traditional AI to neuromorphic computing as 'brute force math' versus 'brain-inspired elegant computing.'"
+    ]
+  },
+  "_meta": {
+    "episode_number": 307,
+    "episode_date": "2025-12-16",
+    "rss_title": "#307 Steven Brightfield: How Neuromorphic Computing Cuts Inference Power by 10x",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:33:31Z",
+    "input_tokens": 12291,
+    "output_tokens": 1086
+  }
+}

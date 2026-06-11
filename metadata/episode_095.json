@@ -1,0 +1,131 @@
+{
+  "episode_profile": {
+    "title": "Tom Siebel on AI's Impact and Ethical Challenges",
+    "guest_name": "Tom Siebel",
+    "guest_title": "CEO",
+    "guest_organization": "C3.ai",
+    "topic_summary": "Tom Siebel discusses the transformative potential of AI in various sectors, including healthcare and defense, while also addressing the ethical implications and challenges posed by these technologies. He emphasizes the importance of explainable AI and the need for regulation to prevent misuse."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "predictive analytics",
+      "explainable AI",
+      "deep learning"
+    ],
+    "industries": [
+      "healthcare",
+      "defense",
+      "energy",
+      "telecommunications"
+    ],
+    "policy_areas": [
+      "ethics",
+      "regulation",
+      "privacy"
+    ],
+    "geographic_focus": [
+      "United States",
+      "China"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The largest commercial application of AI will be precision health, predicting diseases before they occur.",
+      "speaker": "Tom Siebel",
+      "context": "Siebel discusses the integration of genomic data and real-time health telemetry to improve healthcare outcomes."
+    },
+    {
+      "claim": "Explainable AI is crucial for applications in sectors like healthcare and finance, where decisions must be justified.",
+      "speaker": "Tom Siebel",
+      "context": "Siebel explains the limitations of deep learning in providing explanations for its predictions, which is essential for user trust."
+    },
+    {
+      "claim": "AI has the potential to significantly disrupt the economy, remaking industries that have not yet been transformed by the internet.",
+      "speaker": "Tom Siebel",
+      "context": "Siebel reflects on the vast addressable market for enterprise AI and its implications for future business operations."
+    },
+    {
+      "claim": "There are serious ethical concerns regarding the use of AI in military applications, particularly without human oversight.",
+      "speaker": "Tom Siebel",
+      "context": "Siebel shares his refusal to engage in projects that could perpetuate cultural bias or lead to unethical outcomes."
+    },
+    {
+      "claim": "The intersection of AI and cybersecurity poses existential risks to critical infrastructure.",
+      "speaker": "Tom Siebel",
+      "context": "Siebel warns about the vulnerabilities in securing infrastructure against potential cyber threats exacerbated by AI."
+    },
+    {
+      "claim": "The future will see AI systems integrated into everyday life, impacting all aspects of society.",
+      "speaker": "Tom Siebel",
+      "context": "Siebel predicts a future where predictive systems are ubiquitous in homes, businesses, and healthcare."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Larry Ellison"
+    ],
+    "organizations": [
+      "C3.ai",
+      "Oracle Corporation",
+      "Siebel Systems",
+      "Facebook"
+    ],
+    "technologies": [
+      "Fitbit",
+      "telemedicine"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to C3.ai",
+      "summary": "Tom Siebel introduces himself and C3.ai, discussing its origins and mission in the AI space.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Applications of AI",
+      "summary": "Siebel elaborates on various applications of AI in sectors like healthcare and defense, emphasizing predictive analytics.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Ethical Considerations",
+      "summary": "The conversation shifts to the ethical implications of AI, particularly in military applications and data privacy.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of AI",
+      "summary": "Siebel shares his vision for the future of AI and its pervasive impact on society and the economy.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Cybersecurity and AI",
+      "summary": "The discussion concludes with the intersection of AI and cybersecurity, highlighting the risks to critical infrastructure.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "C3.ai"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Siebel's strong stance against unethical AI applications in military contexts.",
+      "The prediction that precision health will be the largest commercial application of AI."
+    ]
+  },
+  "_meta": {
+    "episode_number": 95,
+    "episode_date": "2022-03-02",
+    "rss_title": "(interpolated between ep94 and ep96)",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:24:49Z",
+    "input_tokens": 7088,
+    "output_tokens": 978
+  }
+}

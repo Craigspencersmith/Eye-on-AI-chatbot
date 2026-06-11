@@ -1,0 +1,130 @@
+{
+  "episode_profile": {
+    "title": "Will Granis: How Google Cloud is Powering the Future of Agentic AI",
+    "guest_name": "Will Granis",
+    "guest_title": "CTO",
+    "guest_organization": "Google Cloud",
+    "topic_summary": "Will Granis discusses the evolution of agentic AI and how Google Cloud is enabling developers to create intelligent agents. He highlights the importance of generative AI, the orchestration of workflows, and the future potential of autonomous agents in various industries."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "natural language processing",
+      "agentic AI"
+    ],
+    "industries": [
+      "technology",
+      "cloud computing",
+      "enterprise solutions"
+    ],
+    "policy_areas": [
+      "trust",
+      "data sovereignty",
+      "regulation"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The most profound change in AI today is the natural language interface into every data store, which simplifies data engineering.",
+      "speaker": "Will Granis",
+      "context": "Granis emphasizes how this shift allows users to interact with data using conversational language, reducing the toil for data scientists."
+    },
+    {
+      "claim": "Agentic workflows are evolving to include multi-agent interactions that can negotiate and make decisions autonomously.",
+      "speaker": "Will Granis",
+      "context": "Granis discusses the future of agents negotiating on behalf of users, highlighting the need for trust and security in these interactions."
+    },
+    {
+      "claim": "Google Cloud's Agent Space will provide a platform for developers to build agents without starting from scratch.",
+      "speaker": "Will Granis",
+      "context": "Granis explains the concept of an 'agent garden' that will offer starter packs for various types of agents."
+    },
+    {
+      "claim": "Large enterprises are already implementing agentic workflows for customer service, creative tasks, and code assistance.",
+      "speaker": "Will Granis",
+      "context": "Granis notes that these implementations are becoming common as companies leverage their data to enhance agent performance."
+    },
+    {
+      "claim": "The future of AI will involve a cloud of connected agents that can scale up or down based on operational needs.",
+      "speaker": "Will Granis",
+      "context": "Granis describes how enterprises are architecting their systems to utilize agents flexibly, similar to cloud computing."
+    },
+    {
+      "claim": "Trust in AI systems is critical, especially as agents begin to operate autonomously in high-stakes environments.",
+      "speaker": "Will Granis",
+      "context": "Granis emphasizes the importance of grounding AI workflows in authoritative data to reduce hallucinations and ensure reliability."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Kelsey Hightower",
+      "Yuval Harari"
+    ],
+    "organizations": [
+      "Google",
+      "Verizon",
+      "WPP"
+    ],
+    "technologies": [
+      "Gemini",
+      "Dialogflow",
+      "BigQuery"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Agentic AI",
+      "summary": "Will Granis introduces the concept of agentic AI and its significance in modern technology.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Evolution of Agents",
+      "summary": "The discussion covers the historical development of agents and their current capabilities, particularly in customer service.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Building Agents with Google Cloud",
+      "summary": "Granis explains how Google Cloud's Agent Space will facilitate the development of intelligent agents.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Trust and Security in AI",
+      "summary": "The importance of trust in AI systems is discussed, especially regarding autonomous agents and their decision-making.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of Agentic Workflows",
+      "summary": "Granis shares insights on the future of agentic workflows and the potential for a cloud of connected agents.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Google Cloud"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Granis emphasizes the shift from traditional data engineering to conversational interfaces.",
+      "The concept of a 'cloud of connected agents' is introduced as a future vision for enterprise operations."
+    ]
+  },
+  "_meta": {
+    "episode_number": 246,
+    "episode_date": "2025-04-09",
+    "rss_title": "#246 Will Granis: How Google Cloud is Powering the Future of Agentic AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:12:26Z",
+    "input_tokens": 12498,
+    "output_tokens": 1015
+  }
+}

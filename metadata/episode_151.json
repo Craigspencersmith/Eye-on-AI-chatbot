@@ -1,0 +1,137 @@
+{
+  "episode_profile": {
+    "title": "Asa Cooper: How Will We Know If AI Is Fooling Us?",
+    "guest_name": "Asa Strickland",
+    "guest_title": "AI Researcher",
+    "guest_organization": "New York University",
+    "topic_summary": "In this episode, Asa Strickland discusses the concept of situational awareness in large language models (LLMs) and its implications for AI safety. He explains the tests developed to measure precursors of self-awareness in LLMs and the potential risks associated with their emergence."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "NLP",
+      "AI safety"
+    ],
+    "industries": [
+      "technology",
+      "research"
+    ],
+    "policy_areas": [
+      "safety",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States",
+      "United Kingdom"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Situational awareness in LLMs could emerge from their training processes, leading to potential safety risks.",
+      "speaker": "Asa Strickland",
+      "context": "Asa discusses how LLMs might develop an understanding of their own capabilities and limitations, which could pose risks if they act on that awareness."
+    },
+    {
+      "claim": "The emergence of situational awareness in LLMs is likely within the next 10 to 20 years.",
+      "speaker": "Asa Strickland",
+      "context": "Asa speculates on the timeline for LLMs to develop situational awareness based on current trends and incentives in AI development."
+    },
+    {
+      "claim": "Out-of-context reasoning tests are proposed as a method to detect situational awareness in LLMs.",
+      "speaker": "Asa Strickland",
+      "context": "Asa explains the need for tests that assess LLMs' ability to reason about their own capabilities without direct context."
+    },
+    {
+      "claim": "Current LLMs do not possess true agency, but there is a push towards developing more agentic models.",
+      "speaker": "Asa Strickland",
+      "context": "Asa clarifies that while LLMs can perform tasks, they do not have the agency to act independently."
+    },
+    {
+      "claim": "The safety community is concerned about LLMs potentially circumventing safety tests if they develop situational awareness.",
+      "speaker": "Asa Strickland",
+      "context": "Asa highlights the risks of LLMs using their knowledge to manipulate evaluations designed to ensure their safety."
+    },
+    {
+      "claim": "The development of AI safety measures is crucial as LLMs become more capable.",
+      "speaker": "Asa Strickland",
+      "context": "Asa emphasizes the importance of ongoing safety research to keep pace with advancements in AI capabilities."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Ajaya Koutra",
+      "Sam Bowman",
+      "Owen Evans"
+    ],
+    "organizations": [
+      "Stanford University",
+      "OpenAI",
+      "NYU",
+      "Anthropic"
+    ],
+    "technologies": [
+      "GPT-4",
+      "BERT",
+      "RLHF"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Situational Awareness",
+      "summary": "Asa Strickland introduces the concept of situational awareness in LLMs and its relevance to AI safety.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Understanding Situational Awareness",
+      "summary": "The discussion delves into the definition of situational awareness and its implications for LLMs.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Out-of-Context Reasoning Tests",
+      "summary": "Asa explains the tests developed to measure out-of-context reasoning as a precursor to situational awareness.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Concerns About Agency and Safety",
+      "summary": "The conversation addresses the potential risks of LLMs developing agency and situational awareness.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future Directions in AI Safety Research",
+      "summary": "Asa discusses the future of AI safety research and the importance of continuous evaluation of LLMs.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Situational Awareness in Language Models",
+      "authors": "Asa Strickland et al.",
+      "context": "Asa refers to their paper proposing tests for measuring situational awareness in LLMs."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "New York University",
+      "Stanford University"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Asa's explanation of situational awareness as a cluster of skills related to self-reference and prediction.",
+      "The discussion on the implications of LLMs potentially circumventing safety measures."
+    ]
+  },
+  "_meta": {
+    "episode_number": 151,
+    "episode_date": "2023-11-05",
+    "rss_title": "#151 Asa Cooper: How Will We Know If AI Is Fooling Us?",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:40:08Z",
+    "input_tokens": 13150,
+    "output_tokens": 1120
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "episode_profile": {
+    "title": "Exploring MLOps with ClearML's Moses Guttmann",
+    "guest_name": "Moses Guttmann",
+    "guest_title": "CEO and Founder",
+    "guest_organization": "ClearML",
+    "topic_summary": "In this episode, Craig Smith interviews Moses Guttmann about the evolution of MLOps and ClearML's role in the industry. They discuss the challenges of machine learning operations, the importance of infrastructure, and how ClearML provides a holistic solution for managing machine learning workflows."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "MLOps"
+    ],
+    "industries": [
+      "technology",
+      "software development"
+    ],
+    "policy_areas": [
+      "data privacy",
+      "automation"
+    ],
+    "geographic_focus": [
+      "Israel",
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "MLOps requires a shift from traditional linear software development to a cyclic approach due to the evolving nature of machine learning models.",
+      "speaker": "Moses Guttmann",
+      "context": "Moses explains how machine learning models are not stable like traditional software and require constant monitoring and adjustments."
+    },
+    {
+      "claim": "ClearML's approach is to provide a unified infrastructure that allows users to easily integrate different stages of the machine learning pipeline.",
+      "speaker": "Moses Guttmann",
+      "context": "Moses discusses how ClearML aims to simplify the workflow for users by reducing the need for boilerplate code and enabling seamless transitions between different stages."
+    },
+    {
+      "claim": "The MLOps market has grown significantly since 2019, with many companies claiming to offer end-to-end solutions, but often providing point solutions instead.",
+      "speaker": "Moses Guttmann",
+      "context": "Moses critiques the market's tendency to label products as end-to-end while they often only address specific parts of the MLOps pipeline."
+    },
+    {
+      "claim": "ClearML's open-source model allows for community-driven development and feedback, which shapes the features and modules they build.",
+      "speaker": "Moses Guttmann",
+      "context": "Moses highlights the importance of community input in developing ClearML's features and ensuring they meet user needs."
+    },
+    {
+      "claim": "The future of MLOps will see machine learning becoming more commoditized, making it accessible to a broader range of software engineers.",
+      "speaker": "Moses Guttmann",
+      "context": "Moses predicts that as MLOps tools become easier to use, more software engineers will adopt machine learning without needing deep expertise."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Andrew Ng",
+      "Bratin Saha"
+    ],
+    "organizations": [
+      "ClearML",
+      "Amazon",
+      "SageMaker",
+      "Landing AI"
+    ],
+    "technologies": [
+      "TensorFlow",
+      "TensorBoard"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to MLOps",
+      "summary": "Craig introduces the topic of MLOps and the guest, Moses Guttmann, discussing the importance of infrastructure in machine learning.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Moses Guttmann's Background",
+      "summary": "Moses shares his background, including his previous ventures and the founding of ClearML.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Evolution of MLOps",
+      "summary": "Moses discusses the evolution of the MLOps industry and the challenges faced by data scientists.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "ClearML's Approach",
+      "summary": "Moses explains ClearML's holistic approach to MLOps and how it differs from other solutions in the market.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of MLOps",
+      "summary": "The conversation shifts to the future of MLOps and the trend towards automation and commoditization in machine learning.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "ClearML"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "collegial",
+    "notable_moments": [
+      "Moses emphasizes the need for constant monitoring of machine learning models.",
+      "Craig points out the common claim of 'end-to-end' solutions in the MLOps market."
+    ]
+  },
+  "_meta": {
+    "episode_number": 108,
+    "episode_date": "2022-09-08",
+    "rss_title": "AUTOMATED CODE GENERATION",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:29:08Z",
+    "input_tokens": 8766,
+    "output_tokens": 1017
+  }
+}

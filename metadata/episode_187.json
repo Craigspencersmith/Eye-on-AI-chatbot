@@ -1,0 +1,138 @@
+{
+  "episode_profile": {
+    "title": "Systematic Testing for Generative AI Models with Kolena",
+    "guest_name": "Mohamed Elgendy",
+    "guest_title": "CEO and Co-founder",
+    "guest_organization": "Kolena",
+    "topic_summary": "In this episode, Mohamed Elgendy discusses the challenges of testing machine learning systems and the importance of a systematic framework for AI quality assurance. He shares insights on how Kolena is defining a gold standard for AI evaluation, the role of human evaluation, and the potential of adversarial models for testing."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "machine learning",
+      "quality assurance"
+    ],
+    "industries": [
+      "technology",
+      "AI",
+      "software"
+    ],
+    "policy_areas": [
+      "regulation",
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "A systematic framework for AI quality assurance is essential to prevent blind spots in testing.",
+      "speaker": "Mohamed Elgendy",
+      "context": "Elgendy emphasizes the need for a structured approach to testing AI models, contrasting it with the ad hoc methods currently prevalent in the industry."
+    },
+    {
+      "claim": "Human evaluation remains a critical component in assessing AI model performance.",
+      "speaker": "Mohamed Elgendy",
+      "context": "Elgendy discusses the balance between automated metrics and human evaluation, highlighting the importance of subjective assessments in certain scenarios."
+    },
+    {
+      "claim": "Kolena aims to define a gold standard for AI evaluation that includes specific metrics tailored to different applications.",
+      "speaker": "Mohamed Elgendy",
+      "context": "He explains how Kolena is working to establish clear criteria for evaluating AI models, particularly in complex applications like autonomous vehicles."
+    },
+    {
+      "claim": "The industry is seeing a shift towards using adversarial models for testing AI systems.",
+      "speaker": "Mohamed Elgendy",
+      "context": "Elgendy notes the growing interest in adversarial approaches as a means to enhance the robustness of AI models."
+    },
+    {
+      "claim": "Continuous evaluation and iteration are necessary for maintaining AI model quality over time.",
+      "speaker": "Mohamed Elgendy",
+      "context": "He stresses that AI development is an ongoing process, requiring regular testing and updates to ensure models perform as expected."
+    },
+    {
+      "claim": "The NIST risk management framework aligns with Kolena's approach to AI evaluation.",
+      "speaker": "Mohamed Elgendy",
+      "context": "Elgendy discusses how Kolena's framework is designed to complement existing regulatory guidelines, promoting transparency and accountability."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Sergey Brin"
+    ],
+    "organizations": [
+      "Kolena",
+      "NIST",
+      "OpenAI",
+      "Google",
+      "Cruise",
+      "Nvidia",
+      "Anthropic"
+    ],
+    "technologies": [
+      "LLMs",
+      "AI quality platform"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Kolena",
+      "summary": "Mohamed Elgendy introduces Kolena and its mission to improve AI quality assurance through systematic testing.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Challenges in AI Testing",
+      "summary": "Discussion on the difficulties faced in testing machine learning models and the need for a structured framework.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Human vs. Automated Evaluation",
+      "summary": "Exploration of the balance between human evaluation and automated metrics in assessing AI performance.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Defining Quality Standards",
+      "summary": "Elgendy outlines how Kolena is working to establish a gold standard for AI evaluation metrics.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI Evaluation",
+      "summary": "Discussion on the evolving landscape of AI testing, including the role of adversarial models and continuous evaluation.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "NIST Risk Management Framework",
+      "authors": "",
+      "context": "Elgendy references the NIST framework as a guideline for identifying and managing risks in AI evaluation."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Kolena"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Elgendy emphasizes the importance of building AI systems to specifications to avoid biases and failures.",
+      "Discussion on the Gemini model failure highlights the need for comprehensive testing frameworks."
+    ]
+  },
+  "_meta": {
+    "episode_number": 187,
+    "episode_date": "2024-05-18",
+    "rss_title": "#187 Mohamed Elgendy: Systematic Testing for Generative AI Models with Kolena",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:53:52Z",
+    "input_tokens": 13254,
+    "output_tokens": 1071
+  }
+}

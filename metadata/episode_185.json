@@ -1,0 +1,124 @@
+{
+  "episode_profile": {
+    "title": "Achieving 90% Accuracy in Predicting Drug Trial Outcomes",
+    "guest_name": "Damon Rasheed, Saurabh Jain",
+    "guest_title": "CTO, CEO",
+    "guest_organization": "Opyl AI",
+    "topic_summary": "In this episode, Damon Rasheed and Saurabh Jain discuss how Opyl's Trialkey.ai utilizes machine learning and natural language processing to predict clinical trial outcomes with up to 90% accuracy. They explore the implications for pharmaceutical companies and investors, emphasizing the importance of trial design and data analysis."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "natural language processing"
+    ],
+    "industries": [
+      "pharmaceuticals",
+      "healthcare"
+    ],
+    "policy_areas": [
+      "regulation",
+      "ethics"
+    ],
+    "geographic_focus": [
+      "United States",
+      "Australia"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The model can predict the outcome of a clinical trial with about 90% accuracy.",
+      "speaker": "Saurabh Jain",
+      "context": "This claim highlights the effectiveness of their AI model in analyzing past clinical trials to forecast future outcomes."
+    },
+    {
+      "claim": "About 60% of the world's clinical trials are designed poorly, leading to many failures.",
+      "speaker": "Damon Rasheed",
+      "context": "This statement underscores the potential for improvement in trial design through better data analysis."
+    },
+    {
+      "claim": "The insights from Trialkey could democratize access to successful trial design for smaller pharmaceutical companies.",
+      "speaker": "Damon Rasheed",
+      "context": "This reflects the potential impact of their technology on leveling the playing field in drug development."
+    },
+    {
+      "claim": "The model can help identify optimal trial parameters, such as patient numbers and dosages, to increase success rates.",
+      "speaker": "Saurabh Jain",
+      "context": "This emphasizes the practical applications of their AI in optimizing clinical trial designs."
+    },
+    {
+      "claim": "Predicting clinical trial outcomes could lead to a significant reduction in the number of trials conducted on humans.",
+      "speaker": "Saurabh Jain",
+      "context": "This suggests a future where AI simulations could replace many human trials, improving efficiency."
+    },
+    {
+      "claim": "The model's predictions are based on a dataset of over 400,000 clinical trials, which is crucial for its accuracy.",
+      "speaker": "Damon Rasheed",
+      "context": "This highlights the extensive data foundation that supports their predictive capabilities."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Michelle Gallagher"
+    ],
+    "organizations": [
+      "Opyl AI",
+      "ClinicalTrials.gov"
+    ],
+    "technologies": [
+      "Trialkey.ai"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Opyl AI",
+      "summary": "Craig introduces the guests and the purpose of Opyl AI's Trialkey product.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Importance of Trial Design",
+      "summary": "Damon and Saurabh discuss the flaws in current clinical trial designs and how their model addresses these issues.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Predictive Capabilities of Trialkey",
+      "summary": "The guests explain how their AI model predicts trial outcomes and the significance of their dataset.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of Clinical Trials",
+      "summary": "They explore the potential future impact of AI on clinical trials and the pharmaceutical industry.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Conclusion and Insights",
+      "summary": "Craig wraps up the discussion, highlighting the key takeaways from the conversation.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Opyl AI"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Damon's comparison of predicting clinical trials to sports betting.",
+      "Saurabh's insight on the potential for AI to reduce human trials."
+    ]
+  },
+  "_meta": {
+    "episode_number": 185,
+    "episode_date": "2024-05-06",
+    "rss_title": "#185 Damon Rasheed & Saurabh Jain: Achieving Up to 90% Accuracy in Predicting Drug Clinical Trial Outcomes with Opyl's Trialkey.ai",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:53:01Z",
+    "input_tokens": 12308,
+    "output_tokens": 965
+  }
+}

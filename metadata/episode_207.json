@@ -1,0 +1,130 @@
+{
+  "episode_profile": {
+    "title": "How to Mitigate AI Risk in High-Stakes Industries",
+    "guest_name": "Noa Srebrnik",
+    "guest_title": "CEO",
+    "guest_organization": "CitrusX",
+    "topic_summary": "Noa Srebrnik discusses the challenges and solutions for mitigating AI risks in high-stakes industries, particularly finance and insurance. She emphasizes the importance of compliance with evolving regulations and the need for organizations to adopt a responsible approach to AI deployment."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "generative AI",
+      "explainable AI"
+    ],
+    "industries": [
+      "finance",
+      "insurance",
+      "healthcare"
+    ],
+    "policy_areas": [
+      "regulation",
+      "ethics",
+      "safety"
+    ],
+    "geographic_focus": [
+      "North America",
+      "Europe",
+      "UK"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Organizations must use different AI models tailored to specific populations to improve accuracy and fairness.",
+      "speaker": "Noa Srebrnik",
+      "context": "This claim was made in the context of addressing biases in lending practices."
+    },
+    {
+      "claim": "The regulatory environment for AI is evolving and fragmented, requiring organizations to adapt quickly.",
+      "speaker": "Noa Srebrnik",
+      "context": "Noa discussed the challenges posed by varying regulations across different states and countries."
+    },
+    {
+      "claim": "CitrusX provides a platform that allows organizations to validate and monitor AI models throughout their lifecycle.",
+      "speaker": "Noa Srebrnik",
+      "context": "She explained how their platform supports compliance and risk management in high-risk industries."
+    },
+    {
+      "claim": "The use of synthetic data is crucial for identifying risks and validating AI models effectively.",
+      "speaker": "Noa Srebrnik",
+      "context": "Noa highlighted the importance of synthetic data in their approach to risk assessment."
+    },
+    {
+      "claim": "Regulators are still figuring out what they need from organizations regarding AI compliance.",
+      "speaker": "Noa Srebrnik",
+      "context": "This was mentioned while discussing the uncertainty in regulatory expectations."
+    },
+    {
+      "claim": "Companies are increasingly seeking independent validation of their AI models to ensure accountability.",
+      "speaker": "Noa Srebrnik",
+      "context": "Noa noted that many organizations prefer external validation to avoid conflicts of interest."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "CitrusX",
+      "VMware",
+      "National Bank",
+      "Ministry of Finance"
+    ],
+    "technologies": [
+      "synthetic data",
+      "machine learning",
+      "generative AI"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to CitrusX",
+      "summary": "Noa Srebrnik introduces CitrusX and its mission to mitigate AI risks in high-stakes industries.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Regulatory Challenges",
+      "summary": "Discussion on the evolving regulatory landscape for AI and the challenges organizations face.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Platform Capabilities",
+      "summary": "Overview of CitrusX's platform features, including risk assessment and model validation.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Use of Synthetic Data",
+      "summary": "Exploration of how synthetic data is utilized to enhance model validation and risk identification.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI Regulation",
+      "summary": "Predictions on the future of AI regulations and the importance of responsible AI deployment.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "CitrusX"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Noa emphasizes the need for organizations to trust AI to ensure its adoption.",
+      "Discussion on the importance of independent validation of AI models."
+    ]
+  },
+  "_meta": {
+    "episode_number": 207,
+    "episode_date": "2024-09-15",
+    "rss_title": "#207 Noa Srebrnik: How to Mitigate AI Risk in High-Stakes Industries",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:00:41Z",
+    "input_tokens": 9813,
+    "output_tokens": 948
+  }
+}

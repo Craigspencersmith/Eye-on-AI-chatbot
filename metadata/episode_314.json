@@ -1,0 +1,135 @@
+{
+  "episode_profile": {
+    "title": "Nick Pandher: How Inference-First Infrastructure Is Powering the Next Wave of AI",
+    "guest_name": "Nick Pandher",
+    "guest_title": "VP of Product",
+    "guest_organization": "CirusScale",
+    "topic_summary": "Nick Pandher discusses the shift from AI training to inference, emphasizing the importance of inference-first infrastructure for AI services. He explains how CirusScale differentiates itself by providing tailored cloud solutions that optimize inference workloads for various enterprise applications."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "inference",
+      "machine learning",
+      "AI services"
+    ],
+    "industries": [
+      "cloud computing",
+      "finance",
+      "healthcare",
+      "retail"
+    ],
+    "policy_areas": [
+      "data privacy",
+      "regulation"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The shift from training to inference is driven by the need for organizations to utilize existing models without the high costs of retraining.",
+      "speaker": "Nick Pandher",
+      "context": "Nick explains that many organizations are now focusing on deploying off-the-shelf models for specific workflows, which reduces the need for extensive training."
+    },
+    {
+      "claim": "CirusScale's unique offering lies in its ability to provide tailored cloud services that meet specific customer needs, particularly in regulated industries.",
+      "speaker": "Nick Pandher",
+      "context": "Nick highlights how CirusScale differentiates itself from hyperscalers by offering customized solutions that address unique enterprise requirements."
+    },
+    {
+      "claim": "The adoption of AI in enterprises is still in its early stages, with many organizations struggling to move from pilot projects to full production.",
+      "speaker": "Nick Pandher",
+      "context": "Nick discusses the challenges enterprises face in implementing AI solutions and the importance of conducting proof of value assessments before scaling."
+    },
+    {
+      "claim": "Qualcomm's inference technology is particularly well-suited for agentic workflows due to its focus on performance and cost efficiency.",
+      "speaker": "Nick Pandher",
+      "context": "Nick explains how Qualcomm's technology allows for optimized inference that can be easily integrated into enterprise workflows."
+    },
+    {
+      "claim": "CirusScale aims to provide a white-glove service that helps enterprises navigate their AI journey, from initial experimentation to deployment.",
+      "speaker": "Nick Pandher",
+      "context": "Nick emphasizes the consultative approach CirusScale takes in assisting organizations with their AI implementations."
+    },
+    {
+      "claim": "The future of AI in enterprises will involve more middleware and tools that facilitate the integration of AI capabilities into existing applications.",
+      "speaker": "Nick Pandher",
+      "context": "Nick predicts a trend towards more user-friendly solutions that allow enterprises to leverage AI without extensive technical expertise."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Andrew Feldman",
+      "Rodrigo Liang"
+    ],
+    "organizations": [
+      "CirusScale",
+      "NVIDIA",
+      "AMD",
+      "OpenAI",
+      "Microsoft",
+      "Qualcomm",
+      "AI2"
+    ],
+    "technologies": [
+      "CUDA",
+      "Qualcomm AI 100 Ultra",
+      "Qualcomm AI 200",
+      "Qualcomm AI 250"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to CirusScale",
+      "summary": "Nick Pandher introduces CirusScale and its focus on inference services in the AI cloud space.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Shift to Inference",
+      "summary": "Discussion on the transition from AI training to inference and its implications for enterprises.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "CirusScale's Differentiation",
+      "summary": "Nick explains how CirusScale's tailored solutions set it apart from traditional hyperscalers.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Qualcomm Partnership",
+      "summary": "Exploration of the partnership with Qualcomm and its significance for inference workloads.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI in Enterprises",
+      "summary": "Nick discusses the future trends in AI adoption and the role of middleware in enterprise workflows.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "CirusScale"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Nick emphasizes the importance of proof of value assessments before scaling AI solutions.",
+      "Discussion on the challenges enterprises face in moving from pilot projects to production."
+    ]
+  },
+  "_meta": {
+    "episode_number": 314,
+    "episode_date": "2026-01-17",
+    "rss_title": "#314 Nick Pandher: How Inference-First Infrastructure Is Powering the Next Wave of AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:36:07Z",
+    "input_tokens": 12604,
+    "output_tokens": 1058
+  }
+}

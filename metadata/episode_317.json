@@ -1,0 +1,129 @@
+{
+  "episode_profile": {
+    "title": "Why Modern Medicine Needs AI-Assisted Decision Making",
+    "guest_name": "Steven Brown",
+    "guest_title": "Chief AI Officer",
+    "guest_organization": "CureWise",
+    "topic_summary": "Steven Brown discusses his personal journey with cancer and how he applied AI-assisted decision-making to manage his healthcare. He emphasizes the importance of using AI to analyze medical records and facilitate better communication between patients and doctors."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "natural language processing",
+      "agent-based systems"
+    ],
+    "industries": [
+      "healthcare",
+      "medical technology"
+    ],
+    "policy_areas": [
+      "patient advocacy",
+      "healthcare regulation",
+      "precision medicine"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI can help patients analyze their medical records and facilitate better decision-making in their healthcare.",
+      "speaker": "Steven Brown",
+      "context": "Brown used AI to model different medical opinions on his condition, leading to earlier diagnosis and better treatment options."
+    },
+    {
+      "claim": "Shared decision-making between patients and doctors leads to better health outcomes.",
+      "speaker": "Steven Brown",
+      "context": "Brown emphasizes that involving patients in their care decisions can improve engagement and treatment effectiveness."
+    },
+    {
+      "claim": "AI can provide diverse medical opinions by simulating discussions among different specialists.",
+      "speaker": "Steven Brown",
+      "context": "By creating agents that represent various medical perspectives, Brown was able to identify necessary tests that his doctors had overlooked."
+    },
+    {
+      "claim": "The healthcare system is often overwhelmed, leading to missed diagnoses and treatment opportunities.",
+      "speaker": "Steven Brown",
+      "context": "Brown's experience highlights the challenges patients face in navigating a complex healthcare system with limited time from doctors."
+    },
+    {
+      "claim": "AI can help patients become more educated about their conditions, enabling them to ask better questions during medical consultations.",
+      "speaker": "Steven Brown",
+      "context": "Brown developed AI tools to help patients understand their medical conditions and treatment options."
+    },
+    {
+      "claim": "Precision medicine is essential for tailoring treatments to individual patients based on their unique genetic profiles.",
+      "speaker": "Steven Brown",
+      "context": "Brown discusses the importance of understanding genetic mutations in cancer treatment to improve patient outcomes."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Peter Diamandis",
+      "Sergey Brin"
+    ],
+    "organizations": [
+      "CureWise",
+      "Health Hero Network",
+      "Abundance 360",
+      "Department of Veterans Affairs"
+    ],
+    "technologies": [
+      "large language models",
+      "AI agents"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to AI in Healthcare",
+      "summary": "Steven Brown shares his background in AI and healthcare, detailing his journey back into the medical field after a personal health crisis.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Personal Health Journey",
+      "summary": "Brown recounts his experience with a rare blood cancer and how he utilized AI to analyze his medical records for better treatment.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI-Assisted Decision Making",
+      "summary": "The discussion focuses on how AI can simulate medical opinions and improve patient engagement in their healthcare decisions.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in Healthcare",
+      "summary": "Brown discusses the limitations of the current healthcare system and the need for better patient advocacy and education.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI in Medicine",
+      "summary": "Brown outlines the potential for AI to revolutionize patient care and the importance of precision medicine.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "CureWise"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "personal narrative and technical discussion",
+    "tone": "educational and hopeful",
+    "notable_moments": [
+      "Brown's realization that he needed to advocate for his own health led to significant insights about his condition.",
+      "The discussion about how AI can simulate a tumor board to provide diverse medical opinions."
+    ]
+  },
+  "_meta": {
+    "episode_number": 317,
+    "episode_date": "2026-01-25",
+    "rss_title": "#317 Steven Brown: Why Modern Medicine Needs AI-Assisted Decision Making",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:37:19Z",
+    "input_tokens": 13262,
+    "output_tokens": 974
+  }
+}

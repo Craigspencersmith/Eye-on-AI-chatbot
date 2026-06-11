@@ -1,0 +1,130 @@
+{
+  "episode_profile": {
+    "title": "Jeff Lu: How Akool Uses Gen AI to Make Live AI Avatars & Voices",
+    "guest_name": "Jeff Lu",
+    "guest_title": "Founder and CEO",
+    "guest_organization": "Akool",
+    "topic_summary": "Jeff Lu discusses how Akool leverages generative AI to create live AI avatars and voice translation technologies. He explains the technical aspects of their products, including real-time video translation and avatar lip-syncing, and shares insights on the future of language barriers in communication."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "video processing",
+      "natural language processing"
+    ],
+    "industries": [
+      "technology",
+      "marketing",
+      "media"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The barriers of language will be virtually reduced in three to five years.",
+      "speaker": "Jeff Lu",
+      "context": "This claim was made in the context of discussing the advancements in AI translation technologies."
+    },
+    {
+      "claim": "Our solution for video translation is better than just doing a voiceover.",
+      "speaker": "Jeff Lu",
+      "context": "Jeff contrasts Akool's approach to translation with that of larger companies like Google, emphasizing the integration of video and audio."
+    },
+    {
+      "claim": "Lip syncing an avatar is easier than syncing a live video feed.",
+      "speaker": "Jeff Lu",
+      "context": "This was mentioned while discussing the technical challenges of real-time translation and avatar animation."
+    },
+    {
+      "claim": "The translation process can be initiated simply by pasting a YouTube URL.",
+      "speaker": "Jeff Lu",
+      "context": "Jeff explains the user-friendly nature of their translation service, highlighting its efficiency."
+    },
+    {
+      "claim": "Latency below half a second cannot be perceived in live interactions.",
+      "speaker": "Jeff Lu",
+      "context": "This claim was made while discussing the optimization of latency in live video interactions."
+    },
+    {
+      "claim": "Emotion in translation is a key area we are working on.",
+      "speaker": "Jeff Lu",
+      "context": "Jeff discusses the importance of conveying emotion in AI-generated translations."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Eugene"
+    ],
+    "organizations": [
+      "Apple",
+      "Google Cloud",
+      "Coca-Cola",
+      "AWS"
+    ],
+    "technologies": [
+      "Equal Life Camera",
+      "H200 GPUs",
+      "A100 GPUs",
+      "transformers"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Akool",
+      "summary": "Jeff Lu introduces himself and provides background on Akool and its mission.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Product Overview",
+      "summary": "Discussion of Akool's suite of products, including live AI avatars and video translation.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Technical Insights",
+      "summary": "Jeff explains the technical workings behind avatar lip syncing and video processing.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of Language Translation",
+      "summary": "Exploration of the future implications of AI in breaking down language barriers.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Challenges and Innovations",
+      "summary": "Discussion on the challenges of latency and emotion in AI translations.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Akool"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "The barriers of language will be virtually reduced in three to five years.",
+      "Lip syncing an avatar is easier than syncing a live video feed."
+    ]
+  },
+  "_meta": {
+    "episode_number": 265,
+    "episode_date": "2025-06-27",
+    "rss_title": "#265 Jeff Lu: How Akool Uses Gen AI to Make Live AI Avatars & Voices",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:19:10Z",
+    "input_tokens": 7721,
+    "output_tokens": 904
+  }
+}

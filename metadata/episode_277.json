@@ -1,0 +1,132 @@
+{
+  "episode_profile": {
+    "title": "Alex Salazar: Arcade's Vision to Make AI Agents Secure and Scalable",
+    "guest_name": "Alex Salazar",
+    "guest_title": "Founder and CEO",
+    "guest_organization": "Arcade",
+    "topic_summary": "In this episode, Alex Salazar discusses the challenges and innovations in building secure and scalable AI agents. He explains how Arcade enables developers to create agents that can interact with various services while ensuring proper authentication and authorization."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "AI agents",
+      "large language models",
+      "authentication",
+      "authorization"
+    ],
+    "industries": [
+      "technology",
+      "financial services",
+      "e-commerce"
+    ],
+    "policy_areas": [
+      "security",
+      "privacy"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "APIs don't work well with large language models due to high error rates and hallucinations.",
+      "speaker": "Alex Salazar",
+      "context": "Alex emphasizes the difficulties developers face when trying to integrate APIs with AI agents."
+    },
+    {
+      "claim": "The majority of agents fail to reach production due to challenges in authentication and authorization.",
+      "speaker": "Alex Salazar",
+      "context": "Alex discusses the common pitfalls developers encounter when transitioning from demo to production."
+    },
+    {
+      "claim": "Arcade focuses on providing a seamless developer experience by handling authentication and authorization behind the scenes.",
+      "speaker": "Alex Salazar",
+      "context": "Alex explains how Arcade simplifies the process for developers building AI agents."
+    },
+    {
+      "claim": "The future of AI agents will resemble the internet boom of the 90s, with rapid innovation and integration into daily life.",
+      "speaker": "Alex Salazar",
+      "context": "Alex draws parallels between the current AI landscape and the early days of the internet."
+    },
+    {
+      "claim": "Multi-agent systems will become increasingly important in the development of AI applications.",
+      "speaker": "Alex Salazar",
+      "context": "Alex advocates for the use of multiple agents working together to enhance functionality."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Craig S. Smith"
+    ],
+    "organizations": [
+      "Arcade",
+      "Okta",
+      "Anthropic",
+      "IBM",
+      "Xtreme Networks",
+      "Neo Tribe",
+      "Cursor",
+      "Salesforce",
+      "Shortwave",
+      "Morgan Stanley",
+      "Visa"
+    ],
+    "technologies": [
+      "GPT-4",
+      "OAuth",
+      "MCP",
+      "ACP"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Arcade",
+      "summary": "Alex Salazar introduces Arcade and its mission to enable secure AI agents.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Challenges in AI Integration",
+      "summary": "Discussion on the difficulties developers face when integrating APIs with AI agents.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Authentication and Authorization",
+      "summary": "Alex explains how Arcade simplifies the authentication process for developers.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "The Future of AI Agents",
+      "summary": "Alex shares his vision for the future of AI agents and their impact on society.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Multi-Agent Systems",
+      "summary": "Discussion on the importance of multi-agent systems in AI development.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Arcade",
+      "Okta"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Alex emphasizes the importance of security in AI agent development.",
+      "Discussion on the rapid evolution of AI technology and its implications."
+    ]
+  },
+  "_meta": {
+    "episode_number": 277,
+    "episode_date": "2025-08-06",
+    "rss_title": "#277 Alex Salazar: Arcade's Vision to Make AI Agents Secure and Scalable",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:23:17Z",
+    "input_tokens": 10290,
+    "output_tokens": 880
+  }
+}

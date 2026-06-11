@@ -1,0 +1,144 @@
+{
+  "episode_profile": {
+    "title": "Exploring the Intersection of AI and Neuroscience",
+    "guest_name": "Terry Sejnowski",
+    "guest_title": "Director of the Institute for Neural Computation",
+    "guest_organization": "University of California, San Diego",
+    "topic_summary": "Terry Sejnowski discusses the relationship between advances in deep learning and our understanding of the brain, emphasizing the significance of large transformer models and the principles of scaling in AI. He reflects on the evolution of the NeurIPS conference and the ongoing exploration of diverse algorithms in the field."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "deep learning",
+      "computational neuroscience",
+      "transformer models"
+    ],
+    "industries": [
+      "technology",
+      "education",
+      "healthcare"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The scaling of large transformer models may help us understand the workings of the human brain.",
+      "speaker": "Terry Sejnowski",
+      "context": "Sejnowski discusses how advances in AI can provide insights into neuroscience."
+    },
+    {
+      "claim": "The NeurIPS conference has evolved to focus on diverse algorithms beyond just deep learning.",
+      "speaker": "Terry Sejnowski",
+      "context": "He reflects on the historical development and interdisciplinary nature of the conference."
+    },
+    {
+      "claim": "The principle of scaling is crucial for both AI algorithms and biological systems.",
+      "speaker": "Terry Sejnowski",
+      "context": "Sejnowski explains how scaling impacts the performance of neural networks and biological brains."
+    },
+    {
+      "claim": "Geoff Hinton's new forward-forward algorithm could lead to significant advancements in AI learning.",
+      "speaker": "Terry Sejnowski",
+      "context": "He discusses the potential of this algorithm to improve upon existing methods like backpropagation."
+    },
+    {
+      "claim": "AI models may provide insights into the nature of consciousness and intelligence.",
+      "speaker": "Terry Sejnowski",
+      "context": "Sejnowski speculates on how studying AI could lead to a better understanding of these complex concepts."
+    },
+    {
+      "claim": "The future of AI will likely involve more efficient algorithms and hardware that mimic biological processes.",
+      "speaker": "Terry Sejnowski",
+      "context": "He discusses the need for energy-efficient computing in the context of scaling AI technologies."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Geoff Hinton",
+      "Ed Posner",
+      "David Rumelhart",
+      "Blaise Ag\u00fcera y Arcas",
+      "Douglas Hofstadter",
+      "Dave Chalmers"
+    ],
+    "organizations": [
+      "NeurIPS Foundation",
+      "University of California, San Diego",
+      "Salk Institute",
+      "Cerebras"
+    ],
+    "technologies": [
+      "Boltzmann Machines",
+      "transformer models",
+      "AlexNet",
+      "ImageNet"
+    ],
+    "publications": [
+      "Large Language Models and The Reverse Turing Test"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Terry Sejnowski",
+      "summary": "Terry introduces himself and discusses his background in computational neuroscience.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Evolution of NeurIPS",
+      "summary": "Terry explains the origins and growth of the NeurIPS conference and its focus on diverse algorithms.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Scaling in AI and Neuroscience",
+      "summary": "The conversation shifts to the importance of scaling in both AI algorithms and biological systems.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Geoff Hinton's Contributions",
+      "summary": "Terry discusses Hinton's new forward-forward algorithm and its implications for AI learning.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "AI and Consciousness",
+      "summary": "The discussion explores the potential of AI models to provide insights into consciousness and intelligence.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Large Language Models and The Reverse Turing Test",
+      "authors": "Terry Sejnowski",
+      "context": "This paper discusses the implications of large language models on our understanding of intelligence and consciousness."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "University of California, San Diego",
+      "Salk Institute"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Terry's insights on the scaling of algorithms and their parallels in biological systems.",
+      "The discussion on the potential of AI to inform our understanding of consciousness."
+    ]
+  },
+  "_meta": {
+    "episode_number": 113,
+    "episode_date": "2023-01-02",
+    "rss_title": "Setting the stage for 2023",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:30:42Z",
+    "input_tokens": 8833,
+    "output_tokens": 1089
+  }
+}

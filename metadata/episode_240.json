@@ -1,0 +1,129 @@
+{
+  "episode_profile": {
+    "title": "Manos Koukoumidis: Why The Future of AI is Open-Source",
+    "guest_name": "Dominic",
+    "guest_title": "Co-founder and Chief Technology Officer",
+    "guest_organization": "DFINITY Foundation",
+    "topic_summary": "Dominic discusses the evolution of blockchain technology and the Internet Computer, emphasizing its potential to host decentralized applications and AI models. He argues for the advantages of open-source systems and the transformative impact of AI on software development."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "decentralized AI",
+      "blockchain technology",
+      "smart contracts"
+    ],
+    "industries": [
+      "technology",
+      "gaming",
+      "finance"
+    ],
+    "policy_areas": [
+      "decentralization",
+      "cybersecurity",
+      "open-source"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The Internet Computer can host software that is tamper-proof and unstoppable, providing a new paradigm for decentralized applications.",
+      "speaker": "Dominic",
+      "context": "Dominic explains the unique properties of the Internet Computer compared to traditional blockchains."
+    },
+    {
+      "claim": "The self-writing internet paradigm will revolutionize how users interact with AI, allowing them to create custom applications through natural language instructions.",
+      "speaker": "Dominic",
+      "context": "Dominic discusses the future of AI integration with the Internet Computer and its implications for software development."
+    },
+    {
+      "claim": "Traditional blockchains are limited in their ability to store and process large amounts of data, whereas the Internet Computer can handle complex applications and AI models.",
+      "speaker": "Dominic",
+      "context": "Dominic contrasts the capabilities of the Internet Computer with those of existing blockchains."
+    },
+    {
+      "claim": "The governance system of the Internet Computer ensures decentralization and security by requiring node machines to come from different providers and jurisdictions.",
+      "speaker": "Dominic",
+      "context": "Dominic explains the importance of geographic and jurisdictional diversity in maintaining the integrity of the network."
+    },
+    {
+      "claim": "The reverse gas model allows software on the Internet Computer to pay for its own computation, making it more efficient for developers.",
+      "speaker": "Dominic",
+      "context": "Dominic describes how the Internet Computer's economic model differs from traditional blockchains."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Jeff Bezos",
+      "Vladimir Putin"
+    ],
+    "organizations": [
+      "Bitcoin",
+      "Ethereum",
+      "Solana",
+      "Amazon Web Services",
+      "Google Cloud",
+      "DFINITY Foundation"
+    ],
+    "technologies": [
+      "Cassandra",
+      "WebAssembly",
+      "DeepSeq",
+      "GPT-4"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to the Internet Computer",
+      "summary": "Dominic introduces the concept of the Internet Computer and its foundational principles.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Decentralization and Governance",
+      "summary": "Discussion on the governance system of the Internet Computer and its approach to decentralization.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI and the Self-Writing Internet",
+      "summary": "Exploration of how AI will interact with the Internet Computer to create a self-writing internet.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Economic Model and Reverse Gas",
+      "summary": "Explanation of the reverse gas model and how it benefits developers using the Internet Computer.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of Decentralized Applications",
+      "summary": "Dominic shares his vision for the future of decentralized applications and the role of AI.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "DFINITY Foundation"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Dominic's vision for the self-writing internet as a transformative moment for crypto.",
+      "The contrast between traditional blockchains and the Internet Computer's capabilities."
+    ]
+  },
+  "_meta": {
+    "episode_number": 240,
+    "episode_date": "2025-03-04",
+    "rss_title": "#240 Manos Koukoumidis: Why The Future of AI is Open-Source",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:10:32Z",
+    "input_tokens": 13753,
+    "output_tokens": 953
+  }
+}

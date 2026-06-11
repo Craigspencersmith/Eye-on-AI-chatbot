@@ -1,0 +1,136 @@
+{
+  "episode_profile": {
+    "title": "The Future of Open Source AI Development with Jeff Boudier",
+    "guest_name": "Jeff Boudier",
+    "guest_title": "Head of Product and Growth",
+    "guest_organization": "Hugging Face",
+    "topic_summary": "In this episode, Jeff Boudier discusses the evolution of Hugging Face as a leading platform for open source AI development. He explains how Hugging Face enables enterprises to build and host their own AI models, the significance of open source in AI, and the growing trend of multimodal models."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "open source AI",
+      "machine learning",
+      "multimodal models"
+    ],
+    "industries": [
+      "technology",
+      "software development",
+      "AI"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The top performing open models are catching up to closed models, and the pace of this catch-up is accelerating.",
+      "speaker": "Jeff Boudier",
+      "context": "This claim reflects the current state of AI development, where open source models are becoming competitive with proprietary models."
+    },
+    {
+      "claim": "Companies need to build their AI in-house using open source to maintain control over their technology and data.",
+      "speaker": "Jeff Boudier",
+      "context": "Boudier emphasizes the importance of enterprises managing their own AI solutions to ensure accountability and adaptability."
+    },
+    {
+      "claim": "Hugging Face is evolving to make it easier for enterprises to deploy AI models with their new solution, Hugs.",
+      "speaker": "Jeff Boudier",
+      "context": "This claim highlights Hugging Face's commitment to simplifying the AI development process for businesses."
+    },
+    {
+      "claim": "There are over 5 million AI builders using Hugging Face, indicating a significant growth in the community.",
+      "speaker": "Jeff Boudier",
+      "context": "This statistic showcases the increasing adoption of Hugging Face's platform among developers and companies."
+    },
+    {
+      "claim": "The Hugging Face Hub serves as a central collaboration platform for AI builders, similar to GitHub but tailored for machine learning.",
+      "speaker": "Jeff Boudier",
+      "context": "Boudier explains how Hugging Face facilitates collaboration among AI developers, differentiating it from traditional code repositories."
+    },
+    {
+      "claim": "The trend is shifting towards multimodal models that can handle various types of data, such as text, images, and videos.",
+      "speaker": "Jeff Boudier",
+      "context": "This observation points to a broader trend in AI where different modalities are increasingly integrated."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Cl\u00e9ment Delang",
+      "Julien Chaumont",
+      "Thomas Wolfe"
+    ],
+    "organizations": [
+      "Hugging Face",
+      "Oracle",
+      "Mozilla Foundation"
+    ],
+    "technologies": [
+      "Transformers",
+      "LAMA",
+      "Hugging Chat"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Hugging Face",
+      "summary": "Jeff Boudier introduces Hugging Face and its mission to make AI more accessible.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Evolution of AI Models",
+      "summary": "Discussion on the transition from closed to open source models and the impact of transformers.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Hugging Face's New Solutions",
+      "summary": "Overview of the Hugs solution aimed at simplifying AI deployment for enterprises.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Community and Collaboration",
+      "summary": "Exploration of the growing community of AI builders and the collaborative features of Hugging Face.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future Trends in AI",
+      "summary": "Boudier shares insights on the future of AI, including the rise of multimodal models.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "OpenLLM leaderboard",
+      "authors": "",
+      "context": "Referenced as a tool for comparing large language models on the Hugging Face platform."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Hugging Face"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Boudier's explanation of the Hugging Face name and its origins.",
+      "The discussion on the competitive landscape between open and closed AI models."
+    ]
+  },
+  "_meta": {
+    "episode_number": 218,
+    "episode_date": "2024-11-13",
+    "rss_title": "#218 Jeff Boudier: The Future of Open Source AI Development (Hugging Face)",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:03:56Z",
+    "input_tokens": 8702,
+    "output_tokens": 1067
+  }
+}

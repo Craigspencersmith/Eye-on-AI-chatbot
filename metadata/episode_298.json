@@ -1,0 +1,135 @@
+{
+  "episode_profile": {
+    "title": "Ryan Kolln: How Appen Trains the World's Most Powerful AI Models",
+    "guest_name": "Ryan Kolln",
+    "guest_title": "CEO",
+    "guest_organization": "Appen",
+    "topic_summary": "Ryan Kolln discusses the evolution of large language model (LLM) evaluation, emphasizing the importance of human evaluators in providing cultural context and nuanced feedback. He explains how Appen supports AI model training and evaluation through a diverse workforce and highlights the challenges and opportunities in the AI evaluation market."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "natural language processing",
+      "data annotation",
+      "machine learning"
+    ],
+    "industries": [
+      "technology",
+      "AI",
+      "data services"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "global",
+      "China",
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "High benchmark scores do not always correlate with a good user experience.",
+      "speaker": "Ryan Kolln",
+      "context": "Ryan discusses the limitations of static benchmarks in evaluating LLMs and the need for more dynamic assessments."
+    },
+    {
+      "claim": "Cultural context is crucial for effective AI model evaluation.",
+      "speaker": "Ryan Kolln",
+      "context": "He explains how different cultural perspectives can significantly influence the quality of AI-generated responses."
+    },
+    {
+      "claim": "Human evaluators will remain essential despite advancements in AI evaluation models.",
+      "speaker": "Ryan Kolln",
+      "context": "Ryan argues that while AI can assist in evaluations, human insight is irreplaceable for nuanced understanding."
+    },
+    {
+      "claim": "The market for AI evaluation is large but crowded, with varying strengths among competitors.",
+      "speaker": "Ryan Kolln",
+      "context": "He outlines the competitive landscape of AI evaluation services and Appen's unique position."
+    },
+    {
+      "claim": "The future of AI evaluation will involve a blend of human and AI assessments.",
+      "speaker": "Ryan Kolln",
+      "context": "Ryan discusses the integration of AI tools with human evaluators to enhance model performance."
+    },
+    {
+      "claim": "The B2B market for AI evaluation is evolving rapidly and diverging from the B2C market.",
+      "speaker": "Ryan Kolln",
+      "context": "He highlights the distinct paths of B2B and B2C AI evaluation needs and opportunities."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Fei-Fei Li",
+      "Julie von Willer"
+    ],
+    "organizations": [
+      "Appen",
+      "OpenAI",
+      "Google",
+      "Meta",
+      "Amazon",
+      "IARPA",
+      "DARPA"
+    ],
+    "technologies": [
+      "transformers",
+      "convolutional neural networks",
+      "supervised learning"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Appen",
+      "summary": "Ryan Kolln introduces himself and Appen's role in AI data annotation and evaluation.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Importance of Human Evaluators",
+      "summary": "Discussion on the role of human evaluators in assessing AI models and the cultural nuances involved.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in AI Evaluation",
+      "summary": "Ryan outlines the challenges faced in AI evaluation, including the limitations of benchmarks and the need for diverse evaluators.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Market Dynamics",
+      "summary": "Exploration of the competitive landscape in AI evaluation and the differences between B2B and B2C markets.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI Evaluation",
+      "summary": "Ryan shares insights on the future trends in AI evaluation, including the integration of AI and human assessments.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Appen"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "industry insights discussion",
+    "tone": "informative",
+    "notable_moments": [
+      "Ryan emphasizes the need for cultural context in AI evaluations.",
+      "He discusses the evolution of evaluation methods from benchmarks to human feedback."
+    ]
+  },
+  "_meta": {
+    "episode_number": 298,
+    "episode_date": "2025-11-06",
+    "rss_title": "#298 Ryan Kolln: How Appen Trains the World's Most Powerful AI Models",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:30:27Z",
+    "input_tokens": 10198,
+    "output_tokens": 983
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "episode_profile": {
+    "title": "Chris O'Neill: How GrowthLoop is Using Agentic AI for Real-Time, Personalized Marketing",
+    "guest_name": "Chris O'Neill",
+    "guest_title": "CEO",
+    "guest_organization": "Growth Loop",
+    "topic_summary": "Chris O'Neill discusses how GrowthLoop leverages agentic AI to enhance marketing strategies through real-time data analysis and personalized customer engagement. He emphasizes the importance of reducing complexity in marketing workflows and the role of AI in driving growth and improving customer relationships."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "agentic AI",
+      "machine learning",
+      "data analysis"
+    ],
+    "industries": [
+      "marketing",
+      "e-commerce",
+      "technology"
+    ],
+    "policy_areas": [
+      "data privacy",
+      "compliance"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "GrowthLoop applies agentic AI on top of data clouds to drive faster growth for marketers.",
+      "speaker": "Chris O'Neill",
+      "context": "This claim highlights the innovative approach GrowthLoop takes in utilizing AI to enhance marketing efficiency."
+    },
+    {
+      "claim": "The company has improved the speed of marketing iterations, achieving up to 8x faster experimentation.",
+      "speaker": "Chris O'Neill",
+      "context": "This demonstrates the effectiveness of GrowthLoop's technology in streamlining marketing processes."
+    },
+    {
+      "claim": "Understanding customer context is crucial for effective marketing, and AI helps in personalizing customer interactions.",
+      "speaker": "Chris O'Neill",
+      "context": "This underscores the importance of data-driven decision-making in marketing strategies."
+    },
+    {
+      "claim": "The future of marketing will involve agents that can autonomously interact with customers and optimize engagement.",
+      "speaker": "Chris O'Neill",
+      "context": "This prediction reflects the evolving landscape of marketing technology and the role of AI."
+    },
+    {
+      "claim": "Companies that fail to adapt to AI-driven marketing will struggle to survive in the competitive landscape.",
+      "speaker": "Chris O'Neill",
+      "context": "This statement emphasizes the urgency for businesses to embrace AI technologies."
+    },
+    {
+      "claim": "GrowthLoop's compound marketing engine automates audience selection and campaign execution, significantly reducing manual processes.",
+      "speaker": "Chris O'Neill",
+      "context": "This highlights the operational efficiencies gained through GrowthLoop's solutions."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Benedict Evans",
+      "Mary Meeker"
+    ],
+    "organizations": [
+      "Growth Loop",
+      "Google",
+      "Snowflake",
+      "Databricks",
+      "Allegro",
+      "Gap"
+    ],
+    "technologies": [
+      "agentic AI",
+      "data clouds",
+      "SQL",
+      "machine learning"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to GrowthLoop",
+      "summary": "Chris O'Neill introduces himself and GrowthLoop, explaining its focus on agentic AI for marketing.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "How GrowthLoop Works",
+      "summary": "O'Neill discusses the mechanics of GrowthLoop's platform and its integration with data clouds.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "The Role of AI in Marketing",
+      "summary": "The conversation shifts to the impact of AI on marketing strategies and customer engagement.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Case Study: Allegro",
+      "summary": "O'Neill shares a success story of Allegro using GrowthLoop's technology to enhance their marketing efforts.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of Marketing",
+      "summary": "The discussion concludes with insights on the future of marketing and the increasing importance of AI.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Growth Loop",
+      "Gap"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "O'Neill emphasizes the importance of reducing complexity in marketing workflows.",
+      "He predicts that companies failing to adapt to AI will struggle to survive."
+    ]
+  },
+  "_meta": {
+    "episode_number": 282,
+    "episode_date": "2025-09-02",
+    "rss_title": "#282 Chris O'Neill: How GrowthLoop is Using Agentic AI for Real-Time, Personalized Marketing",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:24:55Z",
+    "input_tokens": 11431,
+    "output_tokens": 971
+  }
+}

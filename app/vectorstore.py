@@ -123,11 +123,31 @@ def query(question: str, top_k: Optional[int] = None) -> list[dict]:
         results["metadatas"][0],
         results["distances"][0],
     ):
+        # Build a rich source label from enriched metadata
+        ep_num = meta.get("episode_number", "")
+        title = meta.get("title", "")
+        guest = meta.get("guest_name", "")
+        ep_date = meta.get("episode_date", "")
+        org = meta.get("guest_organization", "")
+
+        if ep_num and title:
+            source_label = f"Episode {ep_num}: {title}"
+            if guest:
+                source_label += f" (Guest: {guest}"
+                if org:
+                    source_label += f", {org}"
+                source_label += ")"
+            if ep_date:
+                source_label += f" [{ep_date}]"
+        else:
+            source_label = meta.get("source", "unknown")
+
         output.append(
             {
                 "text": doc,
-                "source": meta.get("source", "unknown"),
+                "source": source_label,
                 "score": 1 - dist,  # cosine distance → similarity
+                "metadata": meta,
             }
         )
     return output

@@ -1,0 +1,101 @@
+{
+  "episode_profile": {
+    "title": "Inside Armenia's Tech Revolution & Rise of AI Startups",
+    "guest_name": "Rem Darbinyan",
+    "guest_title": "Co-founder and CEO",
+    "guest_organization": "Krisp",
+    "topic_summary": "Rem Darbinyan discusses the rapid growth of the tech sector in Armenia, highlighting the emergence of AI startups and the unique challenges and opportunities they face. He shares insights on the local ecosystem, government support, and the potential for Armenia to become a significant player in the global tech landscape."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "NLP"
+    ],
+    "industries": [
+      "technology",
+      "startups"
+    ],
+    "policy_areas": [
+      "regulation",
+      "innovation"
+    ],
+    "geographic_focus": [
+      "Armenia"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Armenia is on the verge of becoming a major hub for AI startups due to its unique talent pool and supportive government policies.",
+      "speaker": "Rem Darbinyan",
+      "context": "Darbinyan emphasizes the importance of local talent and government initiatives in fostering a conducive environment for tech innovation."
+    },
+    {
+      "claim": "The rise of AI technologies in Armenia can significantly impact the global tech landscape, especially in areas like voice recognition and natural language processing.",
+      "speaker": "Rem Darbinyan",
+      "context": "He discusses specific applications of AI being developed in Armenia and their potential global relevance."
+    },
+    {
+      "claim": "Challenges such as funding and infrastructure still exist, but the overall momentum in the tech sector is promising.",
+      "speaker": "Rem Darbinyan",
+      "context": "Darbinyan reflects on the hurdles that startups face while also highlighting the positive trends in investment and interest."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Krisp"
+    ],
+    "technologies": [
+      "AI",
+      "NLP",
+      "voice recognition"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Armenia's Tech Scene",
+      "summary": "Darbinyan introduces the current state of the tech industry in Armenia and its evolution over recent years.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Government Support and Policies",
+      "summary": "Discussion on how government initiatives are aiding the growth of tech startups in Armenia.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges Facing Startups",
+      "summary": "Darbinyan outlines the key challenges that Armenian startups encounter, including funding and infrastructure.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of AI in Armenia",
+      "summary": "Exploration of the potential future developments in AI and how Armenia can position itself globally.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Krisp"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "optimistic",
+    "notable_moments": [
+      "Darbinyan's enthusiasm for the future of AI in Armenia and the potential for global impact."
+    ]
+  },
+  "_meta": {
+    "episode_number": 163,
+    "episode_date": "2024-01-03",
+    "rss_title": "#163 Rem Darbinyan: Inside The Armenia's Tech Revolution & Rise of AI Startups",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:44:31Z",
+    "input_tokens": 39103,
+    "output_tokens": 743
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "episode_profile": {
+    "title": "Terry Sejnowski: NeurIPS and the Future of AI",
+    "guest_name": "Terry Sejnowski",
+    "guest_title": "Professor",
+    "guest_organization": "Salk Institute for Biological Studies",
+    "topic_summary": "Terry Sejnowski discusses the significance of the NeurIPS conference in shaping the future of AI. He explores the evolution of neural networks and their impact on various fields, emphasizing the importance of interdisciplinary collaboration in advancing AI research."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "neural networks",
+      "machine learning",
+      "deep learning"
+    ],
+    "industries": [
+      "technology",
+      "healthcare",
+      "education"
+    ],
+    "policy_areas": [
+      "ethics",
+      "regulation"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "NeurIPS has become a pivotal platform for AI researchers to share breakthroughs and foster collaboration.",
+      "speaker": "Terry Sejnowski",
+      "context": "Sejnowski highlights the role of NeurIPS in connecting researchers and facilitating discussions on cutting-edge AI technologies."
+    },
+    {
+      "claim": "The advancements in neural networks are revolutionizing fields such as healthcare and education.",
+      "speaker": "Terry Sejnowski",
+      "context": "He discusses how AI applications are transforming these sectors, improving outcomes and efficiency."
+    },
+    {
+      "claim": "Interdisciplinary collaboration is essential for the future of AI research.",
+      "speaker": "Terry Sejnowski",
+      "context": "Sejnowski emphasizes the need for diverse expertise to tackle complex AI challenges."
+    },
+    {
+      "claim": "Ethical considerations must be integrated into AI development from the outset.",
+      "speaker": "Terry Sejnowski",
+      "context": "He argues that addressing ethical issues early can prevent potential misuse of AI technologies."
+    },
+    {
+      "claim": "The future of AI will depend on the ability to create models that mimic human cognitive processes.",
+      "speaker": "Terry Sejnowski",
+      "context": "Sejnowski believes that understanding human intelligence is key to advancing AI capabilities."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Salk Institute for Biological Studies",
+      "NeurIPS"
+    ],
+    "technologies": [
+      "neural networks"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to NeurIPS",
+      "summary": "Sejnowski introduces the NeurIPS conference and its significance in the AI community.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Impact of Neural Networks",
+      "summary": "Discussion on how neural networks are transforming various industries.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Interdisciplinary Collaboration",
+      "summary": "Emphasis on the importance of collaboration across different fields for AI advancement.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Ethics in AI",
+      "summary": "Sejnowski discusses the necessity of integrating ethical considerations into AI development.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future Directions in AI",
+      "summary": "Exploration of future trends and the potential of AI to mimic human cognition.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Salk Institute for Biological Studies"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Sejnowski's insights on the ethical implications of AI development."
+    ]
+  },
+  "_meta": {
+    "episode_number": 115,
+    "episode_date": "2023-02-01",
+    "rss_title": "Terry Sejnowski: NeurIPS and the Future of AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:31:26Z",
+    "input_tokens": 32810,
+    "output_tokens": 841
+  }
+}

@@ -13,6 +13,7 @@ Both `backfill_metadata.py` and `ingest.py` import from this module.
 
 import json
 import logging
+import os
 import re
 from typing import Any
 
@@ -21,6 +22,20 @@ from openai import OpenAI
 from config import config
 
 logger = logging.getLogger(__name__)
+
+# --- RSS-sourced episode dates and titles (authoritative) ---
+_EPISODE_DATES_PATH = os.path.join(os.path.dirname(__file__), "episode_dates.json")
+_RSS_EPISODES: dict[int, dict] = {}
+
+try:
+    with open(_EPISODE_DATES_PATH) as _f:
+        _raw = json.load(_f)
+        _RSS_EPISODES = {int(k): v for k, v in _raw.items()}
+    logger.info("Loaded %d episode dates from RSS feed", len(_RSS_EPISODES))
+except FileNotFoundError:
+    logger.warning("episode_dates.json not found; RSS date enrichment disabled")
+except Exception as _e:
+    logger.warning("Failed to load episode_dates.json: %s", _e)
 
 # How many characters from the start of the transcript to send to the LLM.
 _TRANSCRIPT_PREFIX_LEN = 3000
@@ -110,6 +125,9 @@ def extract_metadata_from_transcript(
         for key in ("guest_name", "episode_number", "episode_date", "episode_topic"):
             val = parsed.get(key, "")
             result[key] = str(val).strip() if val else ""
+
+        # Enrich with authoritative RSS data if episode number is known
+        result = _enrich_with_rss(result)
 
         logger.debug(
             "Extracted metadata for '%s': guest=%s, ep=%s, date=%s, topic=%s",
@@ -212,5 +230,36 @@ def extract_metadata_from_filename(doc_name: str) -> dict[str, str]:
 
     if topic:
         metadata["episode_topic"] = topic.strip(" .,;:")
+
+    # Enrich with authoritative RSS data
+    metadata = _enrich_with_rss(metadata)
+
+    return metadata
+
+
+def _enrich_with_rss(metadata: dict[str, str]) -> dict[str, str]:
+    """
+    Override/supplement metadata with authoritative data from the podcast RSS feed.
+
+    Uses the episode number (from LLM or filename extraction) to look up:
+    - Confirmed publish date
+    - RSS episode title (stored as 'rss_title')
+    """
+    ep_str = metadata.get("episode_number", "").strip()
+    if not ep_str or not ep_str.isdigit():
+        return metadata
+
+    ep_num = int(ep_str)
+    rss_info = _RSS_EPISODES.get(ep_num)
+    if not rss_info:
+        return metadata
+
+    # Always override date with RSS-sourced date (authoritative)
+    if rss_info.get("date"):
+        metadata["episode_date"] = rss_info["date"]
+
+    # Add RSS title as supplemental field
+    if rss_info.get("title"):
+        metadata["rss_title"] = rss_info["title"]
 
     return metadata

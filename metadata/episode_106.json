@@ -1,0 +1,86 @@
+{
+  "episode_profile": {
+    "title": "Exploring the Future of AI and Teleportation",
+    "guest_name": "",
+    "guest_title": "",
+    "guest_organization": "",
+    "topic_summary": "This episode delves into the intersection of artificial intelligence and teleportation technology. The discussion covers the implications of AI advancements on teleportation concepts and the potential future applications in various fields."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI"
+    ],
+    "industries": [
+      "technology",
+      "transportation"
+    ],
+    "policy_areas": [
+      "ethics",
+      "regulation"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "AI could revolutionize the way we think about teleportation by optimizing the processes involved.",
+      "speaker": "Craig Smith",
+      "context": "This claim was made in the context of discussing how AI can enhance technological advancements."
+    },
+    {
+      "claim": "The ethical implications of teleportation technology must be carefully considered as it develops.",
+      "speaker": "Craig Smith",
+      "context": "This was highlighted during a discussion on the potential societal impacts of teleportation."
+    },
+    {
+      "claim": "Teleportation could change logistics and transportation industries significantly.",
+      "speaker": "Craig Smith",
+      "context": "This prediction was made while exploring the practical applications of teleportation in everyday life."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [],
+    "technologies": [
+      "AI",
+      "teleportation technology"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to AI and Teleportation",
+      "summary": "An overview of the episode's focus on AI and teleportation.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "AI's Role in Advancing Teleportation",
+      "summary": "Discussion on how AI can optimize teleportation processes.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Ethical Considerations",
+      "summary": "Exploration of the ethical implications surrounding teleportation technology.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "exploratory discussion",
+    "tone": "educational",
+    "notable_moments": []
+  },
+  "_meta": {
+    "episode_number": 106,
+    "episode_date": "2022-08-10",
+    "rss_title": "XPRIZE TELEPORTATION",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:28:35Z",
+    "input_tokens": 25008,
+    "output_tokens": 557
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "episode_profile": {
+    "title": "Exploring Symbolic AI and Decision Science with Stephen DeAngelis",
+    "guest_name": "Stephen DeAngelis",
+    "guest_title": "President",
+    "guest_organization": "Enterra Solutions",
+    "topic_summary": "Stephen DeAngelis discusses the power of symbolic AI and its application in decision-making processes within large organizations. He explains how Enterra Solutions leverages knowledge bases and inference engines to optimize business functions and navigate complex systems."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "symbolic AI",
+      "machine learning",
+      "cognitive computing"
+    ],
+    "industries": [
+      "consumer manufacturing",
+      "life sciences"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Symbolic AI, when combined with machine learning, can effectively optimize decision-making in large organizations.",
+      "speaker": "Stephen DeAngelis",
+      "context": "Stephen emphasizes the importance of integrating symbolic reasoning with computational intelligence to address complex business challenges."
+    },
+    {
+      "claim": "Enterra Solutions uses a glass box machine learning engine to provide transparency in decision-making processes.",
+      "speaker": "Stephen DeAngelis",
+      "context": "He contrasts this approach with traditional black box models, highlighting the need for explainability in AI systems."
+    },
+    {
+      "claim": "The knowledge base used by Enterra was originally handcrafted and later expanded through crowdsourcing.",
+      "speaker": "Stephen DeAngelis",
+      "context": "Stephen explains the evolution of their knowledge base and the importance of curating information to avoid inaccuracies."
+    },
+    {
+      "claim": "Enterra's platform allows for real-time analysis and decision-making, enabling companies to respond quickly to market changes.",
+      "speaker": "Stephen DeAngelis",
+      "context": "He discusses the need for agility in business operations, especially in the context of the COVID-19 pandemic."
+    },
+    {
+      "claim": "The integration of deep learning techniques is seen as a future direction for Enterra Solutions.",
+      "speaker": "Stephen DeAngelis",
+      "context": "Stephen outlines the potential for combining deep learning with their existing symbolic AI framework to enhance capabilities."
+    },
+    {
+      "claim": "Enterra competes with firms like Palantir and C3 AI in the advanced analytics space.",
+      "speaker": "Stephen DeAngelis",
+      "context": "He describes the competitive landscape and how Enterra's unique approach spans the entire value chain."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Enterra Solutions",
+      "McCormick",
+      "Procter & Gamble",
+      "Accenture",
+      "Nestle",
+      "Unilever",
+      "C3 AI",
+      "Palantir"
+    ],
+    "technologies": [
+      "glass box machine learning",
+      "semantic reasoning",
+      "nonlinear optimization"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Enterra Solutions",
+      "summary": "Stephen DeAngelis introduces Enterra Solutions and its focus on cognitive computing in various industries.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Symbolic AI and Decision Science",
+      "summary": "Discussion on the role of symbolic AI and how it integrates with machine learning for decision-making.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Case Study: McCormick",
+      "summary": "Stephen explains the collaboration with McCormick to create a flavor profiling system using their technology.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges and Future Directions",
+      "summary": "Exploration of the challenges faced by Enterra and the potential incorporation of deep learning in their platform.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Competitive Landscape",
+      "summary": "Stephen discusses Enterra's position in the market and its competition with other analytics firms.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Enterra Solutions"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Stephen emphasizes the importance of explainability in AI systems.",
+      "Discussion on the evolution of the knowledge base through crowdsourcing."
+    ]
+  },
+  "_meta": {
+    "episode_number": 88,
+    "episode_date": "2021-10-13",
+    "rss_title": "Cerebras",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:22:14Z",
+    "input_tokens": 7020,
+    "output_tokens": 986
+  }
+}

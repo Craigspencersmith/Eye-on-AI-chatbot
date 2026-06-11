@@ -1,0 +1,143 @@
+{
+  "episode_profile": {
+    "title": "Democratizing Software Development through Machine Programming",
+    "guest_name": "Justin Gottschlich",
+    "guest_title": "Founder of Machine Programming Research Group",
+    "guest_organization": "Intel Labs",
+    "topic_summary": "In this episode, Justin Gottschlich discusses machine programming, a field aimed at automating software development by allowing users to create software through natural language and other intuitive interfaces. He elaborates on the three pillars of machine programming: intention, invention, and adaptation, and shares insights on how this approach can democratize software creation."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine programming",
+      "natural language processing",
+      "program synthesis"
+    ],
+    "industries": [
+      "technology",
+      "software development"
+    ],
+    "policy_areas": [
+      "automation",
+      "democratization of technology"
+    ],
+    "geographic_focus": [
+      "United States",
+      "China"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Machine programming aims to democratize software development, enabling anyone to create software simply by describing their intentions.",
+      "speaker": "Justin Gottschlich",
+      "context": "Justin explains the vision behind machine programming and its potential to lower the barrier for software creation."
+    },
+    {
+      "claim": "The three pillars of machine programming\u2014intention, invention, and adaptation\u2014are crucial for enabling effective software synthesis.",
+      "speaker": "Justin Gottschlich",
+      "context": "He discusses how separating these pillars can enhance the automation of software development."
+    },
+    {
+      "claim": "Current techniques in machine programming can detect performance regression bugs in parallel software with greater accuracy than human experts.",
+      "speaker": "Justin Gottschlich",
+      "context": "Justin highlights the capabilities of their automated techniques in identifying complex software issues."
+    },
+    {
+      "claim": "The future of machine programming will require a blend of traditional programming knowledge and new methods to ensure effective software creation.",
+      "speaker": "Justin Gottschlich",
+      "context": "He emphasizes the need for programmers to adapt to new tools while still understanding foundational coding principles."
+    },
+    {
+      "claim": "Fully automated machine programming solutions are at least two decades away, but incremental advancements are being made today.",
+      "speaker": "Justin Gottschlich",
+      "context": "Justin provides a realistic timeline for the development of fully automated software creation tools."
+    },
+    {
+      "claim": "Machine programming has the potential to create millions of new jobs by changing how software is developed and maintained.",
+      "speaker": "Justin Gottschlich",
+      "context": "He addresses concerns about job displacement and argues that new roles will emerge as technology evolves."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Ken Church",
+      "Armando Solar-Lezama",
+      "Aude Billard",
+      "Dave Patterson",
+      "John Hennessy"
+    ],
+    "organizations": [
+      "Intel Labs",
+      "MIT",
+      "Baidu",
+      "Facebook"
+    ],
+    "technologies": [
+      "AutoPerf",
+      "genetic algorithms",
+      "natural language processing",
+      "domain specific languages",
+      "Halide"
+    ],
+    "publications": [
+      "Three Pillars of Machine Programming"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Machine Programming",
+      "summary": "Justin Gottschlich introduces himself and explains the concept of machine programming and its goals.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Three Pillars",
+      "summary": "Discussion of the three pillars of machine programming: intention, invention, and adaptation.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Automating Software Development",
+      "summary": "Exploration of how machine programming can automate software development and improve programmer productivity.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges and Future of Machine Programming",
+      "summary": "Justin discusses the challenges faced in machine programming and the long-term vision for fully automated solutions.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Impact on Jobs and Society",
+      "summary": "A conversation about the societal implications of machine programming and its potential to create new job opportunities.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Three Pillars of Machine Programming",
+      "authors": "Justin Gottschlich, MIT collaborators",
+      "context": "Referenced as a foundational paper outlining the framework for machine programming."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Intel Labs"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Justin's vision of a future where anyone can create software through simple interactions.",
+      "The discussion on the balance between automation and the need for human oversight in programming."
+    ]
+  },
+  "_meta": {
+    "episode_number": 33,
+    "episode_date": "2020-03-11",
+    "rss_title": "(interpolated between ep32 and ep34)",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:05:27Z",
+    "input_tokens": 9620,
+    "output_tokens": 1075
+  }
+}

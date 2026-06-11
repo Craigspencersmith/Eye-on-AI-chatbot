@@ -53,7 +53,7 @@ class Config:
     EMBEDDING_MODEL: str = "text-embedding-3-small"
 
     # ChromaDB collection name
-    COLLECTION_NAME: str = "eye_on_ai_episodes"
+    COLLECTION_NAME: str = "transcripts"
 
     # Ingestion state file (tracks which docs have been processed)
     INGESTION_STATE_PATH: str = os.getenv(

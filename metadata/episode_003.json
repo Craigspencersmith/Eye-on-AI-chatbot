@@ -1,0 +1,130 @@
+{
+  "episode_profile": {
+    "title": "AI Research and National Strategies with Misha Bilenko",
+    "guest_name": "Misha Bilenko",
+    "guest_title": "Head of AI",
+    "guest_organization": "Yandex",
+    "topic_summary": "Misha Bilenko discusses the role of state actors in AI research, the misconception of an AI arms race, and the importance of national strategies for developing competent researchers. He emphasizes the collaborative nature of the AI community and the economic imperatives driving AI advancements."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "natural language processing",
+      "computer vision"
+    ],
+    "industries": [
+      "technology",
+      "software"
+    ],
+    "policy_areas": [
+      "national strategy",
+      "AI ethics",
+      "AI safety"
+    ],
+    "geographic_focus": [
+      "Russia",
+      "United States",
+      "China"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The perception of an AI arms race is a misnomer; the AI community is largely collaborative.",
+      "speaker": "Misha Bilenko",
+      "context": "Misha argues that the competitive view of AI development does not reflect the reality of international collaboration among researchers."
+    },
+    {
+      "claim": "National AI strategies are primarily aimed at building a competent workforce rather than achieving security dominance.",
+      "speaker": "Misha Bilenko",
+      "context": "He explains that these strategies are more about economic imperatives and preparing experts for future technologies."
+    },
+    {
+      "claim": "Yandex's AI personal assistant is ahead of competitors due to its ability to engage in open-ended conversations.",
+      "speaker": "Misha Bilenko",
+      "context": "Misha highlights the unique capabilities of Yandex's assistant compared to other major personal assistants."
+    },
+    {
+      "claim": "AI advancements in translation and computer vision are rapidly improving, driven by collaborative efforts.",
+      "speaker": "Misha Bilenko",
+      "context": "He discusses the progress made in machine translation and image processing, emphasizing the importance of collaboration in these fields."
+    },
+    {
+      "claim": "The definition of artificial general intelligence is evolving as AI capabilities expand.",
+      "speaker": "Misha Bilenko",
+      "context": "Misha reflects on how public perception of general intelligence shifts as AI systems become more capable."
+    },
+    {
+      "claim": "AI systems are continually improving through user feedback and learning mechanisms.",
+      "speaker": "Misha Bilenko",
+      "context": "He describes how Yandex's assistant learns from interactions to enhance its performance."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Vladimir Putin"
+    ],
+    "organizations": [
+      "Yandex",
+      "Google",
+      "DeepMind",
+      "NVIDIA"
+    ],
+    "technologies": [
+      "transformer",
+      "AI personal assistant"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to AI and National Strategies",
+      "summary": "Craig introduces Misha Bilenko and the discussion on national AI strategies and their implications.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Collaboration vs. Competition in AI",
+      "summary": "Misha explains the collaborative nature of AI research and challenges the notion of an arms race.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Yandex's AI Innovations",
+      "summary": "Discussion on Yandex's advancements in AI, particularly in personal assistants and translation.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "The Future of AI and General Intelligence",
+      "summary": "Misha shares insights on the evolving definition of general intelligence and the future of AI.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Conclusion and Reflections",
+      "summary": "Craig wraps up the conversation, encouraging listeners to reflect on the insights shared.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Yandex"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Misha's assertion that the AI community is cosmopolitan and collaborative.",
+      "The emphasis on the economic imperative for national AI strategies."
+    ]
+  },
+  "_meta": {
+    "episode_number": 3,
+    "episode_date": "2018-10-08",
+    "rss_title": "Episode 3 - Misha Bilenko",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T00:55:28Z",
+    "input_tokens": 4686,
+    "output_tokens": 969
+  }
+}

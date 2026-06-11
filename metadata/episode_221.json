@@ -1,0 +1,125 @@
+{
+  "episode_profile": {
+    "title": "Varun Mohan: The AI Tool That's Changing How Code is Written",
+    "guest_name": "Varun Mohan",
+    "guest_title": "CEO",
+    "guest_organization": "Codeium",
+    "topic_summary": "In this episode, Varun Mohan discusses Codeium, an AI tool designed to enhance software development by integrating deeply with existing codebases. He explains how the tool allows developers to write, refactor, and manage code more efficiently, while also addressing the challenges of understanding complex code structures."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "machine learning"
+    ],
+    "industries": [
+      "software development",
+      "technology"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Codeium processes over 150 billion tokens of code and is used by over a thousand enterprises.",
+      "speaker": "Varun Mohan",
+      "context": "Varun highlights the scale and adoption of Codeium in the software development industry."
+    },
+    {
+      "claim": "The product allows for deep integration with existing codebases, enabling developers to refactor and enhance applications efficiently.",
+      "speaker": "Varun Mohan",
+      "context": "Varun explains how Codeium's capabilities are particularly valuable for large enterprises with extensive existing code."
+    },
+    {
+      "claim": "Codeium's new IDE, Windsurf, enables developers to complete tasks end-to-end, merging human input with AI capabilities.",
+      "speaker": "Varun Mohan",
+      "context": "Varun describes the innovative features of Windsurf that differentiate it from other coding tools."
+    },
+    {
+      "claim": "AI tools like Codeium can significantly reduce the time developers spend on repetitive tasks, allowing them to focus on more complex problem-solving.",
+      "speaker": "Varun Mohan",
+      "context": "Varun discusses the potential of AI to transform the software development process by automating mundane tasks."
+    },
+    {
+      "claim": "The review process for code remains essential, even with AI assistance, as both AI and humans can make mistakes.",
+      "speaker": "Varun Mohan",
+      "context": "Varun emphasizes the importance of maintaining a rigorous review process in software development."
+    },
+    {
+      "claim": "Codeium can handle a wide range of programming languages, making it versatile for various development environments.",
+      "speaker": "Varun Mohan",
+      "context": "Varun explains the adaptability of Codeium across different programming languages and its training on diverse codebases."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Craig Smith"
+    ],
+    "organizations": [
+      "Codeium",
+      "JPMorgan Chase",
+      "LegalZoom"
+    ],
+    "technologies": [
+      "Windsurf",
+      "Cascade"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Codeium",
+      "summary": "Varun Mohan introduces himself and explains the origins and purpose of Codeium.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Capabilities of Codeium",
+      "summary": "Discussion on how Codeium processes code and integrates with existing development environments.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Windsurf IDE Launch",
+      "summary": "Varun details the features and advantages of the newly launched Windsurf IDE.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI in Software Development",
+      "summary": "Exploration of how AI tools can enhance the software development process and the importance of code review.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of Codeium",
+      "summary": "Varun discusses the future direction of Codeium and its potential impact on the industry.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Codeium"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Varun emphasizes the importance of reviewing AI-generated code to prevent bugs.",
+      "The discussion on how Codeium can handle complex codebases and improve developer efficiency."
+    ]
+  },
+  "_meta": {
+    "episode_number": 221,
+    "episode_date": "2024-11-25",
+    "rss_title": "#221 Varun Mohan: The AI Tool That's Changing How Code is Written (Codeium)",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:04:48Z",
+    "input_tokens": 6785,
+    "output_tokens": 978
+  }
+}

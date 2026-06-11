@@ -1,0 +1,128 @@
+{
+  "episode_profile": {
+    "title": "Evan Reiser: How Abnormal AI Protects Humans with Behavioral AI",
+    "guest_name": "Evan Reiser",
+    "guest_title": "Founder and CEO",
+    "guest_organization": "Abnormal AI",
+    "topic_summary": "Evan Reiser discusses the evolution of cyber threats, particularly phishing, and how Abnormal AI uses behavioral models to protect organizations from sophisticated attacks. He emphasizes the importance of understanding human behavior in cybersecurity and the challenges posed by AI-driven attacks."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "behavioral AI",
+      "machine learning"
+    ],
+    "industries": [
+      "cybersecurity",
+      "technology"
+    ],
+    "policy_areas": [
+      "regulation",
+      "ethics"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "Phishing attacks are evolving and becoming more sophisticated, often leveraging behavioral psychology to trick individuals.",
+      "speaker": "Evan Reiser",
+      "context": "Reiser explains how attackers are using advanced techniques to exploit human behavior, making traditional defenses less effective."
+    },
+    {
+      "claim": "AI allows non-cyber criminals to execute sophisticated attacks that were previously only possible for organized crime or nation-state actors.",
+      "speaker": "Evan Reiser",
+      "context": "He discusses how AI tools enable even petty criminals to craft highly personalized phishing emails."
+    },
+    {
+      "claim": "The majority of cybercrime is financially motivated, with attackers primarily seeking monetary gain through various means.",
+      "speaker": "Evan Reiser",
+      "context": "Reiser categorizes cybercriminals into petty criminals, organized crime, and nation-state actors, emphasizing that most attacks are aimed at making money."
+    },
+    {
+      "claim": "Human behavior remains the weakest link in cybersecurity, as attackers exploit good intentions and trust.",
+      "speaker": "Evan Reiser",
+      "context": "He highlights that despite advancements in technology, the human element continues to be targeted by cybercriminals."
+    },
+    {
+      "claim": "Abnormal AI's approach focuses on identifying 'known good' behavior rather than just detecting 'known bad' threats.",
+      "speaker": "Evan Reiser",
+      "context": "Reiser explains how their behavioral models analyze normal activities to flag anomalies, improving detection rates."
+    },
+    {
+      "claim": "The future of cyber attacks will likely involve sophisticated cultural and psychological manipulation through AI.",
+      "speaker": "Evan Reiser",
+      "context": "He warns about the potential for AI to influence organizational culture and decision-making in subtle, harmful ways."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Abnormal AI",
+      "FBI"
+    ],
+    "technologies": [
+      "ChatGPT",
+      "large language models"
+    ],
+    "publications": [
+      "IC3 report"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Abnormal AI",
+      "summary": "Evan Reiser introduces himself and explains the mission of Abnormal AI in the cybersecurity landscape.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Evolution of Phishing Attacks",
+      "summary": "Discussion on how phishing attacks have become more sophisticated and the psychological tactics used by attackers.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Behavioral AI in Cybersecurity",
+      "summary": "Reiser explains how Abnormal AI uses behavioral models to identify and mitigate threats effectively.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Financial Motivations Behind Cybercrime",
+      "summary": "Exploration of the financial motivations driving most cyber attacks and the different types of cybercriminals.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of Cyber Attacks",
+      "summary": "Reiser discusses potential future threats, including cultural manipulation through AI and the ongoing arms race in cybersecurity.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "IC3 report",
+      "authors": "FBI",
+      "context": "Reiser references the report to highlight the financial losses attributed to cybercrime."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Abnormal AI"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Evan discusses the evolution of phishing attacks and how they exploit human psychology.",
+      "He emphasizes the importance of understanding behavioral models in cybersecurity."
+    ]
+  },
+  "_meta": {
+    "episode_number": 313,
+    "episode_date": "2026-01-16",
+    "rss_title": "#313 Evan Reiser: How Abnormal AI Protects Humans with Behavioral AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:35:41Z",
+    "input_tokens": 14874,
+    "output_tokens": 1026
+  }
+}

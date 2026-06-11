@@ -1,0 +1,131 @@
+{
+  "episode_profile": {
+    "title": "AI Agents Are Reshaping the Future of Compute Infrastructure",
+    "guest_name": "Jonathan Wall",
+    "guest_title": "Founder and CEO",
+    "guest_organization": "Runloop AI",
+    "topic_summary": "Jonathan Wall discusses the transformative impact of AI agents on compute infrastructure, emphasizing the need for new compute primitives tailored for agentic workflows. He explains how Runloop AI aims to provide a platform for deploying and managing these agents, highlighting their unique operational patterns compared to traditional servers."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "agent-based AI",
+      "infrastructure AI"
+    ],
+    "industries": [
+      "technology",
+      "finance",
+      "healthcare"
+    ],
+    "policy_areas": [
+      "data privacy",
+      "compliance"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "Agents require their own compute primitives due to their unpredictable behaviors and unique resource needs.",
+      "speaker": "Jonathan Wall",
+      "context": "Jonathan explains the limitations of traditional servers in handling the dynamic nature of AI agents."
+    },
+    {
+      "claim": "The future will see agents handling 70-80% of specific workflows, with humans auditing the final results.",
+      "speaker": "Jonathan Wall",
+      "context": "Discussing the integration of agents into enterprise workflows and the necessity of human oversight."
+    },
+    {
+      "claim": "Runloop's dev box allows for isolated execution environments, enhancing security and performance for agents.",
+      "speaker": "Jonathan Wall",
+      "context": "Jonathan describes the functionality of Runloop's platform in providing a safe environment for agent operations."
+    },
+    {
+      "claim": "Benchmarking is crucial for ensuring the accuracy and reliability of agents in production environments.",
+      "speaker": "Jonathan Wall",
+      "context": "Jonathan highlights the importance of performance metrics in validating agent outputs."
+    },
+    {
+      "claim": "The rise of agent-native companies will challenge legacy players in various industries.",
+      "speaker": "Jonathan Wall",
+      "context": "Discussing the potential for new startups to disrupt established companies through innovative agent-based solutions."
+    },
+    {
+      "claim": "The agentic revolution will reshape workforce dynamics, with agents becoming integral coworkers.",
+      "speaker": "Jonathan Wall",
+      "context": "Jonathan reflects on how agents are already changing the way engineers and other professionals work."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Craig S. Smith"
+    ],
+    "organizations": [
+      "Runloop AI",
+      "Google",
+      "Stripe",
+      "AWS",
+      "GCP",
+      "Notion",
+      "Figma",
+      "Cursor"
+    ],
+    "technologies": [
+      "Cloud Code",
+      "Codex",
+      "Langchain",
+      "Deep Agents"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Runloop AI",
+      "summary": "Jonathan Wall introduces himself and Runloop AI, discussing the company's focus on AI agents and infrastructure.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Role of Agents in Compute Infrastructure",
+      "summary": "Discussion on how agents differ from traditional servers and the need for new compute primitives.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Benchmarking and Accuracy",
+      "summary": "Exploration of the importance of benchmarking for ensuring agent performance and reliability.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of Agent Workflows",
+      "summary": "Predictions on how agents will integrate into enterprise workflows and the evolving role of human oversight.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Challenges for Legacy Players",
+      "summary": "Discussion on how agent-native companies could disrupt established industries and the changing economic landscape.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Runloop AI"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Jonathan emphasizes the need for agents to have their own compute environment to operate effectively.",
+      "The discussion highlights the potential for agents to transform enterprise workflows and workforce dynamics."
+    ]
+  },
+  "_meta": {
+    "episode_number": 312,
+    "episode_date": "2026-01-11",
+    "rss_title": "#312 Jonathan Wall: AI Agents Are Reshaping the Future of Compute Infrastructure",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:35:17Z",
+    "input_tokens": 11130,
+    "output_tokens": 951
+  }
+}

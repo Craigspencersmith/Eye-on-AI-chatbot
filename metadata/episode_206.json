@@ -1,0 +1,135 @@
+{
+  "episode_profile": {
+    "title": "Krishna Rangasayee: Why Edge AI is the Next Big Thing in Tech",
+    "guest_name": "Krishna Rangasayee",
+    "guest_title": "CEO",
+    "guest_organization": "SEMA",
+    "topic_summary": "Krishna Rangasayee discusses the transformative potential of Edge AI, emphasizing its advantages over cloud computing, the importance of localized processing for applications like robotics and automotive, and the need for a robust AI software roadmap in the industry."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "computer vision",
+      "embedded AI"
+    ],
+    "industries": [
+      "automotive",
+      "robotics",
+      "industrial automation",
+      "medical",
+      "government"
+    ],
+    "policy_areas": [
+      "data privacy",
+      "security"
+    ],
+    "geographic_focus": [
+      "United States",
+      "India",
+      "Europe",
+      "Japan",
+      "Korea"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The edge market is going to be the next AI gold rush, potentially larger than the cloud market.",
+      "speaker": "Krishna Rangasayee",
+      "context": "Krishna highlights the vast number of potential customers in the edge market and the increasing demand for localized computing."
+    },
+    {
+      "claim": "AI software architecture is crucial for the success of edge computing, and many companies lack a solid AI roadmap.",
+      "speaker": "Krishna Rangasayee",
+      "context": "He emphasizes that without a dedicated AI strategy, companies may struggle to remain competitive in the future."
+    },
+    {
+      "claim": "Localized compute is essential for applications like automotive and robotics, where decisions must be made in milliseconds.",
+      "speaker": "Krishna Rangasayee",
+      "context": "Krishna discusses the limitations of cloud computing for real-time applications."
+    },
+    {
+      "claim": "The combination of performance, power efficiency, and ease of use in their chips positions SEMA favorably against competitors.",
+      "speaker": "Krishna Rangasayee",
+      "context": "He explains how their heterogeneous compute platform is designed specifically for edge applications."
+    },
+    {
+      "claim": "The future of computing will likely involve a mix of traditional and emerging technologies, including neuromorphic and quantum computing.",
+      "speaker": "Krishna Rangasayee",
+      "context": "He reflects on the long-term evolution of chip technology and the integration of new paradigms."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Dave Patterson"
+    ],
+    "organizations": [
+      "Xilinx",
+      "NVIDIA",
+      "TSMC"
+    ],
+    "technologies": [
+      "CUDA",
+      "Palette",
+      "RISC-V"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Edge AI",
+      "summary": "Krishna introduces the concept of Edge AI and its significance in the tech landscape.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "SEMA's Approach to Chip Design",
+      "summary": "Discussion on SEMA's purpose-built chips for the edge and their software development environment.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "The Importance of AI Software",
+      "summary": "Krishna emphasizes the need for a robust AI software architecture to support edge applications.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Market Dynamics and Future Trends",
+      "summary": "Exploration of the edge market's growth potential and the evolving landscape of chip technology.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Challenges and Opportunities",
+      "summary": "Krishna discusses the challenges of scaling a startup in the competitive chip market and the importance of partnerships.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "SEMA"
+    ],
+    "funding_sources": [
+      "Fidelity",
+      "Dell Technologies",
+      "Amplify Partners",
+      "Maverick",
+      "0.72"
+    ],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Krishna's assertion that AI software is the Achilles heel of the industry.",
+      "His comparison of SEMA's approach to being the 'Ellis Island' for applications in the embedded market."
+    ]
+  },
+  "_meta": {
+    "episode_number": 206,
+    "episode_date": "2024-09-04",
+    "rss_title": "#206 Krishna Rangasayee: Why Edge AI is the Next Big Thing in Tech",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:00:27Z",
+    "input_tokens": 11274,
+    "output_tokens": 973
+  }
+}

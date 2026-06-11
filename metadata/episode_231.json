@@ -1,0 +1,139 @@
+{
+  "episode_profile": {
+    "title": "Paras Jain: The Future of AI Video Generation with Genmo",
+    "guest_name": "Paras Jain",
+    "guest_title": "Co-founder and CEO",
+    "guest_organization": "Genmo",
+    "topic_summary": "Paras Jain discusses the advancements in AI video generation, focusing on Genmo's model, Mochi One, which emphasizes superior motion and prompt adherence. He shares insights on the challenges and innovations in the field, including the importance of open-source technology for fostering creativity and collaboration."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "computer vision"
+    ],
+    "industries": [
+      "media",
+      "entertainment",
+      "technology"
+    ],
+    "policy_areas": [
+      "open source",
+      "innovation"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Mochi One has the state-of-the-art motion in the industry, outperforming competitors.",
+      "speaker": "Paras Jain",
+      "context": "Paras emphasizes the importance of realistic motion in video generation, which many existing products fail to achieve."
+    },
+    {
+      "claim": "The models today are rough and hard to control, making it difficult for artists to achieve good results.",
+      "speaker": "Paras Jain",
+      "context": "He discusses the challenges users face with current generative video models and the need for better prompt adherence."
+    },
+    {
+      "claim": "Open sourcing the model allows users to fine-tune it for consistency and character stability.",
+      "speaker": "Paras Jain",
+      "context": "Paras explains how open-source technology enables users to create personalized models, enhancing the creative process."
+    },
+    {
+      "claim": "Video generation is still in its infancy, with Genmo being less than 1% of the way to a fully realized generative video future.",
+      "speaker": "Paras Jain",
+      "context": "He reflects on the rapid advancements in AI and the potential for future developments in video generation."
+    },
+    {
+      "claim": "The cost of generating longer videos increases superlinearly, making it a challenge for scalability.",
+      "speaker": "Paras Jain",
+      "context": "Paras discusses the technical limitations and cost implications of generating longer video sequences."
+    },
+    {
+      "claim": "There will be millions of models for video generation due to the diversity of use cases.",
+      "speaker": "Paras Jain",
+      "context": "He argues that the creative possibilities in video generation are too vast for a single model to dominate."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Ajay Jain",
+      "Jan LeCun"
+    ],
+    "organizations": [
+      "Genmo",
+      "UC Berkeley",
+      "Google Brain",
+      "Meta",
+      "Runway",
+      "FAL.ai",
+      "Runpod",
+      "Modo Labs"
+    ],
+    "technologies": [
+      "Mochi One",
+      "diffusion models",
+      "3D generation",
+      "synthetic data"
+    ],
+    "publications": [
+      "DDPM papers"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Genmo",
+      "summary": "Paras Jain introduces himself and Genmo, discussing their focus on advancing video generation technology.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Challenges in Video Generation",
+      "summary": "The conversation covers the difficulties artists face with current generative models and the importance of prompt adherence.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Open Source and Community Innovation",
+      "summary": "Paras explains the significance of open sourcing their model and how it fosters community-driven improvements.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of Video Generation",
+      "summary": "The discussion shifts to the future of video generation, including the potential for longer videos and diverse applications.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Comparing Approaches",
+      "summary": "Paras contrasts Genmo's approach to video generation with other companies like Synthesia, highlighting the differences in technology.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Genmo",
+      "UC Berkeley"
+    ],
+    "funding_sources": [
+      "$30 million Series A"
+    ],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Paras emphasizes the importance of open-source technology for fostering creativity.",
+      "He discusses the challenges of generating longer videos and the cost implications."
+    ]
+  },
+  "_meta": {
+    "episode_number": 231,
+    "episode_date": "2025-01-16",
+    "rss_title": "#231 Paras Jain: The Future of AI Video Generation with Genmo",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:07:52Z",
+    "input_tokens": 11807,
+    "output_tokens": 1014
+  }
+}

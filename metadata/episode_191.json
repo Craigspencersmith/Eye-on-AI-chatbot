@@ -1,0 +1,125 @@
+{
+  "episode_profile": {
+    "title": "AI or Human? Exploring Originality AI's Detection Technology",
+    "guest_name": "Jonathan Gillham",
+    "guest_title": "Founder and CEO",
+    "guest_organization": "Originality.ai",
+    "topic_summary": "In this episode, Jonathan Gillham discusses the challenges of detecting AI-generated content and the technology behind Originality.ai's detection models. He emphasizes the importance of balancing accuracy with minimizing false positives and explores the implications for web publishers using AI-generated content."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "NLP",
+      "machine learning"
+    ],
+    "industries": [
+      "media",
+      "content publishing",
+      "education"
+    ],
+    "policy_areas": [
+      "ethics",
+      "regulation"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "AI detectors are not perfect, but they do work depending on the required level of accuracy.",
+      "speaker": "Jonathan Gillham",
+      "context": "Gillham highlights the common misconception that AI detection tools either work perfectly or not at all."
+    },
+    {
+      "claim": "Web publishers face risks when using AI-generated content, especially regarding Google's stance on spam.",
+      "speaker": "Jonathan Gillham",
+      "context": "Gillham discusses the potential consequences for publishers who rely heavily on AI-generated content without human oversight."
+    },
+    {
+      "claim": "The accuracy of AI detection drops significantly when adversarial prompts are used.",
+      "speaker": "Jonathan Gillham",
+      "context": "Gillham explains how adversarial techniques can challenge the effectiveness of AI detection models."
+    },
+    {
+      "claim": "Human capability to detect AI-generated content is diminishing as AI models evolve.",
+      "speaker": "Jonathan Gillham",
+      "context": "Gillham references studies showing that humans struggle to identify AI-generated text as models improve."
+    },
+    {
+      "claim": "Originality.ai's detection models are built on millions of text records to improve accuracy.",
+      "speaker": "Jonathan Gillham",
+      "context": "Gillham describes the extensive training data used to develop their AI detection technology."
+    },
+    {
+      "claim": "There is a societal need for reliable AI detection tools to address issues of fairness and misinformation.",
+      "speaker": "Jonathan Gillham",
+      "context": "Gillham emphasizes the broader implications of AI-generated content on society and the importance of detection."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Craig S. Smith"
+    ],
+    "organizations": [
+      "Originality.ai",
+      "Google",
+      "NewsGuard"
+    ],
+    "technologies": [
+      "GPT-3",
+      "GPT-4",
+      "Claude 2"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Originality.ai",
+      "summary": "Jonathan Gillham introduces Originality.ai and its purpose in detecting AI-generated content.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Challenges in AI Detection",
+      "summary": "The discussion covers the complexities and challenges faced in accurately detecting AI-generated text.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Accuracy and False Positives",
+      "summary": "Gillham explains the balance between detection accuracy and minimizing false positives in AI detection.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Implications for Web Publishers",
+      "summary": "The conversation shifts to the risks and considerations for web publishers using AI-generated content.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI Detection",
+      "summary": "Gillham discusses the future of AI detection technology and the ongoing challenges in the field.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Originality.ai"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Gillham emphasizes the societal need for reliable AI detection tools.",
+      "The discussion on the diminishing ability of humans to detect AI-generated content as models evolve."
+    ]
+  },
+  "_meta": {
+    "episode_number": 191,
+    "episode_date": "2024-06-05",
+    "rss_title": "#191 Jonathan Gillham: AI or Human? Exploring Originality AI's Detection Technology",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:55:27Z",
+    "input_tokens": 10724,
+    "output_tokens": 931
+  }
+}

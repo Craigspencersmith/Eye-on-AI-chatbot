@@ -1,0 +1,134 @@
+{
+  "episode_profile": {
+    "title": "Sahil Bansal: Why Developers Are Switching to CodeRabbit's AI Code Reviews",
+    "guest_name": "Sahil Bansal",
+    "guest_title": "Enterprise Go-to-Market Strategist",
+    "guest_organization": "Coda",
+    "topic_summary": "Sahil Bansal discusses the challenges developers face with code reviews in the age of AI-generated code and how CodeRabbit's AI code review platform addresses these issues. He explains the importance of context in AI reviews and how their tool enhances developer efficiency by automating parts of the review process."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "natural language processing"
+    ],
+    "industries": [
+      "software development",
+      "technology",
+      "open source"
+    ],
+    "policy_areas": [
+      "compliance",
+      "data privacy"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The rise of AI-generated code has increased the need for efficient code reviews, which are often the bottleneck in software development.",
+      "speaker": "Sahil Bansal",
+      "context": "Sahil explains how the influx of AI-generated code has made traditional code review processes more cumbersome."
+    },
+    {
+      "claim": "CodeRabbit automates the initial review process, allowing developers to focus on more complex tasks and reducing the time spent on reviews.",
+      "speaker": "Sahil Bansal",
+      "context": "He discusses how their platform can perform a first-pass review, leaving comments similar to a human reviewer."
+    },
+    {
+      "claim": "The effectiveness of CodeRabbit's reviews is enhanced by the context provided to the AI, which includes historical data and project-specific information.",
+      "speaker": "Sahil Bansal",
+      "context": "Sahil emphasizes the importance of context engineering in improving the quality of AI-generated feedback."
+    },
+    {
+      "claim": "CodeRabbit has been adopted by over 6000 paying customers and is used in more than 80,000 open source projects.",
+      "speaker": "Sahil Bansal",
+      "context": "He highlights the platform's traction in both open source and enterprise markets."
+    },
+    {
+      "claim": "The platform can help raise the knowledge level of junior developers by providing them with AI-generated insights during code reviews.",
+      "speaker": "Sahil Bansal",
+      "context": "Sahil shares how junior developers feel more empowered to engage with the AI for learning and understanding code better."
+    },
+    {
+      "claim": "CodeRabbit's reviews can lead to a 50-60% acceptance rate of comments, indicating a significant improvement in bug detection.",
+      "speaker": "Sahil Bansal",
+      "context": "He discusses the metrics that demonstrate the effectiveness of their review process."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Andrej Karpathy"
+    ],
+    "organizations": [
+      "OpenAI",
+      "Anthropic",
+      "Coda",
+      "Nutanix",
+      "Applied Materials",
+      "Linux Foundation",
+      "Groupon",
+      "Chegg",
+      "SeatGeek",
+      "Rolls-Royce",
+      "The Economist"
+    ],
+    "technologies": [
+      "CodeRabbit",
+      "LLMs",
+      "JIRA"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to CodeRabbit",
+      "summary": "Sahil Bansal introduces himself and provides background on CodeRabbit and its founding.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Challenges of Code Reviews",
+      "summary": "Discussion on the challenges developers face with code reviews, especially with the rise of AI-generated code.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "How CodeRabbit Works",
+      "summary": "Sahil explains the mechanics of CodeRabbit, including its use of LLMs and context engineering.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Customer Success Stories",
+      "summary": "Sahil shares examples of companies successfully using CodeRabbit and the impact on their development processes.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of Code Reviews",
+      "summary": "Discussion on the growth of the AI code review market and CodeRabbit's plans for scaling.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Coda"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "engaging",
+    "notable_moments": [
+      "Sahil mentions how CodeRabbit helps junior developers feel more empowered in their roles."
+    ]
+  },
+  "_meta": {
+    "episode_number": 287,
+    "episode_date": "2025-09-17",
+    "rss_title": "#287 Sahil Bansal: Why Developers Are Switching to CodeRabbit's AI Code Reviews",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:26:34Z",
+    "input_tokens": 10054,
+    "output_tokens": 1042
+  }
+}

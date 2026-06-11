@@ -56,14 +56,21 @@ def _build_messages(
     # Format context chunks with source info
     context_parts = []
     for i, (chunk, meta) in enumerate(zip(context_chunks, chunk_metadatas), 1):
-        episode = meta.get("episode_title", meta.get("doc_name", "Unknown episode"))
+        episode = meta.get("title", meta.get("episode_title", meta.get("doc_name", "Unknown episode")))
+        ep_num = meta.get("episode_number", "")
         date = meta.get("episode_date", "")
         guest = meta.get("guest_name", "")
-        header = f"[Source {i}: {episode}"
+        org = meta.get("guest_organization", "")
+        header = f"[Source {i}: "
+        if ep_num:
+            header += f"Episode {ep_num} — "
+        header += episode
         if guest:
             header += f" — Guest: {guest}"
+            if org:
+                header += f" ({org})"
         if date:
-            header += f" ({date})"
+            header += f" — {date}"
         header += "]"
         context_parts.append(f"{header}\n{chunk}")
 

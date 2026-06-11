@@ -1,0 +1,131 @@
+{
+  "episode_profile": {
+    "title": "Jonathan Frankle: How Databricks is Disrupting AI Model Training",
+    "guest_name": "Jonathan Frankle",
+    "guest_title": "Chief AI Scientist",
+    "guest_organization": "Databricks",
+    "topic_summary": "In this episode, Jonathan Frankle discusses how Databricks is revolutionizing AI model training through innovative techniques like synthetic data generation and test time adaptive optimization (Tau). He emphasizes the importance of making AI accessible and efficient for users, while addressing challenges in data labeling and model fine-tuning."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "synthetic data generation",
+      "reinforcement learning",
+      "machine learning"
+    ],
+    "industries": [
+      "technology",
+      "data analytics",
+      "cloud computing"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "Synthetic data generation allows for more efficient model training by integrating user prompts and generated data.",
+      "speaker": "Jonathan Frankle",
+      "context": "Frankle explains how this technique can simplify the training process and reduce reliance on labeled data."
+    },
+    {
+      "claim": "Test time adaptive optimization (Tau) enables continuous improvement of models without the need for extensive labeled datasets.",
+      "speaker": "Jonathan Frankle",
+      "context": "He discusses how Tau can enhance model performance by using reinforcement learning techniques."
+    },
+    {
+      "claim": "The challenge of obtaining high-quality labeled data is a significant barrier for many organizations deploying AI.",
+      "speaker": "Jonathan Frankle",
+      "context": "Frankle highlights the difficulties customers face in generating sufficient labeled data for effective model training."
+    },
+    {
+      "claim": "Databricks aims to make AI accessible to a broader audience by simplifying the data interaction process.",
+      "speaker": "Jonathan Frankle",
+      "context": "He draws parallels between the democratization of the internet and the potential for AI to empower users."
+    },
+    {
+      "claim": "Using a reward model (DBRM) can help steer AI outputs towards better performance without needing explicit labels.",
+      "speaker": "Jonathan Frankle",
+      "context": "Frankle explains how DBRM evaluates outputs to guide model training effectively."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Naveen Rao",
+      "Hanlon Tang",
+      "Michael Carbon"
+    ],
+    "organizations": [
+      "Databricks",
+      "OpenAI",
+      "DeepMind"
+    ],
+    "technologies": [
+      "LLAMA",
+      "DBRM",
+      "Tau"
+    ],
+    "publications": [
+      "Laura Learns Less and Forgets Less"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Databricks",
+      "summary": "Jonathan Frankle introduces himself and explains Databricks' mission and the concept of the data lake house.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Synthetic Data Generation",
+      "summary": "Discussion on how synthetic data generation can enhance model training and reduce the need for labeled data.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Test Time Adaptive Optimization (Tau)",
+      "summary": "Frankle elaborates on Tau and its role in continuously improving AI models through reinforcement learning.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in AI Deployment",
+      "summary": "Exploration of the difficulties organizations face in obtaining quality labeled data and deploying AI effectively.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future Directions for AI",
+      "summary": "Frankle discusses the future of AI at Databricks, focusing on reasoning models and enhancing user experience.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Laura Learns Less and Forgets Less",
+      "authors": "",
+      "context": "Referenced as a technique for managing learning and forgetting in AI models."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Databricks"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Frankle's comparison of AI democratization to the early internet.",
+      "The surprising effectiveness of Tau in improving model performance without labeled data."
+    ]
+  },
+  "_meta": {
+    "episode_number": 261,
+    "episode_date": "2025-06-12",
+    "rss_title": "#261 Jonathan Frankle: How Databricks is Disrupting AI Model Training",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:17:35Z",
+    "input_tokens": 12430,
+    "output_tokens": 975
+  }
+}

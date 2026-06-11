@@ -1,0 +1,146 @@
+{
+  "episode_profile": {
+    "title": "Guillermo Rauch: How To Use AI to Improve Web Development",
+    "guest_name": "Guillermo Rauch",
+    "guest_title": "CEO and Founder",
+    "guest_organization": "Vercel",
+    "topic_summary": "In this episode, Guillermo Rauch discusses the integration of generative AI applications on the Vercel platform and its impact on web development. He highlights how Vercel simplifies the deployment of AI-driven applications, enabling developers to create dynamic and personalized user experiences."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "web development",
+      "machine learning"
+    ],
+    "industries": [
+      "technology",
+      "software",
+      "e-commerce"
+    ],
+    "policy_areas": [
+      "none apparent"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The future of web development will increasingly focus on user experience rather than just the underlying AI models.",
+      "speaker": "Guillermo Rauch",
+      "context": "Guillermo emphasizes the importance of delivering a great user experience as AI technology evolves."
+    },
+    {
+      "claim": "Vercel allows developers to deploy AI applications quickly, reducing the time from months to minutes.",
+      "speaker": "Guillermo Rauch",
+      "context": "He discusses how Vercel simplifies the deployment process compared to traditional cloud services."
+    },
+    {
+      "claim": "The separation of front-end and back-end code in Vercel's architecture allows for greater flexibility in choosing AI models.",
+      "speaker": "Guillermo Rauch",
+      "context": "Guillermo explains how this modular approach benefits developers by enabling easy integration of various AI services."
+    },
+    {
+      "claim": "Generative AI is becoming a key component in various industries, including healthcare and finance.",
+      "speaker": "Guillermo Rauch",
+      "context": "He notes the growing interest and applications of generative AI across different sectors."
+    },
+    {
+      "claim": "AI applications will increasingly rely on real-time data and retrieval-augmented generation (RAG) techniques.",
+      "speaker": "Guillermo Rauch",
+      "context": "He discusses the necessity of RAG in providing accurate and timely responses in AI applications."
+    },
+    {
+      "claim": "Vercel is democratizing access to AI technologies, allowing even small teams to build sophisticated applications.",
+      "speaker": "Guillermo Rauch",
+      "context": "Guillermo highlights how Vercel's platform enables startups and small businesses to leverage AI."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "none"
+    ],
+    "organizations": [
+      "Vercel",
+      "Oracle",
+      "OpenAI",
+      "ChatGPT",
+      "Mistral",
+      "Brain Trust",
+      "Soonl AI",
+      "PCA Runway",
+      "Luma Labs",
+      "Spline"
+    ],
+    "technologies": [
+      "Next.js",
+      "ChatGPT",
+      "DALL-E",
+      "GPT-4",
+      "Llama",
+      "Mistral",
+      "RAG"
+    ],
+    "publications": [
+      "none"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Vercel and Next.js",
+      "summary": "Guillermo introduces himself and discusses the relationship between Vercel and Next.js, highlighting their roles in modern web development.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "AI Integration in Web Development",
+      "summary": "The conversation shifts to how Vercel facilitates the integration of AI applications, making it easier for developers to deploy sophisticated solutions.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges and Opportunities in AI",
+      "summary": "Guillermo discusses the reliability issues in AI and the importance of user experience, emphasizing the need for real-time data integration.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future Trends in AI and Web Development",
+      "summary": "The discussion covers emerging trends in AI applications across various industries and the potential for generative AI to disrupt traditional sectors.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Vercel's Growth and Market Position",
+      "summary": "Guillermo shares insights on Vercel's growth, user engagement, and the increasing adoption of AI technologies by businesses.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "none",
+      "authors": "",
+      "context": ""
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Vercel"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Guillermo's insights on the importance of user experience in AI applications.",
+      "The discussion on the modular architecture of Vercel and its implications for developers."
+    ]
+  },
+  "_meta": {
+    "episode_number": 169,
+    "episode_date": "2024-02-14",
+    "rss_title": "#169 Guillermo Rauch: How To Use AI to Improve Web Development",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:46:40Z",
+    "input_tokens": 12037,
+    "output_tokens": 1092
+  }
+}

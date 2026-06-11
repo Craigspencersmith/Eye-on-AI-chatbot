@@ -1,0 +1,138 @@
+{
+  "episode_profile": {
+    "title": "Why India Is Losing the AI Race and What It Will Take to Catch Up",
+    "guest_name": "Professor Mausam",
+    "guest_title": "AI Researcher",
+    "guest_organization": "Indian Institute of Technology (IIT) Delhi",
+    "topic_summary": "Professor Mausam discusses the reasons behind India's lag in AI development compared to China and the US, highlighting systemic issues in academia, funding, and talent retention. He emphasizes the need for a robust research culture and the importance of attracting top professors to foster innovation in AI."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "deep learning",
+      "natural language processing"
+    ],
+    "industries": [
+      "education",
+      "technology",
+      "research"
+    ],
+    "policy_areas": [
+      "government initiatives",
+      "funding",
+      "talent retention"
+    ],
+    "geographic_focus": [
+      "India",
+      "China",
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "China has overtaken the US in AI research metrics, with a significant number of submissions to major conferences.",
+      "speaker": "Professor Mausam",
+      "context": "Mausam compares the research output of China and the US, highlighting the rapid growth of AI research in China."
+    },
+    {
+      "claim": "India's research ecosystem is hindered by a lack of top-tier professors and a culture that does not incentivize returning talent.",
+      "speaker": "Professor Mausam",
+      "context": "Mausam discusses the systemic issues in India's academic environment that prevent the establishment of a strong research culture."
+    },
+    {
+      "claim": "The Indian government has been proactive in supporting AI initiatives, but the speed and scale of implementation have been lacking.",
+      "speaker": "Professor Mausam",
+      "context": "Mausam critiques the government's efforts in AI development, noting the need for faster and more substantial support."
+    },
+    {
+      "claim": "The education system in India is not adequately preparing students for AI careers, leading to high unemployment among IIT graduates.",
+      "speaker": "Professor Mausam",
+      "context": "Mausam addresses the disconnect between the education system and the job market for AI professionals."
+    },
+    {
+      "claim": "India needs to focus on developing a strong ecosystem of innovation and research to catch up in AI.",
+      "speaker": "Professor Mausam",
+      "context": "Mausam emphasizes the importance of systemic change in academia to foster a thriving AI research environment."
+    },
+    {
+      "claim": "The future of work in AI may not require as many computer scientists, suggesting a shift in job market dynamics.",
+      "speaker": "Professor Mausam",
+      "context": "Mausam reflects on the changing landscape of AI jobs and the implications for future graduates."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Jeff Hinton",
+      "Jan LeCun",
+      "Andrew Ng",
+      "Joshua Bengio"
+    ],
+    "organizations": [
+      "Indian Institute of Technology (IIT) Delhi",
+      "Google",
+      "Microsoft",
+      "Nvidia"
+    ],
+    "technologies": [
+      "AlexNet",
+      "GANs",
+      "LLMs"
+    ],
+    "publications": [
+      "AAA conference",
+      "ACL conference"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to India's AI Landscape",
+      "summary": "Craig introduces the episode's focus on India's AI development and its comparison with China.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Mausam's Academic Journey",
+      "summary": "Professor Mausam shares his background and experiences in AI research, including his return to India.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in Indian AI Research",
+      "summary": "The discussion centers on the systemic issues facing India's AI research ecosystem and the need for top-tier talent.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Government Initiatives and Support",
+      "summary": "Mausam evaluates the Indian government's efforts in promoting AI and the effectiveness of these initiatives.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI Careers in India",
+      "summary": "The conversation shifts to the evolving job market for AI professionals and the implications for education.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Indian Institute of Technology (IIT) Delhi"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Mausam emphasizes the need for systemic change in India's academic environment to foster AI innovation.",
+      "He critiques the government's AI initiatives for lacking speed and scale."
+    ]
+  },
+  "_meta": {
+    "episode_number": 336,
+    "episode_date": "2026-04-20",
+    "rss_title": "#336 Professor Mausam: Why India Is Losing the AI Race and What It Will Take to Catch Up",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:45:22Z",
+    "input_tokens": 13836,
+    "output_tokens": 1058
+  }
+}

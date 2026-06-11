@@ -1,0 +1,121 @@
+{
+  "episode_profile": {
+    "title": "Exploring the Smelliverse with Alexei Koulakov",
+    "guest_name": "Alexei Koulakov",
+    "guest_title": "Professor",
+    "guest_organization": "Cold Spring Harbor Laboratory",
+    "topic_summary": "In this episode, Alexei Koulakov discusses the application of machine learning to the study of olfaction, the least understood of our senses. He explores how we perceive odors, the limitations of current sensors, and the potential for understanding the olfactory system through computational neuroscience."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "computational neuroscience"
+    ],
+    "industries": [
+      "healthcare",
+      "food and beverage",
+      "perfume"
+    ],
+    "policy_areas": [],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The olfactory system is poorly understood compared to other senses, with significant gaps in knowledge about how we perceive odors.",
+      "speaker": "Alexei Koulakov",
+      "context": "Koulakov emphasizes the complexity and mystery surrounding the mechanisms of olfaction."
+    },
+    {
+      "claim": "Current sensors cannot match the sensitivity and discrimination of biological olfactory receptors.",
+      "speaker": "Alexei Koulakov",
+      "context": "He explains the limitations of existing technology in detecting and classifying odors."
+    },
+    {
+      "claim": "There may be a low-dimensional structure to olfactory perception similar to the color space in vision.",
+      "speaker": "Alexei Koulakov",
+      "context": "Koulakov discusses the hypothesis that olfactory percepts can be simplified into a manageable number of dimensions."
+    },
+    {
+      "claim": "The pleasantness of a molecule is a significant dimension in olfactory perception.",
+      "speaker": "Alexei Koulakov",
+      "context": "He notes that pleasantness is a common factor in how people perceive different odors."
+    },
+    {
+      "claim": "Understanding olfaction could revolutionize industries such as perfume and food safety.",
+      "speaker": "Alexei Koulakov",
+      "context": "Koulakov outlines the potential applications of his research in various sectors."
+    },
+    {
+      "claim": "The olfactory receptors activate in a combinatorial manner, meaning multiple receptors can respond to a single molecule.",
+      "speaker": "Alexei Koulakov",
+      "context": "He explains the complexity of how odors are perceived based on receptor activation patterns."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Cold Spring Harbor Laboratory",
+      "Good Scents"
+    ],
+    "technologies": [
+      "mass spectroscopy",
+      "deep learning",
+      "autoencoder"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Olfaction",
+      "summary": "Craig introduces Alexei Koulakov and the topic of olfaction, highlighting its significance and the use of machine learning.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Understanding Olfactory Mechanisms",
+      "summary": "Alexei discusses the biological and theoretical aspects of how we perceive odors and the limitations of current understanding.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Machine Learning Applications",
+      "summary": "The conversation shifts to how machine learning can be applied to predict human perceptions of odors and the challenges involved.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future Directions in Research",
+      "summary": "Alexei outlines the future of his research, including the need for larger datasets and the exploration of odor mixtures.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Implications for Industries",
+      "summary": "The discussion concludes with potential applications of olfactory research in various industries, including perfume and food safety.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Cold Spring Harbor Laboratory"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "scientific discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Koulakov's description of the olfactory system as the most mysterious of senses.",
+      "The hypothesis of a low-dimensional olfactory perceptual space akin to color perception."
+    ]
+  },
+  "_meta": {
+    "episode_number": 21,
+    "episode_date": "2019-08-14",
+    "rss_title": "(interpolated between ep20 and ep22)",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:01:35Z",
+    "input_tokens": 9383,
+    "output_tokens": 975
+  }
+}

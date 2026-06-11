@@ -1,0 +1,124 @@
+{
+  "episode_profile": {
+    "title": "Bhaskar Roy: How Workato Is Building the Rise of the Agentic Enterprise",
+    "guest_name": "Bhaskar Roy",
+    "guest_title": "Head of AI Products and Solutions",
+    "guest_organization": "Verkada",
+    "topic_summary": "In this episode, Bhaskar Roy discusses the concept of the 'Agentic Enterprise' and how Workato is enabling businesses to integrate applications and automate workflows through AI-driven agents. He emphasizes the importance of democratizing technology for business users while maintaining security and governance."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "automation",
+      "agent-based systems",
+      "AI integration"
+    ],
+    "industries": [
+      "enterprise software",
+      "e-commerce",
+      "IT services"
+    ],
+    "policy_areas": [
+      "security",
+      "governance"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "The Agentic Enterprise concept envisions a single application that integrates all business processes and automates tasks through AI agents.",
+      "speaker": "Bhaskar Roy",
+      "context": "Bhaskar explains how this vision can streamline workflows and improve productivity for knowledge workers."
+    },
+    {
+      "claim": "Workato's platform allows for low-code, no-code integration of applications, enabling business teams to build their own automations.",
+      "speaker": "Bhaskar Roy",
+      "context": "He discusses the need for democratization of technology to empower non-IT staff in creating integrations."
+    },
+    {
+      "claim": "The future of work will involve knowledge workers relying on AI agents to manage tasks across multiple applications seamlessly.",
+      "speaker": "Bhaskar Roy",
+      "context": "Bhaskar describes how agents will reduce the need for manual switching between applications."
+    },
+    {
+      "claim": "Companies adopting agentic technologies can expect significant ROI by automating core business processes.",
+      "speaker": "Bhaskar Roy",
+      "context": "He highlights the importance of focusing on core use cases to drive business efficiency."
+    },
+    {
+      "claim": "Agent sprawl is a concern, but Workato provides tools to manage and optimize the use of agents across an organization.",
+      "speaker": "Bhaskar Roy",
+      "context": "Bhaskar addresses the potential issue of having too many agents and the need for oversight."
+    },
+    {
+      "claim": "The integration of AI agents will transform customer experiences and operational efficiencies in various industries.",
+      "speaker": "Bhaskar Roy",
+      "context": "He shares examples of how e-commerce companies are leveraging agents to enhance customer service."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Workato",
+      "Verkada",
+      "Oracle"
+    ],
+    "technologies": [
+      "Ricardo",
+      "AI agents",
+      "SaaS applications"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Agentic Enterprise",
+      "summary": "Bhaskar Roy introduces the concept of the Agentic Enterprise and its implications for business processes.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Workato's Platform Overview",
+      "summary": "Discussion on how Workato enables low-code, no-code integrations for business users.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Managing Agent Sprawl",
+      "summary": "Bhaskar addresses concerns about agent sprawl and how Workato helps manage it.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "ROI from Agentic Technologies",
+      "summary": "Exploration of how businesses can achieve ROI through the adoption of AI agents.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of Work with AI Agents",
+      "summary": "Bhaskar shares insights on how AI agents will transform the workplace and customer interactions.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Verkada"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Bhaskar's vision of a single application for all business processes.",
+      "The emphasis on democratizing technology for non-IT staff."
+    ]
+  },
+  "_meta": {
+    "episode_number": 294,
+    "episode_date": "2025-10-16",
+    "rss_title": "#294 Bhaskar Roy: How Workato Is Building the Rise of the Agentic Enterprise",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:29:01Z",
+    "input_tokens": 12242,
+    "output_tokens": 961
+  }
+}

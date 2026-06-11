@@ -1,0 +1,136 @@
+{
+  "episode_profile": {
+    "title": "Opening AI Career Paths in Government and Funding STEM Education",
+    "guest_name": "Jose Marie",
+    "guest_title": "Commission Member",
+    "guest_organization": "U.S. Government Commission on AI",
+    "topic_summary": "The episode discusses the need for a digitally literate workforce in the U.S. government, emphasizing funding for AI education and training initiatives. Jose Marie outlines recommendations for improving STEM education and creating career paths in AI and related fields."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "AI education",
+      "data science",
+      "software development"
+    ],
+    "industries": [
+      "government",
+      "education"
+    ],
+    "policy_areas": [
+      "funding",
+      "workforce development",
+      "STEM education"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "There is a severe shortage of AI knowledge within the U.S. government.",
+      "speaker": "Jose Marie",
+      "context": "This claim is based on interviews with government officials highlighting the lack of technical talent and understanding of AI."
+    },
+    {
+      "claim": "The proposed U.S. Digital Service Academy aims to produce digitally proficient civilian employees.",
+      "speaker": "Jose Marie",
+      "context": "This initiative is part of a broader strategy to address workforce issues in the government."
+    },
+    {
+      "claim": "Incremental funding changes will not suffice; a significant increase in STEM education funding is necessary.",
+      "speaker": "Jose Marie",
+      "context": "Jose Marie argues that the U.S. must ramp up its efforts to remain competitive in STEM fields."
+    },
+    {
+      "claim": "The government lacks a system to measure or track its AI knowledge.",
+      "speaker": "Jose Marie",
+      "context": "This gap complicates efforts to address workforce shortages and develop effective training programs."
+    },
+    {
+      "claim": "Creating occupational series and career fields for AI will help attract and retain talent in the government.",
+      "speaker": "Jose Marie",
+      "context": "These structures are necessary to provide clear career paths for individuals in technical roles."
+    },
+    {
+      "claim": "AI-curated training can tailor educational content to individual needs, improving learning outcomes.",
+      "speaker": "Jose Marie",
+      "context": "This approach is being piloted by the Defense Acquisition University to enhance workforce training."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Jack Shanahan"
+    ],
+    "organizations": [
+      "U.S. Government",
+      "Defense Acquisition University",
+      "National Science Foundation",
+      "Department of Education",
+      "Department of Health and Human Services"
+    ],
+    "technologies": [
+      "AI tutoring systems",
+      "AI curated content"
+    ],
+    "publications": [
+      "Congressional Research Service 2018 report"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Funding AI Workforce Initiatives",
+      "summary": "Discussion on the funding allocations for AI education and workforce development in the military.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Challenges in Government Workforce",
+      "summary": "Exploration of the challenges faced by the U.S. government in developing a technically literate workforce.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Creating Career Paths in AI",
+      "summary": "Jose Marie explains the importance of establishing occupational series and career fields for AI roles.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI in Education and Training",
+      "summary": "Overview of the pilot programs using AI to enhance training and education within the government.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "STEM Education Funding Recommendations",
+      "summary": "Discussion on the proposed increase in funding for STEM scholarships and fellowships.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Congressional Research Service 2018 report",
+      "authors": "",
+      "context": "Referenced to provide context on current federal appropriations for STEM education."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "U.S. Government Commission on AI"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Jose Marie emphasizes the urgency of addressing the AI knowledge gap in government."
+    ]
+  },
+  "_meta": {
+    "episode_number": 58,
+    "episode_date": "2020-11-04",
+    "rss_title": "Opening AI Career Paths in Government and funding STEM education",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:13:10Z",
+    "input_tokens": 8518,
+    "output_tokens": 974
+  }
+}

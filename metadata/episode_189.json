@@ -1,0 +1,133 @@
+{
+  "episode_profile": {
+    "title": "The Future of Programming: AI-Powered Code Generation with Julius AI",
+    "guest_name": "Rahul Sonwalkar",
+    "guest_title": "Founder and CEO",
+    "guest_organization": "Julius AI",
+    "topic_summary": "Rahul Sonwalkar discusses the evolution of programming through AI, focusing on his company Julius AI, which enables users to analyze data and generate code using natural language. He shares insights on the challenges of AI code generation and the future of programming as more people become 'programmers' through simple English commands."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "code generation",
+      "natural language processing",
+      "machine learning"
+    ],
+    "industries": [
+      "technology",
+      "education",
+      "healthcare"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The future will see 7 billion programmers who will code using English.",
+      "speaker": "Rahul Sonwalkar",
+      "context": "Rahul emphasizes the democratization of programming through AI tools like Julius, which allow non-programmers to engage with coding."
+    },
+    {
+      "claim": "Julius AI has achieved a high success rate in code compilation, with 70% of code compiling correctly on the first attempt.",
+      "speaker": "Rahul Sonwalkar",
+      "context": "This statistic highlights the effectiveness of Julius AI in generating functional code for data analysis tasks."
+    },
+    {
+      "claim": "AI native products, like Julius, have a competitive advantage over traditional software that integrates AI.",
+      "speaker": "Rahul Sonwalkar",
+      "context": "Rahul argues that products built from the ground up with AI as the core experience are more successful than those retrofitted with AI capabilities."
+    },
+    {
+      "claim": "The AI code generation problem is solvable for specific use cases, particularly in data analysis.",
+      "speaker": "Rahul Sonwalkar",
+      "context": "Rahul discusses how focusing on narrow applications allows Julius to refine its code generation capabilities effectively."
+    },
+    {
+      "claim": "Julius AI can handle a variety of tasks beyond data analysis, including PDF processing and video manipulation.",
+      "speaker": "Rahul Sonwalkar",
+      "context": "This showcases the versatility of Julius AI in addressing diverse user needs."
+    },
+    {
+      "claim": "The company has grown organically to half a million users without significant marketing efforts.",
+      "speaker": "Rahul Sonwalkar",
+      "context": "Rahul attributes this growth to word-of-mouth and the utility of the product among users."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Jensen Huang",
+      "Kerry Back",
+      "Aravind Srinivas"
+    ],
+    "organizations": [
+      "Uber",
+      "Facebook",
+      "Rice University",
+      "Vercel"
+    ],
+    "technologies": [
+      "GPT-4",
+      "Claude",
+      "Command-R",
+      "Gemini",
+      "Llama 3"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Julius AI",
+      "summary": "Rahul Sonwalkar introduces himself and explains the concept behind Julius AI, its purpose, and its rapid user growth.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Evolution of Programming",
+      "summary": "Discussion on how AI will transform programming, making it accessible to everyone through natural language.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in AI Code Generation",
+      "summary": "Rahul addresses the common issues faced in AI code generation and how Julius AI is tackling these challenges.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "User Experiences and Use Cases",
+      "summary": "Examples of how users are leveraging Julius AI for various tasks, including data analysis and PDF processing.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI and Programming",
+      "summary": "Rahul shares his vision for the future of programming and the role of AI in shaping it.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Julius AI"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informal discussion",
+    "tone": "optimistic",
+    "notable_moments": [
+      "Rahul's vision of 7 billion programmers coding in English.",
+      "The success of Julius AI in achieving a high code compilation rate."
+    ]
+  },
+  "_meta": {
+    "episode_number": 189,
+    "episode_date": "2024-05-24",
+    "rss_title": "#189 Rahul Sonwalkar: The Future of Programming, AI-Powered Code Generation with Julius AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:54:44Z",
+    "input_tokens": 11312,
+    "output_tokens": 1036
+  }
+}

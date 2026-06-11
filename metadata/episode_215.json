@@ -1,0 +1,129 @@
+{
+  "episode_profile": {
+    "title": "Manuel Haug: How Celonis Uses AI to Optimize Business Processes",
+    "guest_name": "Manuel Haug",
+    "guest_title": "Co-Founder and CEO",
+    "guest_organization": "Celonis",
+    "topic_summary": "Manuel Haug discusses how Celonis leverages AI and process mining to optimize business processes for large enterprises. He explains the unique approach of connecting to underlying IT systems to provide transparency and actionable insights, enabling companies to improve efficiency and decision-making."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "process mining",
+      "data analytics",
+      "generative AI"
+    ],
+    "industries": [
+      "enterprise software",
+      "consulting",
+      "manufacturing"
+    ],
+    "policy_areas": [
+      "data privacy",
+      "AI ethics"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Celonis provides a digital twin of business processes, allowing companies to visualize and optimize their operations.",
+      "speaker": "Manuel Haug",
+      "context": "This claim highlights how Celonis uses process mining to create a comprehensive view of business operations."
+    },
+    {
+      "claim": "AI is increasingly integrated into Celonis solutions, enhancing the analysis of unstructured data.",
+      "speaker": "Manuel Haug",
+      "context": "Haug discusses the role of AI in improving data analysis and operational efficiency."
+    },
+    {
+      "claim": "Companies often bring in Celonis when their existing processes become too complex and inefficient.",
+      "speaker": "Manuel Haug",
+      "context": "This reflects the typical scenario where large enterprises seek Celonis' expertise to streamline operations."
+    },
+    {
+      "claim": "The integration of AI agents into business processes is still in its early stages, with gradual adoption expected.",
+      "speaker": "Manuel Haug",
+      "context": "Haug emphasizes the need for companies to mature their processes before fully leveraging AI agents."
+    },
+    {
+      "claim": "Celonis enables companies to create a connected representation of their processes, facilitating cross-optimization.",
+      "speaker": "Manuel Haug",
+      "context": "This claim underscores the importance of understanding interdependencies between different business processes."
+    },
+    {
+      "claim": "Successful customers view Celonis as a continuous improvement system rather than a one-time project.",
+      "speaker": "Manuel Haug",
+      "context": "Haug points out that ongoing optimization is crucial for adapting to changing business environments."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Craig S. Smith"
+    ],
+    "organizations": [
+      "Celonis",
+      "PepsiCo",
+      "GE Healthcare",
+      "Citibank"
+    ],
+    "technologies": [
+      "large language models",
+      "AI agents",
+      "process intelligence graph"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Celonis",
+      "summary": "Manuel Haug introduces Celonis and its role in optimizing business processes through process mining.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Process Mining vs. Traditional Consulting",
+      "summary": "Haug explains how Celonis differs from traditional consulting by connecting directly to IT systems for data analysis.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI Integration in Business Processes",
+      "summary": "The discussion focuses on how AI is being integrated into Celonis solutions to enhance process optimization.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges and Opportunities with AI Agents",
+      "summary": "Haug discusses the current state of AI agents in business processes and the gradual adoption expected.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of Process Optimization",
+      "summary": "The conversation concludes with insights on the future of process optimization and the role of Celonis.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Celonis"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Haug's insights on the complexity of enterprise processes and the need for continuous optimization.",
+      "The discussion on the role of AI in transforming business processes and the challenges of implementation."
+    ]
+  },
+  "_meta": {
+    "episode_number": 215,
+    "episode_date": "2024-10-23",
+    "rss_title": "#215 Manuel Haug: How Celonis Uses AI to Optimize Business Processes",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:03:03Z",
+    "input_tokens": 9335,
+    "output_tokens": 975
+  }
+}

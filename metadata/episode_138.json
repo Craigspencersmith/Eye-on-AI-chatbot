@@ -1,0 +1,123 @@
+{
+  "episode_profile": {
+    "title": "Dan O'Connell: How AI is Disrupting Business Communications",
+    "guest_name": "Dan O'Connell",
+    "guest_title": "Chief AI Strategy Officer",
+    "guest_organization": "Dialpad",
+    "topic_summary": "Dan O'Connell discusses how Dialpad leverages AI technologies like natural language processing and speech recognition to enhance business communications. He highlights the company's unique approach to building their own AI stack and the transformative potential of AI in understanding and automating customer interactions."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "natural language processing",
+      "speech recognition",
+      "large language models"
+    ],
+    "industries": [
+      "communications",
+      "technology",
+      "customer service"
+    ],
+    "policy_areas": [
+      "data privacy",
+      "compliance"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "Owning their entire AI stack allows Dialpad to control innovation and provide predictable outputs.",
+      "speaker": "Dan O'Connell",
+      "context": "Dan explains the importance of having an in-house AI stack for innovation and reliability."
+    },
+    {
+      "claim": "Real-time sentiment analysis can significantly enhance customer service by providing immediate insights into customer satisfaction.",
+      "speaker": "Dan O'Connell",
+      "context": "He discusses how sentiment analysis can be used to gauge customer emotions during interactions."
+    },
+    {
+      "claim": "The integration of large language models can disrupt traditional CRM systems by automating data categorization and insights.",
+      "speaker": "Dan O'Connell",
+      "context": "Dan envisions a future where communication data is automatically structured and analyzed by AI."
+    },
+    {
+      "claim": "Dialpad's AI features, such as real-time transcription and summarization, are designed to improve efficiency in business communications.",
+      "speaker": "Dan O'Connell",
+      "context": "He highlights specific features that enhance the user experience in business settings."
+    },
+    {
+      "claim": "The company aims to out-innovate larger competitors like Zoom by focusing on speed and agility in product development.",
+      "speaker": "Dan O'Connell",
+      "context": "Dan contrasts Dialpad's startup culture with the slower pace of larger companies."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Freddie Bates"
+    ],
+    "organizations": [
+      "Dialpad",
+      "Salesforce Ventures",
+      "Google",
+      "YouAI"
+    ],
+    "technologies": [
+      "ChatGPT",
+      "Google Voice"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Dialpad",
+      "summary": "Dan O'Connell introduces Dialpad and its focus on AI-driven business communications.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "AI Features and Applications",
+      "summary": "Discussion on how Dialpad utilizes AI for features like transcription, sentiment analysis, and summarization.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Building Their Own AI Stack",
+      "summary": "Dan explains the rationale behind Dialpad's decision to develop their own AI models instead of relying on third-party APIs.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of AI in Business",
+      "summary": "Exploration of how generative AI and large language models could disrupt traditional business practices.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Competing with Larger Firms",
+      "summary": "Dan discusses Dialpad's strategy to compete with larger companies like Zoom through innovation.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Dialpad"
+    ],
+    "funding_sources": [
+      "Salesforce Ventures"
+    ],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Dan's insights on the unpredictability of third-party APIs and the importance of owning the AI stack.",
+      "The discussion on how sentiment analysis can proactively improve customer service."
+    ]
+  },
+  "_meta": {
+    "episode_number": 138,
+    "episode_date": "2023-09-13",
+    "rss_title": "#138 Dan O'Connell: How AI is Disrupting Business Communications",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:37:17Z",
+    "input_tokens": 7041,
+    "output_tokens": 910
+  }
+}

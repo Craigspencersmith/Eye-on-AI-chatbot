@@ -1,0 +1,129 @@
+{
+  "episode_profile": {
+    "title": "Programmatic Labeling in Machine Learning with Alex Ratner",
+    "guest_name": "Alex Ratner",
+    "guest_title": "Assistant Professor and CEO",
+    "guest_organization": "Snorkel AI",
+    "topic_summary": "In this episode, Alex Ratner discusses the challenges of labeling training data for supervised learning models and introduces Snorkel, a platform designed to programmatically label data. The conversation covers the evolution of machine learning, the importance of data quality, and how Snorkel enables faster and more efficient data labeling processes."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "supervised learning",
+      "weak supervision"
+    ],
+    "industries": [
+      "healthcare",
+      "finance",
+      "legal"
+    ],
+    "policy_areas": [
+      "data privacy",
+      "ethics"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Programmatic labeling can significantly reduce the time and cost associated with data labeling compared to traditional hand labeling methods.",
+      "speaker": "Alex Ratner",
+      "context": "Alex explains how Snorkel allows experts to create labeling functions that can label large datasets quickly, thus overcoming the bottleneck of manual labeling."
+    },
+    {
+      "claim": "Deep learning models require much larger datasets than traditional models, often needing hundreds of thousands to millions of labeled data points.",
+      "speaker": "Alex Ratner",
+      "context": "Alex discusses the shift in machine learning where deep learning models have increased capacity but also demand more labeled data for effective training."
+    },
+    {
+      "claim": "The quality of programmatically labeled data can surpass that of hand-labeled data, especially when leveraging large amounts of unlabeled data.",
+      "speaker": "Alex Ratner",
+      "context": "Alex highlights that with Snorkel, organizations can utilize vast amounts of unlabeled data to create high-quality labels, which can lead to better model performance."
+    },
+    {
+      "claim": "Snorkel enables iterative refinement of labels, allowing for continuous improvement of model accuracy over time.",
+      "speaker": "Alex Ratner",
+      "context": "Alex emphasizes the iterative nature of Snorkel, where experts can refine labeling functions based on model performance, leading to better outcomes."
+    },
+    {
+      "claim": "Programmatic labeling allows for greater transparency and auditability in the data labeling process.",
+      "speaker": "Alex Ratner",
+      "context": "Alex discusses how using labeling functions instead of manual labeling provides a clearer view of the data labeling process, making it easier to identify biases."
+    },
+    {
+      "claim": "The shift from hand labeling to programmatic labeling can transform machine learning development from a one-time process to an iterative one.",
+      "speaker": "Alex Ratner",
+      "context": "Alex explains how Snorkel changes the approach to machine learning by allowing for ongoing adjustments and improvements in the labeling process."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Ameet Talwalkar",
+      "Chris Ray"
+    ],
+    "organizations": [
+      "Snorkel AI",
+      "Stanford University",
+      "Carnegie Mellon University"
+    ],
+    "technologies": [
+      "Snorkel Flow",
+      "GPT-3"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Snorkel",
+      "summary": "Alex Ratner introduces himself and explains the genesis of Snorkel, focusing on the challenges of labeling training data.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Importance of Data Labeling",
+      "summary": "The discussion delves into the significance of data labeling in supervised learning and the limitations of traditional methods.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Programmatic Labeling Explained",
+      "summary": "Alex outlines how Snorkel's programmatic labeling works and its advantages over manual labeling.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Iterative Refinement and Model Training",
+      "summary": "The conversation covers how Snorkel allows for iterative refinement of labels and the implications for model training.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Real-World Applications and Case Studies",
+      "summary": "Alex shares examples of how Snorkel has been applied in various industries, highlighting its effectiveness.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "University of Washington",
+      "Snorkel AI"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Alex discusses the evolution of machine learning and the increasing complexity of models.",
+      "The conversation highlights the challenges of data labeling and how Snorkel addresses these issues."
+    ]
+  },
+  "_meta": {
+    "episode_number": 56,
+    "episode_date": "2020-10-28",
+    "rss_title": "Programmatic labeling with Alex Ratner of Snorkel AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:12:25Z",
+    "input_tokens": 12320,
+    "output_tokens": 1084
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "episode_profile": {
+    "title": "Exploring Privacy-Preserving Machine Learning with Casimir Wierzynski",
+    "guest_name": "Casimir Wierzynski",
+    "guest_title": "Senior Director, AI Products Group",
+    "guest_organization": "Intel",
+    "topic_summary": "Casimir Wierzynski discusses the intersection of AI and privacy, focusing on privacy-preserving machine learning techniques. He elaborates on neuromorphic engineering, connectomics, and the challenges of balancing data privacy with the need for AI development."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "neuromorphic engineering",
+      "connectomics",
+      "privacy-preserving machine learning"
+    ],
+    "industries": [
+      "healthcare",
+      "finance",
+      "technology"
+    ],
+    "policy_areas": [
+      "privacy",
+      "data protection",
+      "ethics"
+    ],
+    "geographic_focus": [
+      "United States",
+      "Poland"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Privacy-preserving machine learning can unlock new applications by allowing data insights without exposing sensitive information.",
+      "speaker": "Casimir Wierzynski",
+      "context": "Casimir emphasizes the importance of privacy in enabling collaborative data use across sectors like healthcare and finance."
+    },
+    {
+      "claim": "Federated learning allows models to be trained on decentralized data without compromising privacy.",
+      "speaker": "Casimir Wierzynski",
+      "context": "He explains how federated learning enables multiple parties to improve a model while keeping their data secure."
+    },
+    {
+      "claim": "Homomorphic encryption allows computations on encrypted data, preserving privacy while enabling analysis.",
+      "speaker": "Casimir Wierzynski",
+      "context": "Casimir describes how this technique can be used in sensitive applications like healthcare diagnostics."
+    },
+    {
+      "claim": "Differential privacy helps prevent models from memorizing sensitive information from training data.",
+      "speaker": "Casimir Wierzynski",
+      "context": "He discusses the balance between maintaining model utility and protecting individual privacy."
+    },
+    {
+      "claim": "The future of AI will likely involve standardized privacy protocols similar to HTTPS for secure data handling.",
+      "speaker": "Casimir Wierzynski",
+      "context": "Casimir draws parallels between early web security measures and the need for robust privacy standards in AI."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Ken Church",
+      "Jeff Lichtman",
+      "Nir Shavit",
+      "Jaron Lanier"
+    ],
+    "organizations": [
+      "Intel",
+      "Baidu",
+      "Harvard",
+      "MIT"
+    ],
+    "technologies": [
+      "federated learning",
+      "homomorphic encryption",
+      "differential privacy"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Casimir Wierzynski",
+      "summary": "Casimir shares his background and journey into AI and neuroscience.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Connectomics and Neuromorphic Engineering",
+      "summary": "Discussion on the techniques used to map brain connectivity and the implications for AI.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Privacy-Preserving Machine Learning",
+      "summary": "Casimir explains the importance and methods of privacy in machine learning.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Techniques for Data Privacy",
+      "summary": "Exploration of federated learning, homomorphic encryption, and differential privacy.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI and Data Privacy",
+      "summary": "Casimir discusses the potential for standardized privacy protocols in AI.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Intel"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Casimir's analogy of the brain's connectivity to a wiring diagram.",
+      "The discussion on the potential for individuals to monetize their data."
+    ]
+  },
+  "_meta": {
+    "episode_number": 32,
+    "episode_date": "2020-03-04",
+    "rss_title": "Episode 33 - Justin Gottschlich",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:05:07Z",
+    "input_tokens": 9366,
+    "output_tokens": 930
+  }
+}

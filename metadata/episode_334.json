@@ -1,0 +1,145 @@
+{
+  "episode_profile": {
+    "title": "Abhishek Singh: The $1.2 Billion Plan to Turn India Into an AI Superpower",
+    "guest_name": "Abhishek Singh",
+    "guest_title": "Additional Secretary and Director General",
+    "guest_organization": "National Informatics Centre, Government of India",
+    "topic_summary": "Abhishek Singh discusses India's ambitious $1.2 billion AI mission aimed at transforming the country into an AI superpower. He outlines the challenges and strategies involved in building AI infrastructure, enhancing data accessibility, and fostering talent within the nation."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "data science",
+      "natural language processing"
+    ],
+    "industries": [
+      "technology",
+      "government",
+      "education",
+      "healthcare"
+    ],
+    "policy_areas": [
+      "regulation",
+      "governance",
+      "innovation",
+      "data privacy"
+    ],
+    "geographic_focus": [
+      "India",
+      "China",
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "India's AI mission aims to build a robust AI ecosystem with a budget of $1.2 billion, leveraging both public and private sector investments.",
+      "speaker": "Abhishek Singh",
+      "context": "This claim was made while discussing the funding and strategic goals of the AI mission."
+    },
+    {
+      "claim": "The India Kosh platform will serve as a national repository for data, enabling AI developers to access usable datasets.",
+      "speaker": "Abhishek Singh",
+      "context": "This was mentioned in the context of improving data accessibility for AI applications."
+    },
+    {
+      "claim": "India aims to increase its data center capacity from 1 gigawatt to 10 gigawatts by 2030, including investments from both government and private sectors.",
+      "speaker": "Abhishek Singh",
+      "context": "This claim was made while discussing the infrastructure needed to support AI development."
+    },
+    {
+      "claim": "The government is incentivizing private sector investment in AI compute infrastructure to overcome the bottleneck of limited GPU availability.",
+      "speaker": "Abhishek Singh",
+      "context": "This was discussed in relation to the challenges faced by researchers in accessing necessary computational resources."
+    },
+    {
+      "claim": "India is working to address the brain drain of talent by offering competitive salaries and creating a supportive research ecosystem.",
+      "speaker": "Abhishek Singh",
+      "context": "This claim was made while addressing concerns about losing top talent to foreign institutions."
+    },
+    {
+      "claim": "The AI mission includes establishing Centers of Excellence to foster collaboration among various academic institutions.",
+      "speaker": "Abhishek Singh",
+      "context": "This was mentioned in the context of enhancing research and development in specific AI sectors."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Satya Nadella",
+      "Sundar Pichai",
+      "Ganesh",
+      "Mitesh Kapra"
+    ],
+    "organizations": [
+      "Microsoft",
+      "Google",
+      "Aadhaar",
+      "IIT Bombay",
+      "IIT Madras",
+      "IIT Ropar",
+      "AIIMS"
+    ],
+    "technologies": [
+      "Nvidia GPUs",
+      "AI Kosh"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to India AI Mission",
+      "summary": "Abhishek Singh introduces himself and outlines the goals of the India AI mission.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Funding and Infrastructure",
+      "summary": "Discussion on the $1.2 billion funding and the plans for increasing data center capacity.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Data Accessibility and AI Kosh",
+      "summary": "Overview of the AI Kosh platform and its role in making data accessible for AI development.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Talent and Brain Drain",
+      "summary": "Addressing the challenges of retaining talent in India and the strategies to attract researchers back.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Centers of Excellence",
+      "summary": "Explaining the establishment of Centers of Excellence to enhance collaboration in AI research.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Global AI Governance",
+      "summary": "Discussion on India's position in global AI governance and collaboration with other countries.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Government of India",
+      "National Informatics Centre"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Abhishek Singh's insights on the importance of data for AI development.",
+      "Discussion on the challenges of brain drain and strategies to retain talent."
+    ]
+  },
+  "_meta": {
+    "episode_number": 334,
+    "episode_date": "2026-04-16",
+    "rss_title": "#334 Abhishek Singh: The $1.2 Billion Plan to Turn India Into an AI Superpower",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:44:29Z",
+    "input_tokens": 7699,
+    "output_tokens": 1094
+  }
+}

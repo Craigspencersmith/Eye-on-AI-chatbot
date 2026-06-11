@@ -1,0 +1,135 @@
+{
+  "episode_profile": {
+    "title": "Aidan Gomez: How AI Language Models Will Shape The Future",
+    "guest_name": "Aidan Gomez",
+    "guest_title": "CEO and Co-founder",
+    "guest_organization": "Cohere",
+    "topic_summary": "Aidan Gomez discusses the development of the transformer algorithm and its impact on generative AI and large language models. He shares insights on the evolution of AI technologies, the challenges of deploying them in enterprises, and the future of AI in various industries."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "natural language processing"
+    ],
+    "industries": [
+      "technology",
+      "enterprise software"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "Canada",
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The transformer architecture, while simple, has led to extraordinary advancements in understanding and generating language.",
+      "speaker": "Aidan Gomez",
+      "context": "Aidan reflects on the unexpected success of the transformer model and its implications for AI."
+    },
+    {
+      "claim": "The rapid scaling of models by increasing data and computational power has resulted in capabilities that were previously thought to be decades away.",
+      "speaker": "Aidan Gomez",
+      "context": "Aidan discusses how the combination of large datasets and powerful models has transformed language understanding."
+    },
+    {
+      "claim": "Cohere aims to be a trusted partner for enterprises by addressing privacy and compliance issues in AI deployment.",
+      "speaker": "Aidan Gomez",
+      "context": "Aidan explains the mission of Cohere and its approach to integrating AI into enterprise applications."
+    },
+    {
+      "claim": "The future of AI will involve conversational agents that fundamentally change how consumers interact with products and services.",
+      "speaker": "Aidan Gomez",
+      "context": "Aidan predicts a shift in consumer expectations towards conversational interfaces in various industries."
+    },
+    {
+      "claim": "Retrieval-augmented generation can help mitigate hallucinations in AI models by requiring them to cite sources.",
+      "speaker": "Aidan Gomez",
+      "context": "Aidan discusses strategies to improve the reliability of AI-generated content."
+    },
+    {
+      "claim": "There are likely other architectures that could achieve similar or better results than transformers, but the community's investment in transformers creates resistance to change.",
+      "speaker": "Aidan Gomez",
+      "context": "Aidan reflects on the potential for new architectures in AI and the challenges of transitioning from established models."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Geoff Hinton",
+      "Noam Shazeer",
+      "Jakob",
+      "Lukasz Kaiser",
+      "Ivan Zhang",
+      "Nick Frosst"
+    ],
+    "organizations": [
+      "Google",
+      "Cohere",
+      "University of Toronto",
+      "OpenAI"
+    ],
+    "technologies": [
+      "transformer",
+      "GPT-4",
+      "BERT",
+      "tensor tensor"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Aidan Gomez",
+      "summary": "Aidan introduces himself and shares his background in AI and the development of the transformer algorithm.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Transformer Algorithm",
+      "summary": "Aidan explains the significance of the transformer architecture and its simplicity compared to previous models.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Cohere's Mission",
+      "summary": "Aidan discusses the founding of Cohere and its goal to democratize access to large language models.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of AI in Enterprises",
+      "summary": "Aidan outlines the challenges and opportunities for AI integration in enterprise applications.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Ethics and Governance in AI",
+      "summary": "Aidan shares his thoughts on the ethical considerations and potential risks associated with AI technologies.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Cohere",
+      "Google"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Aidan reflects on the rapid advancements in AI that surprised even experts in the field.",
+      "Discussion on the potential for AI models to achieve sentience and the philosophical implications."
+    ]
+  },
+  "_meta": {
+    "episode_number": 123,
+    "episode_date": "2023-05-24",
+    "rss_title": "#123 Aidan Gomez: How AI Language Models Will Shape The Future",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:33:14Z",
+    "input_tokens": 10751,
+    "output_tokens": 1016
+  }
+}

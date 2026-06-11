@@ -1,0 +1,154 @@
+{
+  "episode_profile": {
+    "title": "Yann Lecun on Self-Supervised Learning and AI's Future",
+    "guest_name": "Yann Lecun",
+    "guest_title": "Chief AI Scientist",
+    "guest_organization": "Meta (formerly Facebook)",
+    "topic_summary": "In this episode, Yann Lecun discusses his journey in AI, the development of neural networks, and the significance of self-supervised learning in achieving human-level intelligence in machines. He emphasizes the need for machines to learn from observation and the potential of AI to transform various industries."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "neural networks",
+      "self-supervised learning",
+      "reinforcement learning"
+    ],
+    "industries": [
+      "technology",
+      "automotive",
+      "entertainment"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States",
+      "France"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Self-supervised learning could be the key to achieving human-level intelligence in machines.",
+      "speaker": "Yann Lecun",
+      "context": "Lecun believes that machines need to learn from observation without requiring extensive labeled data, similar to how humans learn."
+    },
+    {
+      "claim": "The best AI systems currently lack the common sense that even simple animals possess.",
+      "speaker": "Yann Lecun",
+      "context": "Lecun highlights the gap between human and machine intelligence, suggesting that self-supervised learning could help bridge this gap."
+    },
+    {
+      "claim": "Neural networks can learn representations automatically, eliminating the need for manual feature extraction.",
+      "speaker": "Yann Lecun",
+      "context": "He explains how multilayer neural networks can derive their own features from data, which is a significant advancement in AI."
+    },
+    {
+      "claim": "Reinforcement learning requires extensive trial and error, making it less efficient for certain tasks compared to supervised learning.",
+      "speaker": "Yann Lecun",
+      "context": "Lecun discusses the limitations of reinforcement learning, particularly in complex environments like driving."
+    },
+    {
+      "claim": "The integration of unsupervised, supervised, and reinforcement learning could lead to more robust AI systems.",
+      "speaker": "Yann Lecun",
+      "context": "He suggests that combining these learning methods could enhance AI's ability to generalize and perform various tasks."
+    },
+    {
+      "claim": "The future of AI lies in developing systems that can learn from vast amounts of unstructured data.",
+      "speaker": "Yann Lecun",
+      "context": "Lecun emphasizes the importance of self-supervised learning in utilizing large datasets effectively."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Yoshua Bengio",
+      "Geoff Hinton",
+      "Richard Sutton",
+      "Pieter Abbeel",
+      "Justin Weston",
+      "Antoine Bordes"
+    ],
+    "organizations": [
+      "Meta",
+      "Bell Labs",
+      "NEC Research Institute",
+      "Carnegie Mellon University",
+      "Sorbonne University"
+    ],
+    "technologies": [
+      "convolutional neural networks",
+      "Boltzmann machines",
+      "autoencoders",
+      "memory networks",
+      "transformer networks"
+    ],
+    "publications": [
+      "Perceptrons by Marvin Minsky and Seymour Papert",
+      "bAbI tasks"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Yann Lecun",
+      "summary": "Craig introduces Yann Lecun and discusses his background and contributions to AI.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Evolution of Neural Networks",
+      "summary": "Lecun shares his journey in developing neural networks and the challenges faced in the field.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Self-Supervised Learning Explained",
+      "summary": "Lecun explains the concept of self-supervised learning and its potential impact on AI.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in Reinforcement Learning",
+      "summary": "The limitations of reinforcement learning are discussed, particularly in complex tasks.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "The Future of AI",
+      "summary": "Lecun shares his vision for the future of AI and the importance of integrating various learning methods.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Perceptrons",
+      "authors": "Marvin Minsky, Seymour Papert",
+      "context": "Lecun references this book to discuss the historical challenges faced in neural network development."
+    },
+    {
+      "reference": "bAbI tasks",
+      "authors": "",
+      "context": "Lecun mentions this dataset as an example of tasks requiring memory networks for reasoning."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Meta",
+      "New York University"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Lecun's analogy of cake layers to describe different learning methods in AI.",
+      "His assertion that human intelligence is specialized, challenging the notion of AGI."
+    ]
+  },
+  "_meta": {
+    "episode_number": 17,
+    "episode_date": "2019-06-19",
+    "rss_title": "Episode 17 - Yann Lecun",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T00:59:58Z",
+    "input_tokens": 15161,
+    "output_tokens": 1175
+  }
+}

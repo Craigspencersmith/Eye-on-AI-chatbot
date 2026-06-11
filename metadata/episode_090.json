@@ -1,0 +1,143 @@
+{
+  "episode_profile": {
+    "title": "Exploring Large Language Models with Connor Leahy",
+    "guest_name": "Connor Leahy",
+    "guest_title": "Co-founder",
+    "guest_organization": "EleutherAI",
+    "topic_summary": "Connor Leahy discusses the development and implications of large language models, particularly focusing on EleutherAI's efforts to create open-source alternatives to models like GPT-3. He emphasizes the challenges of building these models and the ethical considerations surrounding AI technology."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "large language models",
+      "open-source AI",
+      "AI safety"
+    ],
+    "industries": [
+      "technology",
+      "research"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance",
+      "regulation"
+    ],
+    "geographic_focus": [
+      "United States",
+      "China"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The development of large language models like GPT-3 demonstrates that simply scaling up existing models can unlock new capabilities without needing fundamentally new algorithms.",
+      "speaker": "Connor Leahy",
+      "context": "Connor reflects on the unexpected success of GPT-3 and its implications for AI research."
+    },
+    {
+      "claim": "AI is a general-purpose technology that can solve problems but also poses ethical risks, particularly in the context of military applications.",
+      "speaker": "Connor Leahy",
+      "context": "Connor discusses the dual-use nature of AI technologies and the importance of understanding their implications."
+    },
+    {
+      "claim": "The alignment problem in AI, or how to ensure AI systems act in ways that are beneficial to humanity, is one of the most pressing challenges we face.",
+      "speaker": "Connor Leahy",
+      "context": "Connor emphasizes the need for safety research in AI to prevent potential catastrophic outcomes."
+    },
+    {
+      "claim": "The competition between the U.S. and China in AI research could lead to dangerous outcomes if not managed properly.",
+      "speaker": "Connor Leahy",
+      "context": "Connor warns about the implications of a technological arms race in AI."
+    },
+    {
+      "claim": "The training of large models is theoretically straightforward, but in practice, it requires significant engineering effort and resources.",
+      "speaker": "Connor Leahy",
+      "context": "Connor explains the complexities involved in training large language models like GPT-J."
+    },
+    {
+      "claim": "The future of AI may not rely on new algorithms but rather on scaling existing models and increasing computational power.",
+      "speaker": "Connor Leahy",
+      "context": "Connor references Richard Sutton's perspective on the importance of scale in AI development."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Rich Sutton",
+      "Nick Bostrom"
+    ],
+    "organizations": [
+      "EleutherAI",
+      "OpenAI",
+      "Google",
+      "Facebook",
+      "Nvidia"
+    ],
+    "technologies": [
+      "GPT-3",
+      "GPT-J",
+      "Wudao 2.0",
+      "FastMOE",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "publications": [
+      "The Bitter Lesson"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to EleutherAI",
+      "summary": "Connor Leahy introduces EleutherAI and its mission to democratize AI research.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Building Large Language Models",
+      "summary": "Discussion on the challenges and processes involved in training large language models like GPT-J.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Ethical Implications of AI",
+      "summary": "Exploration of the ethical concerns surrounding AI technologies and their potential military applications.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "The AI Arms Race",
+      "summary": "Connor discusses the competitive landscape of AI research between the U.S. and China.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "The Future of AI Development",
+      "summary": "Reflections on the future trajectory of AI research and the importance of safety and alignment.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "The Bitter Lesson",
+      "authors": "Rich Sutton",
+      "context": "Connor references this essay to discuss the importance of scale in AI development."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "EleutherAI"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Connor's analogy of AI as genies highlights the unpredictable nature of powerful AI technologies.",
+      "The discussion on the alignment problem emphasizes the urgency of addressing AI safety."
+    ]
+  },
+  "_meta": {
+    "episode_number": 90,
+    "episode_date": "2021-11-17",
+    "rss_title": "Enterra Solutions",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:23:04Z",
+    "input_tokens": 7437,
+    "output_tokens": 1053
+  }
+}

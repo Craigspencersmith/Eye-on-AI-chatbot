@@ -1,0 +1,129 @@
+{
+  "episode_profile": {
+    "title": "Fergal Reid: Why Your Bots Fail and How Agents Fix Your Customer Support",
+    "guest_name": "Fergal Reid",
+    "guest_title": "Chief AI Officer",
+    "guest_organization": "Intercom",
+    "topic_summary": "Fergal Reid discusses the evolution of customer support through AI agents, specifically focusing on Intercom's product, Finn. He explains how Finn is designed to handle complex customer service tasks, its adaptability across various industries, and the importance of maintaining high resolution rates in customer interactions."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "natural language processing",
+      "customer service AI"
+    ],
+    "industries": [
+      "technology",
+      "financial services",
+      "software as a service"
+    ],
+    "policy_areas": [
+      "data privacy",
+      "regulation"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "Finn has a resolution rate of about 65%, which is significantly higher than when it was first launched.",
+      "speaker": "Fergal Reid",
+      "context": "This claim highlights the improvements made to Finn's AI capabilities over time."
+    },
+    {
+      "claim": "Intercom's approach to AI is to build a standardized product core that can be customized for individual businesses.",
+      "speaker": "Fergal Reid",
+      "context": "This strategy allows for better optimization and performance across a wide range of customers."
+    },
+    {
+      "claim": "The market for AI in customer service is massive and continues to grow, with Finn experiencing double-digit month-on-month growth.",
+      "speaker": "Fergal Reid",
+      "context": "This reflects the increasing demand for effective AI solutions in customer service."
+    },
+    {
+      "claim": "Finn is designed to handle complex tasks beyond simple question answering, including processing refunds and returns.",
+      "speaker": "Fergal Reid",
+      "context": "This showcases the advanced capabilities of Finn in real-world applications."
+    },
+    {
+      "claim": "Intercom does not currently offer an on-premise solution due to the velocity trade-off it would entail.",
+      "speaker": "Fergal Reid",
+      "context": "This decision emphasizes the company's focus on cloud-based solutions for faster product development."
+    },
+    {
+      "claim": "The adoption curve for AI in customer service is gradual, influenced by industry-specific factors and stakeholder management.",
+      "speaker": "Fergal Reid",
+      "context": "This insight explains the challenges companies face when transitioning to AI solutions."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Craig S. Smith"
+    ],
+    "organizations": [
+      "Intercom",
+      "Cisco",
+      "Dell Technologies",
+      "Google Cloud",
+      "Oracle",
+      "Red Hat"
+    ],
+    "technologies": [
+      "Finn",
+      "GPT-4",
+      "sequence to sequence models"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Finn",
+      "summary": "Fergal Reid introduces himself and discusses the capabilities of Intercom's AI agent, Finn.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Finn's Capabilities",
+      "summary": "The conversation delves into the various functionalities of Finn, including its adaptability and use cases.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Market Dynamics",
+      "summary": "Fergal discusses the competitive landscape of AI in customer service and the growth potential of the market.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges and Adoption",
+      "summary": "The discussion covers the challenges companies face in adopting AI solutions and the factors influencing the adoption curve.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future Aspirations",
+      "summary": "Fergal hints at future developments for Finn and the potential for expanding its use beyond customer service.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Intercom"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "collegial",
+    "notable_moments": [
+      "Fergal emphasizes the importance of a high resolution rate in customer interactions.",
+      "The discussion on the gradual adoption curve highlights the complexities of integrating AI in traditional industries."
+    ]
+  },
+  "_meta": {
+    "episode_number": 295,
+    "episode_date": "2025-10-19",
+    "rss_title": "#295 Fergal Reid: Why Your Bots Fail and How Agents Fix Your Customer Support",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:29:23Z",
+    "input_tokens": 9821,
+    "output_tokens": 982
+  }
+}

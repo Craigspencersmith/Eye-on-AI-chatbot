@@ -1,0 +1,115 @@
+{
+  "episode_profile": {
+    "title": "Avi Kedmi: How SysAid Uses AI to Redefine IT Service Management",
+    "guest_name": "Avi Kedmi",
+    "guest_title": "CEO",
+    "guest_organization": "SysAid",
+    "topic_summary": "Avi Kedmi discusses the transformative role of AI in IT service management, highlighting SysAid's innovative use of generative AI and predictive modeling to enhance service delivery, reduce ticket volumes, and improve customer satisfaction."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "predictive modeling"
+    ],
+    "industries": [
+      "IT service management",
+      "education"
+    ],
+    "policy_areas": [],
+    "geographic_focus": [
+      "North America",
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Generative AI is revolutionizing IT service management by automating responses and improving efficiency.",
+      "speaker": "Avi Kedmi",
+      "context": "Avi explains how SysAid's AI capabilities allow for faster ticket resolution and enhanced user experience."
+    },
+    {
+      "claim": "The future of AI in IT involves more trust in AI systems to execute tasks autonomously.",
+      "speaker": "Avi Kedmi",
+      "context": "Avi discusses the gradual shift towards allowing AI to perform actions without human intervention."
+    },
+    {
+      "claim": "SysAid's AI-driven platform can significantly reduce ticket volumes and improve customer satisfaction.",
+      "speaker": "Avi Kedmi",
+      "context": "Avi shares a success story of a client who saw a 30% reduction in ticket volume after implementing SysAid's AI."
+    },
+    {
+      "claim": "The integration of AI in IT service management is essential for companies to remain competitive.",
+      "speaker": "Avi Kedmi",
+      "context": "Avi emphasizes the importance of adopting AI technologies early to avoid falling behind competitors."
+    },
+    {
+      "claim": "SysAid's platform allows for easy onboarding and data integration, making it accessible for mid-market companies.",
+      "speaker": "Avi Kedmi",
+      "context": "Avi describes how SysAid simplifies the process for clients to upload and manage their data."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "SysAid",
+      "OpenAI"
+    ],
+    "technologies": [
+      "large language models",
+      "PowerShell"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to SysAid",
+      "summary": "Avi Kedmi introduces himself and explains the core functions of SysAid in IT service management.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "AI in IT Service Management",
+      "summary": "Discussion on how SysAid leverages AI technologies to enhance service delivery and automate processes.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Customer Success Stories",
+      "summary": "Avi shares examples of how clients have benefited from SysAid's AI solutions, including reduced ticket volumes.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of AI in IT",
+      "summary": "Exploration of the evolving role of AI in IT service management and the potential for greater automation.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Onboarding and Data Integration",
+      "summary": "Avi discusses the ease of onboarding new clients and integrating their data into SysAid's platform.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "SysAid"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Avi emphasizes the importance of starting AI integration early to stay competitive.",
+      "Avi shares a compelling success story of a client achieving significant results with SysAid's AI."
+    ]
+  },
+  "_meta": {
+    "episode_number": 196,
+    "episode_date": "2024-07-05",
+    "rss_title": "#196 Avi Kedmi: How SysAid Uses AI to Redefine IT Service Management",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:57:05Z",
+    "input_tokens": 11564,
+    "output_tokens": 891
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "episode_profile": {
+    "title": "Building a Democratic AI Coalition",
+    "guest_name": "Paul Lekas, Christie Lawrence",
+    "guest_title": "Director of Staff, Director of Research Analysis",
+    "guest_organization": "National Security Commission on Artificial Intelligence",
+    "topic_summary": "This episode discusses the importance of international partnerships in shaping AI governance and standards to counter authoritarian uses of technology. Paul Lekas and Christie Lawrence outline the recommendations from the NSCAI report, emphasizing the need for a coalition of democratic nations to promote responsible AI development and counter malign uses of technology."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "AI governance",
+      "international cooperation",
+      "emerging technologies"
+    ],
+    "industries": [
+      "national security",
+      "technology"
+    ],
+    "policy_areas": [
+      "international relations",
+      "democratic values",
+      "technology standards"
+    ],
+    "geographic_focus": [
+      "United States",
+      "China",
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The United States cannot address AI challenges alone and must work with like-minded nations to shape a favorable international order.",
+      "speaker": "Paul Lekas",
+      "context": "This claim highlights the necessity of international collaboration in AI governance."
+    },
+    {
+      "claim": "AI poses significant threats to democracy, including cyber operations and misinformation, which require collective action to counter.",
+      "speaker": "Christie Lawrence",
+      "context": "This statement underscores the urgency of forming alliances to address the risks associated with AI."
+    },
+    {
+      "claim": "The emerging technology coalition should focus on promoting democratic norms in technology development and countering authoritarian uses.",
+      "speaker": "Paul Lekas",
+      "context": "This claim reflects the coalition's mission to align technological advancements with democratic values."
+    },
+    {
+      "claim": "Collaborative research and development among allied nations can enhance AI capabilities and address global challenges.",
+      "speaker": "Christie Lawrence",
+      "context": "This emphasizes the benefits of pooling resources and expertise in AI research."
+    },
+    {
+      "claim": "The U.S. must improve its engagement in international technical standards to ensure they reflect democratic values.",
+      "speaker": "Paul Lekas",
+      "context": "This claim addresses the need for the U.S. to actively participate in standard-setting bodies to counter China's influence."
+    },
+    {
+      "claim": "The coalition should facilitate flexible partnerships that allow for varying levels of collaboration based on specific issues.",
+      "speaker": "Christie Lawrence",
+      "context": "This highlights the adaptable nature of the proposed coalition in addressing diverse technological challenges."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "National Security Commission on Artificial Intelligence",
+      "OECD"
+    ],
+    "technologies": [
+      "AI",
+      "digital infrastructure"
+    ],
+    "publications": [
+      "NSCAI report"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to the Coalition",
+      "summary": "Paul and Christie introduce themselves and outline the purpose of the podcast, focusing on international partnerships in AI.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Threats to Democracy",
+      "summary": "Discussion on the potential threats posed by AI to democratic values and the need for collective action.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Emerging Technology Coalition",
+      "summary": "Details on the proposed coalition of democratic nations and its goals for promoting responsible AI.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "International Standards and Cooperation",
+      "summary": "Exploration of the importance of international technical standards and the U.S. role in shaping them.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Conclusion and Future Steps",
+      "summary": "Wrap-up of the discussion with emphasis on the need for ongoing dialogue and collaboration among nations.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "NSCAI report",
+      "authors": "National Security Commission on Artificial Intelligence",
+      "context": "Referenced as the basis for the discussion on AI governance and international cooperation."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "National Security Commission on Artificial Intelligence"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "collaborative",
+    "notable_moments": [
+      "The emphasis on the need for a coalition to counter authoritarian uses of AI.",
+      "Discussion on the balance between collaboration and competition with China in AI development."
+    ]
+  },
+  "_meta": {
+    "episode_number": 79,
+    "episode_date": "2021-06-30",
+    "rss_title": "A Democratic AI Coalition",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:19:00Z",
+    "input_tokens": 8491,
+    "output_tokens": 1017
+  }
+}

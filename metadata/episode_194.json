@@ -1,0 +1,162 @@
+{
+  "episode_profile": {
+    "title": "How AI is Taking Over Hollywood and Changing Filmmaking Forever",
+    "guest_name": "Russell Palmer",
+    "guest_title": "Co-founder and Chief Story Officer",
+    "guest_organization": "CyberFilm.AI",
+    "topic_summary": "Russell Palmer discusses the transformative impact of AI on filmmaking, emphasizing the importance of storytelling in AI-generated films. He shares insights on his startup's approach to democratizing filmmaking through AI tools that assist in story development, storyboarding, and video generation."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "machine learning"
+    ],
+    "industries": [
+      "film",
+      "entertainment"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States",
+      "Canada"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI can enhance storytelling by providing unique ideas and merging archetypes that human writers may not consider.",
+      "speaker": "Russell Palmer",
+      "context": "Palmer argues that AI tools can help writers create original content by combining established story types in innovative ways."
+    },
+    {
+      "claim": "The goal of CyberFilm.AI is to democratize filmmaking, allowing anyone to create credible films without needing extensive resources.",
+      "speaker": "Russell Palmer",
+      "context": "Palmer explains that their platform targets aspiring filmmakers and hobbyists, enabling them to produce quality films on small budgets."
+    },
+    {
+      "claim": "Storytelling is the most critical element in filmmaking, and AI-generated films must prioritize narrative over visuals.",
+      "speaker": "Russell Palmer",
+      "context": "Palmer emphasizes that without strong story elements, AI films will not resonate with audiences, advocating for a focus on character and dialogue."
+    },
+    {
+      "claim": "AI tools can assist in the entire filmmaking process, from ideation to storyboarding and video generation.",
+      "speaker": "Russell Palmer",
+      "context": "Palmer describes how their app supports users through various stages of filmmaking, making the process more accessible."
+    },
+    {
+      "claim": "The rise of AI in filmmaking could lead to a more diverse range of stories being told, breaking away from traditional Hollywood narratives.",
+      "speaker": "Russell Palmer",
+      "context": "Palmer notes that as more people gain access to filmmaking tools, we may see a broader array of stories from different cultures and backgrounds."
+    },
+    {
+      "claim": "AI will not replace human creativity but will enhance it by providing tools that help storytellers express their ideas more effectively.",
+      "speaker": "Russell Palmer",
+      "context": "Palmer argues that AI should be seen as a collaborator in the creative process rather than a replacement for human artists."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Bill Gates",
+      "Adam Cheyer",
+      "Dag Kittlause",
+      "Chris Brigham",
+      "Steve Jobs",
+      "Megan Markel"
+    ],
+    "organizations": [
+      "Microsoft",
+      "Viv Labs",
+      "JP Morgan",
+      "Samsung",
+      "AGBO",
+      "NBCUniversal",
+      "Sony"
+    ],
+    "technologies": [
+      "GPT-3",
+      "Stable Video Diffusion",
+      "DALL-E 3"
+    ],
+    "publications": [
+      "The Hero with 1000 Faces",
+      "Save the Cat",
+      "Story by McKee",
+      "American Psycho"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to AI in Filmmaking",
+      "summary": "Russell Palmer introduces the concept of AI's role in filmmaking and shares his background in technology and film.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Importance of Storytelling",
+      "summary": "Palmer emphasizes the necessity of strong storytelling in AI-generated films and discusses how his app aids in this process.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Democratizing Filmmaking",
+      "summary": "The conversation shifts to how CyberFilm.AI aims to make filmmaking accessible to everyone, regardless of their background.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI Tools and Features",
+      "summary": "Palmer details the functionalities of their app, including story generation, storyboarding, and video integration.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI in Hollywood",
+      "summary": "The discussion concludes with Palmer's vision for the future of AI in the film industry and its potential to diversify storytelling.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "The Hero with 1000 Faces",
+      "authors": "Joseph Campbell",
+      "context": "Palmer references this work to discuss archetypes in storytelling."
+    },
+    {
+      "reference": "Save the Cat",
+      "authors": "Blake Snyder",
+      "context": "Palmer mentions this book as a common resource for screenwriters."
+    },
+    {
+      "reference": "Story by McKee",
+      "authors": "Robert McKee",
+      "context": "Palmer cites this book as influential in understanding story structure."
+    },
+    {
+      "reference": "American Psycho",
+      "authors": "Bret Easton Ellis",
+      "context": "Palmer refers to this work in the context of storytelling and character development."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "CyberFilm.AI"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Palmer's insights on the importance of storytelling in AI films.",
+      "Discussion on the democratization of filmmaking and its implications for diversity in storytelling."
+    ]
+  },
+  "_meta": {
+    "episode_number": 194,
+    "episode_date": "2024-06-26",
+    "rss_title": "#194 Russell Palmer: How AI is Taking Over Hollywood and Changing Filmmaking Forever",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:56:29Z",
+    "input_tokens": 10156,
+    "output_tokens": 1277
+  }
+}

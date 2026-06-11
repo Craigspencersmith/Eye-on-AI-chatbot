@@ -1,0 +1,130 @@
+{
+  "episode_profile": {
+    "title": "Peeyush Ranjan: How Nurix Is Redefining Voice AI for the Enterprise",
+    "guest_name": "Peeyush Ranjan",
+    "guest_title": "Technologist",
+    "guest_organization": "Nurix",
+    "topic_summary": "Peeyush Ranjan discusses the challenges and innovations in voice AI for enterprise applications, focusing on low latency and human-like interactions. He explains how Nurix aims to enhance customer service through advanced conversational agents that integrate deeply with business workflows."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "voice AI",
+      "conversational agents",
+      "natural language processing"
+    ],
+    "industries": [
+      "enterprise software",
+      "e-commerce",
+      "financial services"
+    ],
+    "policy_areas": [],
+    "geographic_focus": [
+      "United States",
+      "India"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Nurix is focused on creating a world-class voice AI solution that minimizes latency to provide a human-like conversational experience.",
+      "speaker": "Peeyush Ranjan",
+      "context": "Peeyush emphasizes the importance of low latency in voice interactions, especially in enterprise settings where customer expectations are high."
+    },
+    {
+      "claim": "The market for voice AI is not yet saturated, and there is significant room for growth as many businesses still rely on traditional call centers.",
+      "speaker": "Peeyush Ranjan",
+      "context": "Peeyush discusses the current state of the market and the potential for AI solutions to replace outdated systems."
+    },
+    {
+      "claim": "Nurix's proprietary dialogue manager is designed to handle complex conversations and interruptions, enhancing the user experience.",
+      "speaker": "Peeyush Ranjan",
+      "context": "He explains how the dialogue manager improves the interaction quality by understanding user behavior and context."
+    },
+    {
+      "claim": "The integration of AI in customer service can lead to reduced errors and increased efficiency, benefiting businesses financially.",
+      "speaker": "Peeyush Ranjan",
+      "context": "Peeyush highlights the advantages of AI in customer service, including cost savings and improved analytics."
+    },
+    {
+      "claim": "Nurix is capable of supporting multiple languages, making it suitable for diverse markets like the US and India.",
+      "speaker": "Peeyush Ranjan",
+      "context": "He mentions the multilingual capabilities of Nurix to cater to various customer bases."
+    },
+    {
+      "claim": "The future of customer service will involve seamless AI interactions that eliminate traditional hold music and repetitive information requests.",
+      "speaker": "Peeyush Ranjan",
+      "context": "Peeyush envisions a future where AI enhances customer service experiences significantly."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Nurix",
+      "Google",
+      "OpenAI",
+      "Azure",
+      "Gemini",
+      "DeepL",
+      "Speechmatics",
+      "11 Labs"
+    ],
+    "technologies": [
+      "Transformers",
+      "ChatGPT",
+      "RAG (retrieval-augmented generation)"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Nurix",
+      "summary": "Peeyush Ranjan introduces Nurix and its focus on voice AI solutions for enterprises.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Challenges in Voice AI",
+      "summary": "Discussion on the complexities of creating human-like voice interactions and the importance of low latency.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Market Landscape",
+      "summary": "Peeyush analyzes the current market for voice AI and the potential for growth amidst competition.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Technological Innovations",
+      "summary": "Exploration of Nurix's proprietary technologies and how they enhance user experience.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of Customer Service",
+      "summary": "Peeyush shares his vision for the future of AI in customer service and the elimination of traditional barriers.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Nurix",
+      "Google"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Peeyush emphasizes the importance of low latency in voice interactions.",
+      "Discussion on the potential for AI to transform customer service experiences."
+    ]
+  },
+  "_meta": {
+    "episode_number": 292,
+    "episode_date": "2025-10-09",
+    "rss_title": "#292 Peeyush Ranjan: How Nurix Is Redefining Voice AI for the Enterprise",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:28:17Z",
+    "input_tokens": 10904,
+    "output_tokens": 1025
+  }
+}

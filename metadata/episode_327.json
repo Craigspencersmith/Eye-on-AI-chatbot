@@ -1,0 +1,129 @@
+{
+  "episode_profile": {
+    "title": "Baris Gultekin: The Next Phase of AI - Agents That Understand Your Company's Data",
+    "guest_name": "Baris Gultekin",
+    "guest_title": "Head of Product for AI",
+    "guest_organization": "Snowflake",
+    "topic_summary": "Baris Gultekin discusses the evolution of AI at Snowflake, focusing on the integration of AI with data governance and security. He highlights the development of data agents that allow users to interact with their data in natural language, emphasizing the importance of high-quality data retrieval and the transformative potential of AI in enterprise settings."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "natural language processing",
+      "machine learning",
+      "data governance"
+    ],
+    "industries": [
+      "technology",
+      "data analytics",
+      "cloud computing"
+    ],
+    "policy_areas": [
+      "data privacy",
+      "security",
+      "governance"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "AI solutions are as good as the data they have access to, and high-quality data retrieval is crucial for effective AI agents.",
+      "speaker": "Baris Gultekin",
+      "context": "Baris emphasizes the importance of structured data and the challenges in retrieving high-quality answers from complex datasets."
+    },
+    {
+      "claim": "Bringing AI to the data rather than moving data to AI enhances security and governance for enterprise customers.",
+      "speaker": "Baris Gultekin",
+      "context": "He explains how Snowflake's approach respects data governance and security requirements by processing data within its own environment."
+    },
+    {
+      "claim": "The pace of innovation and productivity in organizations is increasing due to the adoption of AI agents.",
+      "speaker": "Baris Gultekin",
+      "context": "Baris shares examples of how organizations are saving time and automating processes through AI, leading to significant productivity gains."
+    },
+    {
+      "claim": "Trust in AI systems is essential, and organizations must implement governance and evaluation mechanisms to ensure reliability.",
+      "speaker": "Baris Gultekin",
+      "context": "He discusses the importance of building trust through governance and the need for human oversight in critical decision-making."
+    },
+    {
+      "claim": "The future of AI in enterprises will involve more seamless integration of agents across different business functions.",
+      "speaker": "Baris Gultekin",
+      "context": "Baris envisions a future where AI agents operate collaboratively across departments, enhancing overall organizational capabilities."
+    },
+    {
+      "claim": "AI is transforming the role of product managers and other professionals by enabling more natural interactions with data.",
+      "speaker": "Baris Gultekin",
+      "context": "He notes that the traditional barriers between business expertise and data solutions are diminishing, allowing for more direct engagement with AI."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Craig S. Smith"
+    ],
+    "organizations": [
+      "Snowflake",
+      "Google",
+      "OpenAI",
+      "Anthropic",
+      "Meta",
+      "Modulate"
+    ],
+    "technologies": [
+      "Snowflake Intelligence",
+      "Velma"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Snowflake AI",
+      "summary": "Baris Gultekin introduces himself and discusses the evolution of AI at Snowflake over the past few years.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "AI and Data Governance",
+      "summary": "The conversation delves into the importance of data governance and how Snowflake integrates AI within its security framework.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Building Data Agents",
+      "summary": "Baris explains the concept of data agents and how they allow users to interact with their data using natural language.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Trust and Reliability in AI",
+      "summary": "The discussion covers the importance of trust in AI systems and the mechanisms needed to ensure reliability and accountability.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI in Enterprises",
+      "summary": "Baris shares his vision for the future of AI in organizations, emphasizing the increasing integration of AI agents across business functions.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Snowflake"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "collegial",
+    "notable_moments": [
+      "Baris emphasizes the transformative nature of AI and the importance of governance in its implementation.",
+      "He shares insights on how AI is changing the pace of business and decision-making processes."
+    ]
+  },
+  "_meta": {
+    "episode_number": 327,
+    "episode_date": "2026-03-19",
+    "rss_title": "#327 Baris Gultekin: The Next Phase of AI - Agents That Understand Your Company's Data",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:41:55Z",
+    "input_tokens": 8687,
+    "output_tokens": 1057
+  }
+}

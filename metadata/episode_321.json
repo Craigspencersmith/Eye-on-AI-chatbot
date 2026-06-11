@@ -1,0 +1,137 @@
+{
+  "episode_profile": {
+    "title": "Nick Frosst: Why Cohere Is Betting on Enterprise AI, Not AGI",
+    "guest_name": "Nick Frosst",
+    "guest_title": "Co-founder",
+    "guest_organization": "Cohere",
+    "topic_summary": "Nick Frosst discusses Cohere's focus on enterprise AI solutions rather than pursuing artificial general intelligence (AGI). He explains the company's approach to making large language models efficient and useful for businesses, emphasizing the importance of tailored applications and capital efficiency."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "NLP",
+      "transformers",
+      "machine learning"
+    ],
+    "industries": [
+      "finance",
+      "healthcare"
+    ],
+    "policy_areas": [
+      "regulation",
+      "ethics"
+    ],
+    "geographic_focus": [
+      "Canada",
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Cohere is focused on making AI useful for enterprises rather than pursuing AGI.",
+      "speaker": "Nick Frosst",
+      "context": "Frosst emphasizes the practical applications of AI in business settings, contrasting it with the speculative nature of AGI."
+    },
+    {
+      "claim": "The transformer architecture remains the foundation for current AI models, despite ongoing research into new architectures.",
+      "speaker": "Nick Frosst",
+      "context": "Frosst discusses the stability and scalability of transformers, which continue to dominate the AI landscape."
+    },
+    {
+      "claim": "Cohere's models are designed to be capital efficient, allowing enterprises to deploy AI without excessive costs.",
+      "speaker": "Nick Frosst",
+      "context": "Frosst explains how Cohere prioritizes efficiency in model design to meet the needs of businesses."
+    },
+    {
+      "claim": "The majority of AI applications are still in demo stages and not in production, highlighting the need for practical solutions.",
+      "speaker": "Nick Frosst",
+      "context": "Frosst references an MIT report to illustrate the gap between AI potential and actual deployment in enterprises."
+    },
+    {
+      "claim": "Cohere's focus is on creating models that are tailored to specific enterprise needs rather than general consumer applications.",
+      "speaker": "Nick Frosst",
+      "context": "Frosst discusses the company's strategy to address real-world business problems rather than competing in the consumer AI space."
+    },
+    {
+      "claim": "AI technology will become a standard part of work life, similar to how word processing has integrated into daily tasks.",
+      "speaker": "Nick Frosst",
+      "context": "Frosst predicts that AI will become ubiquitous in enterprise settings, blending into the technological fabric of work."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Geoff Hinton",
+      "Max Tegmark"
+    ],
+    "organizations": [
+      "Cohere",
+      "Royal Bank of Canada",
+      "Oracle",
+      "Bell"
+    ],
+    "technologies": [
+      "transformers",
+      "large language models"
+    ],
+    "publications": [
+      "MIT report on AI applications"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Cohere",
+      "summary": "Nick Frosst introduces himself and shares his background, including his work with Geoff Hinton at Google Brain.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Focus on Enterprise AI",
+      "summary": "Frosst discusses Cohere's commitment to enterprise AI solutions and the importance of capital efficiency.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Transformers and Model Efficiency",
+      "summary": "The conversation covers the significance of transformer architecture and how Cohere optimizes models for business use.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in AI Deployment",
+      "summary": "Frosst highlights the gap between AI potential and actual deployment in enterprises, referencing industry reports.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI in Work",
+      "summary": "Frosst shares his vision for the integration of AI into everyday work life and the evolution of enterprise applications.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "MIT report on AI applications",
+      "authors": "",
+      "context": "Frosst references this report to illustrate the current state of AI deployment in enterprises."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Cohere"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Frosst's analogy comparing AI to planes and birds to illustrate the differences between artificial and human intelligence.",
+      "Discussion on the ambiguity surrounding AGI and the practical focus of Cohere."
+    ]
+  },
+  "_meta": {
+    "episode_number": 321,
+    "episode_date": "2026-02-17",
+    "rss_title": "#321 Nick Frosst: Why Cohere Is Betting on Enterprise AI, Not AGI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:39:10Z",
+    "input_tokens": 14069,
+    "output_tokens": 1077
+  }
+}

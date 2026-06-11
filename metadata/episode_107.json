@@ -1,0 +1,117 @@
+{
+  "episode_profile": {
+    "title": "Michael Kearns on Privacy",
+    "guest_name": "Michael Kearns",
+    "guest_title": "Professor of Computer and Information Science",
+    "guest_organization": "University of Pennsylvania",
+    "topic_summary": "Michael Kearns discusses the intersection of artificial intelligence and privacy, exploring the implications of AI technologies on personal data protection. He emphasizes the need for robust privacy frameworks as AI systems become more pervasive."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "privacy",
+      "machine learning",
+      "data ethics"
+    ],
+    "industries": [
+      "technology",
+      "academia"
+    ],
+    "policy_areas": [
+      "regulation",
+      "ethics",
+      "data protection"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI technologies pose significant risks to individual privacy if not properly regulated.",
+      "speaker": "Michael Kearns",
+      "context": "Kearns argues that as AI systems become more integrated into daily life, the potential for misuse of personal data increases."
+    },
+    {
+      "claim": "Existing privacy laws are inadequate to address the challenges posed by modern AI.",
+      "speaker": "Michael Kearns",
+      "context": "He highlights the gaps in current legislation that fail to keep pace with technological advancements."
+    },
+    {
+      "claim": "There is a pressing need for interdisciplinary collaboration to develop effective privacy solutions.",
+      "speaker": "Michael Kearns",
+      "context": "Kearns advocates for cooperation between technologists, policymakers, and ethicists to create comprehensive privacy frameworks."
+    },
+    {
+      "claim": "Transparency in AI algorithms is crucial for ensuring accountability and trust.",
+      "speaker": "Michael Kearns",
+      "context": "He stresses that understanding how AI systems make decisions is essential for protecting user privacy."
+    },
+    {
+      "claim": "The concept of 'data ownership' needs to be redefined in the context of AI.",
+      "speaker": "Michael Kearns",
+      "context": "Kearns discusses how traditional notions of data ownership may not apply in the age of AI, necessitating new legal definitions."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "University of Pennsylvania"
+    ],
+    "technologies": [
+      "AI",
+      "machine learning"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Privacy Issues",
+      "summary": "Kearns introduces the topic of privacy in the context of AI and discusses its relevance today.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Current Privacy Regulations",
+      "summary": "The conversation shifts to existing privacy laws and their shortcomings in addressing AI challenges.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Interdisciplinary Approaches",
+      "summary": "Kearns emphasizes the importance of collaboration across fields to tackle privacy issues effectively.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Transparency and Accountability",
+      "summary": "The discussion focuses on the need for transparency in AI algorithms to build trust and accountability.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Redefining Data Ownership",
+      "summary": "Kearns concludes with thoughts on how data ownership concepts must evolve in the AI era.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "University of Pennsylvania"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Kearns' insights on the inadequacy of current privacy laws were particularly striking."
+    ]
+  },
+  "_meta": {
+    "episode_number": 107,
+    "episode_date": "2022-08-25",
+    "rss_title": "Michael Kearns on Privacy",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:28:51Z",
+    "input_tokens": 18536,
+    "output_tokens": 843
+  }
+}

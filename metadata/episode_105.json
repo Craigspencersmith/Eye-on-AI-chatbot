@@ -1,0 +1,130 @@
+{
+  "episode_profile": {
+    "title": "Exploring Differential Privacy and AI at Amazon",
+    "guest_name": "Michael Kearns",
+    "guest_title": "Professor and National Center Chair",
+    "guest_organization": "University of Pennsylvania, Amazon Scholar",
+    "topic_summary": "Michael Kearns discusses his work on differential privacy and responsible AI at Amazon, contrasting it with traditional academic research. He emphasizes the importance of fairness in machine learning and the evolving landscape of AI applications."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "differential privacy",
+      "machine learning",
+      "responsible AI"
+    ],
+    "industries": [
+      "technology",
+      "finance"
+    ],
+    "policy_areas": [
+      "privacy",
+      "fairness",
+      "ethics"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Differential privacy provides strong formal guarantees for data privacy, which traditional anonymization techniques lack.",
+      "speaker": "Michael Kearns",
+      "context": "Kearns explains the evolution of privacy techniques and the advantages of differential privacy."
+    },
+    {
+      "claim": "AI will increasingly permeate all aspects of our lives, driven by new data sources and applications.",
+      "speaker": "Michael Kearns",
+      "context": "Kearns discusses the potential of AI in various sectors, including industrial monitoring."
+    },
+    {
+      "claim": "Amazon's research approach is more product-focused and integrated with product teams compared to its peers.",
+      "speaker": "Michael Kearns",
+      "context": "Kearns contrasts Amazon's structure with traditional research environments, highlighting its practical applications."
+    },
+    {
+      "claim": "Machine learning models can inadvertently perpetuate biases if not explicitly designed to account for fairness.",
+      "speaker": "Michael Kearns",
+      "context": "Kearns emphasizes the need for careful consideration of fairness in model training and data collection."
+    },
+    {
+      "claim": "The advent of quantum computing could fundamentally alter privacy paradigms and compromise current encryption methods.",
+      "speaker": "Michael Kearns",
+      "context": "Kearns reflects on the implications of quantum computing for data security and privacy."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Rohit Prasad"
+    ],
+    "organizations": [
+      "Amazon",
+      "University of Pennsylvania",
+      "Bell Laboratories"
+    ],
+    "technologies": [
+      "differential privacy",
+      "deep learning",
+      "machine learning"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Michael Kearns",
+      "summary": "Michael Kearns shares his background and current roles at the University of Pennsylvania and Amazon.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Differential Privacy Explained",
+      "summary": "Kearns discusses the concept of differential privacy and its significance in data protection.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Amazon's Research Approach",
+      "summary": "Kearns contrasts Amazon's product-focused research model with traditional academic research environments.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI's Future in Society",
+      "summary": "Kearns speculates on the future applications of AI and the importance of responsible AI practices.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Challenges of AI and Privacy",
+      "summary": "The discussion covers the challenges posed by AI, including biases and the impact of quantum computing.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "2020 US Census Differential Privacy Implementation",
+      "authors": "",
+      "context": "Kearns mentions the Census Bureau's use of differential privacy for data release."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "University of Pennsylvania",
+      "Amazon"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Kearns highlights the fragility of traditional anonymization techniques.",
+      "The discussion on the implications of quantum computing for privacy was particularly striking."
+    ]
+  },
+  "_meta": {
+    "episode_number": 105,
+    "episode_date": "2022-07-28",
+    "rss_title": "VITAL & MINT",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:28:14Z",
+    "input_tokens": 7137,
+    "output_tokens": 941
+  }
+}

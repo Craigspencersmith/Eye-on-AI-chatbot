@@ -1,0 +1,149 @@
+{
+  "episode_profile": {
+    "title": "AI Research Funding and National Security",
+    "guest_name": "Andrew Moore",
+    "guest_title": "Commissioner",
+    "guest_organization": "National Security Commission on AI",
+    "topic_summary": "Andrew Moore discusses the National Security Commission on AI's recommendations to Congress, emphasizing the need to double non-defense AI R&D funding and establish a National AI Research Resource. He highlights the importance of integrating AI into national security and the role of academic institutions in driving technological innovation."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "computer vision",
+      "natural language processing",
+      "game theory"
+    ],
+    "industries": [
+      "defense",
+      "healthcare",
+      "technology"
+    ],
+    "policy_areas": [
+      "funding",
+      "national security",
+      "research and development"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Doubling non-defense AI R&D funding to $2 billion is essential for maintaining technological leadership.",
+      "speaker": "Andrew Moore",
+      "context": "This claim is made in the context of the commission's recommendations to Congress for enhancing AI capabilities."
+    },
+    {
+      "claim": "The integration of AI into non-defense research is crucial for national security.",
+      "speaker": "Andrew Moore",
+      "context": "Moore argues that the best technological advancements often emerge from academic institutions and public research."
+    },
+    {
+      "claim": "AI can significantly improve responses to public health emergencies and climate change.",
+      "speaker": "Andrew Moore",
+      "context": "He discusses the potential of AI in addressing challenges like pandemics and natural disasters."
+    },
+    {
+      "claim": "A National AI Research Resource would democratize access to AI tools and datasets.",
+      "speaker": "Andrew Moore",
+      "context": "This resource aims to provide researchers with the necessary data to innovate without the constraints of limited access."
+    },
+    {
+      "claim": "The U.S. must strengthen its domestic talent pipeline in AI to reduce reliance on foreign expertise.",
+      "speaker": "Andrew Moore",
+      "context": "Moore emphasizes the need for more U.S. citizens trained in AI to tackle national security challenges."
+    },
+    {
+      "claim": "The pace of AI advancements is accelerating, necessitating urgent investment in research.",
+      "speaker": "Andrew Moore",
+      "context": "He highlights the rapid improvements in AI capabilities and the need for the U.S. to keep pace."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Eric Schmidt",
+      "Bob Work",
+      "Eric Horvitz",
+      "Steve Chien",
+      "John Nash"
+    ],
+    "organizations": [
+      "Google",
+      "Carnegie Mellon University",
+      "National Science Foundation",
+      "Department of Energy",
+      "National Institutes of Health",
+      "NASA",
+      "National Institute of Standards and Technology"
+    ],
+    "technologies": [
+      "machine learning",
+      "autonomous vehicles",
+      "AI models"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to the Commission",
+      "summary": "Craig introduces the National Security Commission on AI and its purpose.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Andrew's Background and Role",
+      "summary": "Andrew discusses his background and current role at Google and the commission.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Recommendations Overview",
+      "summary": "Andrew outlines the commission's recommendations for AI funding and research.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Importance of Non-Defense Research",
+      "summary": "The discussion focuses on the significance of non-defense AI research for national security.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI in Public Health and Climate Change",
+      "summary": "Andrew explains how AI can address public health emergencies and climate change.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI Research Funding",
+      "summary": "The conversation concludes with thoughts on the future of AI research funding and its implications.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "A Beautiful Mind",
+      "authors": "Sylvia Nasar",
+      "context": "Andrew references Nash's work in game theory as foundational for understanding AI interactions."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Google",
+      "Carnegie Mellon University"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Andrew emphasizes the urgency of AI funding to maintain technological leadership."
+    ]
+  },
+  "_meta": {
+    "episode_number": 37,
+    "episode_date": "2020-05-06",
+    "rss_title": "Episode 37 - Andrew Moore",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:06:38Z",
+    "input_tokens": 7960,
+    "output_tokens": 1044
+  }
+}

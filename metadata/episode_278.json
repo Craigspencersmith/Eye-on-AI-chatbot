@@ -1,0 +1,138 @@
+{
+  "episode_profile": {
+    "title": "Julia Peyre: How Schneider Electric is Pioneering Enterprise AI at Scale",
+    "guest_name": "Julia Peyre",
+    "guest_title": "Lead of AI Strategy Innovation Team",
+    "guest_organization": "Schneider Electric",
+    "topic_summary": "Julia Peyre discusses Schneider Electric's approach to integrating AI into their operations and products, focusing on energy management and industrial automation. She highlights the company's AI Hub, the applications of AI for internal efficiency, and the development of innovative solutions for clients."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "machine learning",
+      "predictive analytics"
+    ],
+    "industries": [
+      "energy management",
+      "industrial automation"
+    ],
+    "policy_areas": [
+      "sustainability",
+      "data governance"
+    ],
+    "geographic_focus": [
+      "France",
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Schneider Electric's AI Hub has enabled the company to adopt AI solutions rapidly across various business units.",
+      "speaker": "Julia Peyre",
+      "context": "Julia explains the organizational structure and support provided by the AI Hub to facilitate AI adoption."
+    },
+    {
+      "claim": "The integration of hybrid AI, which combines data-driven approaches with physical laws, is crucial for optimizing operations.",
+      "speaker": "Julia Peyre",
+      "context": "Julia discusses the importance of embedding physical laws into AI systems for better decision-making."
+    },
+    {
+      "claim": "Breaking down data silos is essential for maximizing internal process efficiency and enhancing knowledge management.",
+      "speaker": "Julia Peyre",
+      "context": "Julia emphasizes the need for effective data integration to improve operational efficiency."
+    },
+    {
+      "claim": "AI will augment the workforce by automating standardized tasks, allowing employees to focus on more complex issues.",
+      "speaker": "Julia Peyre",
+      "context": "Julia reflects on the future role of AI in the workplace and its impact on job functions."
+    },
+    {
+      "claim": "Schneider Electric is exploring the use of digital twins to simulate environments for better decision-making.",
+      "speaker": "Julia Peyre",
+      "context": "Julia describes the potential of digital twins in enhancing operational efficiency and predictive maintenance."
+    },
+    {
+      "claim": "The company evaluates AI solutions rigorously to ensure they meet business needs and user requirements.",
+      "speaker": "Julia Peyre",
+      "context": "Julia outlines the methodology used for assessing AI solutions before implementation."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Terry Sanowski"
+    ],
+    "organizations": [
+      "Schneider Electric",
+      "INRIA",
+      "Microsoft",
+      "AWS",
+      "Databricks",
+      "NVIDIA"
+    ],
+    "technologies": [
+      "EcoStruxure",
+      "generative AI",
+      "digital twin",
+      "Omniverse toolkit"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Schneider Electric",
+      "summary": "Julia Peyre introduces Schneider Electric and its focus on energy management and industrial automation.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "AI Hub and Internal Applications",
+      "summary": "Discussion on the AI Hub's role in driving internal efficiency and the applications of AI within Schneider Electric.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "External AI Solutions for Clients",
+      "summary": "Julia explains the AI solutions offered to clients, including the EcoStruxure Microgrid Advisor.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of AI at Schneider Electric",
+      "summary": "Exploration of upcoming AI initiatives, including hybrid AI and digital twins.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Evaluating AI Solutions",
+      "summary": "Julia outlines the methodology for evaluating AI solutions and ensuring they meet business needs.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Learning how to Learn",
+      "authors": "Terry Sanowski",
+      "context": "Julia mentions this course as a resource for developing scientific methodology skills."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Schneider Electric"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Julia emphasizes the importance of making POCs conclusive rather than just successful.",
+      "Discussion on the potential of digital twins to enhance operational efficiency."
+    ]
+  },
+  "_meta": {
+    "episode_number": 278,
+    "episode_date": "2025-08-10",
+    "rss_title": "#278 Julia Peyre: How Schneider Electric is Pioneering Enterprise AI at Scale",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:23:34Z",
+    "input_tokens": 8955,
+    "output_tokens": 1016
+  }
+}

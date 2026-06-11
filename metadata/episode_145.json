@@ -1,0 +1,112 @@
+{
+  "episode_profile": {
+    "title": "Riley McComrack: Digimarc's CEO on Digital Watermarking in the Age of AI",
+    "guest_name": "Riley McComrack",
+    "guest_title": "CEO",
+    "guest_organization": "Digimarc",
+    "topic_summary": "In this episode, Riley McComrack discusses the role of digital watermarking in the context of AI advancements. He explains how Digimarc's technology can help protect digital content and enhance security in various industries."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "computer vision",
+      "data security",
+      "digital watermarking"
+    ],
+    "industries": [
+      "media",
+      "entertainment",
+      "advertising"
+    ],
+    "policy_areas": [
+      "intellectual property",
+      "data privacy"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Digital watermarking is essential for protecting content in an AI-driven world.",
+      "speaker": "Riley McComrack",
+      "context": "As AI technologies evolve, the need for robust content protection mechanisms becomes increasingly critical."
+    },
+    {
+      "claim": "Digimarc's watermarking technology can seamlessly integrate into existing workflows.",
+      "speaker": "Riley McComrack",
+      "context": "This integration allows companies to enhance their security measures without significant disruptions."
+    },
+    {
+      "claim": "The future of digital content relies on innovative solutions like watermarking to combat piracy.",
+      "speaker": "Riley McComrack",
+      "context": "With the rise of AI-generated content, traditional methods of content protection are becoming less effective."
+    },
+    {
+      "claim": "Watermarking can provide a unique identifier for digital assets, improving traceability.",
+      "speaker": "Riley McComrack",
+      "context": "This feature is particularly valuable for brands looking to maintain control over their intellectual property."
+    },
+    {
+      "claim": "AI can enhance the effectiveness of watermarking by making it more adaptive and resilient.",
+      "speaker": "Riley McComrack",
+      "context": "Using AI, watermarking can evolve to counteract new threats as they emerge."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Digimarc"
+    ],
+    "technologies": [
+      "digital watermarking"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Digital Watermarking",
+      "summary": "Riley McComrack introduces the concept of digital watermarking and its relevance in today's digital landscape.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Role of AI in Watermarking",
+      "summary": "Discussion on how AI technologies can enhance watermarking techniques and their applications.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in Content Protection",
+      "summary": "Exploration of the challenges faced by content creators in protecting their digital assets.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of Digital Content Security",
+      "summary": "Predictions about the future landscape of digital content protection and the role of watermarking.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Digimarc"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Riley emphasizes the critical need for digital watermarking in an AI-driven world.",
+      "The conversation highlights the adaptability of watermarking technology in combating piracy."
+    ]
+  },
+  "_meta": {
+    "episode_number": 145,
+    "episode_date": "2023-10-15",
+    "rss_title": "#145 Riley McComrack: Digimarc's CEO on Digital Watermarking in the Age of AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:38:46Z",
+    "input_tokens": 44108,
+    "output_tokens": 825
+  }
+}

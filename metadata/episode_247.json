@@ -1,0 +1,139 @@
+{
+  "episode_profile": {
+    "title": "Barr Moses: Why Reliable Data is Key to Building Good AI Systems",
+    "guest_name": "Barr Moses",
+    "guest_title": "Co-founder and CEO",
+    "guest_organization": "Monte Carlo",
+    "topic_summary": "Barr Moses discusses the critical importance of data reliability in AI systems, emphasizing the need for effective data observability. He explains how Monte Carlo helps organizations manage their data estates to ensure high-quality, trusted data for AI applications."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "data observability",
+      "machine learning"
+    ],
+    "industries": [
+      "technology",
+      "financial services",
+      "insurance",
+      "media",
+      "retail",
+      "gaming"
+    ],
+    "policy_areas": [
+      "data quality",
+      "AI ethics"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "The reliability of data is crucial for the success of AI applications, as poor data can lead to significant operational failures.",
+      "speaker": "Barr Moses",
+      "context": "Moses highlights the consequences of relying on inaccurate data, citing examples from various industries."
+    },
+    {
+      "claim": "Organizations are under pressure to build AI applications, but many do not trust their data to be AI-ready.",
+      "speaker": "Barr Moses",
+      "context": "Moses discusses a survey indicating that while data leaders feel the need to adopt AI, they lack confidence in their data quality."
+    },
+    {
+      "claim": "Data observability is the next evolution of data quality, moving from detection of issues to resolution and triage.",
+      "speaker": "Barr Moses",
+      "context": "Moses explains how Monte Carlo's approach to data observability helps organizations not only identify data issues but also resolve them effectively."
+    },
+    {
+      "claim": "The moat for companies using AI is the quality of the data that powers their models, not just the models themselves.",
+      "speaker": "Barr Moses",
+      "context": "Moses argues that having access to advanced AI models is not enough; the underlying data must be reliable to ensure effective outcomes."
+    },
+    {
+      "claim": "Manual monitoring of data is no longer sufficient in today's data-driven world; automation is essential.",
+      "speaker": "Barr Moses",
+      "context": "Moses reflects on how organizations previously relied on manual checks and how this is inadequate given the current data landscape."
+    },
+    {
+      "claim": "Data observability can help organizations understand the root causes of data issues, which is critical for maintaining trust in AI outputs.",
+      "speaker": "Barr Moses",
+      "context": "Moses emphasizes the importance of linking data quality issues back to their sources to prevent future problems."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Craig Smith"
+    ],
+    "organizations": [
+      "Monte Carlo",
+      "OpenAI",
+      "Meta",
+      "Anthropic",
+      "DeepSeek",
+      "Intuit",
+      "UnitedHealthcare"
+    ],
+    "technologies": [
+      "LLMs",
+      "RAG pipelines"
+    ],
+    "publications": [
+      "CFO's Guide to AI and Machine Learning"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Data Observability",
+      "summary": "Barr Moses introduces the concept of data observability and its importance in managing complex data estates.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Challenges with Data Quality",
+      "summary": "The discussion covers the challenges organizations face in ensuring data quality and the implications of poor data.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Monte Carlo's Approach",
+      "summary": "Moses explains how Monte Carlo's platform helps organizations monitor and resolve data issues effectively.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "The Future of Data and AI",
+      "summary": "Moses shares insights on the future of data management and the evolving role of AI in organizations.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Conclusion and Call to Action",
+      "summary": "The episode wraps up with Moses encouraging listeners to explore Monte Carlo and the importance of reliable data.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "CFO's Guide to AI and Machine Learning",
+      "authors": "",
+      "context": "Moses mentions this guide as a resource for organizations looking to understand AI better."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Monte Carlo"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Moses emphasizes the critical need for data reliability in AI applications.",
+      "The discussion on the evolution of data quality to data observability highlights the changing landscape of data management."
+    ]
+  },
+  "_meta": {
+    "episode_number": 247,
+    "episode_date": "2025-04-13",
+    "rss_title": "#247 Barr Moses: Why Reliable Data is Key to Building Good AI Systems",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:12:48Z",
+    "input_tokens": 11860,
+    "output_tokens": 1074
+  }
+}

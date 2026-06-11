@@ -1,0 +1,134 @@
+{
+  "episode_profile": {
+    "title": "Mitesh Agrawal: Why Lambda Labs' AI Cloud Is a Game-Changer for Developers",
+    "guest_name": "Mitesh Agrawal",
+    "guest_title": "CEO",
+    "guest_organization": "Lambda Labs",
+    "topic_summary": "Mitesh Agrawal discusses the evolution of Lambda Labs from a style transfer app to a leading provider of AI cloud infrastructure. He emphasizes the importance of deep learning applications and the company's commitment to making compute accessible for developers and enterprises."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "deep learning",
+      "cloud computing",
+      "inference",
+      "training"
+    ],
+    "industries": [
+      "technology",
+      "software development",
+      "artificial intelligence"
+    ],
+    "policy_areas": [
+      "regulation",
+      "ethics"
+    ],
+    "geographic_focus": [
+      "United States",
+      "China",
+      "Europe",
+      "Asia"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Lambda Labs aims to provide accessible compute resources for deep learning applications, focusing on transparency in pricing.",
+      "speaker": "Mitesh Agrawal",
+      "context": "Mitesh explains the company's philosophy and approach to pricing compared to hyperscalers."
+    },
+    {
+      "claim": "The demand for inference is overtaking training in terms of GPU usage as applications become more prevalent.",
+      "speaker": "Mitesh Agrawal",
+      "context": "Mitesh discusses the shift in spending patterns among users of Lambda's services."
+    },
+    {
+      "claim": "China's AI development is not significantly hindered by GPU access restrictions, as evidenced by recent advancements from Chinese companies.",
+      "speaker": "Mitesh Agrawal",
+      "context": "Mitesh shares his perspective on the impact of sanctions on China's AI capabilities."
+    },
+    {
+      "claim": "Lambda Labs is focused on building a robust infrastructure for deep learning, rather than owning data centers.",
+      "speaker": "Mitesh Agrawal",
+      "context": "Mitesh explains the company's strategy regarding data center partnerships."
+    },
+    {
+      "claim": "The growth trajectory for Lambda Labs is strong, with expectations for significant increases in GPU deployment and revenue.",
+      "speaker": "Mitesh Agrawal",
+      "context": "Mitesh outlines the company's plans for scaling operations and infrastructure."
+    },
+    {
+      "claim": "The future of AI will see a rise in local data centers to meet the latency demands of increasingly complex applications.",
+      "speaker": "Mitesh Agrawal",
+      "context": "Mitesh discusses the potential evolution of AI infrastructure in response to application needs."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Andrew Feldman",
+      "Rodrigo Liang"
+    ],
+    "organizations": [
+      "Lambda Labs",
+      "Nvidia",
+      "Tencent",
+      "Alibaba"
+    ],
+    "technologies": [
+      "GPUs",
+      "transformers",
+      "deep learning models"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Lambda Labs",
+      "summary": "Mitesh Agrawal shares the origins of Lambda Labs and its transition from a style transfer app to an AI cloud provider.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Lambda's AI Cloud Services",
+      "summary": "Discussion on the features and advantages of Lambda's AI cloud services for developers and enterprises.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Market Dynamics and Competition",
+      "summary": "Mitesh analyzes the competitive landscape of AI cloud services and Lambda's positioning against hyperscalers.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Global AI Landscape",
+      "summary": "Exploration of the global AI market, including challenges faced by companies in China and other regions.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI Infrastructure",
+      "summary": "Mitesh discusses the future trends in AI infrastructure, including local data centers and evolving application needs.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Lambda Labs"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "optimistic",
+    "notable_moments": [
+      "Mitesh emphasizes the importance of staying optimistic about AI technology.",
+      "Discussion on the rapid advancements in AI and the potential for local data centers."
+    ]
+  },
+  "_meta": {
+    "episode_number": 229,
+    "episode_date": "2025-01-08",
+    "rss_title": "#229 Mitesh Agrawal: Why Lambda Labs' AI Cloud Is a Game-Changer for Developers",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:07:09Z",
+    "input_tokens": 13664,
+    "output_tokens": 1009
+  }
+}

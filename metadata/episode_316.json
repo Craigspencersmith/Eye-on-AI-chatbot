@@ -1,0 +1,145 @@
+{
+  "episode_profile": {
+    "title": "Robbie Goldfarb: Why the Future of AI Depends on Better Judgment",
+    "guest_name": "Robbie Goldfarb",
+    "guest_title": "Co-founder",
+    "guest_organization": "Forum AI",
+    "topic_summary": "Robbie Goldfarb discusses the importance of expert judgment in AI development, particularly in sensitive areas like healthcare and politics. He emphasizes the need for transparency and trust in AI systems to avoid misinformation and ensure responsible outcomes."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "trust and safety",
+      "NLP",
+      "machine learning"
+    ],
+    "industries": [
+      "healthcare",
+      "politics",
+      "education technology"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance",
+      "regulation"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI systems must involve credible experts to improve their development and ensure responsible outcomes.",
+      "speaker": "Robbie Goldfarb",
+      "context": "Robbie argues that as AI becomes more sophisticated, the expertise required to guide its development must also increase."
+    },
+    {
+      "claim": "The expectation that AI can provide authoritative answers is dangerous and needs to be recalibrated.",
+      "speaker": "Robbie Goldfarb",
+      "context": "He highlights the risks of users relying on AI for critical information without understanding its limitations."
+    },
+    {
+      "claim": "Mental health applications of AI require clinical nuance to avoid harmful outcomes.",
+      "speaker": "Robbie Goldfarb",
+      "context": "Robbie references past failures in AI mental health tools to stress the importance of careful evaluation."
+    },
+    {
+      "claim": "AI should present multiple perspectives on contentious issues rather than a single 'truth'.",
+      "speaker": "Robbie Goldfarb",
+      "context": "He believes that AI's role should be to inform users rather than dictate opinions."
+    },
+    {
+      "claim": "Trust in AI is hindered by its tendency to hallucinate or provide incorrect information.",
+      "speaker": "Robbie Goldfarb",
+      "context": "Robbie discusses how verifiable scenarios are crucial for building trust in AI systems."
+    },
+    {
+      "claim": "The health of the information landscape is critical for societal well-being, and AI can either help or hinder this.",
+      "speaker": "Robbie Goldfarb",
+      "context": "He emphasizes the role of AI in shaping public discourse and the importance of avoiding echo chambers."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Farid Zakaria",
+      "Neil Ferguson",
+      "Dario Amadeo"
+    ],
+    "organizations": [
+      "OpenAI",
+      "Meta",
+      "Cleveland Clinic",
+      "Mount Sinai Health System"
+    ],
+    "technologies": [
+      "LLMs",
+      "AI judges"
+    ],
+    "publications": [
+      "Machines of Loving Grace"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Forum AI",
+      "summary": "Robbie Goldfarb introduces himself and explains the mission and philosophy behind Forum AI.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Role of Experts in AI",
+      "summary": "Discussion on the importance of involving credible experts in AI development to improve outcomes.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in AI and Mental Health",
+      "summary": "Robbie highlights the risks associated with AI in mental health applications and the need for clinical nuance.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Trust and Transparency in AI",
+      "summary": "Exploration of the trust issues surrounding AI and the importance of transparency in its development.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI and Expert Judgment",
+      "summary": "Robbie discusses the future implications of AI systems and the necessity of expert judgment for responsible AI.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Consumer Trust is the next battleground for AI",
+      "authors": "Forbes",
+      "context": "Robbie references this article to highlight the gap between public optimism about AI and the trust in its capabilities."
+    },
+    {
+      "reference": "Machines of Loving Grace",
+      "authors": "Dario Amadeo",
+      "context": "Robbie mentions this essay to illustrate the potential future of AI if developed responsibly."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Forum AI",
+      "Meta"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Robbie emphasizes the need for AI to present multiple perspectives on contentious issues.",
+      "He discusses the importance of expert judgment in shaping responsible AI outcomes."
+    ]
+  },
+  "_meta": {
+    "episode_number": 316,
+    "episode_date": "2026-01-23",
+    "rss_title": "#316 Robbie Goldfarb: Why the Future of AI Depends on Better Judgment",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:36:58Z",
+    "input_tokens": 12418,
+    "output_tokens": 1088
+  }
+}

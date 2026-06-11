@@ -1,0 +1,127 @@
+{
+  "episode_profile": {
+    "title": "Sebastian Risi: Why AI Should Be Grown, Not Trained",
+    "guest_name": "Sebastian Risi",
+    "guest_title": "Researcher",
+    "guest_organization": "Sakana",
+    "topic_summary": "Sebastian Risi discusses the concept of neuroevolution, which combines evolutionary algorithms with neural networks to optimize their architecture and learning rules. He emphasizes the potential of self-growing networks inspired by biological systems, aiming for continual learning and adaptability in AI."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "neuroevolution",
+      "evolutionary algorithms",
+      "machine learning",
+      "artificial life"
+    ],
+    "industries": [
+      "technology",
+      "robotics",
+      "education"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "Neuroevolution allows for the optimization of neural networks without the need for gradient descent, enabling more versatile learning methods.",
+      "speaker": "Sebastian Risi",
+      "context": "Risi explains how traditional neural networks rely on differentiability, while neuroevolution can work with non-differentiable architectures."
+    },
+    {
+      "claim": "Self-growing networks can adapt and learn continuously, mimicking biological processes, which could lead to more resilient AI systems.",
+      "speaker": "Sebastian Risi",
+      "context": "Risi discusses the potential of networks that evolve their structure and learning rules over time, allowing them to adapt to new challenges."
+    },
+    {
+      "claim": "Combining evolutionary strategies with large language models can enhance the creative capabilities of AI, allowing for novel solutions to complex problems.",
+      "speaker": "Sebastian Risi",
+      "context": "Risi highlights the synergy between generative AI and evolutionary algorithms, suggesting that this combination can lead to breakthroughs in scientific research."
+    },
+    {
+      "claim": "The challenge of continual learning in fixed networks can be addressed by evolving learning rules that allow for dynamic adaptation.",
+      "speaker": "Sebastian Risi",
+      "context": "Risi explains how evolving local learning rules can help networks maintain knowledge while adapting to new information."
+    },
+    {
+      "claim": "AI systems need to be able to run experiments and interact with their environments to truly learn and innovate.",
+      "speaker": "Sebastian Risi",
+      "context": "Risi emphasizes the importance of active experimentation in the learning process, drawing parallels to how humans learn through trial and error."
+    },
+    {
+      "claim": "The integration of evolutionary algorithms can help navigate complex solution spaces that traditional optimization methods struggle with.",
+      "speaker": "Sebastian Risi",
+      "context": "Risi discusses how evolutionary strategies can explore broader solution landscapes, avoiding local minima that gradient descent might encounter."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Craig S. Smith"
+    ],
+    "organizations": [
+      "Sakana"
+    ],
+    "technologies": [
+      "neuroevolution",
+      "evolutionary algorithms",
+      "large language models"
+    ],
+    "publications": [
+      "Neuroevolution"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Neuroevolution",
+      "summary": "Sebastian Risi introduces the concept of neuroevolution and its significance in AI.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Self-Growing Networks",
+      "summary": "Discussion on the potential of networks that can grow and adapt like biological systems.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Combining AI Techniques",
+      "summary": "Exploration of how evolutionary algorithms can enhance the capabilities of large language models.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in Continual Learning",
+      "summary": "Risi addresses the difficulties of maintaining knowledge in AI systems while adapting to new information.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future Directions in AI Research",
+      "summary": "Discussion on the implications of integrating evolutionary strategies in scientific research and AI development.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Sakana"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Risi's insights on the adaptability of self-growing networks.",
+      "The discussion on the synergy between evolutionary algorithms and large language models."
+    ]
+  },
+  "_meta": {
+    "episode_number": 330,
+    "episode_date": "2026-04-06",
+    "rss_title": "#330 Sebastian Risi: Why AI Should Be Grown, Not Trained",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:42:59Z",
+    "input_tokens": 12839,
+    "output_tokens": 1016
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "episode_profile": {
+    "title": "Climate Change and AI: Addressing Global Warming with Machine Learning",
+    "guest_name": "David Rolnick, Priya Donti",
+    "guest_title": "Postdoctoral Fellow, PhD Student",
+    "guest_organization": "University of Pennsylvania, Carnegie Mellon University",
+    "topic_summary": "This episode discusses the intersection of artificial intelligence and climate change, focusing on the formation of climatechange.ai and its mission to leverage machine learning for climate change mitigation and adaptation. David Rolnick and Priya Donti share insights on their work and the collaborative efforts within the AI community to address climate-related challenges."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "deep learning"
+    ],
+    "industries": [
+      "environment",
+      "energy",
+      "public policy"
+    ],
+    "policy_areas": [
+      "climate change",
+      "sustainability",
+      "collaboration"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Machine learning can significantly advance technologies that address climate change, but it is not a magic bullet.",
+      "speaker": "David Rolnick",
+      "context": "This claim was made in the context of discussing the role of machine learning in both climate change mitigation and adaptation."
+    },
+    {
+      "claim": "The machine learning community is eager to contribute to climate change solutions, as evidenced by the oversubscribed meetings and workshops.",
+      "speaker": "Priya Donti",
+      "context": "This was mentioned while discussing the initial interest and engagement from the AI community in addressing climate change."
+    },
+    {
+      "claim": "Collaboration between machine learning experts and domain specialists is crucial for impactful climate change solutions.",
+      "speaker": "David Rolnick",
+      "context": "This claim emphasizes the need for interdisciplinary approaches to tackle complex climate issues effectively."
+    },
+    {
+      "claim": "The paper 'Tackling Climate Change with Machine Learning' serves as a foundational document for the climatechange.ai movement.",
+      "speaker": "David Rolnick",
+      "context": "This was stated while discussing the purpose and significance of the paper in guiding future efforts."
+    },
+    {
+      "claim": "Climate change requires societal sacrifices and value judgments, making it a complex issue that extends beyond technology.",
+      "speaker": "Priya Donti",
+      "context": "This claim highlights the social and ethical dimensions of addressing climate change."
+    },
+    {
+      "claim": "Machine learning can help optimize various sectors, including electricity systems and agriculture, to reduce greenhouse gas emissions.",
+      "speaker": "Priya Donti",
+      "context": "This was mentioned while discussing specific applications of machine learning in different industries."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Lynn Kaack",
+      "Claire Monteleoni",
+      "Carla Gomes",
+      "Yoshua Bengio",
+      "John Platt"
+    ],
+    "organizations": [
+      "climatechange.ai",
+      "University of Pennsylvania",
+      "Carnegie Mellon University",
+      "Cornell University",
+      "Mila"
+    ],
+    "technologies": [
+      "machine learning",
+      "deep learning",
+      "smart grid"
+    ],
+    "publications": [
+      "Tackling Climate Change with Machine Learning",
+      "Putting the 'Smarts' in the Smart Grid"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Climate Change AI",
+      "summary": "Craig introduces the guests and the mission of climatechange.ai, highlighting the importance of machine learning in addressing climate change.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Guest Backgrounds",
+      "summary": "David Rolnick and Priya Donti share their academic backgrounds and how they became involved in climate change initiatives.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Formation of Climate Change AI",
+      "summary": "The guests discuss the origins of climatechange.ai and the collaborative efforts within the AI community to tackle climate change.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Key Applications of Machine Learning",
+      "summary": "The conversation covers various applications of machine learning in climate change mitigation and adaptation, including energy systems and materials discovery.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges and Opportunities",
+      "summary": "David and Priya discuss the challenges of implementing machine learning solutions and the need for interdisciplinary collaboration.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Call to Action",
+      "summary": "The episode concludes with a call for the machine learning community to engage in climate change efforts and the importance of taking action.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Tackling Climate Change with Machine Learning",
+      "authors": "David Rolnick, Priya Donti, et al.",
+      "context": "Referenced as a foundational document for the climatechange.ai movement and a guide for future efforts."
+    },
+    {
+      "reference": "Putting the 'Smarts' in the Smart Grid",
+      "authors": "Various researchers",
+      "context": "Cited as an influential paper that inspired Priya Donti's interest in the intersection of machine learning and climate change."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "University of Pennsylvania",
+      "Carnegie Mellon University"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "collaborative",
+    "notable_moments": [
+      "The excitement and energy at the oversubscribed workshop on AI and climate change.",
+      "David's metaphor comparing climate change to piloting a boat, emphasizing the delayed consequences of actions."
+    ]
+  },
+  "_meta": {
+    "episode_number": 24,
+    "episode_date": "2019-09-25",
+    "rss_title": "Episode 24 - Climate Change and AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:02:41Z",
+    "input_tokens": 11263,
+    "output_tokens": 1254
+  }
+}

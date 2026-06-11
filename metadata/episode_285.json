@@ -1,0 +1,141 @@
+{
+  "episode_profile": {
+    "title": "Raj Koneru: How Kore.ai is Building No Code Enterprise-Grade Agentic AI",
+    "guest_name": "Raj Koneru",
+    "guest_title": "Founder and CEO",
+    "guest_organization": "Kore.ai",
+    "topic_summary": "Raj Koneru discusses the evolution of Kore.ai's platform, emphasizing its focus on enterprise-grade, no-code solutions for building AI agents. He highlights the importance of security, scalability, and the integration of natural language processing in creating effective AI-driven customer service and employee experience solutions."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "natural language processing",
+      "agentic AI",
+      "no-code AI"
+    ],
+    "industries": [
+      "enterprise software",
+      "customer service",
+      "healthcare",
+      "finance",
+      "telecommunications"
+    ],
+    "policy_areas": [
+      "governance",
+      "security",
+      "data privacy"
+    ],
+    "geographic_focus": [
+      "United States",
+      "Europe",
+      "Asia"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Kore.ai has built a no-code platform that allows enterprises to create AI agents without writing code, focusing on security and scalability.",
+      "speaker": "Raj Koneru",
+      "context": "Koneru explains the foundational principles of Kore.ai and how they cater specifically to enterprise needs."
+    },
+    {
+      "claim": "The introduction of LLMs has transformed the capabilities of AI agents, allowing for more autonomous and complex interactions.",
+      "speaker": "Raj Koneru",
+      "context": "Koneru discusses how the emergence of large language models has influenced the development of Kore.ai's platform."
+    },
+    {
+      "claim": "Enterprises are still in the early stages of adopting agentic AI, and the transition will take time due to existing processes and change management challenges.",
+      "speaker": "Raj Koneru",
+      "context": "Koneru reflects on the slow adoption of new technologies in large organizations and the need for patience."
+    },
+    {
+      "claim": "Kore.ai differentiates itself by being cloud-agnostic and model-agnostic, allowing customers to integrate various AI models and data sources.",
+      "speaker": "Raj Koneru",
+      "context": "Koneru highlights the flexibility of Kore.ai's platform compared to competitors that may be tied to specific cloud providers."
+    },
+    {
+      "claim": "The future of AI agents will involve a governance layer to manage the complexity and interactions between multiple agents.",
+      "speaker": "Raj Koneru",
+      "context": "Koneru discusses the need for oversight as enterprises deploy more AI agents and the potential for a 'headless CEO' model."
+    },
+    {
+      "claim": "Kore.ai has established itself as a leader in the AI for Service space, with significant deployments in customer service and employee experience.",
+      "speaker": "Raj Koneru",
+      "context": "Koneru outlines the company's achievements and market position in the AI landscape."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Steve Lucas"
+    ],
+    "organizations": [
+      "Kore.ai",
+      "Gartner",
+      "Forrester",
+      "Capgemini",
+      "Deloitte",
+      "TCS",
+      "ServiceNow",
+      "BMC",
+      "Workday",
+      "SuccessFactors",
+      "Oracle"
+    ],
+    "technologies": [
+      "LLMs",
+      "MCP",
+      "agentic AI",
+      "no-code tooling"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Kore.ai",
+      "summary": "Raj Koneru introduces Kore.ai and its focus on enterprise-grade AI solutions.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Evolution of AI Agents",
+      "summary": "Discussion on the transition from traditional chatbots to agentic AI and the impact of LLMs.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "No-Code Platform Features",
+      "summary": "Exploration of the no-code capabilities of Kore.ai's platform and its advantages for enterprises.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Market Position and Differentiation",
+      "summary": "Koneru discusses Kore.ai's competitive edge and its leadership in the AI for Service sector.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI Agents",
+      "summary": "Insights into the future landscape of AI agents and the importance of governance.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Kore.ai"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Koneru emphasizes the importance of governance in managing AI agents."
+    ]
+  },
+  "_meta": {
+    "episode_number": 285,
+    "episode_date": "2025-09-10",
+    "rss_title": "#285 Raj Koneru: How Kore.ai is Building No Code Enterprise-Grade Agentic AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:25:50Z",
+    "input_tokens": 10143,
+    "output_tokens": 1065
+  }
+}

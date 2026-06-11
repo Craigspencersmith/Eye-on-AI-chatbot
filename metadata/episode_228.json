@@ -1,0 +1,138 @@
+{
+  "episode_profile": {
+    "title": "Rodrigo Liang: How SambaNova Systems Is Disrupting AI Inference",
+    "guest_name": "Rodrigo Liang",
+    "guest_title": "Co-founder and CEO",
+    "guest_organization": "SambaNova Systems",
+    "topic_summary": "Rodrigo Liang discusses SambaNova's innovative approach to AI inference, highlighting their new inference service that outperforms competitors like NVIDIA and Cerebras. He emphasizes the importance of efficiency, speed, and accuracy in AI production, as well as the growing trend towards open-source models."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "inference",
+      "semiconductors",
+      "machine learning"
+    ],
+    "industries": [
+      "technology",
+      "cloud computing",
+      "energy"
+    ],
+    "policy_areas": [],
+    "geographic_focus": [
+      "Saudi Arabia",
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The cost of inferencing will be 10 times more than what we spend on training.",
+      "speaker": "Rodrigo Liang",
+      "context": "Rodrigo emphasizes the shift in focus from training to inference in AI production."
+    },
+    {
+      "claim": "SambaNova's inference service can achieve 132 tokens per second in full precision, outperforming NVIDIA's offerings.",
+      "speaker": "Rodrigo Liang",
+      "context": "He compares SambaNova's performance metrics with those of competitors to highlight their technological advantages."
+    },
+    {
+      "claim": "The world is moving towards open-source models, which will drive the need for larger and more accurate AI models.",
+      "speaker": "Rodrigo Liang",
+      "context": "Rodrigo discusses the future of AI and the demand for customization and accuracy in models."
+    },
+    {
+      "claim": "SambaNova is the most deployed AI chip startup in the US government.",
+      "speaker": "Rodrigo Liang",
+      "context": "He points out SambaNova's significant presence in government sectors to illustrate their credibility and market reach."
+    },
+    {
+      "claim": "The architecture of SambaNova allows for multi-tenancy, enabling the hosting of multiple models efficiently.",
+      "speaker": "Rodrigo Liang",
+      "context": "Rodrigo explains how their technology allows for better resource utilization compared to traditional models."
+    },
+    {
+      "claim": "The demand for AI inference is growing rapidly, and SambaNova is positioned to meet that demand efficiently.",
+      "speaker": "Rodrigo Liang",
+      "context": "He discusses the increasing interest in AI inference and how SambaNova's technology is designed to capitalize on this trend."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "SambaNova Systems",
+      "NVIDIA",
+      "Cerebras",
+      "Google",
+      "Intel",
+      "BlackRock",
+      "SoftBank",
+      "Temasek",
+      "Saudi Aramco"
+    ],
+    "technologies": [
+      "Lama 3.1",
+      "Lama 70B",
+      "API",
+      "RDU",
+      "data flow chip"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to SambaNova",
+      "summary": "Rodrigo Liang introduces himself and discusses his background and the founding of SambaNova.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "SambaNova's Inference Technology",
+      "summary": "Rodrigo explains the capabilities of SambaNova's inference service and its competitive advantages.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Market Position and Competition",
+      "summary": "The discussion shifts to SambaNova's position in the market relative to competitors like NVIDIA and Cerebras.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of AI Inference",
+      "summary": "Rodrigo shares insights on the future trends in AI inference and the importance of open-source models.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Closing Thoughts",
+      "summary": "Rodrigo concludes with thoughts on the scalability and efficiency of SambaNova's technology.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "SambaNova Systems"
+    ],
+    "funding_sources": [
+      "Google",
+      "Intel",
+      "BlackRock",
+      "SoftBank",
+      "Temasek"
+    ],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Rodrigo emphasizes that AI production will focus more on inference than training.",
+      "He highlights SambaNova's ability to run large models efficiently in existing data centers."
+    ]
+  },
+  "_meta": {
+    "episode_number": 228,
+    "episode_date": "2025-01-01",
+    "rss_title": "#228 Rodrigo Liang: How SambaNova Systems Is Disrupting AI Inference",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:06:50Z",
+    "input_tokens": 6057,
+    "output_tokens": 1048
+  }
+}

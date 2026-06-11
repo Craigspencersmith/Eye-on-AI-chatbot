@@ -1,0 +1,141 @@
+{
+  "episode_profile": {
+    "title": "AI Against COVID-19: Insights from Irina Rish",
+    "guest_name": "Irina Rish",
+    "guest_title": "Professor",
+    "guest_organization": "University of Montreal, Mila",
+    "topic_summary": "Irina Rish discusses the rapid response of the machine learning community to the COVID-19 pandemic, detailing the formation of a task force at Mila to leverage AI for tracking the virus and aiding in drug development. She highlights ongoing projects, data challenges, and the collaborative efforts across institutions."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "data analysis",
+      "neural networks"
+    ],
+    "industries": [
+      "healthcare",
+      "biotechnology"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "Canada",
+      "United States",
+      "Germany"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The machine learning community has mobilized quickly to address the COVID-19 crisis through collaborative efforts.",
+      "speaker": "Irina Rish",
+      "context": "Irina explains how Mila and other institutions formed a task force to apply AI in combating the pandemic."
+    },
+    {
+      "claim": "Data availability is a significant challenge in studying COVID-19, particularly for omics data.",
+      "speaker": "Irina Rish",
+      "context": "She discusses the difficulties in accessing necessary datasets for effective analysis and research."
+    },
+    {
+      "claim": "Federated learning could allow for personal data tracking without compromising individual privacy.",
+      "speaker": "Irina Rish",
+      "context": "Irina describes the potential of federated learning models to enable peer-to-peer data sharing while maintaining privacy."
+    },
+    {
+      "claim": "AI can help identify which patients are likely to benefit from specific COVID-19 treatments.",
+      "speaker": "Irina Rish",
+      "context": "She outlines how machine learning can analyze genomic data to predict treatment outcomes."
+    },
+    {
+      "claim": "The collaborative efforts in AI research during the pandemic are unprecedented and could lead to lasting structures for data sharing.",
+      "speaker": "Irina Rish",
+      "context": "Irina expresses hope that the current global collaboration will establish frameworks for future data sharing."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Yoshua Bengio",
+      "Julie Hussin",
+      "Sasha Luccioni"
+    ],
+    "organizations": [
+      "Mila",
+      "University of Montreal",
+      "IBM",
+      "Vector Institute",
+      "University of Toronto",
+      "University of Alberta",
+      "CIFAR",
+      "World Health Organization",
+      "John Hopkins University"
+    ],
+    "technologies": [
+      "federated learning",
+      "deep learning",
+      "probabilistic models"
+    ],
+    "publications": [
+      "AI against COVID survey paper"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to the Task Force",
+      "summary": "Irina Rish introduces the task force formed at Mila to address COVID-19 using AI and discusses initial responses.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Data Challenges",
+      "summary": "The conversation shifts to the difficulties in accessing and collecting relevant datasets for COVID-19 research.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI Applications in Treatment",
+      "summary": "Irina explains how AI can be utilized to analyze genomic data and improve treatment outcomes for COVID-19 patients.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Collaborative Efforts",
+      "summary": "Discussion on the global collaboration among researchers and institutions to tackle the pandemic through AI.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI in Healthcare",
+      "summary": "Irina shares her hopes for the future of AI in healthcare and the importance of data sharing frameworks.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "AI against COVID survey paper",
+      "authors": "Sasha Luccioni",
+      "context": "Irina references a survey paper that outlines how AI can assist in addressing COVID-19."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "University of Montreal",
+      "Mila"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Irina emphasizes the importance of being hopeful in the face of the pandemic.",
+      "The discussion on federated learning highlights privacy concerns in data tracking."
+    ]
+  },
+  "_meta": {
+    "episode_number": 35,
+    "episode_date": "2020-03-30",
+    "rss_title": "Episode 35 - Irina Rish",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:05:59Z",
+    "input_tokens": 7058,
+    "output_tokens": 1027
+  }
+}

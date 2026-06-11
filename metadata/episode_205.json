@@ -1,0 +1,134 @@
+{
+  "episode_profile": {
+    "title": "Randall Degges: The Biggest Risks of AI-Generated Code",
+    "guest_name": "Randall Deggs",
+    "guest_title": "Lead of Developer and Security Relations",
+    "guest_organization": "Snyk",
+    "topic_summary": "Randall Deggs discusses the implications of AI-generated code, focusing on the risks and benefits for developers. He explains how Snyk utilizes both symbolic and generative AI to enhance code security and the importance of human oversight in the coding process."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "symbolic AI",
+      "machine learning"
+    ],
+    "industries": [
+      "technology",
+      "software development",
+      "cybersecurity"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance",
+      "security"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "Developers who leverage AI tools will have more employment opportunities despite the macroeconomic challenges.",
+      "speaker": "Randall Deggs",
+      "context": "Deggs reflects on the current job market for developers and the role of AI in enhancing productivity."
+    },
+    {
+      "claim": "Using generative AI for security vulnerability detection is risky due to potential inaccuracies.",
+      "speaker": "Randall Deggs",
+      "context": "Deggs contrasts the effectiveness of symbolic AI for detection with generative AI for generating fixes."
+    },
+    {
+      "claim": "A perfect training set for AI in software development is unattainable due to the evolving nature of security vulnerabilities.",
+      "speaker": "Randall Deggs",
+      "context": "Deggs discusses the challenges of creating a flawless dataset for training AI models."
+    },
+    {
+      "claim": "The integration of AI in coding could lead to a future where developers focus solely on building without worrying about security.",
+      "speaker": "Randall Deggs",
+      "context": "Deggs envisions a scenario where AI autonomously handles security issues in code."
+    },
+    {
+      "claim": "C-suite executives often underestimate the risks associated with AI, while practitioners are more cautious.",
+      "speaker": "Randall Deggs",
+      "context": "Deggs shares insights from Snyk's AI readiness report highlighting the disparity in perceptions of AI readiness."
+    },
+    {
+      "claim": "The demand for programmers will continue, especially for those who can effectively use AI tools.",
+      "speaker": "Randall Deggs",
+      "context": "Deggs addresses the current job market and the impact of AI on developer roles."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Snyk",
+      "Boston Consulting Group"
+    ],
+    "technologies": [
+      "DeepCode",
+      "VS Code",
+      "Python",
+      "Flask",
+      "AWS"
+    ],
+    "publications": [
+      "AI Readiness Report"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Snyk",
+      "summary": "Randall Deggs introduces himself and Snyk's mission in developer security.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "AI in Security Vulnerability Detection",
+      "summary": "Discussion on how Snyk uses AI for detecting and fixing security vulnerabilities.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges of AI Training Sets",
+      "summary": "Deggs explains the difficulties in creating perfect training sets for AI in software development.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of Code Generation",
+      "summary": "Exploration of the potential future where AI autonomously handles code security.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "AI Readiness Insights",
+      "summary": "Insights from Snyk's AI readiness report regarding perceptions of AI risks.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "AI Readiness Report",
+      "authors": "",
+      "context": "Deggs references findings from the report to illustrate the gap in AI readiness perceptions."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Snyk"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Deggs emphasizes the importance of human oversight in AI-generated code.",
+      "Discussion on the potential risks of AI-generated code cluttering the internet."
+    ]
+  },
+  "_meta": {
+    "episode_number": 205,
+    "episode_date": "2024-08-28",
+    "rss_title": "#205 Randall Degges: The Biggest Risks of AI-Generated Code (What Developers Need to Know!)",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:00:13Z",
+    "input_tokens": 12580,
+    "output_tokens": 1007
+  }
+}

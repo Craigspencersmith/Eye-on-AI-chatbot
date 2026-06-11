@@ -1,0 +1,143 @@
+{
+  "episode_profile": {
+    "title": "Dawn Song on Data Privacy and Blockchain Solutions",
+    "guest_name": "Dawn Song",
+    "guest_title": "Professor of Computer Science",
+    "guest_organization": "University of California, Berkeley",
+    "topic_summary": "Dawn Song discusses her vision for a new paradigm in data ownership and privacy, emphasizing the importance of decentralized systems and blockchain technology. She introduces her work with Oasis Labs, which aims to empower individuals to control their data and benefit from its use."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "blockchain",
+      "computer security"
+    ],
+    "industries": [
+      "technology",
+      "healthcare",
+      "finance"
+    ],
+    "policy_areas": [
+      "data privacy",
+      "data ownership",
+      "regulation"
+    ],
+    "geographic_focus": [
+      "United States",
+      "China"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Data ownership can enable new business models and economic growth.",
+      "speaker": "Dawn Song",
+      "context": "Dawn argues that recognizing data as property can lead to better economic outcomes, similar to the institutionalization of property rights in the past."
+    },
+    {
+      "claim": "Current machine learning systems are still vulnerable to adversarial attacks.",
+      "speaker": "Dawn Song",
+      "context": "Dawn highlights the ongoing challenges in developing robust learning systems that can withstand sophisticated attacks."
+    },
+    {
+      "claim": "The Oasis platform allows for decentralized training of machine learning models without a central server.",
+      "speaker": "Dawn Song",
+      "context": "Dawn explains how Oasis enables decentralized machine learning, enhancing privacy and security."
+    },
+    {
+      "claim": "Users can potentially earn revenue from their data in the future.",
+      "speaker": "Dawn Song",
+      "context": "Dawn envisions a future where individuals can control their data and receive compensation for its use."
+    },
+    {
+      "claim": "Secure enclaves can protect sensitive data during computation.",
+      "speaker": "Dawn Song",
+      "context": "Dawn discusses the role of secure enclaves in ensuring that sensitive data remains confidential during processing."
+    },
+    {
+      "claim": "Differential privacy can enhance the protection of sensitive information in machine learning models.",
+      "speaker": "Dawn Song",
+      "context": "Dawn describes how differential privacy techniques can prevent sensitive data from being leaked during model training."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Stanford doctors"
+    ],
+    "organizations": [
+      "Oasis Labs",
+      "Stanford Hospital",
+      "Uber"
+    ],
+    "technologies": [
+      "Ekiden",
+      "HiveMind",
+      "differential privacy",
+      "secure enclaves"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Dawn Song",
+      "summary": "Dawn introduces herself and shares her academic background and journey into computer science.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Data Ownership and Privacy",
+      "summary": "Discussion on the importance of data ownership and how it can empower individuals economically.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Oasis Platform Overview",
+      "summary": "Dawn explains the Oasis platform's capabilities in decentralized data management and privacy.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in Machine Learning Security",
+      "summary": "Exploration of the vulnerabilities in current machine learning systems and the need for robust defenses.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of Data Monetization",
+      "summary": "Dawn discusses the potential for individuals to earn from their data and the implications for the economy.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Ekiden: A Platform for Confidential Smart Contracts",
+      "authors": "Dawn Song et al.",
+      "context": "Referenced as a foundational project that combines blockchain with secure enclaves."
+    },
+    {
+      "reference": "HiveMind: Decentralized Federated Learning",
+      "authors": "Dawn Song et al.",
+      "context": "Introduced as a new paradigm for decentralized machine learning."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "University of California, Berkeley",
+      "Oasis Labs"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Dawn's vision of a future where individuals can control and monetize their data.",
+      "The discussion on the vulnerabilities of current machine learning systems."
+    ]
+  },
+  "_meta": {
+    "episode_number": 25,
+    "episode_date": "2019-10-10",
+    "rss_title": "Episode 25 - Dawn Song",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:02:59Z",
+    "input_tokens": 7234,
+    "output_tokens": 1041
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "episode_profile": {
+    "title": "The Code Is Clean. The App Is Broken: AI Development Integrity",
+    "guest_name": "Dan Faulkner",
+    "guest_title": "CEO",
+    "guest_organization": "SmartBear",
+    "topic_summary": "Dan Faulkner discusses the integrity challenges in AI-driven software development, emphasizing the need for continuous application testing and the risks associated with rapid coding practices. He highlights the importance of maintaining application integrity amidst the increasing reliance on AI tools and the potential systemic risks that arise from agentic workflows."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "software testing",
+      "agentic AI",
+      "automation"
+    ],
+    "industries": [
+      "software development",
+      "technology"
+    ],
+    "policy_areas": [
+      "governance",
+      "ethics",
+      "security"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "The rapid acceleration of coding due to AI tools risks the integrity of applications, as traditional testing methods struggle to keep pace.",
+      "speaker": "Dan Faulkner",
+      "context": "Faulkner explains that while AI can produce clean code, it does not guarantee that the application functions as intended."
+    },
+    {
+      "claim": "New categories of issues, such as 'slop squatting' and 'instruction inversion', are emerging due to the use of AI in coding.",
+      "speaker": "Dan Faulkner",
+      "context": "Faulkner discusses how AI tools can inadvertently introduce vulnerabilities and unexpected behaviors in code."
+    },
+    {
+      "claim": "Continuous testing in both pre-deployment and production environments is essential to ensure application integrity.",
+      "speaker": "Dan Faulkner",
+      "context": "Faulkner argues that as applications evolve rapidly, ongoing validation is necessary to maintain their intended functionality."
+    },
+    {
+      "claim": "The reliance on AI tools for coding may lead to a loss of human expertise in software development.",
+      "speaker": "Dan Faulkner",
+      "context": "Faulkner warns that over-reliance on AI could create a knowledge gap as fewer developers engage deeply with the code."
+    },
+    {
+      "claim": "AI-generated code can lead to cascading errors when multiple agents interact, amplifying small mistakes.",
+      "speaker": "Dan Faulkner",
+      "context": "Faulkner highlights the risks of interconnected AI systems, where errors can propagate through complex workflows."
+    },
+    {
+      "claim": "SmartBear's BearQ platform aims to integrate agentic workflows while ensuring human oversight in testing processes.",
+      "speaker": "Dan Faulkner",
+      "context": "Faulkner describes how BearQ is designed to augment human testers rather than replace them, promoting collaboration between agents and people."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "SmartBear",
+      "Nuanced Communications",
+      "OpenAI",
+      "Meta"
+    ],
+    "technologies": [
+      "Claude Code",
+      "Codex",
+      "BearQ",
+      "Swagger"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Dan's Background",
+      "summary": "Dan Faulkner introduces himself and discusses his career trajectory leading to his role at SmartBear.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Application Integrity Under AI Velocity",
+      "summary": "The conversation focuses on the challenges of maintaining application integrity as AI accelerates software development.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Slop Squatting And Agent Misbehaviour",
+      "summary": "Faulkner explains new issues arising from AI coding practices, including security vulnerabilities and unexpected behaviors.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Black Boxes, Cascades, Expertise Debt",
+      "summary": "The discussion highlights the risks of relying on AI tools and the potential erosion of human expertise in software development.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Continuous Testing Including Production",
+      "summary": "Faulkner emphasizes the need for continuous testing in both pre-deployment and production environments to ensure application integrity.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "SmartBear"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Faulkner's insights on the risks of cascading errors in AI-generated code.",
+      "The introduction of terms like 'slop squatting' to describe new vulnerabilities in AI coding."
+    ]
+  },
+  "_meta": {
+    "episode_number": 332,
+    "episode_date": "2026-04-14",
+    "rss_title": "#332 Dan Faulkner: The Code Is Clean. The App Is Broken. Why AI Development Has an Integrity Problem",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:43:47Z",
+    "input_tokens": 11388,
+    "output_tokens": 1033
+  }
+}

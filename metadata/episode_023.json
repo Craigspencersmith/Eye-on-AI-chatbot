@@ -1,0 +1,139 @@
+{
+  "episode_profile": {
+    "title": "AutoML with Determined AI",
+    "guest_name": "Evan Sparks, Ameet Talwalkar",
+    "guest_title": "Co-founder and CEO, Co-founder and Chief Scientist",
+    "guest_organization": "Determined AI",
+    "topic_summary": "This episode discusses the development and impact of Determined AI's platform, which aims to streamline the machine learning workflow through automated machine learning (AutoML) techniques. The founders share their journey in democratizing AI and the challenges faced in making machine learning accessible to a broader audience."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "AutoML",
+      "machine learning",
+      "deep learning"
+    ],
+    "industries": [
+      "technology",
+      "finance",
+      "healthcare",
+      "automotive"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "The rise of deep learning has necessitated new tools and workflows for machine learning practitioners.",
+      "speaker": "Evan Sparks",
+      "context": "Evan discusses how the shift towards deep learning has changed the landscape of machine learning, requiring better tools for handling large datasets."
+    },
+    {
+      "claim": "Determined AI aims to democratize AI by providing an accessible platform for machine learning development.",
+      "speaker": "Ameet Talwalkar",
+      "context": "Ameet emphasizes the company's mission to make machine learning tools available to a wider audience beyond just those with advanced degrees."
+    },
+    {
+      "claim": "Hyperparameter optimization is a critical component of the machine learning workflow that can be automated.",
+      "speaker": "Evan Sparks",
+      "context": "Evan explains how their platform incorporates hyperparameter optimization to streamline the model training process."
+    },
+    {
+      "claim": "The current state of machine learning is akin to the 'propeller age' of aviation, with significant potential for growth.",
+      "speaker": "Ameet Talwalkar",
+      "context": "Ameet uses this analogy to illustrate the current phase of AI development and the potential for future advancements."
+    },
+    {
+      "claim": "Reproducibility in machine learning is essential for building trust and reliability in AI systems.",
+      "speaker": "Evan Sparks",
+      "context": "Evan discusses the importance of capturing metadata throughout the model development lifecycle to ensure reproducibility."
+    },
+    {
+      "claim": "The shortage of machine learning engineers is a growing concern that impacts the ability to leverage AI effectively.",
+      "speaker": "Ameet Talwalkar",
+      "context": "Ameet highlights the challenges faced by organizations in finding skilled machine learning practitioners."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Determined AI",
+      "CMU",
+      "NYU",
+      "Berkeley",
+      "Apache Spark"
+    ],
+    "technologies": [
+      "TensorFlow",
+      "PyTorch",
+      "MLlib",
+      "Hyperband",
+      "DARTS"
+    ],
+    "publications": [
+      "Green AI"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Determined AI",
+      "summary": "Craig introduces the episode and the guests, discussing the significance of Determined AI's platform in the AI landscape.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Founders' Backgrounds",
+      "summary": "Evan and Ameet share their educational and professional backgrounds, detailing their journey to founding Determined AI.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Role of AutoML",
+      "summary": "The discussion focuses on how AutoML can streamline machine learning workflows and the importance of hyperparameter optimization.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in Machine Learning",
+      "summary": "The guests discuss the challenges faced by machine learning engineers, including reproducibility and the shortage of skilled practitioners.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of AI and Industry Adoption",
+      "summary": "Evan and Ameet talk about the future of AI, the potential for widespread adoption, and the importance of making AI accessible.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Green AI",
+      "authors": "",
+      "context": "Ameet references this paper to discuss the importance of efficiency in machine learning."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Determined AI",
+      "CMU",
+      "Berkeley"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "The analogy of the propeller age of aviation to the current state of AI development.",
+      "Discussion on the importance of reproducibility in machine learning."
+    ]
+  },
+  "_meta": {
+    "episode_number": 23,
+    "episode_date": "2019-09-11",
+    "rss_title": "Episode 23 - AutoML with Determined AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:02:13Z",
+    "input_tokens": 13159,
+    "output_tokens": 1081
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "episode_profile": {
+    "title": "Inside the Fight Against AI-Driven Cybercrime",
+    "guest_name": "Ivan Shkvarun",
+    "guest_title": "CEO and Founder",
+    "guest_organization": "Social Links Company",
+    "topic_summary": "Ivan Shkvarun discusses the rise of AI-driven cybercrime and the initiatives being taken to combat it, including the launch of the Dark Side AI Initiative. He emphasizes the importance of open-source intelligence in identifying and mitigating digital threats."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "cybersecurity",
+      "open source intelligence",
+      "AI ethics"
+    ],
+    "industries": [
+      "technology",
+      "finance",
+      "government"
+    ],
+    "policy_areas": [
+      "regulation",
+      "ethics",
+      "digital risk protection"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI has significantly lowered the cost of executing fraud, making it easier for criminals to target a wider range of victims.",
+      "speaker": "Ivan Shkvarun",
+      "context": "Shkvarun highlights how the cost of a fraudulent transaction has decreased, allowing criminals to operate more efficiently."
+    },
+    {
+      "claim": "The majority of companies are not utilizing their own data for decision-making, which poses a significant risk.",
+      "speaker": "Ivan Shkvarun",
+      "context": "He points out that many organizations fail to leverage their own data, which could enhance their cybersecurity measures."
+    },
+    {
+      "claim": "The Dark Side AI Initiative aims to raise awareness about the misuse of AI in cybercrime and develop standards for AI-generated content.",
+      "speaker": "Ivan Shkvarun",
+      "context": "Shkvarun explains the initiative's goals to educate the public and create a community focused on combating AI-driven threats."
+    },
+    {
+      "claim": "Criminal organizations are becoming more sophisticated, resembling legitimate businesses with structured departments.",
+      "speaker": "Ivan Shkvarun",
+      "context": "He describes the evolution of cybercriminals into organized entities that operate similarly to large corporations."
+    },
+    {
+      "claim": "Open-source intelligence (OSINT) is crucial for identifying and mitigating digital threats.",
+      "speaker": "Ivan Shkvarun",
+      "context": "Shkvarun emphasizes the role of OSINT in gathering information to help law enforcement and businesses combat cybercrime."
+    },
+    {
+      "claim": "AI is being used by criminals to automate and enhance their operations, making it a double-edged sword.",
+      "speaker": "Ivan Shkvarun",
+      "context": "He discusses how AI technologies are being exploited by criminals, necessitating a proactive response from businesses and governments."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Social Links Company",
+      "Brightside AI"
+    ],
+    "technologies": [
+      "AI",
+      "OSINT"
+    ],
+    "publications": [
+      "McKinsey report on open data"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Dark Side AI Initiative",
+      "summary": "Ivan Shkvarun introduces the Dark Side AI Initiative and its purpose in combating AI-driven cybercrime.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Understanding Open Source Intelligence",
+      "summary": "Discussion on how Social Links utilizes OSINT to gather data from both the visible and dark web.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "The Rise of AI in Cybercrime",
+      "summary": "Shkvarun explains how AI is transforming the landscape of cybercrime, making it more accessible for criminals.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges in Cybersecurity",
+      "summary": "Exploration of the challenges organizations face in securing their data and the importance of digital hygiene.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Call to Action for Collaboration",
+      "summary": "Shkvarun invites individuals and organizations to join the Dark Side AI Initiative and contribute to the fight against cybercrime.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "McKinsey report on open data",
+      "authors": "McKinsey & Company",
+      "context": "Referenced to highlight the potential economic benefits of utilizing open data in various industries."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Social Links Company"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Shkvarun's emphasis on the need for digital hygiene and awareness in cybersecurity.",
+      "The discussion on how criminals are leveraging AI to enhance their operations."
+    ]
+  },
+  "_meta": {
+    "episode_number": 253,
+    "episode_date": "2025-05-11",
+    "rss_title": "#253 Ivan Shkvarun: Inside the Fight Against AI-Driven Cybercrime",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:14:54Z",
+    "input_tokens": 8043,
+    "output_tokens": 1069
+  }
+}

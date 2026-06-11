@@ -1,0 +1,121 @@
+{
+  "episode_profile": {
+    "title": "Tricky Business: Deploying AI Models on Hardware",
+    "guest_name": "Eric Horvitz",
+    "guest_title": "Commissioner",
+    "guest_organization": "National Security Commission on Artificial Intelligence",
+    "topic_summary": "This episode discusses the interoperability of AI systems among US allies and the importance of ensuring reliability in AI technologies. Eric Horvitz shares insights on the NSCAI's recommendations for NATO and the significance of establishing common standards and practices in AI development."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "AI ethics",
+      "multi-agent systems",
+      "adversarial machine learning"
+    ],
+    "industries": [
+      "national security",
+      "defense"
+    ],
+    "policy_areas": [
+      "regulation",
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States",
+      "NATO countries"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The US government should help NATO reach consensus on operationalizing responsible AI practices.",
+      "speaker": "Eric Horvitz",
+      "context": "This claim emphasizes the importance of interoperability and shared trust in AI systems among allied nations."
+    },
+    {
+      "claim": "Developing common documentation requirements is essential for the interoperability of AI systems.",
+      "speaker": "Eric Horvitz",
+      "context": "Horvitz argues that common documentation will enhance the fitness and interoperability of AI systems across NATO."
+    },
+    {
+      "claim": "Robustness and reliability in AI systems are critical to prevent adversarial attacks.",
+      "speaker": "Eric Horvitz",
+      "context": "He highlights the need for AI methods that are less brittle and can withstand various challenges in real-world applications."
+    },
+    {
+      "claim": "International standards in AI can catalyze trust and quality assurance.",
+      "speaker": "Eric Horvitz",
+      "context": "Horvitz discusses the role of technical standards in fostering collaboration and innovation in AI development."
+    },
+    {
+      "claim": "There is a need for joint R&D in areas like privacy and human-AI interaction.",
+      "speaker": "Eric Horvitz",
+      "context": "He identifies these areas as ripe for international collaboration to ensure shared values and goals in AI systems."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Microsoft Corporation",
+      "National Security Commission on Artificial Intelligence"
+    ],
+    "technologies": [
+      "adversarial machine learning",
+      "multi-agent systems"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to NSCAI Recommendations",
+      "summary": "Craig introduces Eric Horvitz and the focus of the episode on NSCAI's recommendations for AI practices.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Common Documentation Requirements",
+      "summary": "Discussion on the importance of establishing common documentation for AI systems among NATO allies.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Systems of Systems",
+      "summary": "Exploration of the complexities involved in coordinating multiple AI systems and ensuring their interoperability.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Robustness and Reliability",
+      "summary": "Horvitz emphasizes the need for AI systems to be robust against adversarial attacks and reliable in performance.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "International Standards and Collaboration",
+      "summary": "Discussion on the necessity of international standards in AI and the potential for joint R&D efforts.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Microsoft Corporation",
+      "National Security Commission on Artificial Intelligence"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Horvitz discusses the critical importance of AI interoperability among NATO allies.",
+      "The conversation highlights the challenges of ensuring AI systems are robust and reliable."
+    ]
+  },
+  "_meta": {
+    "episode_number": 60,
+    "episode_date": "2020-12-03",
+    "rss_title": "Tricky Business: Deploying AI Models on Hardware",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:13:40Z",
+    "input_tokens": 5207,
+    "output_tokens": 909
+  }
+}

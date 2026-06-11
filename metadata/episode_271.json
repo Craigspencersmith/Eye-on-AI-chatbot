@@ -1,0 +1,127 @@
+{
+  "episode_profile": {
+    "title": "Steve Lucas: Why AI Agents Will Automate 75% of Business Operations by 2026",
+    "guest_name": "Steve Lucas",
+    "guest_title": "CEO",
+    "guest_organization": "Boomi",
+    "topic_summary": "In this episode, Steve Lucas discusses the transformative potential of AI agents in automating business operations. He shares insights on how Boomi's integration platform is evolving to leverage AI, enabling organizations to streamline processes and enhance efficiency."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "machine learning",
+      "automation"
+    ],
+    "industries": [
+      "technology",
+      "retail",
+      "finance"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": []
+  },
+  "key_arguments": [
+    {
+      "claim": "AI agents will automate 75% of business operations by 2026.",
+      "speaker": "Steve Lucas",
+      "context": "This prediction is based on the rapid advancements in AI technology and the capabilities of Boomi's integration platform."
+    },
+    {
+      "claim": "The integration of APIs is crucial for modernizing legacy systems.",
+      "speaker": "Steve Lucas",
+      "context": "Lucas emphasizes the importance of APIs in allowing older systems to interact with modern applications and AI agents."
+    },
+    {
+      "claim": "Process discovery technology will play a key role in optimizing business workflows.",
+      "speaker": "Steve Lucas",
+      "context": "He discusses how process discovery can inform AI prompts to enhance business processes."
+    },
+    {
+      "claim": "The future of enterprise software will be dominated by AI-driven user interfaces.",
+      "speaker": "Steve Lucas",
+      "context": "Lucas envisions a shift from traditional user interfaces to intelligent agents that manage tasks autonomously."
+    },
+    {
+      "claim": "Boomi aims to empower smaller companies to build their own AI agents without coding expertise.",
+      "speaker": "Steve Lucas",
+      "context": "He highlights Boomi's mission to democratize access to AI technology for businesses of all sizes."
+    },
+    {
+      "claim": "AI will replace many traditional consulting roles in system integration.",
+      "speaker": "Steve Lucas",
+      "context": "Lucas predicts that AI agents will take over tasks currently performed by human consultants, leading to higher profit margins for system integrators."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Sam Altman"
+    ],
+    "organizations": [
+      "Boomi",
+      "SAP",
+      "Salesforce",
+      "Microsoft",
+      "Oracle"
+    ],
+    "technologies": [
+      "LAMA",
+      "AWS Bedrock"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Steve Lucas",
+      "summary": "Steve Lucas shares his background and journey to Boomi, highlighting his extensive experience in enterprise software.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Evolution of Boomi",
+      "summary": "Discussion on how Boomi has adapted to changes in technology, particularly the rise of AI and integration needs.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI and Business Automation",
+      "summary": "Exploration of how AI agents can automate business processes and the implications for various industries.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of Integration and AI",
+      "summary": "Lucas discusses the future landscape of enterprise software and the role of AI in transforming business operations.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Boomi's Product Innovations",
+      "summary": "Overview of Boomi's upcoming products, including Agent Studio and Control Tower, aimed at enhancing AI capabilities.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Boomi"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "collegial",
+    "notable_moments": [
+      "AI will automate 75% of business operations by 2026.",
+      "The future of enterprise software will be dominated by AI-driven user interfaces."
+    ]
+  },
+  "_meta": {
+    "episode_number": 271,
+    "episode_date": "2025-07-17",
+    "rss_title": "#271 Steve Lucas: Why AI Agents Will Automate 75% of Business Operations by 2026",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:21:19Z",
+    "input_tokens": 8903,
+    "output_tokens": 938
+  }
+}

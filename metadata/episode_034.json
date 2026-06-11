@@ -1,0 +1,138 @@
+{
+  "episode_profile": {
+    "title": "Exploring Neuro-Symbolic AI with David Cox",
+    "guest_name": "David Cox",
+    "guest_title": "Director",
+    "guest_organization": "MIT-IBM Watson AI Lab",
+    "topic_summary": "David Cox discusses the integration of symbolic AI and deep learning through neuro-symbolic AI. He highlights the development of the CLEVRER dataset, which enables machines to reason about causal relationships in video, showcasing the potential for improved AI understanding and reasoning capabilities."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "neuro-symbolic AI",
+      "deep learning",
+      "computer vision"
+    ],
+    "industries": [
+      "technology",
+      "education",
+      "research"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Neural networks can effectively extract symbols from the messiness of the real world, bridging the gap between raw data and symbolic representation.",
+      "speaker": "David Cox",
+      "context": "Cox explains how neural networks can help in transforming complex real-world inputs into structured symbolic forms."
+    },
+    {
+      "claim": "The CLEVRER dataset demonstrates that combining symbolic logic with deep learning can significantly reduce the amount of training data required for effective AI performance.",
+      "speaker": "David Cox",
+      "context": "Cox discusses how the integration of symbolic reasoning allows for better generalization from limited data."
+    },
+    {
+      "claim": "The future of AI lies in developing systems that can autonomously learn new concepts and tasks without extensive human intervention.",
+      "speaker": "David Cox",
+      "context": "Cox emphasizes the need for AI systems to evolve towards greater autonomy and flexibility in learning."
+    },
+    {
+      "claim": "Neuro-symbolic AI can provide intrinsic explainability in AI systems by translating natural language questions into symbolic programs.",
+      "speaker": "David Cox",
+      "context": "Cox highlights the importance of explainability in AI and how neuro-symbolic approaches can achieve this."
+    },
+    {
+      "claim": "Building models of the world through observation and interaction is crucial for AI to solve complex problems and predict outcomes.",
+      "speaker": "David Cox",
+      "context": "Cox discusses the significance of experiential learning in AI development."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Josh Tenenbaum",
+      "Gary Marcus",
+      "Liz Spelke",
+      "Rebecca Saxe",
+      "Tomer Ullman"
+    ],
+    "organizations": [
+      "IBM",
+      "MIT",
+      "Stanford",
+      "Harvard",
+      "DARPA"
+    ],
+    "technologies": [
+      "CLEVRER dataset",
+      "neuro-symbolic concept learner",
+      "PredNet"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Neuro-Symbolic AI",
+      "summary": "David Cox introduces the concept of neuro-symbolic AI and its significance in advancing artificial intelligence.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The CLEVRER Dataset",
+      "summary": "Cox explains the CLEVRER dataset's role in enabling machines to reason about causal relationships in video.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Symbolic Logic and Deep Learning",
+      "summary": "The discussion focuses on how combining symbolic logic with deep learning can enhance AI capabilities.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future Directions in AI",
+      "summary": "Cox shares insights on the future of AI, emphasizing the need for systems that can learn autonomously.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Building Models of the World",
+      "summary": "The importance of building accurate models of the world through observation and interaction is discussed.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Machine Common Sense",
+      "authors": "",
+      "context": "Cox mentions this DARPA program as part of the effort to develop AI systems that can acquire common sense knowledge."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "IBM",
+      "MIT"
+    ],
+    "funding_sources": [
+      "DARPA"
+    ],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Cox's assertion that if it walks like a symbol and quacks like a symbol, it should be accepted as a symbol.",
+      "The discussion on how children learn concepts and how this can inform AI development."
+    ]
+  },
+  "_meta": {
+    "episode_number": 34,
+    "episode_date": "2020-03-18",
+    "rss_title": "Episode 34 - David Cox",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:05:41Z",
+    "input_tokens": 10997,
+    "output_tokens": 1027
+  }
+}

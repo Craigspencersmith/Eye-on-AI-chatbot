@@ -1,0 +1,144 @@
+{
+  "episode_profile": {
+    "title": "Yoshua Bengio on AI Regulation and World Models",
+    "guest_name": "Yoshua Bengio",
+    "guest_title": "Co-founder of Deep Learning",
+    "guest_organization": "University of Montreal",
+    "topic_summary": "Yoshua Bengio discusses the implications of powerful AI technologies, the need for regulation, and the importance of developing world models to enhance reasoning in AI systems."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "deep learning",
+      "large language models",
+      "probabilistic inference"
+    ],
+    "industries": [
+      "technology",
+      "education",
+      "healthcare"
+    ],
+    "policy_areas": [
+      "regulation",
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States",
+      "Canada",
+      "Europe"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The current pace of AI development poses significant risks that require urgent regulatory measures.",
+      "speaker": "Yoshua Bengio",
+      "context": "Bengio emphasizes the need for regulation to mitigate the dangers of powerful AI technologies."
+    },
+    {
+      "claim": "AI systems must be equipped with world models to enhance their reasoning capabilities.",
+      "speaker": "Yoshua Bengio",
+      "context": "Bengio argues that separating knowledge from decision-making processes is crucial for improving AI reasoning."
+    },
+    {
+      "claim": "The pause letter signed by prominent AI researchers was intended to highlight the urgency of addressing AI risks.",
+      "speaker": "Yoshua Bengio",
+      "context": "Bengio explains his rationale for signing the letter, despite skepticism about its immediate impact."
+    },
+    {
+      "claim": "AI regulation should be coordinated internationally to effectively manage the global implications of AI technologies.",
+      "speaker": "Yoshua Bengio",
+      "context": "Bengio discusses the necessity of international treaties to address the risks posed by AI."
+    },
+    {
+      "claim": "Current large language models often produce confident but incorrect outputs, highlighting the need for improved reasoning mechanisms.",
+      "speaker": "Yoshua Bengio",
+      "context": "Bengio critiques the limitations of existing models in terms of reasoning and accuracy."
+    },
+    {
+      "claim": "Generative flow networks can be used to train inference machines that enhance AI's reasoning capabilities.",
+      "speaker": "Yoshua Bengio",
+      "context": "Bengio introduces his research on generative flow networks as a solution for improving AI reasoning."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Geoff Hinton",
+      "Yann LeCun",
+      "Gary Marcus",
+      "Max Tegmark",
+      "Chelsea Finn"
+    ],
+    "organizations": [
+      "OpenAI",
+      "Future of Life Institute",
+      "Global Partnership on AI",
+      "Center for Artificial Intelligence and Digital Policy"
+    ],
+    "technologies": [
+      "GPT-4",
+      "AlphaGo",
+      "Generative Flow Networks"
+    ],
+    "publications": [
+      "Bayesian Structure Learning with Generative Flow Networks"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to AI Risks",
+      "summary": "Bengio discusses the implications of powerful AI technologies and the need for regulation.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Pause Letter",
+      "summary": "The conversation delves into the significance of the pause letter and its intended impact.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "World Models in AI",
+      "summary": "Bengio explains the importance of world models for enhancing reasoning in AI systems.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "International Regulation",
+      "summary": "The discussion shifts to the necessity of international cooperation in AI regulation.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Generative Flow Networks",
+      "summary": "Bengio introduces his research on generative flow networks as a method for improving AI reasoning.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "Bayesian Structure Learning with Generative Flow Networks",
+      "authors": "Yoshua Bengio et al.",
+      "context": "Bengio references this paper to illustrate his research on probabilistic inference and world models."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "University of Montreal"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Bengio emphasizes the urgent need for regulation in AI development.",
+      "The discussion on the pause letter highlights differing opinions among AI researchers."
+    ]
+  },
+  "_meta": {
+    "episode_number": 118,
+    "episode_date": "2023-03-15",
+    "rss_title": "Ilya Sutskever: The Mastermind Behind GPT-4 and the Future of AI",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:32:25Z",
+    "input_tokens": 8273,
+    "output_tokens": 1045
+  }
+}

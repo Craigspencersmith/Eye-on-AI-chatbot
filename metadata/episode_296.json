@@ -1,0 +1,131 @@
+{
+  "episode_profile": {
+    "title": "Yeop Lee: How Coxwave is Redefining AI Evaluation",
+    "guest_name": "Yeop Lee",
+    "guest_title": "Head of Product",
+    "guest_organization": "Coxwave",
+    "topic_summary": "Yeop Lee discusses Coxwave's innovative analytics solution for conversational AI products, positioning it as the 'Google Analytics' for LLMs like ChatGPT. He explains the importance of subjective evaluation in understanding user interactions and improving AI responses."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "conversational AI",
+      "analytics",
+      "natural language processing"
+    ],
+    "industries": [
+      "technology",
+      "software",
+      "AI"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "South Korea",
+      "India",
+      "North America"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Coxwave's analytics solution focuses on subjective evaluation to enhance user experience with conversational AI.",
+      "speaker": "Yeop Lee",
+      "context": "This claim highlights the need for personalized responses in AI interactions, moving beyond traditional objective evaluations."
+    },
+    {
+      "claim": "The market for AI evaluation is growing as enterprises increasingly adopt generative AI for customer-facing applications.",
+      "speaker": "Yeop Lee",
+      "context": "Lee emphasizes the rising demand for reliable AI outputs to maintain customer trust, indicating a significant market opportunity."
+    },
+    {
+      "claim": "Coxwave differentiates itself by providing a platform that not only evaluates AI responses but also helps businesses improve them.",
+      "speaker": "Yeop Lee",
+      "context": "This claim underscores the company's commitment to enhancing user satisfaction through continuous feedback and analytics."
+    },
+    {
+      "claim": "Coxwave is expanding its focus from B2C to B2B markets, particularly in North America.",
+      "speaker": "Yeop Lee",
+      "context": "Lee discusses the strategic shift in Coxwave's business model to target enterprise customers in the growing AI landscape."
+    },
+    {
+      "claim": "The integration of multimodal analysis is a future goal for Coxwave to enhance its analytics capabilities.",
+      "speaker": "Yeop Lee",
+      "context": "This claim reflects the evolving nature of AI applications and the need for comprehensive evaluation across different modalities."
+    },
+    {
+      "claim": "Coxwave's partnership with Anthropics is based on shared values of building safe and reliable AI.",
+      "speaker": "Yeop Lee",
+      "context": "Lee explains the importance of aligning with partners who prioritize ethical AI development, especially for enterprise clients."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Jejung"
+    ],
+    "organizations": [
+      "Coxwave",
+      "Anthropic",
+      "PwC India",
+      "Linux Foundation"
+    ],
+    "technologies": [
+      "Claude",
+      "ChatGPT",
+      "Hama",
+      "Pix"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Coxwave",
+      "summary": "Yeop Lee shares his background and the founding story of Coxwave, including its transition from B2C to B2B.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Coxwave's Analytics Solution",
+      "summary": "Discussion on how Coxwave's product aligns serves as an analytics tool for conversational AI, focusing on user interactions.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Market Trends and Expansion",
+      "summary": "Lee discusses the growing market for AI evaluation and Coxwave's plans to expand into North America.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Subjective vs. Objective Evaluation",
+      "summary": "The conversation delves into the differences between subjective evaluation and traditional objective benchmarks in AI.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future Directions",
+      "summary": "Lee outlines future goals for Coxwave, including multimodal analysis and enhanced personalization features.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Coxwave"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "collegial",
+    "notable_moments": [
+      "Yeop Lee's insights on the importance of subjective evaluation in AI interactions."
+    ]
+  },
+  "_meta": {
+    "episode_number": 296,
+    "episode_date": "2025-10-26",
+    "rss_title": "#296 Yeop Lee: How Coxwave is Redefining AI Evaluation",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:29:39Z",
+    "input_tokens": 8828,
+    "output_tokens": 983
+  }
+}

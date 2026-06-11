@@ -1,0 +1,136 @@
+{
+  "episode_profile": {
+    "title": "Leon Song: The Research Driving Next-Gen Open-Source Models",
+    "guest_name": "Leon Song",
+    "guest_title": "VP of Research",
+    "guest_organization": "Together AI",
+    "topic_summary": "Leon Song discusses the advancements in open-source AI models and their competitive edge against closed-source alternatives. He shares insights on Together AI's research initiatives, including speculative decoding and the development of innovative models that enhance performance and flexibility for enterprise applications."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "machine learning",
+      "model optimization"
+    ],
+    "industries": [
+      "technology",
+      "healthcare",
+      "science"
+    ],
+    "policy_areas": [
+      "open source",
+      "data sovereignty",
+      "AI ethics"
+    ],
+    "geographic_focus": [
+      "North America"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Open-source models are becoming increasingly competitive with closed-source models, especially with recent advancements from major players.",
+      "speaker": "Leon Song",
+      "context": "Leon highlights the shift in perception towards open-source models as they gain traction and recognition in the industry."
+    },
+    {
+      "claim": "Together AI's speculative decoding technique allows for faster inference without sacrificing accuracy.",
+      "speaker": "Leon Song",
+      "context": "Leon explains how speculative decoding works and its benefits for enterprise applications."
+    },
+    {
+      "claim": "The future of AI will see more companies, including OpenAI, releasing open-source models to remain competitive.",
+      "speaker": "Leon Song",
+      "context": "Leon predicts a shift in business models as companies adapt to the growing demand for open-source solutions."
+    },
+    {
+      "claim": "Together AI aims to provide a comprehensive AI lifecycle service, from pre-training to inference, tailored for enterprise needs.",
+      "speaker": "Leon Song",
+      "context": "Leon discusses Together AI's approach to supporting enterprises with customized AI solutions."
+    },
+    {
+      "claim": "The integration of diverse hardware solutions will enhance the performance and cost-effectiveness of AI services.",
+      "speaker": "Leon Song",
+      "context": "Leon emphasizes the importance of evaluating various hardware options to optimize AI cloud services."
+    },
+    {
+      "claim": "Open-source models are now capable of achieving similar or better performance compared to proprietary models.",
+      "speaker": "Leon Song",
+      "context": "Leon reflects on the advancements in open-source technology that have leveled the playing field."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Percy Wright",
+      "Andrew Feldman",
+      "Rodrigo Liang"
+    ],
+    "organizations": [
+      "Together AI",
+      "Microsoft",
+      "DeepMind",
+      "Columbia University",
+      "Nvidia"
+    ],
+    "technologies": [
+      "AlphaFold",
+      "DeepSpeed",
+      "ChatGPT",
+      "Medusa",
+      "flash attention"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Together AI",
+      "summary": "Leon Song introduces Together AI and its mission to support open-source models.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Speculative Decoding Explained",
+      "summary": "Leon explains the concept of speculative decoding and its advantages for inference performance.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Open-Source vs. Closed-Source Models",
+      "summary": "The discussion focuses on the competitive landscape between open-source and closed-source AI models.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of AI and Business Models",
+      "summary": "Leon shares predictions about the future of AI and how companies will adapt their business models.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Hardware Innovations for AI",
+      "summary": "Leon discusses the importance of diverse hardware solutions in enhancing AI performance.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Together AI",
+      "Microsoft"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Leon emphasizes the shift in the AI landscape towards open-source models.",
+      "Discussion on the implications of speculative decoding for enterprise applications."
+    ]
+  },
+  "_meta": {
+    "episode_number": 281,
+    "episode_date": "2025-08-25",
+    "rss_title": "#281 Leon Song: The Research Driving Next-Gen Open-Source Models (Together AI)",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:24:37Z",
+    "input_tokens": 10158,
+    "output_tokens": 963
+  }
+}

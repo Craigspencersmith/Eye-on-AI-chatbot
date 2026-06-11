@@ -1,0 +1,138 @@
+{
+  "episode_profile": {
+    "title": "How to Build Scalable GenAI Products",
+    "guest_name": "Jeffrey Hammond",
+    "guest_title": "Global ISV Product Strategist",
+    "guest_organization": "AWS",
+    "topic_summary": "Jeffrey Hammond discusses the challenges and strategies for independent software vendors (ISVs) in building scalable generative AI products. He emphasizes the importance of understanding customer needs, reducing toil, and leveraging AWS resources to drive profitable growth."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI"
+    ],
+    "industries": [
+      "software development",
+      "cloud computing"
+    ],
+    "policy_areas": [
+      "data privacy",
+      "customer trust"
+    ],
+    "geographic_focus": [
+      "North America",
+      "EMEA",
+      "APAC"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "ISVs need to prioritize value-driven use cases to avoid premature solutions and high development costs.",
+      "speaker": "Jeffrey Hammond",
+      "context": "This claim was made in the context of the rush to implement generative AI without clear understanding of value."
+    },
+    {
+      "claim": "Working backwards from customer needs is essential for successful AI product development.",
+      "speaker": "Jeffrey Hammond",
+      "context": "Jeffrey emphasized this approach as a way to identify and reduce toil in business processes."
+    },
+    {
+      "claim": "Generative AI can significantly improve productivity, as seen in examples from accounting and healthcare.",
+      "speaker": "Jeffrey Hammond",
+      "context": "He provided specific use cases where generative AI reduced time spent on tasks, leading to greater efficiency."
+    },
+    {
+      "claim": "Customer trust and data privacy are critical considerations that ISVs often overlook.",
+      "speaker": "Jeffrey Hammond",
+      "context": "This was highlighted as a surprising finding from a survey conducted with Forrester Research."
+    },
+    {
+      "claim": "The Generative AI Innovation Center at AWS helps ISVs accelerate their product development.",
+      "speaker": "Jeffrey Hammond",
+      "context": "He described how the center supports ISVs in refining their use cases and improving product execution."
+    },
+    {
+      "claim": "The pricing models for software products are evolving due to the integration of generative AI.",
+      "speaker": "Jeffrey Hammond",
+      "context": "He noted that companies are shifting from headcount-based pricing to outcome-based pricing models."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Jeff Bezos",
+      "Siraj Krishnan"
+    ],
+    "organizations": [
+      "AWS",
+      "Forrester Research",
+      "IBM",
+      "Canva",
+      "Druva"
+    ],
+    "technologies": [
+      "Bedrock",
+      "SageMaker",
+      "DeepSeq"
+    ],
+    "publications": [
+      "2016 shareholder letter"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Generative AI",
+      "summary": "Jeffrey Hammond introduces himself and discusses his role at AWS, focusing on the challenges faced by ISVs in the generative AI landscape.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Survey Insights",
+      "summary": "Discussion of the Forrester Research survey results regarding ISVs' implementation of generative AI and the challenges they face.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Customer-Centric Development",
+      "summary": "Jeffrey emphasizes the importance of working backwards from customer needs to identify valuable use cases for generative AI.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Building Trust and Privacy",
+      "summary": "The conversation shifts to the importance of customer trust and data privacy in the deployment of AI solutions.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "AWS Support for ISVs",
+      "summary": "Jeffrey explains the resources available to ISVs through AWS, including the Generative AI Innovation Center and the Roadmap Acceleration Program.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "2016 shareholder letter",
+      "authors": "Jeff Bezos",
+      "context": "Referenced to illustrate the importance of understanding customer dissatisfaction in product development."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "AWS"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Jeffrey's insights on the evolution of intentional interfaces in AI.",
+      "Discussion on the significant productivity improvements seen in various industries through generative AI."
+    ]
+  },
+  "_meta": {
+    "episode_number": 252,
+    "episode_date": "2025-05-09",
+    "rss_title": "#252 Jeffrey Hammond: How to Build Scalable GenAI Products (AWS Strategy)",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:14:34Z",
+    "input_tokens": 10770,
+    "output_tokens": 1026
+  }
+}

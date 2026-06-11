@@ -1,0 +1,131 @@
+{
+  "episode_profile": {
+    "title": "AI Deepfakes And Broken Trust",
+    "guest_name": "Kevin Tian",
+    "guest_title": "Co-founder and CEO",
+    "guest_organization": "Doppel",
+    "topic_summary": "Kevin Tian discusses the existential threat posed by AI deepfakes and social engineering attacks. He explains how his company, Doppel, uses AI to combat these threats by detecting impersonation attacks and providing training to organizations."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "generative AI",
+      "social engineering",
+      "deepfakes"
+    ],
+    "industries": [
+      "cybersecurity",
+      "technology",
+      "entertainment"
+    ],
+    "policy_areas": [
+      "regulation",
+      "ethics",
+      "safety"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI can manipulate digital reality, leading to a loss of trust in information.",
+      "speaker": "Kevin Tian",
+      "context": "Tian emphasizes the broader implications of AI technology on societal trust."
+    },
+    {
+      "claim": "Deepfakes are just one vector in a larger social engineering problem.",
+      "speaker": "Kevin Tian",
+      "context": "He explains that deepfakes are part of a broader strategy used by attackers to execute fraud and impersonation."
+    },
+    {
+      "claim": "The rise of AI-generated content is eroding public trust in digital media.",
+      "speaker": "Craig Smith",
+      "context": "Smith discusses the impact of AI on public perception and trust in media."
+    },
+    {
+      "claim": "Doppel's platform can proactively shut down impersonation attacks in real-time.",
+      "speaker": "Kevin Tian",
+      "context": "Tian describes the capabilities of Doppel in detecting and mitigating threats."
+    },
+    {
+      "claim": "The adversarial nature of cybersecurity means that as defenses improve, attackers will evolve their strategies.",
+      "speaker": "Kevin Tian",
+      "context": "He highlights the ongoing cat-and-mouse game between security measures and malicious actors."
+    },
+    {
+      "claim": "AI is essential for combating the increasing volume and sophistication of social engineering attacks.",
+      "speaker": "Kevin Tian",
+      "context": "Tian argues that AI must be used to fight AI in the context of cybersecurity."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Rahul",
+      "Drewsen Horwitz"
+    ],
+    "organizations": [
+      "Doppel",
+      "OpenAI",
+      "YouTube",
+      "LinkedIn"
+    ],
+    "technologies": [
+      "ChatGPT"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Deepfakes",
+      "summary": "Kevin Tian introduces the concept of deepfakes and their implications for trust in digital media.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Doppel's Mission and Services",
+      "summary": "Tian explains the mission of Doppel and the services they provide to combat social engineering attacks.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "The Attack Chain",
+      "summary": "Discussion on how social engineering attacks are executed and how Doppel addresses each step.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Real-World Examples",
+      "summary": "Tian shares case studies of how Doppel has successfully shut down impersonation attacks.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI and Trust",
+      "summary": "Exploration of the future implications of AI on societal trust and the ongoing battle against misinformation.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Doppel"
+    ],
+    "funding_sources": [
+      "Drewsen Horwitz Investment Venture Partners"
+    ],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Tian's assertion that AI could potentially destroy the world if not managed properly.",
+      "Discussion on the erosion of trust in digital media due to AI-generated content."
+    ]
+  },
+  "_meta": {
+    "episode_number": 328,
+    "episode_date": "2026-03-23",
+    "rss_title": "(interpolated between ep327 and ep329)",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:42:14Z",
+    "input_tokens": 12229,
+    "output_tokens": 928
+  }
+}

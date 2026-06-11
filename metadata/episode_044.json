@@ -1,0 +1,150 @@
+{
+  "episode_profile": {
+    "title": "Fei-Fei Li on AI, ImageNet, and Elder Care",
+    "guest_name": "Fei-Fei Li",
+    "guest_title": "Professor",
+    "guest_organization": "Stanford University",
+    "topic_summary": "Fei-Fei Li discusses her journey from immigrant to AI pioneer, her creation of ImageNet, and her current work on ambient intelligence aimed at improving elder care. She emphasizes the importance of diversity in AI and the potential of technology to enhance healthcare."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "computer vision",
+      "machine learning",
+      "ambient intelligence"
+    ],
+    "industries": [
+      "healthcare",
+      "education"
+    ],
+    "policy_areas": [
+      "ethics",
+      "privacy",
+      "regulation"
+    ],
+    "geographic_focus": [
+      "United States",
+      "China"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI can significantly reduce medical errors in healthcare, which currently claim tens of thousands of lives annually.",
+      "speaker": "Fei-Fei Li",
+      "context": "Fei-Fei discusses the potential of AI to assist clinicians and improve healthcare delivery."
+    },
+    {
+      "claim": "The convergence of machine learning techniques and large datasets like ImageNet has revolutionized object recognition.",
+      "speaker": "Fei-Fei Li",
+      "context": "She reflects on the historical significance of ImageNet in advancing AI research."
+    },
+    {
+      "claim": "The future of AI involves aggregating labeled datasets into a 'data sea' that can enhance model generalization.",
+      "speaker": "Fei-Fei Li",
+      "context": "Fei-Fei discusses the ongoing trends in AI research related to transfer learning and meta-learning."
+    },
+    {
+      "claim": "Ambient intelligence systems can help monitor the health and well-being of the elderly, especially during crises like COVID-19.",
+      "speaker": "Fei-Fei Li",
+      "context": "She shares her passion for using AI to support the aging population and improve elder care."
+    },
+    {
+      "claim": "Diversity in AI development is crucial to ensure that technology reflects universal human values.",
+      "speaker": "Fei-Fei Li",
+      "context": "Fei-Fei emphasizes the importance of representation in AI through her work with AI4ALL."
+    },
+    {
+      "claim": "AI can learn from unlabelled data, challenging the traditional reliance on labeled datasets.",
+      "speaker": "Fei-Fei Li",
+      "context": "She discusses the evolving understanding of how AI can learn, drawing parallels to human learning."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Geoff Hinton",
+      "Alex Krizhevsky",
+      "Yann LeCun",
+      "Arnie Milstein",
+      "Olga Russakovsky"
+    ],
+    "organizations": [
+      "Stanford University",
+      "AI4All",
+      "Caltech",
+      "University of Illinois",
+      "Princeton University",
+      "Amazon Mechanical Turk",
+      "Radiological Society of North America"
+    ],
+    "technologies": [
+      "ImageNet",
+      "convolutional neural networks",
+      "machine learning",
+      "natural language processing"
+    ],
+    "publications": [
+      "ImageNet Classification with Deep Convolutional Neural Networks"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Fei-Fei's Early Life",
+      "summary": "Fei-Fei shares her immigrant story and early experiences that shaped her educational journey.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Birth of ImageNet",
+      "summary": "Fei-Fei discusses the inception of ImageNet and its impact on the field of computer vision.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI in Healthcare",
+      "summary": "The conversation shifts to the role of AI in improving healthcare delivery and elder care.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "AI4All and Diversity",
+      "summary": "Fei-Fei explains the mission of AI4All and the importance of diversity in AI development.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "COVID-19 and AI Research",
+      "summary": "Fei-Fei discusses ongoing AI research initiatives in response to the COVID-19 pandemic.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "ImageNet Classification with Deep Convolutional Neural Networks",
+      "authors": "Geoff Hinton, Alex Krizhevsky, Ilya Sutskever",
+      "context": "This paper is referenced as a pivotal moment in AI history, showcasing the power of deep learning on ImageNet."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Stanford University",
+      "AI4All"
+    ],
+    "funding_sources": [
+      "Melinda Gates Foundation",
+      "Jensen and Lori Huang Foundation"
+    ],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "informative discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Fei-Fei's personal connection to elder care through her mother's health challenges.",
+      "The serendipitous discovery of Amazon Mechanical Turk as a solution for labeling images for ImageNet."
+    ]
+  },
+  "_meta": {
+    "episode_number": 44,
+    "episode_date": "2020-07-08",
+    "rss_title": "Episode 44 - Fei-Fei Li",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:08:33Z",
+    "input_tokens": 7998,
+    "output_tokens": 1170
+  }
+}

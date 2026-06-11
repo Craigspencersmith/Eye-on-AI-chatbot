@@ -1,0 +1,132 @@
+{
+  "episode_profile": {
+    "title": "How cheqd.io Is Building Trust for AI Agents with Decentralized Identity",
+    "guest_name": "Ankur Banerjee",
+    "guest_title": "CTO and Co-founder",
+    "guest_organization": "Checked",
+    "topic_summary": "Ankur Banerjee discusses the challenges and solutions related to decentralized identity for AI agents. He explains how digital identity can enhance trust and security in interactions between AI agents and online services, addressing issues like authentication and agent-to-agent trust."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "decentralized identity",
+      "AI agents",
+      "NLP"
+    ],
+    "industries": [
+      "technology",
+      "finance",
+      "healthcare",
+      "education"
+    ],
+    "policy_areas": [
+      "regulation",
+      "privacy",
+      "ethics"
+    ],
+    "geographic_focus": [
+      "global"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "AI agents currently lack the ability to prove their identity and permissions, which poses challenges in online interactions.",
+      "speaker": "Ankur Banerjee",
+      "context": "This claim highlights the need for a robust identity verification system for AI agents to operate effectively in digital environments."
+    },
+    {
+      "claim": "Decentralized identity can empower individuals by giving them control over their personal data and how it's shared.",
+      "speaker": "Ankur Banerjee",
+      "context": "Ankur emphasizes the importance of user-centric identity solutions that prioritize privacy and data ownership."
+    },
+    {
+      "claim": "The Model Context Protocol (MCP) is a significant step towards enabling structured access for AI agents to various tools and information.",
+      "speaker": "Ankur Banerjee",
+      "context": "This claim underscores the evolving landscape of AI agent capabilities and the integration of identity solutions."
+    },
+    {
+      "claim": "Current identity verification methods like CAPTCHA are insufficient for proving specific human identities.",
+      "speaker": "Ankur Banerjee",
+      "context": "Ankur argues that while CAPTCHA can filter out bots, it does not address the need for verifying individual identities."
+    },
+    {
+      "claim": "Digital credentials can be used to prove age or identity without revealing sensitive personal information.",
+      "speaker": "Ankur Banerjee",
+      "context": "This claim illustrates how decentralized identity can facilitate privacy-preserving verification processes."
+    },
+    {
+      "claim": "AI agents will need to adopt decentralized identity standards to interact effectively with various online services.",
+      "speaker": "Ankur Banerjee",
+      "context": "Ankur discusses the necessity for AI agents to integrate with established identity protocols to gain acceptance across platforms."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Craig S. Smith"
+    ],
+    "organizations": [
+      "Checked",
+      "Decentralized Identity Foundation",
+      "W3C",
+      "Fraunhofer Institute"
+    ],
+    "technologies": [
+      "Model Context Protocol",
+      "digital credentials",
+      "blockchain"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Decentralized Identity",
+      "summary": "Ankur Banerjee introduces himself and explains the concept of decentralized identity and its relevance to AI agents.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Challenges of AI Agent Identity",
+      "summary": "Discussion on the challenges AI agents face in proving their identity and permissions in online interactions.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Model Context Protocol",
+      "summary": "Ankur explains the Model Context Protocol and its role in enabling structured access for AI agents.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Privacy and Digital Credentials",
+      "summary": "Exploration of how digital credentials can facilitate privacy-preserving identity verification.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI Agents and Identity",
+      "summary": "Discussion on the future integration of decentralized identity standards in AI agents and online services.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Checked",
+      "Decentralized Identity Foundation"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Ankur's insights on the limitations of current identity verification methods like CAPTCHA.",
+      "The discussion on how decentralized identity can empower individuals and enhance trust in AI agents."
+    ]
+  },
+  "_meta": {
+    "episode_number": 257,
+    "episode_date": "2025-05-25",
+    "rss_title": "#257 Ankur Banerjee: How cheqd.io Is Building Trust for AI Agents with Decentralized Identity",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:16:20Z",
+    "input_tokens": 10242,
+    "output_tokens": 1004
+  }
+}

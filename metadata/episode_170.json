@@ -1,0 +1,137 @@
+{
+  "episode_profile": {
+    "title": "Richard Sutton on Pursuing AGI Through Reinforcement Learning",
+    "guest_name": "Richard Sutton",
+    "guest_title": "Professor",
+    "guest_organization": "University of Alberta",
+    "topic_summary": "In this episode, Richard Sutton discusses his collaboration with John Carmack on Keen Technologies, aiming to achieve artificial general intelligence (AGI) by 2030. He elaborates on the Alberta plan, a five-year research agenda focused on developing embodied agents capable of learning and planning through environmental interactions."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "reinforcement learning",
+      "embodied AI"
+    ],
+    "industries": [
+      "technology",
+      "education"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "Canada"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The exponential growth of computing power will fundamentally change AI and other sciences.",
+      "speaker": "Richard Sutton",
+      "context": "Sutton emphasizes the importance of computation in driving advancements in AI and other fields."
+    },
+    {
+      "claim": "The Alberta plan aims to create agents that understand their environment and can learn continuously.",
+      "speaker": "Richard Sutton",
+      "context": "Sutton outlines the goals of the Alberta plan, focusing on continual learning and interaction with the environment."
+    },
+    {
+      "claim": "Reinforcement learning is essential for developing intelligent agents that can set and achieve goals.",
+      "speaker": "Richard Sutton",
+      "context": "Sutton argues that understanding and achieving goals is central to intelligence, which reinforcement learning facilitates."
+    },
+    {
+      "claim": "Large language models are limited and do not truly understand goals or intentions.",
+      "speaker": "Richard Sutton",
+      "context": "Sutton critiques large language models, suggesting they lack the capability to comprehend and act on complex goals."
+    },
+    {
+      "claim": "The timeline for achieving human-level intelligence is ambitious but possible by 2030.",
+      "speaker": "Richard Sutton",
+      "context": "Sutton discusses the potential for reaching AGI by 2030, emphasizing the need for ambitious goals in AI research."
+    },
+    {
+      "claim": "AI should be viewed as a broadly applicable technology, not inherently good or bad.",
+      "speaker": "Richard Sutton",
+      "context": "Sutton addresses the debate around AI threats, arguing that AI's impact depends on how it is used."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "John Carmack",
+      "Ilya Sutskover",
+      "Yann LeCun",
+      "Aidan Gomez"
+    ],
+    "organizations": [
+      "Keen Technologies",
+      "University of Alberta"
+    ],
+    "technologies": [
+      "transformer model",
+      "reinforcement learning",
+      "dynamic learning nets"
+    ],
+    "publications": [
+      "The Bitter Lesson"
+    ]
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Richard Sutton",
+      "summary": "Craig introduces Richard Sutton and discusses his background and current work.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "The Alberta Plan",
+      "summary": "Sutton explains the Alberta plan and its focus on developing embodied agents.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Reinforcement Learning vs. Supervised Learning",
+      "summary": "The discussion contrasts reinforcement learning with supervised learning and its implications for AI.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Challenges and Opportunities in AI",
+      "summary": "Sutton discusses the challenges of achieving AGI and the opportunities presented by current technologies.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI and Ethics",
+      "summary": "The conversation concludes with thoughts on the ethical implications and future directions of AI.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [
+    {
+      "reference": "The Bitter Lesson",
+      "authors": "Richard Sutton",
+      "context": "Sutton references his own essay to discuss the importance of computation in AI advancements."
+    }
+  ],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "University of Alberta",
+      "Keen Technologies"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Sutton's assertion that the singularity is tied to the exponential growth of computing power.",
+      "His critique of large language models and their limitations in understanding goals."
+    ]
+  },
+  "_meta": {
+    "episode_number": 170,
+    "episode_date": "2024-02-22",
+    "rss_title": "#170 Richard Sutton on Pursuing AGI Through Reinforcement Learning",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:46:57Z",
+    "input_tokens": 11005,
+    "output_tokens": 1010
+  }
+}

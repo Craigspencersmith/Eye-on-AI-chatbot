@@ -1,0 +1,127 @@
+{
+  "episode_profile": {
+    "title": "Building and Scaling Enterprise AI Agents with Ram Venkatesh",
+    "guest_name": "Ram Venkatesh",
+    "guest_title": "CEO",
+    "guest_organization": "Sema4.ai",
+    "topic_summary": "Ram Venkatesh discusses the evolution of enterprise AI agents, emphasizing their role in automating business processes and enhancing data utilization. He explores the challenges of traditional RPA and the innovative approaches Sema4.ai is taking to create flexible, conversational agents that can operate autonomously while integrating seamlessly with existing enterprise systems."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "conversational AI",
+      "automation",
+      "machine learning"
+    ],
+    "industries": [
+      "healthcare",
+      "finance",
+      "technology"
+    ],
+    "policy_areas": [
+      "data privacy",
+      "regulation",
+      "compliance"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Traditional RPA has limitations in flexibility, which necessitates the development of more adaptable AI agents.",
+      "speaker": "Ram Venkatesh",
+      "context": "Venkatesh highlights the shortcomings of traditional RPA in handling complex data workflows."
+    },
+    {
+      "claim": "The future of enterprise AI will involve a significant increase in the number of agents deployed, potentially reaching thousands.",
+      "speaker": "Ram Venkatesh",
+      "context": "He predicts a rapid growth in the adoption of AI agents as companies recognize their value in automating core business functions."
+    },
+    {
+      "claim": "The semantic layer is crucial for ensuring that AI agents can understand and process data accurately across different systems.",
+      "speaker": "Ram Venkatesh",
+      "context": "Venkatesh explains how the semantic layer allows agents to interact with diverse data sources without duplicating data."
+    },
+    {
+      "claim": "Trust in AI agents will take time to build, and companies must focus on security and accuracy to gain user confidence.",
+      "speaker": "Ram Venkatesh",
+      "context": "He emphasizes the importance of establishing trust as a foundational element for the successful deployment of AI agents."
+    },
+    {
+      "claim": "The role of the process architect will become increasingly important as organizations deploy more AI agents.",
+      "speaker": "Ram Venkatesh",
+      "context": "Venkatesh discusses the need for dedicated roles to oversee and manage the interactions and performance of AI agents."
+    },
+    {
+      "claim": "AI agents will evolve to perform tasks traditionally handled by humans, leading to a new era of automation in various sectors.",
+      "speaker": "Ram Venkatesh",
+      "context": "He envisions a future where AI agents are commonplace in everyday business operations, akin to personal assistants."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "Sema4.ai",
+      "Hortonworks",
+      "Cloudera",
+      "Snowflake"
+    ],
+    "technologies": [
+      "Hadoop",
+      "ChatGPT"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to AI Agents",
+      "summary": "Ram Venkatesh introduces the concept of AI agents and their significance in modern enterprises.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Challenges with Traditional RPA",
+      "summary": "Discussion on the limitations of traditional RPA and the need for more flexible automation solutions.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "The Role of the Semantic Layer",
+      "summary": "Exploration of how the semantic layer enhances the functionality of AI agents by integrating diverse data sources.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Building Trust in AI",
+      "summary": "Venkatesh emphasizes the importance of security and accuracy in building trust for AI agents.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI Agents",
+      "summary": "Predictions about the growth and evolution of AI agents in enterprise settings.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Sema4.ai"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Venkatesh's insights on the future of AI agents and their potential to transform business processes.",
+      "The introduction of the role of process architects as a new job function in organizations."
+    ]
+  },
+  "_meta": {
+    "episode_number": 286,
+    "episode_date": "2025-09-14",
+    "rss_title": "#286 Ram Venkatesh: How to Build, Operate & Scale Enterprise AI Agents (Sema4.ai)",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:26:07Z",
+    "input_tokens": 10820,
+    "output_tokens": 1026
+  }
+}

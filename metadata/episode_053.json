@@ -1,0 +1,126 @@
+{
+  "episode_profile": {
+    "title": "Great Power Competition in the Digital Age",
+    "guest_name": "Gilman Louie",
+    "guest_title": "Commissioner",
+    "guest_organization": "National Security Commission on Artificial Intelligence",
+    "topic_summary": "Gilman Louie discusses the implications of great power competition in the digital age, particularly focusing on China's technological advancements and their impact on global standards. He emphasizes the need for the U.S. to enhance its diplomatic strategies to counter China's influence in technology and AI."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "AI governance",
+      "surveillance technology"
+    ],
+    "industries": [
+      "technology",
+      "defense"
+    ],
+    "policy_areas": [
+      "diplomacy",
+      "technology standards",
+      "national security"
+    ],
+    "geographic_focus": [
+      "United States",
+      "China"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "China aspires to lead the fourth industrial revolution and views the U.S. as a competitor.",
+      "speaker": "Gilman Louie",
+      "context": "Louie highlights the stakes involved in the technological competition between the U.S. and China."
+    },
+    {
+      "claim": "The Chinese model prioritizes stability and security over individual rights and freedoms.",
+      "speaker": "Gilman Louie",
+      "context": "Louie contrasts the value systems of the West and China, emphasizing the implications for global technology deployment."
+    },
+    {
+      "claim": "The U.S. lacks a cohesive strategy to counter China's influence in international technology standards.",
+      "speaker": "Gilman Louie",
+      "context": "Louie discusses the need for a coordinated U.S. diplomatic effort to address China's growing power in technology."
+    },
+    {
+      "claim": "A technologically literate diplomatic corps is essential for the U.S. to effectively engage in global technology discussions.",
+      "speaker": "Gilman Louie",
+      "context": "Louie argues that understanding technology is crucial for diplomats to make persuasive arguments abroad."
+    },
+    {
+      "claim": "China's approach to technology often involves state influence, which creates friction in international standards bodies.",
+      "speaker": "Gilman Louie",
+      "context": "Louie explains how China's voting block in standards organizations can undermine fair competition."
+    },
+    {
+      "claim": "The U.S. should support democratic values and help build strong economies globally to counter China's influence.",
+      "speaker": "Gilman Louie",
+      "context": "Louie advocates for a U.S. strategy that promotes democratic principles in international relations."
+    }
+  ],
+  "named_entities": {
+    "people": [],
+    "organizations": [
+      "National Security Commission on Artificial Intelligence",
+      "Huawei",
+      "ZTE",
+      "SenseTime"
+    ],
+    "technologies": [
+      "5G",
+      "AI-enabled surveillance systems"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Great Power Competition",
+      "summary": "Gilman Louie introduces himself and outlines the stakes of U.S.-China competition in technology.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "China's Technological Aspirations",
+      "summary": "Discussion on China's ambitions in the fourth industrial revolution and its implications for global standards.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "U.S. Diplomatic Strategies",
+      "summary": "Louie emphasizes the need for a coordinated U.S. response to counter China's influence in technology.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "The Role of Technology in Diplomacy",
+      "summary": "The importance of having a technologically literate diplomatic corps to engage effectively in global discussions.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Conclusion and Recommendations",
+      "summary": "Louie concludes with recommendations for enhancing U.S. diplomatic efforts in technology.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Alsop-Louie Partners"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "policy discussion",
+    "tone": "educational",
+    "notable_moments": [
+      "Louie emphasizes the need for the U.S. to support democratic values globally.",
+      "The discussion on the friction caused by differing value systems in technology deployment."
+    ]
+  },
+  "_meta": {
+    "episode_number": 53,
+    "episode_date": "2020-09-16",
+    "rss_title": "Great Power Competition in the Digital Age with Gilman Louie",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:11:13Z",
+    "input_tokens": 6510,
+    "output_tokens": 972
+  }
+}

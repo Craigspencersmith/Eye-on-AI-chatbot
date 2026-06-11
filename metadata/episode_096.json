@@ -1,0 +1,137 @@
+{
+  "episode_profile": {
+    "title": "Data-Centric AI and the Future of Machine Learning",
+    "guest_name": "Andrew Ng",
+    "guest_title": "Co-founder and CEO",
+    "guest_organization": "Landing AI",
+    "topic_summary": "Andrew Ng discusses the importance of a data-centric approach to AI, emphasizing the need for quality data over merely improving models. He shares insights on the challenges of implementing AI in various industries and the future of supervised versus unsupervised learning."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "computer vision",
+      "reinforcement learning"
+    ],
+    "industries": [
+      "manufacturing",
+      "healthcare",
+      "logistics"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States",
+      "China"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Data-centric AI is essential for industries with limited datasets to build effective AI systems.",
+      "speaker": "Andrew Ng",
+      "context": "Ng argues that traditional AI adoption strategies from consumer software do not apply to sectors like manufacturing and healthcare."
+    },
+    {
+      "claim": "Supervised learning will continue to dominate the economic value of AI in the near term.",
+      "speaker": "Andrew Ng",
+      "context": "Ng believes that despite the rise of unsupervised learning, supervised learning remains crucial for practical applications."
+    },
+    {
+      "claim": "The heterogeneity of data across industries necessitates custom AI systems for each application.",
+      "speaker": "Andrew Ng",
+      "context": "Ng highlights that different manufacturing processes and healthcare systems require tailored AI solutions due to varying data conventions."
+    },
+    {
+      "claim": "Explainability in AI is critical, especially in high-stakes fields like healthcare.",
+      "speaker": "Andrew Ng",
+      "context": "Ng shares experiences from his work with electronic health records, emphasizing the need for trust in AI recommendations."
+    },
+    {
+      "claim": "Unsupervised learning will play a significant role in the future of AI research.",
+      "speaker": "Andrew Ng",
+      "context": "Ng expresses optimism about the potential of unsupervised learning to contribute to advancements in AI."
+    },
+    {
+      "claim": "The future of AI development will involve democratizing access through no-code and low-code platforms.",
+      "speaker": "Andrew Ng",
+      "context": "Ng discusses the importance of enabling subject matter experts to engage in AI development without needing extensive coding skills."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Geoff Hinton",
+      "Mike Jordan",
+      "Peter Abbeel",
+      "Anand Avati"
+    ],
+    "organizations": [
+      "Google",
+      "Coursera",
+      "Baidu",
+      "Stanford University"
+    ],
+    "technologies": [
+      "LandingLens",
+      "deep learning",
+      "reinforcement learning"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Andrew Ng",
+      "summary": "Andrew Ng shares his background and journey in AI, including his roles at Google and Stanford.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Data-Centric AI",
+      "summary": "Ng discusses the principles of data-centric AI and its importance in various industries.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Supervised vs. Unsupervised Learning",
+      "summary": "The conversation explores the roles of supervised and unsupervised learning in AI's future.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Explainability in AI",
+      "summary": "Ng emphasizes the need for explainability in AI applications, particularly in healthcare.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI Development",
+      "summary": "Ng discusses the potential of no-code platforms and the democratization of AI technology.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Landing AI",
+      "Stanford University"
+    ],
+    "funding_sources": [
+      "NSF",
+      "DARPA"
+    ],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Ng's insights on the challenges of AI in manufacturing and healthcare.",
+      "The discussion on the importance of explainability in AI systems."
+    ]
+  },
+  "_meta": {
+    "episode_number": 96,
+    "episode_date": "2022-03-16",
+    "rss_title": "Protein Annotation at Google",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:25:13Z",
+    "input_tokens": 7487,
+    "output_tokens": 977
+  }
+}

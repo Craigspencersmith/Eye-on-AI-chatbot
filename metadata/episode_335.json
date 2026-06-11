@@ -1,0 +1,130 @@
+{
+  "episode_profile": {
+    "title": "Sriram Raghavan: Why IBM Is Betting Everything on Small AI Models",
+    "guest_name": "Sriram Raghavan",
+    "guest_title": "Vice President of AI Research",
+    "guest_organization": "IBM",
+    "topic_summary": "Sriram Raghavan discusses IBM's focus on developing smaller AI models, specifically the Granite series, and the advantages of direct training over distillation. He emphasizes the importance of data quality, inference scaling, and the evolving landscape of AI architecture."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "machine learning",
+      "reinforcement learning",
+      "natural language processing"
+    ],
+    "industries": [
+      "technology",
+      "finance",
+      "healthcare"
+    ],
+    "policy_areas": [
+      "ethics",
+      "governance"
+    ],
+    "geographic_focus": [
+      "United States"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "Smaller models can achieve performance comparable to larger models through innovative training techniques and inference scaling.",
+      "speaker": "Sriram Raghavan",
+      "context": "This claim is based on IBM's development of the Granite series, which focuses on optimizing smaller models for efficiency."
+    },
+    {
+      "claim": "The shift from large models to smaller, focused models is essential for enterprise adoption of AI.",
+      "speaker": "Sriram Raghavan",
+      "context": "Raghavan argues that smaller models are more manageable and cost-effective for enterprises, allowing for better deployment across various environments."
+    },
+    {
+      "claim": "Data quality and architecture innovations have significantly improved the performance of smaller models.",
+      "speaker": "Sriram Raghavan",
+      "context": "He highlights that advancements in data processing and model architecture have enabled smaller models to perform better than their predecessors."
+    },
+    {
+      "claim": "Inference scaling allows small models to behave like larger models when necessary, optimizing resource use.",
+      "speaker": "Sriram Raghavan",
+      "context": "Raghavan explains how inference scaling can enhance the capabilities of smaller models without the need for constant large model deployment."
+    },
+    {
+      "claim": "Continuous learning and modularity in AI systems will be crucial for future advancements.",
+      "speaker": "Sriram Raghavan",
+      "context": "He discusses the potential for AI systems to adapt and learn in real-time through modular components like Lora adapters."
+    },
+    {
+      "claim": "The future of AI will involve treating models as new computing elements with programming abstractions.",
+      "speaker": "Sriram Raghavan",
+      "context": "Raghavan envisions a shift in how AI models are integrated into applications, emphasizing the need for programming frameworks."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Yann LeCun"
+    ],
+    "organizations": [
+      "IBM",
+      "Princeton University",
+      "Carnegie Mellon University",
+      "DeepMind"
+    ],
+    "technologies": [
+      "Granite 3.2",
+      "Granite 3.3",
+      "Lora adapters",
+      "state space models"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Granite Models",
+      "summary": "Sriram Raghavan introduces the Granite series of AI models and discusses their unique training methods.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Advantages of Smaller Models",
+      "summary": "The conversation shifts to the benefits of smaller models, including cost efficiency and performance.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Data Quality and Architecture Innovations",
+      "summary": "Raghavan explains how improvements in data quality and model architecture have enhanced AI capabilities.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Inference Scaling Techniques",
+      "summary": "The discussion covers how inference scaling allows smaller models to perform tasks typically reserved for larger models.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Future of AI and Continuous Learning",
+      "summary": "Raghavan shares insights on the future of AI, focusing on modularity and continuous learning in AI systems.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "IBM"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Raghavan emphasizes the importance of data quality in AI training.",
+      "The discussion on inference scaling highlights the innovative approaches IBM is taking."
+    ]
+  },
+  "_meta": {
+    "episode_number": 335,
+    "episode_date": "2026-04-19",
+    "rss_title": "#335 Sriram Raghavan: Why IBM Is Betting Everything on Small AI Models",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T02:45:04Z",
+    "input_tokens": 13913,
+    "output_tokens": 1027
+  }
+}

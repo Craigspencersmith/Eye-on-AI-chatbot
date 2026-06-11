@@ -1,0 +1,134 @@
+{
+  "episode_profile": {
+    "title": "Maximizing GPU Utilization for AI with Run:ai",
+    "guest_name": "Ronen Dar",
+    "guest_title": "CTO and Co-founder",
+    "guest_organization": "Run.ai",
+    "topic_summary": "In this episode, Ronen Dar discusses the challenges of GPU utilization in AI infrastructure amidst a GPU shortage. He explains how Run.ai's software optimizes GPU clusters, enhancing performance for machine learning teams and shaping the future of AI deployment."
+  },
+  "thematic_tags": {
+    "ai_subfields": [
+      "AI infrastructure",
+      "machine learning",
+      "deep learning"
+    ],
+    "industries": [
+      "technology",
+      "cloud computing",
+      "defense"
+    ],
+    "policy_areas": [
+      "regulation",
+      "ethics"
+    ],
+    "geographic_focus": [
+      "Israel",
+      "United States",
+      "APAC region"
+    ]
+  },
+  "key_arguments": [
+    {
+      "claim": "The demand for GPUs has increased dramatically, with companies like OpenAI and Meta investing billions into GPU resources.",
+      "speaker": "Ronen Dar",
+      "context": "This claim highlights the growing reliance on GPUs for AI applications and the resulting market dynamics."
+    },
+    {
+      "claim": "Run.ai's software can double or triple GPU utilization for its customers.",
+      "speaker": "Ronen Dar",
+      "context": "This emphasizes the effectiveness of Run.ai's platform in optimizing GPU resource management."
+    },
+    {
+      "claim": "The GPU market is expected to continue growing rapidly as more companies adopt AI technologies.",
+      "speaker": "Ronen Dar",
+      "context": "This prediction reflects the ongoing trend of AI integration across various sectors."
+    },
+    {
+      "claim": "Efficient scheduling and orchestration of GPU workloads are critical for maximizing performance.",
+      "speaker": "Ronen Dar",
+      "context": "This underscores the importance of software solutions in managing complex AI workloads."
+    },
+    {
+      "claim": "Autoscaling for LLMs is challenging due to the size and complexity of the models.",
+      "speaker": "Ronen Dar",
+      "context": "This highlights the technical difficulties faced by companies when deploying large language models."
+    },
+    {
+      "claim": "Run.ai integrates with various tools in the AI ecosystem to enhance flexibility and usability.",
+      "speaker": "Ronen Dar",
+      "context": "This illustrates Run.ai's commitment to being adaptable in a rapidly evolving technological landscape."
+    }
+  ],
+  "named_entities": {
+    "people": [
+      "Geoff Hinton",
+      "Alex Krizhevsky",
+      "Ilya Sutskever",
+      "Mark Zuckerberg"
+    ],
+    "organizations": [
+      "OpenAI",
+      "Meta",
+      "NVIDIA",
+      "Cerebras Systems"
+    ],
+    "technologies": [
+      "CUDA",
+      "Llama 2",
+      "GPT-4"
+    ],
+    "publications": []
+  },
+  "content_chapters": [
+    {
+      "title": "Introduction to Run.ai",
+      "summary": "Ronen Dar introduces Run.ai and its mission to optimize GPU utilization for AI workloads.",
+      "approximate_position": "early"
+    },
+    {
+      "title": "Challenges of GPU Utilization",
+      "summary": "Discussion on the ongoing GPU shortage and the challenges it presents for AI infrastructure.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Run.ai's Solutions",
+      "summary": "Ronen explains how Run.ai's software enhances GPU scheduling and orchestration for better performance.",
+      "approximate_position": "middle"
+    },
+    {
+      "title": "Future of AI and GPUs",
+      "summary": "Predictions about the growth of the GPU market and the increasing demand for AI technologies.",
+      "approximate_position": "late"
+    },
+    {
+      "title": "Integration and Ecosystem",
+      "summary": "Discussion on how Run.ai integrates with other tools and platforms in the AI ecosystem.",
+      "approximate_position": "late"
+    }
+  ],
+  "citations": [],
+  "affiliations_and_bias": {
+    "guest_affiliations": [
+      "Run.ai"
+    ],
+    "funding_sources": [],
+    "potential_conflicts": "none apparent"
+  },
+  "discourse_dynamics": {
+    "interview_style": "technical deep-dive",
+    "tone": "educational",
+    "notable_moments": [
+      "Ronen discusses the staggering increase in GPU demand, citing OpenAI's $10 billion investment.",
+      "The conversation touches on the complexities of autoscaling large language models."
+    ]
+  },
+  "_meta": {
+    "episode_number": 186,
+    "episode_date": "2024-05-12",
+    "rss_title": "#186 Ronen Dar: Maximizing GPU Utilization for AI with Run:ai",
+    "extraction_model": "gpt-4o-mini",
+    "extraction_timestamp": "2026-06-10T01:53:24Z",
+    "input_tokens": 12466,
+    "output_tokens": 961
+  }
+}
